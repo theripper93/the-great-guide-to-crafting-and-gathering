@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgzJ0VP5UR0R5A",
+  "_key": "!items!ggcgzJ0VP5UR0R5A",
+  "name": "Mainspring Heart Harness",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-leather-brown-belted.webp",
+  "folder": "ggcgcq32awNQ2mKb",
+  "system": {
+    "description": {
+      "value": "<p>A harness of straps and brass around a mainspring the size of a fist. It ticks in time with its wearer's pulse, and it goes on ticking for an hour after it is taken off.</p><p><strong>Overwind.</strong> Once per day, at the end of your turn, you can take another turn at once. The harness regains this power at dawn.</p><p><strong>Quicken.</strong> Once per day, as a Bonus Action, you cast @UUID[Compendium.dnd5e.spells24.Item.phbsplHaste00000]{Haste} on yourself without Concentration, and you are not left sluggish when it ends. The harness regains this power at dawn.</p><p><strong>Borrowed Time.</strong> Wound backward, the harness lets its wearer live one minute over again: the last minute, once, with everything put back as it was and only the wearer remembering. The mainspring then needs a year and a day to settle before it can be wound that way again.</p>",
+      "chat": ""
+    },
+    "identifier": "mainspring-heart-harness",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "activities": {
+      "ggcgZLc9IIMcnJ3x": {
+        "type": "utility",
+        "name": "Overwind",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "special",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "activityUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "1",
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "recoverAll",
+              "formula": ""
+            }
+          ]
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcgZLc9IIMcnJ3x"
+      },
+      "ggcgknksJ4BRXh4y": {
+        "type": "cast",
+        "name": "Quicken",
+        "img": null,
+        "sort": 2,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "activityUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "1",
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "recoverAll",
+              "formula": ""
+            }
+          ]
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplHaste00000",
+          "level": 3,
+          "ability": "",
+          "properties": [],
+          "spellbook": true,
+          "challenge": {
+            "attack": 12,
+            "save": 20,
+            "override": true
+          }
+        },
+        "_id": "ggcgknksJ4BRXh4y"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mainspring-heart-harness",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "gadgets",
+      "activity": null,
+      "profession": "tinkering",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

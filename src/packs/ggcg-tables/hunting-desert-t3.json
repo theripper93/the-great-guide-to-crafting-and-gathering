@@ -1,0 +1,254 @@
+{
+  "_id": "ggcg1r7kLQPJtHqp",
+  "_key": "!tables!ggcg1r7kLQPJtHqp",
+  "name": "Desert Game (Tier 3)",
+  "img": "icons/environment/creatures/bug-scorpion-silver.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgAfnd7Oxa4Hoz",
+      "_key": "!tables.results!ggcg1r7kLQPJtHqp.ggcgAfnd7Oxa4Hoz",
+      "weight": 47,
+      "range": [
+        1,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Scorpion Stinger",
+      "img": "icons/creatures/abilities/stinger-poison-scorpion-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgkDF3PGsaLtEQ"
+    },
+    {
+      "_id": "ggcgLuEtjKNYiunH",
+      "_key": "!tables.results!ggcg1r7kLQPJtHqp.ggcgLuEtjKNYiunH",
+      "weight": 23,
+      "range": [
+        48,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Python Loin",
+      "img": "icons/consumables/meat/steak-raw-red-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgGsBE8RIPr8cJ"
+    },
+    {
+      "_id": "ggcgKyA57pq52NE4",
+      "_key": "!tables.results!ggcg1r7kLQPJtHqp.ggcgKyA57pq52NE4",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Python Skin",
+      "img": "icons/commodities/leather/scales-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgQAAo88iqsvc2"
+    },
+    {
+      "_id": "ggcgdneelhnn0XjH",
+      "_key": "!tables.results!ggcg1r7kLQPJtHqp.ggcgdneelhnn0XjH",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Lizard Haunch",
+      "img": "icons/consumables/meat/hock-leg-pink-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgppIMA04PPTYL"
+    },
+    {
+      "_id": "ggcgI4vaWpFSQYeN",
+      "_key": "!tables.results!ggcg1r7kLQPJtHqp.ggcgI4vaWpFSQYeN",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ostrich Plume",
+      "img": "icons/commodities/materials/feather-colored-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgYOpCibasQGZK"
+    },
+    {
+      "_id": "ggcgSxhGN3Pa0YS5",
+      "_key": "!tables.results!ggcg1r7kLQPJtHqp.ggcgSxhGN3Pa0YS5",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hawk Pinion",
+      "img": "icons/commodities/materials/feather-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgK3XpN6j9pxgc"
+    },
+    {
+      "_id": "ggcgFtXBsxF3K8nF",
+      "_key": "!tables.results!ggcg1r7kLQPJtHqp.ggcgFtXBsxF3K8nF",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Crocodile Hide",
+      "img": "icons/commodities/leather/scales-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgeraIIB8FHMX9"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcg4ACbRwYtlMkx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hunting-desert-t3",
+      "activity": "hunting",
+      "source": "desert",
+      "tier": 3,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

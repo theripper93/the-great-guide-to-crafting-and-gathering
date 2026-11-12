@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgADi1HXskb0JN",
+  "_key": "!items!ggcgADi1HXskb0JN",
+  "name": "Shriekcap Powder",
+  "type": "consumable",
+  "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+  "folder": "ggcgPDGwsyAjMUIL",
+  "system": {
+    "description": {
+      "value": "<p>A jar of shriekcap powder gives a thin whistle when the lid comes off.</p><p><em>&amp;Reference[inhaledpoison] Poison</em></p><p>Each creature in a 5-foot Cube where this powder is blown or the vial is broken must succeed on a [[/save ability=con dc=11 format=long]] or have the &amp;Reference[Poisoned apply=false] and &amp;Reference[Deafened apply=false] conditions for 10 minutes.</p>",
+      "chat": ""
+    },
+    "identifier": "shriekcap-powder",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "poison",
+      "subtype": "inhaled"
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcg499KoO4aPZQg": {
+        "type": "save",
+        "name": "Use Poison",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "10",
+          "units": "minute",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgG8qJLUzBMzhY",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "onSave": false
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "cube",
+            "size": "5",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "con"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "11"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": []
+        },
+        "_id": "ggcg499KoO4aPZQg"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Shriekcap Powder: Poisoned and Deafened",
+      "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+      "type": "base",
+      "system": {
+        "changes": [],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 10,
+        "units": "minutes",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [
+        "poisoned",
+        "deafened"
+      ],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgG8qJLUzBMzhY",
+      "_key": "!items.effects!ggcgADi1HXskb0JN.ggcgG8qJLUzBMzhY",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "shriekcap-powder",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "inhaled",
+      "activity": null,
+      "profession": "poisoncraft",
+      "sources": [],
+      "archetype": "condition-poison",
+      "priceClass": "B"
+    },
+    "mastercrafted": {
+      "tags": [
+        "poisoncraft-inhaled"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

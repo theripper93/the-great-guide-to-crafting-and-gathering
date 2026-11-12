@@ -1,0 +1,88 @@
+{
+  "_id": "ggcg95MtWhOgusRe",
+  "_key": "!items!ggcg95MtWhOgusRe",
+  "name": "Weatherglass Pearl",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-storm.webp",
+  "folder": "ggcgXWbpjWFVffG9",
+  "system": {
+    "description": {
+      "value": "<p>Inside this gray pearl a small cloud drifts and turns, and it darkens a full day before bad weather. It weighs more than a pearl should, and silver turns black against it, so the few that are worn are set in iron.</p><p><em>Tier 4 · Shell and Pearl · Found: Deep or Strange Water, Lake and Pond</em></p>",
+      "chat": ""
+    },
+    "identifier": "weatherglass-pearl",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "weatherglass-pearl",
+      "kind": "raw",
+      "tier": 4,
+      "family": "shell-pearl",
+      "subcategory": "non-fish-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "deep-strange",
+        "lake-pond"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "shell-pearl",
+        "shell-pearl-t4",
+        "shell-pearl-t1+",
+        "shell-pearl-t2+",
+        "shell-pearl-t3+",
+        "shell-pearl-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgyvmpHEP3nleN",
+  "_key": "!tables!ggcgyvmpHEP3nleN",
+  "name": "Fey Harvest",
+  "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgdUNrCDyhbWKH",
+      "_key": "!tables.results!ggcgyvmpHEP3nleN.ggcgdUNrCDyhbWKH",
+      "weight": 31,
+      "range": [
+        1,
+        31
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Satyr Horn",
+      "img": "icons/commodities/bones/horn-twisted-beige.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgQRebe2RFk9ri"
+    },
+    {
+      "_id": "ggcg8d5wda9qwzLu",
+      "_key": "!tables.results!ggcgyvmpHEP3nleN.ggcg8d5wda9qwzLu",
+      "weight": 31,
+      "range": [
+        32,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dryad Sap",
+      "img": "icons/commodities/materials/slime-thick-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgbLpPLSxIwbxD"
+    },
+    {
+      "_id": "ggcgJLZjkNQTT0g8",
+      "_key": "!tables.results!ggcgyvmpHEP3nleN.ggcgJLZjkNQTT0g8",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fey Blossom",
+      "img": "icons/magic/nature/plant-glowing-white-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgWbVQ7354Ou4G"
+    },
+    {
+      "_id": "ggcgeVunr2whjBwo",
+      "_key": "!tables.results!ggcgyvmpHEP3nleN.ggcgeVunr2whjBwo",
+      "weight": 14,
+      "range": [
+        77,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Glamour Hair",
+      "img": "icons/commodities/materials/hair-tuft-gold.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgNAcu7nVxPJHl"
+    },
+    {
+      "_id": "ggcgytmT75t6KzOK",
+      "_key": "!tables.results!ggcgyvmpHEP3nleN.ggcgytmT75t6KzOK",
+      "weight": 4,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Twilight Dew",
+      "img": "icons/consumables/potions/flask-corked-purple-glow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgu6dB3ljlSGN5"
+    },
+    {
+      "_id": "ggcgcn5xqk8lmCxr",
+      "_key": "!tables.results!ggcgyvmpHEP3nleN.ggcgcn5xqk8lmCxr",
+      "weight": 4,
+      "range": [
+        95,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Thorn Antler",
+      "img": "icons/commodities/bones/horn-antler-brown-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgil9p05FelLzt"
+    },
+    {
+      "_id": "ggcgZScecB8uZEnv",
+      "_key": "!tables.results!ggcgyvmpHEP3nleN.ggcgZScecB8uZEnv",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Unfading Petal",
+      "img": "icons/commodities/flowers/rosaecia-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgamz3HoGOS3v1"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-fey",
+      "activity": "monster",
+      "source": "fey",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

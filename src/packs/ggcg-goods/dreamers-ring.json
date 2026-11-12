@@ -1,0 +1,201 @@
+{
+  "_id": "ggcg21wJ0eTdNw9z",
+  "_key": "!items!ggcg21wJ0eTdNw9z",
+  "name": "Dreamer's Ring",
+  "type": "equipment",
+  "img": "icons/equipment/finger/ring-cabochon-white-blue.webp",
+  "folder": "ggcg9iwoFMoObssr",
+  "system": {
+    "description": {
+      "value": "<p>Pale moonstone, ringed by small stars painted in lapis blue.</p><p>It has 2 charges and regains all expended charges daily at dawn. While holding it, you can expend 1 charge to cast @UUID[Compendium.dnd5e.spells24.Item.phbsplSleep00000]{Sleep} from it (save DC 13, +5 to hit).</p>",
+      "chat": ""
+    },
+    "identifier": "dreamers-ring",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "ring",
+      "baseItem": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "2",
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll",
+          "formula": ""
+        }
+      ]
+    },
+    "attunement": "required",
+    "activities": {
+      "ggcgGJnskK6YchDX": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplSleep00000",
+          "level": 1,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "somatic",
+            "material"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 5,
+            "save": 13,
+            "override": true
+          }
+        },
+        "_id": "ggcgGJnskK6YchDX"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "dreamers-ring",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "rings",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "spell-charged",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-rings",
+        "jewelcrafting-charged"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

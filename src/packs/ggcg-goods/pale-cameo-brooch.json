@@ -1,0 +1,81 @@
+{
+  "_id": "ggcgcoyDflL6CWzB",
+  "_key": "!items!ggcgcoyDflL6CWzB",
+  "name": "Pale Cameo Brooch",
+  "type": "loot",
+  "img": "icons/commodities/treasure/brooch-shield-grey.webp",
+  "folder": "ggcg9iwoFMoObssr",
+  "system": {
+    "description": {
+      "value": "<p>Carved in gray chalcedony, a pale face in profile fills the small shield.</p>",
+      "chat": ""
+    },
+    "identifier": "pale-cameo-brooch",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "art",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "pale-cameo-brooch",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "charms",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "material",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-charms"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

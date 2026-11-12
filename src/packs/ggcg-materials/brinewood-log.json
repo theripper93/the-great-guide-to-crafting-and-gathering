@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgiTG3KRnzP8fg",
+  "_key": "!items!ggcgiTG3KRnzP8fg",
+  "name": "Brinewood Log",
+  "type": "loot",
+  "img": "icons/commodities/wood/log-cut-walnut.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>Brinewood grows in salt marshes with its roots in the sea, and its dark, oily wood does not rot. A log set adrift always washes back to the shore it was cut from, and coast folk believe a brinewood boat can never be lost at sea.</p><p><em>Tier 4 · Timber · Found: Coast, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "brinewood-log",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "brinewood-log",
+      "kind": "raw",
+      "tier": 4,
+      "family": "timber",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "coast",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "timber",
+        "timber-t4",
+        "timber-t1+",
+        "timber-t2+",
+        "timber-t3+",
+        "timber-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

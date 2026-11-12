@@ -1,0 +1,77 @@
+{
+  "_id": "ggcgPlVqxJwMcyVE",
+  "_key": "!items!ggcgPlVqxJwMcyVE",
+  "name": "Spikes, Iron",
+  "type": "loot",
+  "img": "icons/tools/fasteners/nail-steel-grey.webp",
+  "folder": "ggcgBFaRQdEcf4vX",
+  "system": {
+    "description": {
+      "value": "<p>Square iron spikes, sold in bundles tied with wire.</p><p>Iron Spikes come in bundles of ten. As a Utilize action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a Rope or Chain to the Spike.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 10,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "spikes-iron",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "iron-spikes",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "tools-hardware",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagSpikesIron0"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-tools-hardware"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagSpikesIron0",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

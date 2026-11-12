@@ -1,0 +1,409 @@
+{
+  "_id": "ggcg8d1d5Tvu8YKH",
+  "_key": "!tables!ggcg8d1d5Tvu8YKH",
+  "name": "Sea Coast Fishing (Tier 1)",
+  "img": "icons/environment/vehicles/boat-fishing-masted.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgYegfZ4S1c1yA",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgYegfZ4S1c1yA",
+      "weight": 13,
+      "range": [
+        1,
+        13
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Shore Herring",
+      "img": "icons/environment/creatures/fish-crosshatched-silver-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgJbSFeE4Gcd05"
+    },
+    {
+      "_id": "ggcgLXYUfU6sZOD2",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgLXYUfU6sZOD2",
+      "weight": 13,
+      "range": [
+        14,
+        26
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rock Cod",
+      "img": "icons/environment/creatures/fish-scaled-yellow-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgtoAzAgQL4exy"
+    },
+    {
+      "_id": "ggcg3DYv7Ys3ttSC",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcg3DYv7Ys3ttSC",
+      "weight": 13,
+      "range": [
+        27,
+        39
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Striped Mackerel",
+      "img": "icons/environment/creatures/fish-crosshatched-grey-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgo07sICX7eIyi"
+    },
+    {
+      "_id": "ggcgkT3xGUXY1aBm",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgkT3xGUXY1aBm",
+      "weight": 13,
+      "range": [
+        40,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sea Bass",
+      "img": "icons/environment/creatures/fish-scaled-green-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHuVo39alcc4u"
+    },
+    {
+      "_id": "ggcgNsevd8MbQwWQ",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgNsevd8MbQwWQ",
+      "weight": 7,
+      "range": [
+        53,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Silver Shad",
+      "img": "icons/environment/creatures/fish-smooth-silver-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcglxyYKwDrUvUp"
+    },
+    {
+      "_id": "ggcgRPn7Hll3jSbI",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgRPn7Hll3jSbI",
+      "weight": 7,
+      "range": [
+        60,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Steamer Clam",
+      "img": "icons/commodities/biological/shell-ribbed-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcghILWleblGAr0"
+    },
+    {
+      "_id": "ggcg4ZR13dYJUGNY",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcg4ZR13dYJUGNY",
+      "weight": 7,
+      "range": [
+        67,
+        73
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Driftwood",
+      "img": "icons/commodities/wood/log-rough-petrified-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgG7laLOXaRJQ1"
+    },
+    {
+      "_id": "ggcgoeBXwpZtKGeg",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgoeBXwpZtKGeg",
+      "weight": 7,
+      "range": [
+        74,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sand Flounder",
+      "img": "icons/environment/creatures/fish-spotted-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgnabCsQatHG6h"
+    },
+    {
+      "_id": "ggcggnThzaspT9zG",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcggnThzaspT9zG",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Reef Crab",
+      "img": "icons/creatures/fish/crab-blue-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLNftZvDWyBI9"
+    },
+    {
+      "_id": "ggcgWdjueDQwjpWd",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgWdjueDQwjpWd",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cod Liver Oil",
+      "img": "icons/consumables/potions/potion-jar-corked-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHs9NM9uH3JhB"
+    },
+    {
+      "_id": "ggcgWDj9xFbth7g0",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcgWDj9xFbth7g0",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Spiny Lobster",
+      "img": "icons/consumables/meat/claw-crab-lobster-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgjJmaFCPDtMDu"
+    },
+    {
+      "_id": "ggcg4VjVGHdI1XN4",
+      "_key": "!tables.results!ggcg8d1d5Tvu8YKH.ggcg4VjVGHdI1XN4",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rock Oyster",
+      "img": "icons/consumables/meat/oyster-shell-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgOeiSHFIxjK4d"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgjt2f7fUp9JF7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fishing-sea-coast-t1",
+      "activity": "fishing",
+      "source": "sea-coast",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

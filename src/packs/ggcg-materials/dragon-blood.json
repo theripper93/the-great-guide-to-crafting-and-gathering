@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgUnevjk8AcuYB",
+  "_key": "!items!ggcgUnevjk8AcuYB",
+  "name": "Dragon Blood",
+  "type": "loot",
+  "img": "icons/commodities/materials/bowl-liquid-red.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Dragon blood will not mix with water or wine; it sinks and stays a separate red bead.</p><p><em>Tier 4 · Ichor · Found: Dragon</em></p>",
+      "chat": ""
+    },
+    "identifier": "dragon-blood",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "dragon-blood",
+      "kind": "raw",
+      "tier": 4,
+      "family": "ichor",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "dragon"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ichor",
+        "ichor-t4",
+        "ichor-t1+",
+        "ichor-t2+",
+        "ichor-t3+",
+        "ichor-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

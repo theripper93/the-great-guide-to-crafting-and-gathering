@@ -1,0 +1,273 @@
+{
+  "_id": "ggcgbTCgWcsBUFBI",
+  "_key": "!items!ggcgbTCgWcsBUFBI",
+  "name": "Temple Lotus Draught",
+  "type": "consumable",
+  "img": "icons/consumables/potions/round-cork-leaf-green.webp",
+  "folder": "ggcgCNAaOewNmeHu",
+  "system": {
+    "description": {
+      "value": "<p>Temple lotus draught never ripples, however hard it is shaken.</p><p>As an action, you can drink this potion. For 8 hours, you have Resistance to Necrotic damage, Immunity to the &amp;Reference[Paralyzed apply=false] condition and Immunity to the &amp;Reference[Stunned apply=false] condition (<em>Lotus Stillness</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "temple-lotus-draught",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 20000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgTMdou11SNBMQ": {
+        "type": "utility",
+        "name": "Drink",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgYJ7FZcW3mwTI",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "self",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcgTMdou11SNBMQ"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Lotus Stillness",
+      "img": "icons/consumables/potions/round-cork-leaf-green.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.traits.dr.value",
+            "type": "add",
+            "value": "necrotic",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.traits.ci.value",
+            "type": "add",
+            "value": "paralyzed",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.traits.ci.value",
+            "type": "add",
+            "value": "stunned",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 8,
+        "units": "hours",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {
+        "the-great-guide-to-crafting-and-gathering": {
+          "stackGroup": "drink"
+        }
+      },
+      "_id": "ggcgYJ7FZcW3mwTI",
+      "_key": "!items.effects!ggcgbTCgWcsBUFBI.ggcgYJ7FZcW3mwTI",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "temple-lotus-draught",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "buff-elixirs",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "warding-draught",
+      "priceClass": "D",
+      "stackGroup": "drink"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemy-buff-elixirs"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

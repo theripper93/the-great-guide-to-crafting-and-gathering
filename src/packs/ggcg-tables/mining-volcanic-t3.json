@@ -1,0 +1,378 @@
+{
+  "_id": "ggcgFt7p3nRkVaTc",
+  "_key": "!tables!ggcgFt7p3nRkVaTc",
+  "name": "Volcanic (Tier 3)",
+  "img": "icons/magic/earth/volcano-explosion-lava-orange.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcg27moOyPyQub8",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcg27moOyPyQub8",
+      "weight": 14,
+      "range": [
+        1,
+        14
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Brimstone Clay",
+      "img": "icons/commodities/stone/ore-chunk-yellow-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgQQncHU1QQ6lt"
+    },
+    {
+      "_id": "ggcg2pI3PPtBZ9Sy",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcg2pI3PPtBZ9Sy",
+      "weight": 14,
+      "range": [
+        15,
+        28
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fire Opal Rough",
+      "img": "icons/commodities/gems/gem-rough-can-orange-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgzMzJka41wwCi"
+    },
+    {
+      "_id": "ggcgj3b0wMUPNux8",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcgj3b0wMUPNux8",
+      "weight": 14,
+      "range": [
+        29,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ringing Basalt",
+      "img": "icons/commodities/stone/stone-chunk-iron-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgo4mmGJE0TX4O"
+    },
+    {
+      "_id": "ggcgcvCRGgrX0RME",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcgcvCRGgrX0RME",
+      "weight": 7,
+      "range": [
+        43,
+        49
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Scoria Coal",
+      "img": "icons/commodities/stone/ore-chunk-magma-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcga6Wh8AN9t9us"
+    },
+    {
+      "_id": "ggcg40ELBSoWIxt9",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcg40ELBSoWIxt9",
+      "weight": 7,
+      "range": [
+        50,
+        56
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cinnabar",
+      "img": "icons/commodities/stone/ore-pile-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgu6KnXd9gtFuc"
+    },
+    {
+      "_id": "ggcghFwwf5FnBLyd",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcghFwwf5FnBLyd",
+      "weight": 7,
+      "range": [
+        57,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Orpiment",
+      "img": "icons/commodities/gems/gem-rough-square-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwm28JsHrudcP"
+    },
+    {
+      "_id": "ggcg4gqV7BcPbj7U",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcg4gqV7BcPbj7U",
+      "weight": 7,
+      "range": [
+        64,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Amethyst Geode",
+      "img": "icons/commodities/stone/geode-raw-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgpRM8ws1iwTmP"
+    },
+    {
+      "_id": "ggcgoSNpVBj2jElR",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcgoSNpVBj2jElR",
+      "weight": 7,
+      "range": [
+        71,
+        77
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Obsidian",
+      "img": "icons/commodities/stone/boulder-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5l9SPf9UPvNN"
+    },
+    {
+      "_id": "ggcghsTnxgpIEl3U",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcghsTnxgpIEl3U",
+      "weight": 7,
+      "range": [
+        78,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Yellow Sulfur",
+      "img": "icons/commodities/materials/bowl-powder-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgg4e0bxVoWAXU"
+    },
+    {
+      "_id": "ggcgRiB46SvHXOdd",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcgRiB46SvHXOdd",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Citrine Geode",
+      "img": "icons/commodities/gems/gem-faceted-rough-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg6zQQ6BSq1ANg"
+    },
+    {
+      "_id": "ggcgv3BrRzf5HDvk",
+      "_key": "!tables.results!ggcgFt7p3nRkVaTc.ggcgv3BrRzf5HDvk",
+      "weight": 10,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Diamond Rough",
+      "img": "icons/commodities/gems/gem-rough-oval-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEcLKyqnKV0cE"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgNIGb51gAVWLu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mining-volcanic-t3",
+      "activity": "mining",
+      "source": "volcanic",
+      "tier": 3,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "_id": "ggcgZ6YBHN1hVgn8",
+  "_key": "!items!ggcgZ6YBHN1hVgn8",
+  "name": "Breastplate",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-cuirass-steel-grey.webp",
+  "folder": "ggcge9gvl5Lhb1iC",
+  "system": {
+    "description": {
+      "value": "<p>Smiths beat each breastplate over a stump hollowed to the shape of a chest.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 20,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 14,
+      "dex": 2
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "medium",
+      "baseItem": "breastplate"
+    },
+    "properties": [],
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "activities": {},
+    "identifier": "breastplate",
+    "rarities": [],
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "breastplate",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "armor-shields",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbarmBreastplat"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-armor-shields",
+        "smithing-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbarmBreastplat",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgipdB0OM83Fdo",
+  "_key": "!items!ggcgipdB0OM83Fdo",
+  "name": "Skyflax Weave",
+  "type": "loot",
+  "img": "icons/commodities/cloth/cloth-roll-blue.webp",
+  "folder": "ggcgyraylaoJnH8S",
+  "system": {
+    "description": {
+      "value": "<p>Skyflax weave ripples on a still table, as if a breeze were passing.</p><p><em>Tier 4 · Cloth</em></p>",
+      "chat": ""
+    },
+    "identifier": "skyflax-weave",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "skyflax-weave",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "cloth",
+      "subcategory": "cloth-thread-cord",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "cloth",
+        "cloth-t4",
+        "cloth-t1+",
+        "cloth-t2+",
+        "cloth-t3+",
+        "cloth-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

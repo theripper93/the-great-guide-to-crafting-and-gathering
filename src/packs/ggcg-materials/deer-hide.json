@@ -1,0 +1,85 @@
+{
+  "_id": "ggcg77wOJiV4P9HD",
+  "_key": "!items!ggcg77wOJiV4P9HD",
+  "name": "Deer Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-spotted-tan.webp",
+  "folder": "ggcg2BhZ1lCClmwt",
+  "system": {
+    "description": {
+      "value": "<p>Deer hide, tan and faintly dappled with pale spots.</p><p><em>Tier 1 · Hide · Found: Forest, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "deer-hide",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "deer-hide",
+      "kind": "raw",
+      "tier": 1,
+      "family": "hide",
+      "subcategory": "hides-pelts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "forest",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "hide",
+        "hide-t1",
+        "hide-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

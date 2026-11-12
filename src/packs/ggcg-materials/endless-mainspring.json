@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg04qMsoAG6O78",
+  "_key": "!items!ggcg04qMsoAG6O78",
+  "name": "Endless Mainspring",
+  "type": "loot",
+  "img": "icons/commodities/tech/coil-steel-grey.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>An endless mainspring turns on its own, slowly and evenly, and nobody has ever seen one wound. A clock built around one never needs a key, and a few such clocks have outlasted the houses they were made for.</p><p><em>Tier 4 · Salvage · Found: Construct</em></p>",
+      "chat": ""
+    },
+    "identifier": "endless-mainspring",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "endless-mainspring",
+      "kind": "raw",
+      "tier": 4,
+      "family": "salvage",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "construct"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "salvage",
+        "salvage-t4",
+        "salvage-t1+",
+        "salvage-t2+",
+        "salvage-t3+",
+        "salvage-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

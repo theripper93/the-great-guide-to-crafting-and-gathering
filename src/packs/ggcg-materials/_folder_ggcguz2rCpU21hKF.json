@@ -1,0 +1,23 @@
+{
+  "_id": "ggcguz2rCpU21hKF",
+  "_key": "!folders!ggcguz2rCpU21hKF",
+  "name": "Leathers and Cured Hides",
+  "type": "Item",
+  "folder": "ggcgv8lmCnExMwL0",
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

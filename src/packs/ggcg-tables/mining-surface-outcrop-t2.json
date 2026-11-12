@@ -1,0 +1,409 @@
+{
+  "_id": "ggcgpl6nq18K2tfH",
+  "_key": "!tables!ggcgpl6nq18K2tfH",
+  "name": "Surface Outcrop (Tier 2)",
+  "img": "icons/environment/wilderness/terrain-rocks-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgeUekz5IkVKNE",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgeUekz5IkVKNE",
+      "weight": 14,
+      "range": [
+        1,
+        14
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Glass Sand",
+      "img": "icons/commodities/stone/ore-pile-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8L6eSfn2sDUc"
+    },
+    {
+      "_id": "ggcgb5vlcrnFtcOb",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgb5vlcrnFtcOb",
+      "weight": 14,
+      "range": [
+        15,
+        28
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Carnelian Rough",
+      "img": "icons/commodities/gems/gem-rough-cushion-orange-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgfnGdtW1WZNX5"
+    },
+    {
+      "_id": "ggcgae8cjeXSCN0B",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgae8cjeXSCN0B",
+      "weight": 14,
+      "range": [
+        29,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Zircon Shard",
+      "img": "icons/commodities/gems/gem-shattered-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgZri7m1HB3tU3"
+    },
+    {
+      "_id": "ggcgJCrxWANyVHa1",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgJCrxWANyVHa1",
+      "weight": 7,
+      "range": [
+        43,
+        49
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Borax",
+      "img": "icons/commodities/stone/stone-pile-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgGeC0lz2xX6h4"
+    },
+    {
+      "_id": "ggcgQFFnv1UOIbCk",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgQFFnv1UOIbCk",
+      "weight": 7,
+      "range": [
+        50,
+        56
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bloodstone Pebble",
+      "img": "icons/commodities/stone/ore-chunk-green-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLJv2qohszWOn"
+    },
+    {
+      "_id": "ggcg7sKWLSRUyrF4",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcg7sKWLSRUyrF4",
+      "weight": 7,
+      "range": [
+        57,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Chrysoprase Pebble",
+      "img": "icons/commodities/gems/gem-rough-navette-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcglbYz0sr3RzXw"
+    },
+    {
+      "_id": "ggcgTIcg7R0ubEhE",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgTIcg7R0ubEhE",
+      "weight": 4,
+      "range": [
+        64,
+        67
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Obsidian",
+      "img": "icons/commodities/stone/boulder-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5l9SPf9UPvNN"
+    },
+    {
+      "_id": "ggcgRXqCLS4ssJex",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgRXqCLS4ssJex",
+      "weight": 3,
+      "range": [
+        68,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Limestone Flux",
+      "img": "icons/commodities/stone/rock-chunk-grass-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgyIZWLsUqEuqk"
+    },
+    {
+      "_id": "ggcg6yEZWwbHa99d",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcg6yEZWwbHa99d",
+      "weight": 7,
+      "range": [
+        71,
+        77
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bog Iron",
+      "img": "icons/commodities/stone/ore-chunk-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgIakRiqMID4LT"
+    },
+    {
+      "_id": "ggcgC0On8GTPqn0W",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgC0On8GTPqn0W",
+      "weight": 7,
+      "range": [
+        78,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Tin Pebble",
+      "img": "icons/commodities/stone/ore-pile-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgqcAssMYFlYQE"
+    },
+    {
+      "_id": "ggcgNp5wxb2IXqeb",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgNp5wxb2IXqeb",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Moss Agate Pebble",
+      "img": "icons/commodities/gems/gem-fragments-rough-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgrik1Lu1ZwSoJ"
+    },
+    {
+      "_id": "ggcgvg5oQwTgUvVK",
+      "_key": "!tables.results!ggcgpl6nq18K2tfH.ggcgvg5oQwTgUvVK",
+      "weight": 10,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fulgurite Tube",
+      "img": "icons/commodities/bones/horn-simple-beige.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgiFPgBqWwRhbc"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgNIGb51gAVWLu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mining-surface-outcrop-t2",
+      "activity": "mining",
+      "source": "surface-outcrop",
+      "tier": 2,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

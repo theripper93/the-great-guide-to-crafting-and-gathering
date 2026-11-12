@@ -1,0 +1,255 @@
+{
+  "_id": "ggcgdn07Nua3NKh8",
+  "_key": "!items!ggcgdn07Nua3NKh8",
+  "name": "Alabaster Glow Pie",
+  "type": "consumable",
+  "img": "icons/consumables/grains/bread-loaf-boule-tan.webp",
+  "folder": "ggcgZwZLRLrsrDPy",
+  "system": {
+    "description": {
+      "value": "<p>Miners carry wedges of alabaster glow pie below ground and pack fewer candles.</p><p>As an action, you can eat this dish. For 8 hours, you have Darkvision with a range of 120 feet (<em>Alabaster Sight</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "alabaster-glow-pie",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "food",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcg1Lsqg5nAa0Ja": {
+        "type": "utility",
+        "name": "Eat",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgoVbWRC47jqdU",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "self",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcg1Lsqg5nAa0Ja"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Alabaster Sight",
+      "img": "icons/consumables/grains/bread-loaf-boule-tan.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.senses.ranges.darkvision",
+            "type": "upgrade",
+            "value": "120",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 8,
+        "units": "hours",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {
+        "the-great-guide-to-crafting-and-gathering": {
+          "stackGroup": "food"
+        }
+      },
+      "_id": "ggcgoVbWRC47jqdU",
+      "_key": "!items.effects!ggcgdn07Nua3NKh8.ggcgoVbWRC47jqdU",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "alabaster-glow-pie",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "buff-dishes-feasts",
+      "activity": null,
+      "profession": "cooking",
+      "sources": [],
+      "archetype": "sense-draught",
+      "priceClass": "C",
+      "stackGroup": "food"
+    },
+    "mastercrafted": {
+      "tags": [
+        "cooking-buff-dishes-feasts"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

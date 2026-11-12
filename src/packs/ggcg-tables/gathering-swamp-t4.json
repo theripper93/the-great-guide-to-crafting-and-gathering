@@ -1,0 +1,316 @@
+{
+  "_id": "ggcgqWtAFI8ujHTz",
+  "_key": "!tables!ggcgqWtAFI8ujHTz",
+  "name": "Swamp Herbs (Tier 4)",
+  "img": "icons/magic/air/fog-gas-smoke-dense-green.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgiIab4CWZOFlU",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgiIab4CWZOFlU",
+      "weight": 24,
+      "range": [
+        1,
+        24
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Springmoss",
+      "img": "icons/commodities/stone/stone-chunk-moss-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgju4xzZzecGcH"
+    },
+    {
+      "_id": "ggcgase0UUXGitoL",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgase0UUXGitoL",
+      "weight": 23,
+      "range": [
+        25,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Madstool",
+      "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBQbn5tGau13P"
+    },
+    {
+      "_id": "ggcgxNB3gBGCdq9u",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgxNB3gBGCdq9u",
+      "weight": 12,
+      "range": [
+        48,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Temple Lotus",
+      "img": "icons/commodities/flowers/lotus-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLLD4Fe4W2IGx"
+    },
+    {
+      "_id": "ggcgSf4qyJy7iolR",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgSf4qyJy7iolR",
+      "weight": 11,
+      "range": [
+        60,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Brinewood Log",
+      "img": "icons/commodities/wood/log-cut-walnut.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgiTG3KRnzP8fg"
+    },
+    {
+      "_id": "ggcgOFwTFq0Ti0Ug",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgOFwTFq0Ti0Ug",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Heartrot Bracket",
+      "img": "icons/consumables/mushrooms/cluster-red-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgz8Zv9sNxtE2A"
+    },
+    {
+      "_id": "ggcgtCyk2fKrj3EU",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgtCyk2fKrj3EU",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mirebane",
+      "img": "icons/magic/nature/vines-thorned-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgpdI4yocJCKMi"
+    },
+    {
+      "_id": "ggcgsA96b5xm4QLG",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgsA96b5xm4QLG",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gravecap",
+      "img": "icons/consumables/mushrooms/helm-purple-shiny.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgq5KHws93vrm7"
+    },
+    {
+      "_id": "ggcgQ6RQPFrzXgwe",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgQ6RQPFrzXgwe",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sickwood Sap",
+      "img": "icons/commodities/materials/slime-thick-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgJi0f4AtlKmbu"
+    },
+    {
+      "_id": "ggcgtQPodd7VsA1V",
+      "_key": "!tables.results!ggcgqWtAFI8ujHTz.ggcgtQPodd7VsA1V",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Estuary Reed",
+      "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLBlveyEIsw3B"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-swamp-t4",
+      "activity": "gathering",
+      "source": "swamp",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

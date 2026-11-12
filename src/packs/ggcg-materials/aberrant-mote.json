@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgyClJPzga1tNT",
+  "_key": "!items!ggcgyClJPzga1tNT",
+  "name": "Aberrant Mote",
+  "type": "loot",
+  "img": "icons/magic/lightning/orb-ball-purple.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>An aberrant mote is a small purple spark that hangs in its jar and drifts away from whoever looks straight at it. When the watcher turns away, it creeps back to the near side of the glass, as close as it can get.</p><p><em>Tier 3 · Essence · Found: Aberration</em></p>",
+      "chat": ""
+    },
+    "identifier": "aberrant-mote",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "aberrant-mote",
+      "kind": "raw",
+      "tier": 3,
+      "family": "essence",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "aberration"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "essence",
+        "essence-t3",
+        "essence-t1+",
+        "essence-t2+",
+        "essence-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

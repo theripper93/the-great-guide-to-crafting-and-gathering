@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgJi0f4AtlKmbu",
+  "_key": "!items!ggcgJi0f4AtlKmbu",
+  "name": "Sickwood Sap",
+  "type": "loot",
+  "img": "icons/commodities/materials/slime-thick-green.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>Sickwood trees look dead all year, gray and leafless, though green sap oozes from every crack in the bark. Grass wilts wherever a drop of it falls, and swamp folk believe that nothing which walks after death will cross a line of it.</p><p><em>Tier 3 · Resin · Found: Swamp, Underground</em></p>",
+      "chat": ""
+    },
+    "identifier": "sickwood-sap",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sickwood-sap",
+      "kind": "raw",
+      "tier": 3,
+      "family": "resin",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "underground"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "resin",
+        "resin-t3",
+        "resin-t1+",
+        "resin-t2+",
+        "resin-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

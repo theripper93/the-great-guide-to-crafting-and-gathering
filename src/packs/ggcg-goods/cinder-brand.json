@@ -1,0 +1,310 @@
+{
+  "_id": "ggcgBLYE30eBvZqL",
+  "_key": "!items!ggcgBLYE30eBvZqL",
+  "name": "Cinder Brand",
+  "type": "consumable",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-red.webp",
+  "folder": "ggcgHANLGzOhbIsp",
+  "system": {
+    "description": {
+      "value": "<p>Fire opals set along the rune flash red and gold with every swing.</p><p>Over 10 minutes, you can bind this rune into a weapon that is not magical. The rune is used up and the weapon keeps its power until the enchantment is removed: it is magical, you have a +1 bonus to attack rolls and damage rolls made with it and a hit with it deals an extra [[/damage 1d6 type=fire]] damage. The weapon then requires Attunement.</p>",
+      "chat": ""
+    },
+    "identifier": "cinder-brand",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgrR8kbBTjWlO1": {
+        "type": "enchant",
+        "name": "Bind Rune",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "minute",
+          "value": 10,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgdQb0xRctgwym",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [],
+              "item": []
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "enchant": {
+          "self": false
+        },
+        "restrictions": {
+          "allowMagical": false,
+          "type": "weapon",
+          "categories": [],
+          "properties": []
+        },
+        "_id": "ggcgrR8kbBTjWlO1"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Cinder Brand",
+      "img": "icons/magic/fire/dagger-rune-enchant-flame-red.webp",
+      "type": "enchantment",
+      "system": {
+        "changes": [
+          {
+            "key": "name",
+            "type": "override",
+            "value": "{} (Cinder Brand)",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.properties",
+            "type": "add",
+            "value": "mgc",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.magicalBonus",
+            "type": "upgrade",
+            "value": 1,
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "activities[attack].damage.parts",
+            "type": "add",
+            "value": "{\"number\":1,\"denomination\":6,\"bonus\":\"\",\"types\":[\"fire\"],\"custom\":{\"enabled\":false,\"formula\":\"\"},\"scaling\":{\"number\":1}}",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attunement",
+            "type": "override",
+            "value": "required",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.rarity",
+            "type": "override",
+            "value": "rare",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.price.value",
+            "type": "add",
+            "value": 4000,
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": true,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgdQb0xRctgwym",
+      "_key": "!items.effects!ggcgBLYE30eBvZqL.ggcgdQb0xRctgwym",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cinder-brand",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "weapon-enchants",
+      "activity": null,
+      "profession": "enchanting",
+      "sources": [],
+      "archetype": "weapon-rune",
+      "priceClass": "E"
+    },
+    "mastercrafted": {
+      "tags": [
+        "enchanting-weapon-enchants"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

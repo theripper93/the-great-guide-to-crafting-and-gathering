@@ -1,0 +1,82 @@
+{
+  "_id": "ggcgWITWVyZwXhAL",
+  "_key": "!items!ggcgWITWVyZwXhAL",
+  "name": "Brass Rivets",
+  "type": "loot",
+  "img": "icons/tools/fasteners/bolts-roundhead.webp",
+  "folder": "ggcge9gvl5Lhb1iC",
+  "system": {
+    "description": {
+      "value": "<p>Domed brass rivets, bright enough to trim a saddle.</p>",
+      "chat": ""
+    },
+    "identifier": "brass-rivets",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "sp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "brass-rivets",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "tools-hardware",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": "material",
+      "priceClass": "B",
+      "batch": 20
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-tools-hardware"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

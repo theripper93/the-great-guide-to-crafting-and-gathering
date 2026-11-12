@@ -1,0 +1,114 @@
+{
+  "_id": "ggcgQkwfC8UAILHt",
+  "_key": "!items!ggcgQkwfC8UAILHt",
+  "name": "Studded Leather Armor",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>Several hundred rivets, every one set by hand.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 45,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 13,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 12,
+      "dex": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "light",
+      "baseItem": "studded"
+    },
+    "properties": [],
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "activities": {},
+    "identifier": "studded-leather-armor",
+    "rarities": [],
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "studded-leather-armor",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "light-armor",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbarmStuddedLea"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-light-armor",
+        "leatherworking-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbarmStuddedLea",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

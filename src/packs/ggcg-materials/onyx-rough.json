@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgG5DjaZ0YCPmZ",
+  "_key": "!items!ggcgG5DjaZ0YCPmZ",
+  "name": "Onyx Rough",
+  "type": "loot",
+  "img": "icons/commodities/stone/geode-raw-black.webp",
+  "folder": "ggcgse4GqSQMfdAv",
+  "system": {
+    "description": {
+      "value": "<p>Cameo carvers want onyx for its layers of black and white.</p><p><em>Tier 2 · Rough Gem · Found: Deep Cavern, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "onyx-rough",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "onyx-rough",
+      "kind": "raw",
+      "tier": 2,
+      "family": "rough-gem",
+      "subcategory": "rough-gems",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "deep-cavern",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "rough-gem",
+        "rough-gem-t2",
+        "rough-gem-t1+",
+        "rough-gem-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

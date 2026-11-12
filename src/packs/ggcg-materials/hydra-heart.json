@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgOdPc6hazO39l",
+  "_key": "!items!ggcgOdPc6hazO39l",
+  "name": "Hydra Heart",
+  "type": "loot",
+  "img": "icons/consumables/meat/heart-organ-red.webp",
+  "folder": "ggcgFMfWH9jZN7WP",
+  "system": {
+    "description": {
+      "value": "<p>A hydra heart keeps budding small new chambers long after the hydra is dead, each a little red knot on the side of the last. Any blood that touches it thickens at once into a dark jelly.</p><p><em>Tier 2 · Boss Trophy · Found: Monstrosity</em></p>",
+      "chat": ""
+    },
+    "identifier": "hydra-heart",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 48,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hydra-heart",
+      "kind": "raw",
+      "tier": 2,
+      "family": "boss-trophy",
+      "subcategory": "boss-trophies",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "monstrosity"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "boss-trophy",
+        "boss-trophy-t2",
+        "boss-trophy-t1+",
+        "boss-trophy-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

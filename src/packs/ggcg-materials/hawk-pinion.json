@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgK3XpN6j9pxgc",
+  "_key": "!items!ggcgK3XpN6j9pxgc",
+  "name": "Hawk Pinion",
+  "type": "loot",
+  "img": "icons/commodities/materials/feather-orange.webp",
+  "folder": "ggcg9MdwbNe7L44h",
+  "system": {
+    "description": {
+      "value": "<p>A stiff rust-orange flight feather from a hawk's wing.</p><p><em>Tier 2 · Feather · Found: Mountain, Desert, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "hawk-pinion",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hawk-pinion",
+      "kind": "raw",
+      "tier": 2,
+      "family": "feather",
+      "subcategory": "feathers",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "desert",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "feather",
+        "feather-t2",
+        "feather-t1+",
+        "feather-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

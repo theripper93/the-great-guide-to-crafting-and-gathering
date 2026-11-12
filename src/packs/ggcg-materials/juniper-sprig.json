@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg8SyYONVpKipN",
+  "_key": "!items!ggcg8SyYONVpKipN",
+  "name": "Juniper Sprig",
+  "type": "loot",
+  "img": "icons/consumables/plants/dried-leaf-stem-twig-green.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Prickly blue-green needles with a dusty blue berry or two.</p><p><em>Tier 2 · Culinary Herb · Found: Mountain, Arctic, Forest</em></p>",
+      "chat": ""
+    },
+    "identifier": "juniper-sprig",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "juniper-sprig",
+      "kind": "raw",
+      "tier": 2,
+      "family": "culinary-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "arctic",
+        "forest"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "culinary-herb",
+        "culinary-herb-t2",
+        "culinary-herb-t1+",
+        "culinary-herb-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

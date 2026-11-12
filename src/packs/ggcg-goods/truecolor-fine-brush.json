@@ -1,0 +1,142 @@
+{
+  "_id": "ggcghcPlALLkB5bX",
+  "_key": "!items!ggcghcPlALLkB5bX",
+  "name": "Truecolor Fine Brush",
+  "type": "equipment",
+  "img": "icons/tools/hand/brush-paint-brown-tan.webp",
+  "folder": "ggcgM3EQ6jm6IbD3",
+  "system": {
+    "description": {
+      "value": "<p>Its tip of glamour hair springs back to a perfect point after every stroke.</p><p>While this is equipped, ready to hand, you have a +1 bonus to ability checks made with Painter's Supplies (<em>True Stroke</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "truecolor-fine-brush",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "True Stroke",
+      "img": "icons/tools/hand/brush-paint-brown-tan.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.tools.painter.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgW3w2PHxGJkJ1",
+      "_key": "!items.effects!ggcghcPlALLkB5bX.ggcgW3w2PHxGJkJ1",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "truecolor-fine-brush",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "maps-charts",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": "utility-gear",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scribing-maps-charts"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

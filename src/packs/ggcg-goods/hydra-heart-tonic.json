@@ -1,0 +1,194 @@
+{
+  "_id": "ggcgIwtErTfChqEN",
+  "_key": "!items!ggcgIwtErTfChqEN",
+  "name": "Hydra Heart Tonic",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+  "folder": "ggcgvrajbKK7sas7",
+  "system": {
+    "description": {
+      "value": "<p>A spilled drop of hydra heart tonic slowly splits into two, and each half splits again if left alone. A drop forgotten on a workbench leaves it beaded with pink by morning.</p><p>As a Bonus Action, you can drink this potion to gain [[/heal 2d4+5 type=temphp]].</p>",
+      "chat": ""
+    },
+    "identifier": "hydra-heart-tonic",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcg0S2H3rSWQxxw": {
+        "type": "heal",
+        "name": "Drink",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "healing": {
+          "number": 2,
+          "denomination": 4,
+          "bonus": "5",
+          "types": [
+            "temphp"
+          ],
+          "custom": {
+            "enabled": false,
+            "formula": ""
+          },
+          "modifiers": [],
+          "scaling": {
+            "mode": "",
+            "number": 1,
+            "formula": ""
+          }
+        },
+        "_id": "ggcg0S2H3rSWQxxw"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hydra-heart-tonic",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "healing",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "vigor-draught",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemy-healing"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

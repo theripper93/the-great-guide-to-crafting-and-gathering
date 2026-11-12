@@ -1,0 +1,84 @@
+{
+  "_id": "ggcgeGoE16USwj1h",
+  "_key": "!items!ggcgeGoE16USwj1h",
+  "name": "Skeleton Fingerbone",
+  "type": "loot",
+  "img": "icons/commodities/bones/bones-hand-grey.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Small gray finger bones, still loosely joined at the knuckles.</p><p><em>Tier 1 · Bone · Found: Undead</em></p>",
+      "chat": ""
+    },
+    "identifier": "skeleton-fingerbone",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "skeleton-fingerbone",
+      "kind": "raw",
+      "tier": 1,
+      "family": "bone",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "undead"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bone",
+        "bone-t1",
+        "bone-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

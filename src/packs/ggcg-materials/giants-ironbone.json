@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgwCiiinHj50ht",
+  "_key": "!items!ggcgwCiiinHj50ht",
+  "name": "Giant's Ironbone",
+  "type": "loot",
+  "img": "icons/commodities/bones/bones-joint-brown.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Giant's ironbone comes from the oldest giants, whose bones turn slowly to iron over centuries of life. A sawn piece still shows the fine channels where the marrow once ran, and a lodestone clings to it as it would to a nail.</p><p><em>Tier 4 · Bone · Found: Giant</em></p>",
+      "chat": ""
+    },
+    "identifier": "giants-ironbone",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "giants-ironbone",
+      "kind": "raw",
+      "tier": 4,
+      "family": "bone",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "giant"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bone",
+        "bone-t4",
+        "bone-t1+",
+        "bone-t2+",
+        "bone-t3+",
+        "bone-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

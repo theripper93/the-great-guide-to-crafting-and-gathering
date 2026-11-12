@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgiKxM0Xjv7kXu",
+  "_key": "!items!ggcgiKxM0Xjv7kXu",
+  "name": "Anthracite",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-pile-iron-black.webp",
+  "folder": "ggcgnHAPVlLgXw1d",
+  "system": {
+    "description": {
+      "value": "<p>Hard, shiny black coal that burns hot with almost no smoke.</p><p><em>Tier 2 · Fuel and Flux · Found: Hill Quarry, Mountain Vein</em></p>",
+      "chat": ""
+    },
+    "identifier": "anthracite",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "anthracite",
+      "kind": "raw",
+      "tier": 2,
+      "family": "fuel-flux",
+      "subcategory": "fuels-fluxes",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "hill-quarry",
+        "mountain-vein"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fuel-flux",
+        "fuel-flux-t2",
+        "fuel-flux-t1+",
+        "fuel-flux-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

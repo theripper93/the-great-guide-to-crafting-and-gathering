@@ -1,0 +1,88 @@
+{
+  "_id": "ggcg3bwfUbOjK2GD",
+  "_key": "!items!ggcg3bwfUbOjK2GD",
+  "name": "Pumice Flux",
+  "type": "loot",
+  "img": "icons/commodities/stone/rock-chunk-pumice-white.webp",
+  "folder": "ggcgnHAPVlLgXw1d",
+  "system": {
+    "description": {
+      "value": "<p>Pumice flux is a white stone so full of holes that it floats on molten metal and soaks up the dross. Each lump works only once, and it comes out black and heavy and sinks in water like any other rock.</p><p><em>Tier 4 · Fuel and Flux · Found: Volcanic, Surface Outcrop</em></p>",
+      "chat": ""
+    },
+    "identifier": "pumice-flux",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "pumice-flux",
+      "kind": "raw",
+      "tier": 4,
+      "family": "fuel-flux",
+      "subcategory": "fuels-fluxes",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "surface-outcrop"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fuel-flux",
+        "fuel-flux-t4",
+        "fuel-flux-t1+",
+        "fuel-flux-t2+",
+        "fuel-flux-t3+",
+        "fuel-flux-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

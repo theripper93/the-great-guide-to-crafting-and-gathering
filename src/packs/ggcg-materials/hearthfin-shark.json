@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgb0iDoCbtpsS1",
+  "_key": "!items!ggcgb0iDoCbtpsS1",
+  "name": "Hearthfin Shark",
+  "type": "loot",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "folder": "ggcgE9UmxcOSnWyI",
+  "system": {
+    "description": {
+      "value": "<p>Where a hearthfin shark's back fin breaks the surface, the water steams.</p><p><em>Tier 4 · Fish · Found: Deep or Strange Water, River and Stream</em></p>",
+      "chat": ""
+    },
+    "identifier": "hearthfin-shark",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hearthfin-shark",
+      "kind": "raw",
+      "tier": 4,
+      "family": "fish",
+      "subcategory": "saltwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "deep-strange",
+        "river-stream"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t4",
+        "fish-t1+",
+        "fish-t2+",
+        "fish-t3+",
+        "fish-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

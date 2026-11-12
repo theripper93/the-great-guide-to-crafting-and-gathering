@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgt9hIAa6ucFTW",
+  "_key": "!items!ggcgt9hIAa6ucFTW",
+  "name": "Fire Clay",
+  "type": "loot",
+  "img": "icons/commodities/stone/clay-grey.webp",
+  "folder": "ggcgP5gXQ5XuwXbd",
+  "system": {
+    "description": {
+      "value": "<p>A pot of gray fire clay holds its shape in a furnace hot enough to melt bronze.</p><p><em>Tier 2 · Clay · Found: Hill Quarry, Surface Outcrop</em></p>",
+      "chat": ""
+    },
+    "identifier": "fire-clay",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fire-clay",
+      "kind": "raw",
+      "tier": 2,
+      "family": "clay",
+      "subcategory": "stone-clay",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "hill-quarry",
+        "surface-outcrop"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "clay",
+        "clay-t2",
+        "clay-t1+",
+        "clay-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

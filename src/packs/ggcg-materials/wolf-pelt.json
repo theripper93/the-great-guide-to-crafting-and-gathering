@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgD1CdEGHBuqH2",
+  "_key": "!items!ggcgD1CdEGHBuqH2",
+  "name": "Wolf Pelt",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-brown.webp",
+  "folder": "ggcg2BhZ1lCClmwt",
+  "system": {
+    "description": {
+      "value": "<p>A thick brown wolf pelt, long guard hairs over soft underfur.</p><p><em>Tier 2 · Hide · Found: Forest, Arctic, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "wolf-pelt",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "wolf-pelt",
+      "kind": "raw",
+      "tier": 2,
+      "family": "hide",
+      "subcategory": "hides-pelts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "forest",
+        "arctic",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "hide",
+        "hide-t2",
+        "hide-t1+",
+        "hide-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgEwGrBaF0Hgy4",
+  "_key": "!items!ggcgEwGrBaF0Hgy4",
+  "name": "Clouded Wight Eye",
+  "type": "loot",
+  "img": "icons/creatures/eyes/humanoid-single-blind.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>By day a clouded wight eye is milky and blind, and an hour of sunlight spoils it to gray pulp. In a dark room the cloud clears, and the pupil opens wide and black.</p><p><em>Tier 3 · Monster Organ · Found: Undead</em></p>",
+      "chat": ""
+    },
+    "identifier": "clouded-wight-eye",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "clouded-wight-eye",
+      "kind": "raw",
+      "tier": 3,
+      "family": "monster-organ",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "undead"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "monster-organ",
+        "monster-organ-t3",
+        "monster-organ-t1+",
+        "monster-organ-t2+",
+        "monster-organ-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

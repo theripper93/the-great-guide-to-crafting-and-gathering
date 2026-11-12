@@ -1,0 +1,409 @@
+{
+  "_id": "ggcgPfSbYlSbowk3",
+  "_key": "!tables!ggcgPfSbYlSbowk3",
+  "name": "Hill Quarry (Tier 1)",
+  "img": "icons/environment/settlement/quarry.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgJaN5Q5O4iTka",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgJaN5Q5O4iTka",
+      "weight": 13,
+      "range": [
+        1,
+        13
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Soft Coal",
+      "img": "icons/commodities/stone/ore-chunk-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg2Am9uYxU4dyU"
+    },
+    {
+      "_id": "ggcgFUfkgqtxMUa9",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgFUfkgqtxMUa9",
+      "weight": 13,
+      "range": [
+        14,
+        26
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Blue Slate",
+      "img": "icons/commodities/stone/stone-chunk-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgoUndNSqJTrR4"
+    },
+    {
+      "_id": "ggcgJvyY3mM6QCwK",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgJvyY3mM6QCwK",
+      "weight": 13,
+      "range": [
+        27,
+        39
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Honing Stone",
+      "img": "icons/commodities/stone/stone-chunk-grey-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgtzrdNsLHVpkr"
+    },
+    {
+      "_id": "ggcgWPfQPsO1AmRH",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgWPfQPsO1AmRH",
+      "weight": 13,
+      "range": [
+        40,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Tiger Eye Rough",
+      "img": "icons/commodities/gems/gem-rough-cushion-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg7qz6FT3Yl2ox"
+    },
+    {
+      "_id": "ggcgYBd9lmZ0JsuG",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgYBd9lmZ0JsuG",
+      "weight": 7,
+      "range": [
+        53,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Kiln Clay",
+      "img": "icons/commodities/stone/clay-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg6jdQAKTeFgRp"
+    },
+    {
+      "_id": "ggcgNnzAwsZCRvIf",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgNnzAwsZCRvIf",
+      "weight": 7,
+      "range": [
+        60,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Red Ochre",
+      "img": "icons/commodities/stone/ore-pile-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgxpfpy5B1Ja8y"
+    },
+    {
+      "_id": "ggcgFLTMEcXxdAxq",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgFLTMEcXxdAxq",
+      "weight": 7,
+      "range": [
+        67,
+        73
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rock Salt",
+      "img": "icons/commodities/materials/bowl-powder-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvEeTgVNe4rCH"
+    },
+    {
+      "_id": "ggcgAATyZM3fw63n",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgAATyZM3fw63n",
+      "weight": 7,
+      "range": [
+        74,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Alum",
+      "img": "icons/commodities/gems/powder-raw-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg1CYhisJNrlT1"
+    },
+    {
+      "_id": "ggcgs9FVYxhfllbe",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgs9FVYxhfllbe",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bog Iron",
+      "img": "icons/commodities/stone/ore-chunk-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgIakRiqMID4LT"
+    },
+    {
+      "_id": "ggcggFwAsrIHIVj8",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcggFwAsrIHIVj8",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dry Peat",
+      "img": "icons/commodities/stone/rock-chunk-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHRbrog5XK42s"
+    },
+    {
+      "_id": "ggcgAcCPxlbbrVNZ",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcgAcCPxlbbrVNZ",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Soapstone",
+      "img": "icons/commodities/stone/stone-chunk-moss-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5XPKbhtQcgmm"
+    },
+    {
+      "_id": "ggcg9IYNwBEycwiL",
+      "_key": "!tables.results!ggcgPfSbYlSbowk3.ggcg9IYNwBEycwiL",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Limestone Flux",
+      "img": "icons/commodities/stone/rock-chunk-grass-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgyIZWLsUqEuqk"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgNIGb51gAVWLu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mining-hill-quarry-t1",
+      "activity": "mining",
+      "source": "hill-quarry",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_id": "ggcgsa0rxLko8O3v",
+  "_key": "!items!ggcgsa0rxLko8O3v",
+  "name": "Lapis Pigment",
+  "type": "loot",
+  "img": "icons/commodities/materials/liquid-blue.webp",
+  "folder": "ggcg6d9g15Uwiyw9",
+  "system": {
+    "description": {
+      "value": "<p>The finer lapis is ground, the paler its blue becomes.</p><p><em>Tier 1 · Dye and Pigment</em></p>",
+      "chat": ""
+    },
+    "identifier": "lapis-pigment",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "lapis-pigment",
+      "kind": "intermediate",
+      "tier": 1,
+      "family": "dye-pigment",
+      "subcategory": "inks-pigments-dyes",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "dye-pigment",
+        "dye-pigment-t1",
+        "dye-pigment-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

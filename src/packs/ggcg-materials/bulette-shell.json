@@ -1,0 +1,86 @@
+{
+  "_id": "ggcg5ULytQ0MzU34",
+  "_key": "!items!ggcg5ULytQ0MzU34",
+  "name": "Bulette Shell",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-turtle-grey.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Mud and wet clay slide off bulette shell and leave it clean and gray.</p><p><em>Tier 3 · Scale and Chitin · Found: Monstrosity</em></p>",
+      "chat": ""
+    },
+    "identifier": "bulette-shell",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bulette-shell",
+      "kind": "raw",
+      "tier": 3,
+      "family": "scale-chitin",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "monstrosity"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scale-chitin",
+        "scale-chitin-t3",
+        "scale-chitin-t1+",
+        "scale-chitin-t2+",
+        "scale-chitin-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgy56bCe7cTeau",
+  "_key": "!items!ggcgy56bCe7cTeau",
+  "name": "Sealskin Boots",
+  "type": "equipment",
+  "img": "icons/equipment/feet/boots-leather-simple-furred.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>Soft sealskin boots whose soles grip a wet, rolling deck.</p><p>While you wear it, you have a +1 bonus to Acrobatics checks (<em>Surefoot Soles</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "sealskin-boots",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "wondrous",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Surefoot Soles",
+      "img": "icons/equipment/feet/boots-leather-simple-furred.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.acr.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgoznhiMXN6Qfl",
+      "_key": "!items.effects!ggcgy56bCe7cTeau.ggcgoznhiMXN6Qfl",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sealskin-boots",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "worn-gear",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-worn-gear"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

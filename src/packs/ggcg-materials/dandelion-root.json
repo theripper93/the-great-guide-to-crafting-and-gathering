@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgn3scrIDURnKe",
+  "_key": "!items!ggcgn3scrIDURnKe",
+  "name": "Dandelion Root",
+  "type": "loot",
+  "img": "icons/consumables/vegetable/root-parsnip-grey.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>Snapped in half, a dandelion root oozes a bitter white milk.</p><p><em>Tier 1 · Root · Found: Plains, Coast, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "dandelion-root",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "dandelion-root",
+      "kind": "raw",
+      "tier": 1,
+      "family": "root",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "plains",
+        "coast",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "root",
+        "root-t1",
+        "root-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

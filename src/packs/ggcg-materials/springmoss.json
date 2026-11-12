@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgju4xzZzecGcH",
+  "_key": "!items!ggcgju4xzZzecGcH",
+  "name": "Springmoss",
+  "type": "loot",
+  "img": "icons/commodities/stone/stone-chunk-moss-grey.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>A stone furred with springmoss is always wet, and a clump wrung out over a cup gives clean water again and again. Cave dwellers say a new spring rises within a year wherever a scrap of it is dropped.</p><p><em>Tier 4 · Healing Herb · Found: Swamp, Underground</em></p>",
+      "chat": ""
+    },
+    "identifier": "springmoss",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "springmoss",
+      "kind": "raw",
+      "tier": 4,
+      "family": "healing-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "underground"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "healing-herb",
+        "healing-herb-t4",
+        "healing-herb-t1+",
+        "healing-herb-t2+",
+        "healing-herb-t3+",
+        "healing-herb-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

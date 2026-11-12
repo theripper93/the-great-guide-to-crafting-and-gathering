@@ -1,0 +1,174 @@
+{
+  "_id": "ggcgqGVNub8v9g7G",
+  "_key": "!items!ggcgqGVNub8v9g7G",
+  "name": "Polar Bear Hide Armor",
+  "type": "equipment",
+  "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
+  "folder": "ggcgjvAUi95THeg8",
+  "system": {
+    "description": {
+      "value": "<p>Ice fishers wear a polar bear coat open at the throat on nights that freeze the lake solid.</p><p>While you wear this armor, you have Resistance to Cold damage (<em>Floe Warmth</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "polar-bear-hide-armor",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 12,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 12,
+      "dex": 2
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "medium",
+      "baseItem": "hide"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Floe Warmth",
+      "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.traits.dr.value",
+            "type": "add",
+            "value": "cold",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgS4hybPV100cZ",
+      "_key": "!items.effects!ggcgqGVNub8v9g7G.ggcgS4hybPV100cZ",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "polar-bear-hide-armor",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "light-armor",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "passive-armor",
+      "priceClass": "E",
+      "base": "hide"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-light-armor",
+        "leatherworking-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

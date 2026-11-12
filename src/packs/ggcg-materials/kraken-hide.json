@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg4aydlBzyl5Yv",
+  "_key": "!items!ggcg4aydlBzyl5Yv",
+  "name": "Kraken Hide",
+  "type": "loot",
+  "img": "icons/commodities/biological/tentacle-purple-white.webp",
+  "folder": "ggcgFMfWH9jZN7WP",
+  "system": {
+    "description": {
+      "value": "<p>Kraken hide is purple above and white beneath, and under water it is too slick to hold. Yet its suckers still grip whatever presses against them, and a hand laid flat on the hide has to be peeled away one finger at a time.</p><p><em>Tier 4 · Boss Trophy · Found: Monstrosity</em></p>",
+      "chat": ""
+    },
+    "identifier": "kraken-hide",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4800,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "kraken-hide",
+      "kind": "raw",
+      "tier": 4,
+      "family": "boss-trophy",
+      "subcategory": "boss-trophies",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "monstrosity"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "boss-trophy",
+        "boss-trophy-t4",
+        "boss-trophy-t1+",
+        "boss-trophy-t2+",
+        "boss-trophy-t3+",
+        "boss-trophy-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

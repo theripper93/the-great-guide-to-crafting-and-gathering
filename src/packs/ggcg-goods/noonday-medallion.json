@@ -1,0 +1,155 @@
+{
+  "_id": "ggcgVr9OQUARZwE9",
+  "_key": "!items!ggcgVr9OQUARZwE9",
+  "name": "Noonday Medallion",
+  "type": "equipment",
+  "img": "icons/equipment/neck/amulet-round-star-gold.webp",
+  "folder": "ggcg9iwoFMoObssr",
+  "system": {
+    "description": {
+      "value": "<p>At midday its citrines throw a small yellow star onto the wearer's chest.</p><p>You can use this as a Holy Symbol for your spells. While you hold it, you have a +1 bonus to spell attack rolls.</p>",
+      "chat": ""
+    },
+    "identifier": "noonday-medallion",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "foc",
+      "mgc"
+    ],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "required",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Noonday Medallion",
+      "img": "icons/equipment/neck/amulet-round-star-gold.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.rolls.attack.msak.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.rolls.attack.rsak.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgcDxXfrsn8LJW",
+      "_key": "!items.effects!ggcgVr9OQUARZwE9.ggcgcDxXfrsn8LJW",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "focusType": "holy",
+      "slug": "noonday-medallion",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "foci",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "spell-focus",
+      "priceClass": "E"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-foci"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

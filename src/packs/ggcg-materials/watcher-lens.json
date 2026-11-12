@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgjN8M9kdPBxyO",
+  "_key": "!items!ggcgjN8M9kdPBxyO",
+  "name": "Watcher Lens",
+  "type": "loot",
+  "img": "icons/commodities/treasure/glass-crystal-green.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A green crystal lens, ground thin and perfectly clear.</p><p><em>Tier 2 · Arcane Crystal · Found: Construct</em></p>",
+      "chat": ""
+    },
+    "identifier": "watcher-lens",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "watcher-lens",
+      "kind": "raw",
+      "tier": 2,
+      "family": "arcane-crystal",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "construct"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-crystal",
+        "arcane-crystal-t2",
+        "arcane-crystal-t1+",
+        "arcane-crystal-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

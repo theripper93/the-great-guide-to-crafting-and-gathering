@@ -1,0 +1,86 @@
+{
+  "_id": "ggcg5fut5gGt3Mhq",
+  "_key": "!items!ggcg5fut5gGt3Mhq",
+  "name": "Cassia Bark",
+  "type": "loot",
+  "img": "icons/consumables/plants/dried-bundle-tied-stems-sticks-brown.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>Curled quills of cassia bark that smell warm and sweet.</p><p><em>Tier 2 · Bark · Found: Desert, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "cassia-bark",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cassia-bark",
+      "kind": "raw",
+      "tier": 2,
+      "family": "bark",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "desert",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bark",
+        "bark-t2",
+        "bark-t1+",
+        "bark-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

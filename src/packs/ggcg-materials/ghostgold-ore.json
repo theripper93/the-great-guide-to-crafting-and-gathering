@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgFzkgbZ48Op7H",
+  "_key": "!items!ggcgFzkgbZ48Op7H",
+  "name": "Ghostgold Ore",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-pile-gold.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>Ghostgold ore is so pale that a thin flake held up to a candle lets the flame show through. Miners swear its veins move a hand's width between one visit and the next, and they chalk a line along every seam before they climb out.</p><p><em>Tier 3 · Precious Ore · Found: Mountain Vein, Deep Cavern</em></p>",
+      "chat": ""
+    },
+    "identifier": "ghostgold-ore",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "ghostgold-ore",
+      "kind": "raw",
+      "tier": 3,
+      "family": "precious-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "mountain-vein",
+        "deep-cavern"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "precious-ore",
+        "precious-ore-t3",
+        "precious-ore-t1+",
+        "precious-ore-t2+",
+        "precious-ore-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

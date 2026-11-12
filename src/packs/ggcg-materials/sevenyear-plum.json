@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgfEIB4Y1vO7Np",
+  "_key": "!items!ggcgfEIB4Y1vO7Np",
+  "name": "Sevenyear Plum",
+  "type": "loot",
+  "img": "icons/consumables/fruit/plum-ripe-purple.webp",
+  "folder": "ggcgzHXR1eHOHoZV",
+  "system": {
+    "description": {
+      "value": "<p>A sevenyear plum tree blooms and fruits only once in seven years, and the dark purple plums all ripen on the same night. Villages near one keep careful count of the years, and some say a child born in a plum year is never ill.</p><p><em>Tier 4 · Wild Fruit · Found: Forest, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "sevenyear-plum",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sevenyear-plum",
+      "kind": "raw",
+      "tier": 4,
+      "family": "wild-fruit",
+      "subcategory": "wild-edibles",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "wild-fruit",
+        "wild-fruit-t4",
+        "wild-fruit-t1+",
+        "wild-fruit-t2+",
+        "wild-fruit-t3+",
+        "wild-fruit-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

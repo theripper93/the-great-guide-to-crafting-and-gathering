@@ -1,0 +1,195 @@
+{
+  "_id": "ggcgP82DW0D3N8fd",
+  "_key": "!items!ggcgP82DW0D3N8fd",
+  "name": "Drover's Mash",
+  "type": "consumable",
+  "img": "icons/containers/misc/bucket-wooden-brown.webp",
+  "folder": "ggcgZwZLRLrsrDPy",
+  "system": {
+    "description": {
+      "value": "<p>Oxen fed drover's mash at dusk are up and pulling before the drovers wake.</p><p>Over 1 minute, you can feed a serving of this to a creature you can touch. It provides a day's food and grants [[/heal 4 type=temphp]].</p>",
+      "chat": ""
+    },
+    "identifier": "drovers-mash",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "food",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgBMH9bokKhpaK": {
+        "type": "heal",
+        "name": "Feed",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "minute",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "1",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "healing": {
+          "number": null,
+          "denomination": null,
+          "bonus": "4",
+          "types": [
+            "temphp"
+          ],
+          "custom": {
+            "enabled": false,
+            "formula": ""
+          },
+          "modifiers": [],
+          "scaling": {
+            "mode": "",
+            "number": 1,
+            "formula": ""
+          }
+        },
+        "_id": "ggcgBMH9bokKhpaK"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "drovers-mash",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "bait-feed",
+      "activity": null,
+      "profession": "cooking",
+      "sources": [],
+      "archetype": "meal",
+      "priceClass": "B",
+      "batch": 4
+    },
+    "mastercrafted": {
+      "tags": [
+        "cooking-bait-feed"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

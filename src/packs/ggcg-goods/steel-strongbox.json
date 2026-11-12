@@ -1,0 +1,96 @@
+{
+  "_id": "ggcgIvFhfZ0pOG8G",
+  "_key": "!items!ggcgIvFhfZ0pOG8G",
+  "name": "Steel Strongbox",
+  "type": "container",
+  "img": "icons/containers/chest/chest-reinforced-steel-brown.webp",
+  "folder": "ggcge9gvl5Lhb1iC",
+  "system": {
+    "description": {
+      "value": "<p>Faint runes are cut into the iron hinge of the lid.</p><p>It holds up to 40 pounds of gear.</p>",
+      "chat": ""
+    },
+    "identifier": "steel-strongbox",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 40,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "steel-strongbox",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "tools-hardware",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "B"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-tools-hardware"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

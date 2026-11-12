@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgjBxuJivDwJEb",
+  "_key": "!tables!ggcgjBxuJivDwJEb",
+  "name": "Hill Quarry (Tier 4)",
+  "img": "icons/magic/earth/projectile-moonrock-asteroid.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgrYooQFb5ZPpF",
+      "_key": "!tables.results!ggcgjBxuJivDwJEb.ggcgrYooQFb5ZPpF",
+      "weight": 47,
+      "range": [
+        1,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Anvil Coal",
+      "img": "icons/commodities/stone/ore-chunk-red-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwPADIu1YwK7b"
+    },
+    {
+      "_id": "ggcgVNvnFj9FA64W",
+      "_key": "!tables.results!ggcgjBxuJivDwJEb.ggcgVNvnFj9FA64W",
+      "weight": 23,
+      "range": [
+        48,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Starfall Stone",
+      "img": "icons/commodities/stone/stone-cratered-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgRYbPYRVfFVIi"
+    },
+    {
+      "_id": "ggcgPHwzbwX7WfJH",
+      "_key": "!tables.results!ggcgjBxuJivDwJEb.ggcgPHwzbwX7WfJH",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Duskfire Geode",
+      "img": "icons/commodities/stone/geode-raw-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgoozD2fZqkrm8"
+    },
+    {
+      "_id": "ggcgLDaw0Xmohm6f",
+      "_key": "!tables.results!ggcgjBxuJivDwJEb.ggcgLDaw0Xmohm6f",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ringing Basalt",
+      "img": "icons/commodities/stone/stone-chunk-iron-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgo4mmGJE0TX4O"
+    },
+    {
+      "_id": "ggcg3iCWfQCpGRgg",
+      "_key": "!tables.results!ggcgjBxuJivDwJEb.ggcg3iCWfQCpGRgg",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Scoria Coal",
+      "img": "icons/commodities/stone/ore-chunk-magma-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcga6Wh8AN9t9us"
+    },
+    {
+      "_id": "ggcgIQZZd0neDpuW",
+      "_key": "!tables.results!ggcgjBxuJivDwJEb.ggcgIQZZd0neDpuW",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Brimstone Clay",
+      "img": "icons/commodities/stone/ore-chunk-yellow-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgQQncHU1QQ6lt"
+    },
+    {
+      "_id": "ggcgMmb8zeXR3LmO",
+      "_key": "!tables.results!ggcgjBxuJivDwJEb.ggcgMmb8zeXR3LmO",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Soapstone",
+      "img": "icons/commodities/stone/stone-chunk-moss-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5XPKbhtQcgmm"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgNIGb51gAVWLu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mining-hill-quarry-t4",
+      "activity": "mining",
+      "source": "hill-quarry",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

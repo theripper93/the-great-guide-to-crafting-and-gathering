@@ -1,0 +1,197 @@
+{
+  "_id": "ggcghWq3UUO9YnPd",
+  "_key": "!items!ggcghWq3UUO9YnPd",
+  "name": "Potion of Healing (Superior)",
+  "type": "consumable",
+  "img": "icons/consumables/potions/flask-corked-red-glow.webp",
+  "folder": "ggcg625Mrg79sLVh",
+  "system": {
+    "activities": {
+      "eT46ucSUynLRTs6N": {
+        "type": "heal",
+        "name": "Consume",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": "",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false,
+          "expiry": null
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": "",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false,
+            "count": "",
+            "type": "creature",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "healing": {
+          "number": 8,
+          "denomination": 4,
+          "types": [
+            "healing"
+          ],
+          "custom": {
+            "enabled": false
+          },
+          "scaling": {
+            "number": 1
+          },
+          "bonus": "8",
+          "modifiers": []
+        },
+        "_id": "eT46ucSUynLRTs6N",
+        "img": "",
+        "visibility": {
+          "requireMagic": true,
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "identifier": "",
+          "requireAttunement": false,
+          "requireIdentification": false
+        },
+        "behaviors": [],
+        "flags": {}
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": true,
+      "max": "1"
+    },
+    "description": {
+      "value": "<p>Flecks of gilded blood give the superior healing potion its soft red glow.</p><p><em>Potion, Rare</em></p><p>You regain 8d4 + 8 Hit Points when you drink this potion.</p><p>Whatever its potency, the potion's red liquid glimmers when agitated.</p>",
+      "chat": ""
+    },
+    "identifier": "superior-potion-of-healing",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": ""
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        },
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "properties": [
+      "mgc"
+    ],
+    "rarities": [
+      "rare"
+    ]
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "potion-of-healing-superior",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "healing",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.dmgSuperiorPotio"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemy-healing"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.dmgSuperiorPotio",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

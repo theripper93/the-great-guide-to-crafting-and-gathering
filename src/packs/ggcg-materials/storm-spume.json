@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgUYLzpNIVeQU9",
+  "_key": "!items!ggcgUYLzpNIVeQU9",
+  "name": "Storm Spume",
+  "type": "loot",
+  "img": "icons/magic/water/bubbles-air-water-light.webp",
+  "folder": "ggcga3lZJIAgOhvl",
+  "system": {
+    "description": {
+      "value": "<p>Storm spume is the foam torn from the tops of waves in the worst gales, and unlike ordinary foam it never melts away. In a stoppered jar it lasts for years, and it gives a small crack of thunder whenever the jar is shaken.</p><p><em>Tier 4 · Essence · Found: Sea Coast, River and Stream</em></p>",
+      "chat": ""
+    },
+    "identifier": "storm-spume",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "storm-spume",
+      "kind": "raw",
+      "tier": 4,
+      "family": "essence",
+      "subcategory": "exotic-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "river-stream"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "essence",
+        "essence-t4",
+        "essence-t1+",
+        "essence-t2+",
+        "essence-t3+",
+        "essence-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

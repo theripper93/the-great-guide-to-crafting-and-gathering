@@ -1,0 +1,280 @@
+{
+  "_id": "ggcgkjlLxDk95Bmk",
+  "_key": "!items!ggcgkjlLxDk95Bmk",
+  "name": "Nothic Rod",
+  "type": "equipment",
+  "img": "icons/weapons/staves/staff-orb-purple.webp",
+  "folder": "ggcg1q40oFLjEHLb",
+  "system": {
+    "description": {
+      "value": "<p>A nothic eye, dried and sealed under purple glass, crowns the rod.</p><p>It has 2 charges and regains all expended charges daily at dawn. As an action, you can expend 1 charge to choose a creature within 60 feet. It makes a [[/save ability=wis dc=13 format=long]], taking [[/damage 2d6 type=psychic]] damage on a failed save or half as much damage on a successful one. A creature that fails also has the &amp;Reference[Frightened apply=false] condition until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "identifier": "nothic-rod",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "rod",
+      "baseItem": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "2",
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll",
+          "formula": ""
+        }
+      ]
+    },
+    "attunement": "required",
+    "activities": {
+      "ggcgxfY993WIUybl": {
+        "type": "save",
+        "name": "Use",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgXIys4aFcJECy",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "onSave": false
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "60",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "1",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "wis"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "13"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "number": 2,
+              "denomination": 6,
+              "bonus": "",
+              "types": [
+                "psychic"
+              ],
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "modifiers": [],
+              "scaling": {
+                "mode": "",
+                "number": 1,
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "_id": "ggcgxfY993WIUybl"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Nothic Rod: Frightened",
+      "img": "icons/weapons/staves/staff-orb-purple.webp",
+      "type": "base",
+      "system": {
+        "changes": [],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 1,
+        "units": "rounds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [
+        "frightened"
+      ],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgXIys4aFcJECy",
+      "_key": "!items.effects!ggcgkjlLxDk95Bmk.ggcgXIys4aFcJECy",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "nothic-rod",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "charged-items",
+      "activity": null,
+      "profession": "enchanting",
+      "sources": [],
+      "archetype": "charged-burst",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "enchanting-charged-items",
+        "enchanting-charged"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "_id": "ggcgCxt3LVMnLjfN",
+  "_key": "!items!ggcgCxt3LVMnLjfN",
+  "name": "Costume",
+  "type": "equipment",
+  "img": "icons/equipment/head/hat-cocked-feather-green.webp",
+  "folder": "ggcg8YZ4Xw64aRBg",
+  "system": {
+    "description": {
+      "value": "<p>A green cocked hat with a feather, made to be seen from the back row.</p><p>While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 4,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "properties": [],
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "activities": {},
+    "identifier": "costume",
+    "rarities": [],
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "costume",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "clothing",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagCostume0000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-clothing"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagCostume0000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

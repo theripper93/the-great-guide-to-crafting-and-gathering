@@ -1,0 +1,96 @@
+{
+  "_id": "ggcgcXR4PnJ9P97c",
+  "_key": "!items!ggcgcXR4PnJ9P97c",
+  "name": "Agave-Lashed Pack",
+  "type": "container",
+  "img": "icons/containers/bags/pack-canvas-white-brown.webp",
+  "folder": "ggcgkSWmyUORlyXt",
+  "system": {
+    "description": {
+      "value": "<p>Agave cord lashings hold this pack square, however much is crammed in.</p><p>It holds up to 150 pounds of gear.</p>",
+      "chat": ""
+    },
+    "identifier": "agave-lashed-pack",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 150,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "agave-lashed-pack",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "packs-wraps",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-packs-wraps"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

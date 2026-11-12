@@ -1,0 +1,409 @@
+{
+  "_id": "ggcg3UPfReRZyGyu",
+  "_key": "!tables!ggcg3UPfReRZyGyu",
+  "name": "Arctic Herbs (Tier 1)",
+  "img": "icons/magic/water/water-iceberg-bubbles.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcguBSHVTrYNqCz",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcguBSHVTrYNqCz",
+      "weight": 13,
+      "range": [
+        1,
+        13
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Arnica",
+      "img": "icons/commodities/flowers/cornflower-gold.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEppyku2zBn3K"
+    },
+    {
+      "_id": "ggcgYx44xbUDqpcY",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgYx44xbUDqpcY",
+      "weight": 13,
+      "range": [
+        14,
+        26
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sea Buckthorn",
+      "img": "icons/consumables/fruit/berries-hanging-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcguxQ7XLsPjGTp"
+    },
+    {
+      "_id": "ggcgoV243PN3Z3Fw",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgoV243PN3Z3Fw",
+      "weight": 13,
+      "range": [
+        27,
+        39
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dandelion Root",
+      "img": "icons/consumables/vegetable/root-parsnip-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgn3scrIDURnKe"
+    },
+    {
+      "_id": "ggcgao2vabVnkcoF",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgao2vabVnkcoF",
+      "weight": 13,
+      "range": [
+        40,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Marram Grass",
+      "img": "icons/consumables/plants/grass-dried-bundle-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBCWzAht0wiJe"
+    },
+    {
+      "_id": "ggcgfAQFFSQoU3YQ",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgfAQFFSQoU3YQ",
+      "weight": 7,
+      "range": [
+        53,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Maple Sap",
+      "img": "icons/commodities/materials/liquid-droplet-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg1Z1jVfWa0gyA"
+    },
+    {
+      "_id": "ggcgaIgek0kd6n6X",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgaIgek0kd6n6X",
+      "weight": 7,
+      "range": [
+        60,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Birch Bark",
+      "img": "icons/commodities/wood/bark-beige.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg6N5l3deJR6tF"
+    },
+    {
+      "_id": "ggcgpRI912ZoZnaj",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgpRI912ZoZnaj",
+      "weight": 7,
+      "range": [
+        67,
+        73
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fly Agaric",
+      "img": "icons/consumables/mushrooms/mushroom-spotted-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgttCAbcwXwUfL"
+    },
+    {
+      "_id": "ggcglFXiBrETwJKl",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcglFXiBrETwJKl",
+      "weight": 7,
+      "range": [
+        74,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sea Lettuce",
+      "img": "icons/consumables/vegetable/spinach-leafy-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBHC9v1yAyWrC"
+    },
+    {
+      "_id": "ggcg8L8xEEB5fFBH",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcg8L8xEEB5fFBH",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pine Log",
+      "img": "icons/commodities/wood/log-rough-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg0HJyF92ul6gY"
+    },
+    {
+      "_id": "ggcgpl1flbvSYS2v",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgpl1flbvSYS2v",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pine Pitch",
+      "img": "icons/commodities/gems/gem-amber-insect-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgo7M4JbeCydJV"
+    },
+    {
+      "_id": "ggcgqjlY0rL7VDzL",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgqjlY0rL7VDzL",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lingonberry",
+      "img": "icons/consumables/fruit/gooseberry-stem-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5DCPLR1jTPUo"
+    },
+    {
+      "_id": "ggcgTWbJjeCRF4Fn",
+      "_key": "!tables.results!ggcg3UPfReRZyGyu.ggcgTWbJjeCRF4Fn",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bogbean",
+      "img": "icons/consumables/plants/lily-pad-leaf-stem.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgYQA4dkQjeEkP"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-arctic-t1",
+      "activity": "gathering",
+      "source": "arctic",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

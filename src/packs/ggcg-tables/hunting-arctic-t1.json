@@ -1,0 +1,347 @@
+{
+  "_id": "ggcgvhpw6NHTP5w5",
+  "_key": "!tables!ggcgvhpw6NHTP5w5",
+  "name": "Arctic Game (Tier 1)",
+  "img": "icons/magic/water/ice-crystal-white.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgWT6XwMuz7N6C",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcgWT6XwMuz7N6C",
+      "weight": 18,
+      "range": [
+        1,
+        18
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Pelt",
+      "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvcfTuotMXqGm"
+    },
+    {
+      "_id": "ggcgmoPvK6Ldb8Rp",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcgmoPvK6Ldb8Rp",
+      "weight": 17,
+      "range": [
+        19,
+        35
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Blubber",
+      "img": "icons/consumables/meat/round-steak-fat-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgSZ7mxWTLRJ8c"
+    },
+    {
+      "_id": "ggcgna7wPDUyF8Hp",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcgna7wPDUyF8Hp",
+      "weight": 17,
+      "range": [
+        36,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Loin",
+      "img": "icons/consumables/meat/shank-aged-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8MI08LmXEnBU"
+    },
+    {
+      "_id": "ggcgx85CtQrhTctQ",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcgx85CtQrhTctQ",
+      "weight": 10,
+      "range": [
+        53,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Rib",
+      "img": "icons/commodities/bones/bones-rib-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgZJ0f53yjKUrB"
+    },
+    {
+      "_id": "ggcgrHinuWkzzEfp",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcgrHinuWkzzEfp",
+      "weight": 9,
+      "range": [
+        63,
+        71
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goose Breast",
+      "img": "icons/consumables/meat/chicken-breast-raw-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg9bEIOcJ9NIjk"
+    },
+    {
+      "_id": "ggcgTn5XBVbhwri6",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcgTn5XBVbhwri6",
+      "weight": 9,
+      "range": [
+        72,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hare Pelt",
+      "img": "icons/commodities/leather/fur-simple-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgRlovxOxn4skA"
+    },
+    {
+      "_id": "ggcg4qfOT4dwHqOd",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcg4qfOT4dwHqOd",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gull Feather",
+      "img": "icons/commodities/materials/feather-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgtnXple2XWieX"
+    },
+    {
+      "_id": "ggcga1c5lTVZAKhn",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcga1c5lTVZAKhn",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goose Feather",
+      "img": "icons/commodities/biological/wing-bird-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg4zFG4RSccXL0"
+    },
+    {
+      "_id": "ggcg1JUrrs7npAqZ",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcg1JUrrs7npAqZ",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wolf Pelt",
+      "img": "icons/commodities/leather/fur-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgD1CdEGHBuqH2"
+    },
+    {
+      "_id": "ggcgYDyaMpU3V9kq",
+      "_key": "!tables.results!ggcgvhpw6NHTP5w5.ggcgYDyaMpU3V9kq",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Walrus Tusk",
+      "img": "icons/commodities/bones/horn-simple-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgdEXDu2CU7sRQ"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcg4ACbRwYtlMkx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hunting-arctic-t1",
+      "activity": "hunting",
+      "source": "arctic",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

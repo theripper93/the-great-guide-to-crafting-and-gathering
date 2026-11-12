@@ -1,0 +1,115 @@
+{
+  "_id": "ggcgQ6EPyxUHnPE2",
+  "_key": "!items!ggcgQ6EPyxUHnPE2",
+  "name": "Rhino-Horn Bolts",
+  "type": "consumable",
+  "img": "icons/weapons/ammunition/arrow-simple-grey.webp",
+  "folder": "ggcgBbqXHvYUcSGj",
+  "system": {
+    "description": {
+      "value": "<p>Blunt cones of gray rhinoceros horn tip these heavy bolts.</p><p>A hit with this ammunition deals an extra [[/damage 3d6 type=bludgeoning]] damage. A piece is used up when it is fired.</p>",
+      "chat": ""
+    },
+    "identifier": "rhino-horn-bolts",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.075,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": 3,
+        "denomination": 6,
+        "types": [
+          "bludgeoning"
+        ],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "number": 1,
+          "mode": "",
+          "formula": ""
+        },
+        "bonus": "",
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": "crossbowBolt"
+    },
+    "magicalBonus": "",
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "rhino-horn-bolts",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "ammunition",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "special-ammunition",
+      "priceClass": "C",
+      "base": "crossbowBolt",
+      "batch": 5
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-ammunition"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

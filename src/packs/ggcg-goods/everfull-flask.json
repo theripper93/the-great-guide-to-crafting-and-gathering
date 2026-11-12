@@ -1,0 +1,192 @@
+{
+  "_id": "ggcgnzDOUkm2YTMT",
+  "_key": "!items!ggcgnzDOUkm2YTMT",
+  "name": "Everfull Flask",
+  "type": "equipment",
+  "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
+  "folder": "ggcgCj8fQCyrGjWW",
+  "system": {
+    "description": {
+      "value": "<p>A round flask of thick red glass that is always a little heavier than it looks. However long it is held upside down, one last drop stays in the neck and will not fall.</p><p><strong>Drink.</strong> As a Bonus Action, you drink a dose or give it to a creature within 5 feet, which regains [[/heal 10d4+20]] Hit Points. The flask holds three doses and refills at dawn.</p><p><strong>One Field Restored.</strong> A dose poured onto dead ground brings one field, garden or orchard back to bearing by the next morning, whatever killed it. Land healed this way never fails again while the family that owned it then still works it.</p>",
+      "chat": ""
+    },
+    "identifier": "everfull-flask",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {
+      "ggcgbuAaCOWdAtFs": {
+        "type": "heal",
+        "name": "Drink",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "activityUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "3",
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "recoverAll",
+              "formula": ""
+            }
+          ]
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "healing": {
+          "number": 10,
+          "denomination": 4,
+          "bonus": "20",
+          "types": [
+            "healing"
+          ],
+          "custom": {
+            "enabled": false,
+            "formula": ""
+          },
+          "modifiers": [],
+          "scaling": {
+            "mode": "",
+            "number": 1,
+            "formula": ""
+          }
+        },
+        "_id": "ggcgbuAaCOWdAtFs"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "everfull-flask",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "healing",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

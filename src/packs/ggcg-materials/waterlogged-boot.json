@@ -1,0 +1,84 @@
+{
+  "_id": "ggcgwYD81tD4JOM8",
+  "_key": "!items!ggcgwYD81tD4JOM8",
+  "name": "Waterlogged Boot",
+  "type": "loot",
+  "img": "icons/commodities/leather/boot-torn-tan.webp",
+  "folder": "ggcgXWbpjWFVffG9",
+  "system": {
+    "description": {
+      "value": "<p>A sodden leather boot, heavy with silt and weed.</p><p><em>Tier 1 · Salvage · Found: Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "waterlogged-boot",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "waterlogged-boot",
+      "kind": "raw",
+      "tier": 1,
+      "family": "salvage",
+      "subcategory": "non-fish-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "salvage",
+        "salvage-t1",
+        "salvage-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

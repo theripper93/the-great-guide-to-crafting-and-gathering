@@ -1,0 +1,174 @@
+{
+  "_id": "ggcgPBAcQjJrrU68",
+  "_key": "!items!ggcgPBAcQjJrrU68",
+  "name": "Smoke-Tanned Studded Leather Armor",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
+  "folder": "ggcgmGKKaQUSAayq",
+  "system": {
+    "description": {
+      "value": "<p>Smoke-dark leather with blackened studs that give back no glint.</p><p>While you wear this armor, you have a +2 bonus to Stealth checks (<em>Smoke-Dark Stealth</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "smoke-tanned-studded-leather-armor",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 13,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 12,
+      "dex": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "light",
+      "baseItem": "studded"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Smoke-Dark Stealth",
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.ste.roll.bonus",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgqbqZ9mxpmdUD",
+      "_key": "!items.effects!ggcgPBAcQjJrrU68.ggcgqbqZ9mxpmdUD",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "smoke-tanned-studded-leather-armor",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "light-armor",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "passive-armor",
+      "priceClass": "E",
+      "base": "studded"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-light-armor",
+        "leatherworking-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

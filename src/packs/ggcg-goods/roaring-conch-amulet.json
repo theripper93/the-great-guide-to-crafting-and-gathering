@@ -1,0 +1,280 @@
+{
+  "_id": "ggcgVcnUrcl9qF0X",
+  "_key": "!items!ggcgVcnUrcl9qF0X",
+  "name": "Roaring Conch Amulet",
+  "type": "equipment",
+  "img": "icons/equipment/neck/necklace-shell-purple.webp",
+  "folder": "ggcglHgYFGDHmPrS",
+  "system": {
+    "description": {
+      "value": "<p>Held to the ear, the spiral conch carries the noise of a storm at sea.</p><p>It has 3 charges and regains all expended charges daily at dawn. As an action, you can expend 1 charge to choose a point within 60 feet. Each creature in a 10-foot-radius Sphere there makes a [[/save ability=con dc=15 format=long]], taking [[/damage 4d6 type=thunder]] damage on a failed save or half as much damage on a successful one. A creature that fails also has the &amp;Reference[Deafened apply=false] condition until the end of its next turn.</p>",
+      "chat": ""
+    },
+    "identifier": "roaring-conch-amulet",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "wondrous",
+      "baseItem": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "3",
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll",
+          "formula": ""
+        }
+      ]
+    },
+    "attunement": "required",
+    "activities": {
+      "ggcgrlXqcWNLzWgA": {
+        "type": "save",
+        "name": "Use",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcg9rm9yBcoyMd4",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "onSave": false
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "60",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "sphere",
+            "size": "10",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "con"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "15"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "number": 4,
+              "denomination": 6,
+              "bonus": "",
+              "types": [
+                "thunder"
+              ],
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "modifiers": [],
+              "scaling": {
+                "mode": "",
+                "number": 1,
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "_id": "ggcgrlXqcWNLzWgA"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Roaring Conch Amulet: Deafened",
+      "img": "icons/equipment/neck/necklace-shell-purple.webp",
+      "type": "base",
+      "system": {
+        "changes": [],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 1,
+        "units": "rounds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [
+        "deafened"
+      ],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcg9rm9yBcoyMd4",
+      "_key": "!items.effects!ggcgVcnUrcl9qF0X.ggcg9rm9yBcoyMd4",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "roaring-conch-amulet",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "amulets",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "charged-burst",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-amulets",
+        "jewelcrafting-charged"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "_id": "ggcgy1XzvVlgg9da",
+  "_key": "!items!ggcgy1XzvVlgg9da",
+  "name": "Icemint Cordial",
+  "type": "consumable",
+  "img": "icons/consumables/drinks/alcohol-spirits-bottle-blue.webp",
+  "folder": "ggcgZwZLRLrsrDPy",
+  "system": {
+    "description": {
+      "value": "<p>Breath fogs white after a sip of icemint cordial, even on a summer day.</p><p>As an action, you can drink this brew. For 8 hours, you have a 1d6 bonus to Constitution saving throws, but also a 1d6 penalty to Dexterity saving throws (<em>Frostclear Nerve</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "icemint-cordial",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "food",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcguOgI4JmBbzUo": {
+        "type": "utility",
+        "name": "Drink",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgJeQMRbiR2aKS",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "self",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcguOgI4JmBbzUo"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Frostclear Nerve",
+      "img": "icons/consumables/drinks/alcohol-spirits-bottle-blue.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.abilities.con.save.roll.bonus",
+            "type": "add",
+            "value": "1d6",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.abilities.dex.save.roll.bonus",
+            "type": "subtract",
+            "value": "1d6",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 8,
+        "units": "hours",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {
+        "the-great-guide-to-crafting-and-gathering": {
+          "stackGroup": "drink"
+        }
+      },
+      "_id": "ggcgJeQMRbiR2aKS",
+      "_key": "!items.effects!ggcgy1XzvVlgg9da.ggcgJeQMRbiR2aKS",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "icemint-cordial",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "drinks-brews",
+      "activity": null,
+      "profession": "cooking",
+      "sources": [],
+      "archetype": "brew",
+      "priceClass": "C",
+      "stackGroup": "drink",
+      "batch": 2
+    },
+    "mastercrafted": {
+      "tags": [
+        "cooking-drinks-brews"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

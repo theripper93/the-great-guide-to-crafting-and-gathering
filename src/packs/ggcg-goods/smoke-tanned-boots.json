@@ -1,0 +1,144 @@
+{
+  "_id": "ggcglMeYynWVyoQd",
+  "_key": "!items!ggcglMeYynWVyoQd",
+  "name": "Smoke-Tanned Boots",
+  "type": "equipment",
+  "img": "icons/equipment/feet/boots-leather-brown.webp",
+  "folder": "ggcgmGKKaQUSAayq",
+  "system": {
+    "description": {
+      "value": "<p>A new pair of smoke-tanned boots needs no breaking in.</p><p>While you wear it, you have a 5-foot increase in Speed (<em>Long Stride</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "smoke-tanned-boots",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "wondrous",
+      "baseItem": ""
+    },
+    "attunement": "required",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Long Stride",
+      "img": "icons/equipment/feet/boots-leather-brown.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.movement.speeds.walk",
+            "type": "add",
+            "value": "5",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcg6fkzl31O1ge0",
+      "_key": "!items.effects!ggcglMeYynWVyoQd.ggcg6fkzl31O1ge0",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "smoke-tanned-boots",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "worn-gear",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "E"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-worn-gear"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

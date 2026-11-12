@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgwPADIu1YwK7b",
+  "_key": "!items!ggcgwPADIu1YwK7b",
+  "name": "Anvil Coal",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-red-brown.webp",
+  "folder": "ggcgnHAPVlLgXw1d",
+  "system": {
+    "description": {
+      "value": "<p>One lump of anvil coal burns from dawn to dusk.</p><p><em>Tier 4 · Fuel and Flux · Found: Mountain Vein, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "anvil-coal",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "anvil-coal",
+      "kind": "raw",
+      "tier": 4,
+      "family": "fuel-flux",
+      "subcategory": "fuels-fluxes",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "mountain-vein",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fuel-flux",
+        "fuel-flux-t4",
+        "fuel-flux-t1+",
+        "fuel-flux-t2+",
+        "fuel-flux-t3+",
+        "fuel-flux-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

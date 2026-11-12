@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgIA4Pj52zCEuW",
+  "_key": "!tables!ggcgIA4Pj52zCEuW",
+  "name": "Mountain Herbs (Tier 4)",
+  "img": "icons/environment/wilderness/terrain-river-road-gray.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcg04eHBAECdiOF",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcg04eHBAECdiOF",
+      "weight": 24,
+      "range": [
+        1,
+        24
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fogmilk",
+      "img": "icons/commodities/materials/bowl-liquid-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgqJb7AlMNgNpW"
+    },
+    {
+      "_id": "ggcg29J0GnIBwztb",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcg29J0GnIBwztb",
+      "weight": 23,
+      "range": [
+        25,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bedrock Root",
+      "img": "icons/consumables/vegetable/root-carrot-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgbwK4XWXwXai4"
+    },
+    {
+      "_id": "ggcgJ5Pn2EkhE3Kb",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcgJ5Pn2EkhE3Kb",
+      "weight": 23,
+      "range": [
+        48,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Glasswood Bough",
+      "img": "icons/commodities/wood/log-cut-petrified-violet.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgoNhvgmGaNsr9"
+    },
+    {
+      "_id": "ggcgaUDotnj3evLQ",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcgaUDotnj3evLQ",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Skyflax",
+      "img": "icons/consumables/plants/grass-leaves-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg0GxXyKRqDtYQ"
+    },
+    {
+      "_id": "ggcg8ZoSd90SRyPe",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcg8ZoSd90SRyPe",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cragsage",
+      "img": "icons/consumables/plants/leaf-hastate-white-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgMcf28wI9PQC4"
+    },
+    {
+      "_id": "ggcg6pNCVGRpOBxY",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcg6pNCVGRpOBxY",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hammernut",
+      "img": "icons/consumables/nuts/nut-spiked-shell.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg7aijR5tMMABo"
+    },
+    {
+      "_id": "ggcgKV8Q3ZuP2gxk",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcgKV8Q3ZuP2gxk",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cloudcotton",
+      "img": "icons/commodities/flowers/dandelion-pod-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgur7CYghJOC7x"
+    },
+    {
+      "_id": "ggcgyxQMHxqGjRPH",
+      "_key": "!tables.results!ggcgIA4Pj52zCEuW.ggcgyxQMHxqGjRPH",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rimeapple",
+      "img": "icons/consumables/fruit/apple-glowing-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBXsSUQuHP3wc"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-mountain-t4",
+      "activity": "gathering",
+      "source": "mountain",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

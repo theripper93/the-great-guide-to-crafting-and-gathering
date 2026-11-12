@@ -1,0 +1,96 @@
+{
+  "_id": "ggcgltEgR8407Kr3",
+  "_key": "!items!ggcgltEgR8407Kr3",
+  "name": "Russet Haversack",
+  "type": "container",
+  "img": "icons/containers/bags/pack-leather-stitched-tan.webp",
+  "folder": "ggcgmGKKaQUSAayq",
+  "system": {
+    "description": {
+      "value": "<p>Russet leather darkens to a deep red where the straps ride on the shoulders.</p><p>It holds up to 90 pounds of gear.</p>",
+      "chat": ""
+    },
+    "identifier": "russet-haversack",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 90,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "russet-haversack",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "bags-containers",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "B"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-bags-containers"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgnsyCa9OTHvNN",
+  "_key": "!items!ggcgnsyCa9OTHvNN",
+  "name": "Sea Otter",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-simple-brown.webp",
+  "folder": "ggcgWv9FyprnjsIX",
+  "system": {
+    "description": {
+      "value": "<p>Sea otter meat is dark and oily, with a strong taste of shellfish.</p><p><em>Tier 2 · Game Meat · Found: Coast, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "sea-otter",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sea-otter",
+      "kind": "raw",
+      "tier": 2,
+      "family": "game-meat",
+      "subcategory": "small-game",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "coast",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "game-meat",
+        "game-meat-t2",
+        "game-meat-t1+",
+        "game-meat-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgCRHWjCKa8Xba",
+  "_key": "!items!ggcgCRHWjCKa8Xba",
+  "name": "Starfall Vellum",
+  "type": "loot",
+  "img": "icons/sundries/documents/paper-plain-white.webp",
+  "folder": "ggcguz2rCpU21hKF",
+  "system": {
+    "description": {
+      "value": "<p>Starfall vellum is white with a scatter of tiny silver specks, and over a year they wheel slowly across the page. Scribes say the specks keep pace with the real stars, and that an old sheet can tell the season.</p><p><em>Tier 4 · Parchment</em></p>",
+      "chat": ""
+    },
+    "identifier": "starfall-vellum",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "starfall-vellum",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "parchment",
+      "subcategory": "leathers-cured-hides",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "parchment",
+        "parchment-t4",
+        "parchment-t1+",
+        "parchment-t2+",
+        "parchment-t3+",
+        "parchment-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

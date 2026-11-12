@@ -1,0 +1,285 @@
+{
+  "_id": "ggcg2VyxGwDaqRgL",
+  "_key": "!tables!ggcg2VyxGwDaqRgL",
+  "name": "Celestial Harvest",
+  "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgNdO2B8noA18t",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgNdO2B8noA18t",
+      "weight": 62,
+      "range": [
+        1,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pegasus Feather",
+      "img": "icons/commodities/materials/feather-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgyMFNQAYXlzKo"
+    },
+    {
+      "_id": "ggcgvSWaWBZToH0k",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgvSWaWBZToH0k",
+      "weight": 62,
+      "range": [
+        63,
+        124
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Halo Dust",
+      "img": "icons/commodities/materials/bowl-powder-gold.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgJf7wKiPEWbAw"
+    },
+    {
+      "_id": "ggcgmrHdrERwR372",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgmrHdrERwR372",
+      "weight": 28,
+      "range": [
+        125,
+        152
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Unicorn Mane",
+      "img": "icons/commodities/materials/hair-tuft-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg2FUZuNSczAq0"
+    },
+    {
+      "_id": "ggcgXImRz3FiZq0K",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgXImRz3FiZq0K",
+      "weight": 28,
+      "range": [
+        153,
+        180
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sphinx Claw",
+      "img": "icons/commodities/claws/claw-spiked-gold.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgs0idp8C5XZAO"
+    },
+    {
+      "_id": "ggcgsmrPorprbU3w",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgsmrPorprbU3w",
+      "weight": 16,
+      "range": [
+        181,
+        196
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gilded Blood",
+      "img": "icons/commodities/materials/liquid-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgYoJkXyPPHPD9"
+    },
+    {
+      "_id": "ggcgkJOh5eRMft57",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgkJOh5eRMft57",
+      "weight": 1,
+      "range": [
+        197,
+        197
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Celestial Tear",
+      "img": "icons/commodities/gems/gem-teardrop-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgjVBda3Be90O9"
+    },
+    {
+      "_id": "ggcgZWayZ9ZT10Fx",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgZWayZ9ZT10Fx",
+      "weight": 1,
+      "range": [
+        198,
+        198
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Skyward Pinion",
+      "img": "icons/commodities/materials/feather-blue-glowing.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgbNUuNhXu0Ucf"
+    },
+    {
+      "_id": "ggcgNNKIMxnnPoYq",
+      "_key": "!tables.results!ggcg2VyxGwDaqRgL.ggcgNNKIMxnnPoYq",
+      "weight": 2,
+      "range": [
+        199,
+        200
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Solar Wing Feather",
+      "img": "icons/commodities/materials/feather-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg7Qqv8YsMtE1e"
+    }
+  ],
+  "formula": "1d200",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-celestial",
+      "activity": "monster",
+      "source": "celestial",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

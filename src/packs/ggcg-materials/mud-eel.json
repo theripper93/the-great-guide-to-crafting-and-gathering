@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgAf1yM5EuxDXE",
+  "_key": "!items!ggcgAf1yM5EuxDXE",
+  "name": "Mud Eel",
+  "type": "loot",
+  "img": "icons/environment/creatures/fish-horned-grey-blue.webp",
+  "folder": "ggcgnCDNRe33ZHiQ",
+  "system": {
+    "description": {
+      "value": "<p>Anglers who leave a night line in a pond often find it tied in knots by morning, with a mud eel sulking at the end. Nobody knows how they do it. Smoked, the slick gray flesh keeps for weeks.</p><p><em>Tier 1 · Fish · Found: Lake and Pond, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "mud-eel",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mud-eel",
+      "kind": "raw",
+      "tier": 1,
+      "family": "fish",
+      "subcategory": "freshwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "lake-pond",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t1",
+        "fish-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

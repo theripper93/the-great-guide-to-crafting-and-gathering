@@ -1,0 +1,316 @@
+{
+  "_id": "ggcgQH1EUTaWAbQP",
+  "_key": "!tables!ggcgQH1EUTaWAbQP",
+  "name": "Underground Game (Tier 2)",
+  "img": "icons/creatures/mammals/bat-giant-tattered-purple.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgoEJFLWivldwK",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgoEJFLWivldwK",
+      "weight": 21,
+      "range": [
+        1,
+        21
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Bat Wing",
+      "img": "icons/commodities/biological/wing-lizard-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHdkbHryEvsty"
+    },
+    {
+      "_id": "ggcgPIcELw7glvOx",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgPIcELw7glvOx",
+      "weight": 21,
+      "range": [
+        22,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Lizard Haunch",
+      "img": "icons/consumables/meat/hock-leg-pink-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgppIMA04PPTYL"
+    },
+    {
+      "_id": "ggcgTvP2XZxEACBB",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgTvP2XZxEACBB",
+      "weight": 11,
+      "range": [
+        43,
+        53
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Toad Gland",
+      "img": "icons/commodities/biological/pustules-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgRkS6vJD0Lc7u"
+    },
+    {
+      "_id": "ggcgUW2VlVhQ2cJN",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgUW2VlVhQ2cJN",
+      "weight": 10,
+      "range": [
+        54,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Badger Claw",
+      "img": "icons/commodities/claws/claws-plain-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgPEWywjkJopfE"
+    },
+    {
+      "_id": "ggcgJCM7Q3pHYDHW",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgJCM7Q3pHYDHW",
+      "weight": 7,
+      "range": [
+        64,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Black Bear Pelt",
+      "img": "icons/commodities/leather/fur-pelt-bear.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgOw1sAG1OzytR"
+    },
+    {
+      "_id": "ggcgOFDR2oEpytYL",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgOFDR2oEpytYL",
+      "weight": 7,
+      "range": [
+        71,
+        77
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bat Catch",
+      "img": "icons/commodities/biological/wing-bat-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgABtXwTJiXGt3"
+    },
+    {
+      "_id": "ggcgNsQGhWnYJDLJ",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgNsQGhWnYJDLJ",
+      "weight": 7,
+      "range": [
+        78,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Adder Gland",
+      "img": "icons/creatures/abilities/fang-tooth-venomous.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgdnASx534D8lY"
+    },
+    {
+      "_id": "ggcgMOEK2K4HQx9i",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgMOEK2K4HQx9i",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lizard Hide",
+      "img": "icons/commodities/leather/scales-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHAvSVdzVtYIu"
+    },
+    {
+      "_id": "ggcgVaRv0pdzdQr4",
+      "_key": "!tables.results!ggcgQH1EUTaWAbQP.ggcgVaRv0pdzdQr4",
+      "weight": 10,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Spider Venom Sac",
+      "img": "icons/commodities/biological/pustules-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg9xSO1ZLflJby"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcg4ACbRwYtlMkx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hunting-underground-t2",
+      "activity": "hunting",
+      "source": "underground",
+      "tier": 2,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

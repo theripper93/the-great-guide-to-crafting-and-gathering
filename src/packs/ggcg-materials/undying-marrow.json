@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgH6j7e06BpInR",
+  "_key": "!items!ggcgH6j7e06BpInR",
+  "name": "Undying Marrow",
+  "type": "loot",
+  "img": "icons/commodities/bones/bones-broken-marrow-white-red.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Undying marrow is still wet and red inside bones that have lain buried for centuries. Once the bone is cracked open, the marrow darkens and hardens in the air, and within a day it is a dark stone that takes a high polish.</p><p><em>Tier 4 · Bone · Found: Undead</em></p>",
+      "chat": ""
+    },
+    "identifier": "undying-marrow",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "undying-marrow",
+      "kind": "raw",
+      "tier": 4,
+      "family": "bone",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "undead"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bone",
+        "bone-t4",
+        "bone-t1+",
+        "bone-t2+",
+        "bone-t3+",
+        "bone-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

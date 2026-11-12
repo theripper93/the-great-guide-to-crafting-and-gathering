@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgABtXwTJiXGt3",
+  "_key": "!items!ggcgABtXwTJiXGt3",
+  "name": "Bat Catch",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-bat-pink.webp",
+  "folder": "ggcgWv9FyprnjsIX",
+  "system": {
+    "description": {
+      "value": "<p>Small bats strung together, more wing than meat.</p><p><em>Tier 1 · Game Meat · Found: Underground, Forest, Desert</em></p>",
+      "chat": ""
+    },
+    "identifier": "bat-catch",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bat-catch",
+      "kind": "raw",
+      "tier": 1,
+      "family": "game-meat",
+      "subcategory": "small-game",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "underground",
+        "forest",
+        "desert"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "game-meat",
+        "game-meat-t1",
+        "game-meat-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

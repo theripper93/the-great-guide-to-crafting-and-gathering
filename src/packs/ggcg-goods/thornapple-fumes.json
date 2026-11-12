@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgZVTFOzl6MFpP",
+  "_key": "!items!ggcgZVTFOzl6MFpP",
+  "name": "Thornapple Fumes",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+  "folder": "ggcgmTrsZr4AqjKA",
+  "system": {
+    "description": {
+      "value": "<p>Purple smoke inside the flask keeps shifting into the shapes of faces.</p><p><em>&amp;Reference[inhaledpoison] Poison</em></p><p>Each creature in a 5-foot Cube where this powder is blown or the vial is broken must succeed on a [[/save ability=con dc=13 format=long]] or have the &amp;Reference[Poisoned apply=false] and &amp;Reference[Frightened apply=false] conditions for 10 minutes.</p>",
+      "chat": ""
+    },
+    "identifier": "thornapple-fumes",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "poison",
+      "subtype": "inhaled"
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgxZS7POvEZohy": {
+        "type": "save",
+        "name": "Use Poison",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "10",
+          "units": "minute",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgOZ3idtG8les0",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "onSave": false
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "cube",
+            "size": "5",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "con"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "13"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": []
+        },
+        "_id": "ggcgxZS7POvEZohy"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Thornapple Fumes: Poisoned and Frightened",
+      "img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+      "type": "base",
+      "system": {
+        "changes": [],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 10,
+        "units": "minutes",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [
+        "poisoned",
+        "frightened"
+      ],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgOZ3idtG8les0",
+      "_key": "!items.effects!ggcgZVTFOzl6MFpP.ggcgOZ3idtG8les0",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "thornapple-fumes",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "inhaled",
+      "activity": null,
+      "profession": "poisoncraft",
+      "sources": [],
+      "archetype": "condition-poison",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "poisoncraft-inhaled"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

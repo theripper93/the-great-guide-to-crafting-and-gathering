@@ -1,0 +1,252 @@
+{
+  "_id": "ggcgpRQEGib0Dv2m",
+  "_key": "!items!ggcgpRQEGib0Dv2m",
+  "name": "Tanglegum Pot",
+  "type": "consumable",
+  "img": "icons/containers/kitchenware/jug-clay-brown-sealed.webp",
+  "folder": "ggcgvrajbKK7sas7",
+  "system": {
+    "description": {
+      "value": "<p>Tanglegum pulls into long amber strings when opened.</p><p>As an action, you can throw or scatter this at a point within 20 feet. Each creature in a 10-foot-radius Sphere there must succeed on a [[/save ability=str dc=13 format=long]] or have the &amp;Reference[Restrained apply=false] condition for 3 rounds.</p>",
+      "chat": ""
+    },
+    "identifier": "tanglegum-pot",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgK04xvj7CyLW5": {
+        "type": "save",
+        "name": "Throw",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgVHyDvOdhrf5W",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "onSave": false
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "20",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "sphere",
+            "size": "10",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "str"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "13"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "_id": "ggcgK04xvj7CyLW5"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Tanglegum Pot: Restrained",
+      "img": "icons/containers/kitchenware/jug-clay-brown-sealed.webp",
+      "type": "base",
+      "system": {
+        "changes": [],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 3,
+        "units": "rounds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [
+        "restrained"
+      ],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgVHyDvOdhrf5W",
+      "_key": "!items.effects!ggcgpRQEGib0Dv2m.ggcgVHyDvOdhrf5W",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "tanglegum-pot",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "utility-mixtures",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "condition-bomb",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemy-utility-mixtures"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

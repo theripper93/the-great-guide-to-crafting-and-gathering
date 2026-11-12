@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgMnZ79h3awVn3",
+  "_key": "!items!ggcgMnZ79h3awVn3",
+  "name": "Sunseam Bar",
+  "type": "loot",
+  "img": "icons/commodities/metal/ingot-hammered-gold.webp",
+  "folder": "ggcgSH56tqxFG3nv",
+  "system": {
+    "description": {
+      "value": "<p>A sunseam bar is warm at dawn after a cold night in the open.</p><p><em>Tier 4 · Precious Metal</em></p>",
+      "chat": ""
+    },
+    "identifier": "sunseam-bar",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sunseam-bar",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "precious-metal",
+      "subcategory": "ingots-alloys",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "precious-metal",
+        "precious-metal-t4",
+        "precious-metal-t1+",
+        "precious-metal-t2+",
+        "precious-metal-t3+",
+        "precious-metal-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

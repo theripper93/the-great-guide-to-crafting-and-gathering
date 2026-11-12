@@ -1,0 +1,116 @@
+{
+  "_id": "ggcgI9WSvooofztS",
+  "_key": "!items!ggcgI9WSvooofztS",
+  "name": "Splint Armor",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-banded-steel.webp",
+  "folder": "ggcge9gvl5Lhb1iC",
+  "system": {
+    "description": {
+      "value": "<p>Upright steel strips riveted to a backing, each marked with dots to show its place.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 60,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 17,
+      "dex": 0
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "heavy",
+      "baseItem": "splint"
+    },
+    "properties": [
+      "stealthDisadvantage"
+    ],
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": 15,
+    "proficient": null,
+    "activities": {},
+    "identifier": "splint-armor",
+    "rarities": [],
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "splint",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "armor-shields",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbarmSplintArmo"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-armor-shields",
+        "smithing-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbarmSplintArmo",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

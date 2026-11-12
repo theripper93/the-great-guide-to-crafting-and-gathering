@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgfwYpOOxsmCXm",
+  "_key": "!tables!ggcgfwYpOOxsmCXm",
+  "name": "Construct Harvest",
+  "img": "icons/creatures/magical/construct-golem-robot-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgN5Tk1k9fvexc",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcgN5Tk1k9fvexc",
+      "weight": 31,
+      "range": [
+        1,
+        31
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Clockwork Spring",
+      "img": "icons/commodities/tech/coil-steel.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5j3gMlcVPtyu"
+    },
+    {
+      "_id": "ggcgfE15Oa40x9Yr",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcgfE15Oa40x9Yr",
+      "weight": 31,
+      "range": [
+        32,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Animated Armor Plate",
+      "img": "icons/commodities/metal/plate-scored-steel.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgA0yxDSd8q9i1"
+    },
+    {
+      "_id": "ggcgyVf6Sip1P7FC",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcgyVf6Sip1P7FC",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Runed Iron Joint",
+      "img": "icons/commodities/tech/metal-joint.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgMVxbUQ9mRCJt"
+    },
+    {
+      "_id": "ggcgyFvcyUWiC8PJ",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcgyFvcyUWiC8PJ",
+      "weight": 14,
+      "range": [
+        77,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Watcher Lens",
+      "img": "icons/commodities/treasure/glass-crystal-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgjN8M9kdPBxyO"
+    },
+    {
+      "_id": "ggcgNodnyAVqo3Sd",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcgNodnyAVqo3Sd",
+      "weight": 4,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Animating Spark",
+      "img": "icons/commodities/tech/battery-arcane-crystal-cube.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgjpDi9N8c4cpa"
+    },
+    {
+      "_id": "ggcg5fau32DkgicJ",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcg5fau32DkgicJ",
+      "weight": 3,
+      "range": [
+        95,
+        97
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gorgon Bronze",
+      "img": "icons/commodities/metal/plate-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcghYcFkh5t8iJ4"
+    },
+    {
+      "_id": "ggcgjBnf9Q3CrQwi",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcgjBnf9Q3CrQwi",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Golem Core",
+      "img": "icons/commodities/gems/pearl-rock.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgcgkfo03S5Hdu"
+    },
+    {
+      "_id": "ggcgui49DDiIyApl",
+      "_key": "!tables.results!ggcgfwYpOOxsmCXm.ggcgui49DDiIyApl",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Endless Mainspring",
+      "img": "icons/commodities/tech/coil-steel-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg04qMsoAG6O78"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-construct",
+      "activity": "monster",
+      "source": "construct",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

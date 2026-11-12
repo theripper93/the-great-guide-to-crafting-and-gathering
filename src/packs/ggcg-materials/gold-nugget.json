@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgN7AZ9SwRmC9R",
+  "_key": "!items!ggcgN7AZ9SwRmC9R",
+  "name": "Gold Nugget",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-pile-nuggets-gold.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>Gold nuggets are so soft that a thumbnail leaves a mark.</p><p><em>Tier 2 · Precious Ore · Found: Surface Outcrop, Mountain Vein</em></p>",
+      "chat": ""
+    },
+    "identifier": "gold-nugget",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gold-nugget",
+      "kind": "raw",
+      "tier": 2,
+      "family": "precious-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "mountain-vein"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "precious-ore",
+        "precious-ore-t2",
+        "precious-ore-t1+",
+        "precious-ore-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

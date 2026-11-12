@@ -1,0 +1,264 @@
+{
+  "_id": "ggcgmVcN5QzvPDMx",
+  "_key": "!items!ggcgmVcN5QzvPDMx",
+  "name": "Grave Dust Oil",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-corked-empty.webp",
+  "folder": "ggcgKr7bpPYAfa7V",
+  "system": {
+    "description": {
+      "value": "<p>Grave dust oil is so pale that a full bottle looks empty on the shelf.</p><p>As a Bonus Action, you can coat one weapon with this. For 1 minute, a hit with it deals an extra [[/damage 1 type=necrotic]] damage. A weapon holds one coating at a time.</p>",
+      "chat": ""
+    },
+    "identifier": "grave-dust-oil",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcg2lYrcbni9cy4": {
+        "type": "enchant",
+        "name": "Coat Weapon",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgoTiiTml3QaxO",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [],
+              "item": []
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "enchant": {
+          "self": false
+        },
+        "restrictions": {
+          "allowMagical": true,
+          "type": "weapon",
+          "categories": [],
+          "properties": []
+        },
+        "_id": "ggcg2lYrcbni9cy4"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Grave Dust Oil",
+      "img": "icons/consumables/potions/bottle-corked-empty.webp",
+      "type": "enchantment",
+      "system": {
+        "changes": [
+          {
+            "key": "name",
+            "type": "override",
+            "value": "{} (Grave Dust Oil)",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "activities[attack].damage.parts",
+            "type": "add",
+            "value": "{\"number\":null,\"denomination\":null,\"bonus\":\"1\",\"types\":[\"necrotic\"],\"custom\":{\"enabled\":false,\"formula\":\"\"},\"scaling\":{\"number\":1}}",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": true,
+      "duration": {
+        "value": 1,
+        "units": "minutes",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgoTiiTml3QaxO",
+      "_key": "!items.effects!ggcgmVcN5QzvPDMx.ggcgoTiiTml3QaxO",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "grave-dust-oil",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "oils-coatings",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "weapon-oil",
+      "priceClass": "B",
+      "stackGroup": "coating"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemy-oils-coatings"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

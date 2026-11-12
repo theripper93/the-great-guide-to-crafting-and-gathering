@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgFl1Y6WBtkjAO",
+  "_key": "!items!ggcgFl1Y6WBtkjAO",
+  "name": "Smoke-Tanned Climbing Harness",
+  "type": "equipment",
+  "img": "icons/commodities/leather/leather-buckle-steel-tan.webp",
+  "folder": "ggcgmGKKaQUSAayq",
+  "system": {
+    "description": {
+      "value": "<p>Wide straps cross the chest and thighs and meet at one heavy ring.</p><p>While this is equipped, ready to hand, you have a +2 bonus to Athletics checks (<em>Anchored Climb</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "smoke-tanned-climbing-harness",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Anchored Climb",
+      "img": "icons/commodities/leather/leather-buckle-steel-tan.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.ath.roll.bonus",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcg0tdLHezOHGWO",
+      "_key": "!items.effects!ggcgFl1Y6WBtkjAO.ggcg0tdLHezOHGWO",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "smoke-tanned-climbing-harness",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "tack-harness",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "utility-gear",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-tack-harness"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgJKydNsnZFP5q",
+  "_key": "!items!ggcgJKydNsnZFP5q",
+  "name": "Aboleth Mucus",
+  "type": "loot",
+  "img": "icons/commodities/materials/slime-thick-blue.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Aboleth mucus never dries, even spread thin on a rock in the noon sun. A drop on a letter soaks through every page beneath it, and an old ledger stained with it is still tacky in the middle after many years.</p><p><em>Tier 3 · Ichor · Found: Aberration</em></p>",
+      "chat": ""
+    },
+    "identifier": "aboleth-mucus",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "aboleth-mucus",
+      "kind": "raw",
+      "tier": 3,
+      "family": "ichor",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "aberration"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ichor",
+        "ichor-t3",
+        "ichor-t1+",
+        "ichor-t2+",
+        "ichor-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

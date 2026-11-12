@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgMAjVxUpEFp1N",
+  "_key": "!items!ggcgMAjVxUpEFp1N",
+  "name": "Djinni Storm Core",
+  "type": "loot",
+  "img": "icons/commodities/treasure/stone-cracked-lightning-blue.webp",
+  "folder": "ggcgFMfWH9jZN7WP",
+  "system": {
+    "description": {
+      "value": "<p>A djinni storm core is a blue stone split by lightning, and wind gusts from its cracks in every direction at once. Over a season of careful turning the gusts settle into one steady draft, and a cloak lined around such a stone billows the same way even on a still day.</p><p><em>Tier 3 · Boss Trophy · Found: Elemental</em></p>",
+      "chat": ""
+    },
+    "identifier": "djinni-storm-core",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 480,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "djinni-storm-core",
+      "kind": "raw",
+      "tier": 3,
+      "family": "boss-trophy",
+      "subcategory": "boss-trophies",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "elemental"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "boss-trophy",
+        "boss-trophy-t3",
+        "boss-trophy-t1+",
+        "boss-trophy-t2+",
+        "boss-trophy-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

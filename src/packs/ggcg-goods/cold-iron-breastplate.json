@@ -1,0 +1,116 @@
+{
+  "_id": "ggcgzoer7KaFBMsc",
+  "_key": "!items!ggcgzoer7KaFBMsc",
+  "name": "Cold-Iron Breastplate",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-sculpted-grey.webp",
+  "folder": "ggcgodohM3jMK2lc",
+  "system": {
+    "description": {
+      "value": "<p>Hedge witches make guests leave cold-iron armor outside the door.</p><p>This Breastplate is made of a finer material. You have a +1 bonus to Armor Class while you wear this magic armor.</p>",
+      "chat": ""
+    },
+    "identifier": "cold-iron-breastplate",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 20,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 14,
+      "dex": 2,
+      "magicalBonus": "1"
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "medium",
+      "baseItem": "breastplate"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cold-iron-breastplate",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "armor-shields",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": "material-armor",
+      "priceClass": "E",
+      "base": "breastplate"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-armor-shields",
+        "smithing-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgXqjOomhGlJzC",
+  "_key": "!items!ggcgXqjOomhGlJzC",
+  "name": "Owl Feather",
+  "type": "loot",
+  "img": "icons/commodities/materials/feathers-brown.webp",
+  "folder": "ggcg9MdwbNe7L44h",
+  "system": {
+    "description": {
+      "value": "<p>An owl feather swept through the air makes no sound.</p><p><em>Tier 1 · Feather · Found: Forest, Mountain, Underground</em></p>",
+      "chat": ""
+    },
+    "identifier": "owl-feather",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "owl-feather",
+      "kind": "raw",
+      "tier": 1,
+      "family": "feather",
+      "subcategory": "feathers",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "forest",
+        "mountain",
+        "underground"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "feather",
+        "feather-t1",
+        "feather-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

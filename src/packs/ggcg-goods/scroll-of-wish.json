@@ -1,0 +1,186 @@
+{
+  "_id": "ggcgKTM5VrLIzuGS",
+  "_key": "!items!ggcgKTM5VrLIzuGS",
+  "name": "Scroll of Wish",
+  "type": "consumable",
+  "img": "icons/sundries/scrolls/scroll-bound-gold.webp",
+  "folder": "ggcgWrWsVzNL9BZ6",
+  "system": {
+    "description": {
+      "value": "<p>A short scroll bound with a gold cord that has no knot. The writing inside is a single sentence, and people who have seen one say that the sentence was shorter than they expected.</p><p><strong>Read the Scroll.</strong> As an action, you read the scroll and cast @UUID[Compendium.dnd5e.spells24.Item.phbsplWish000000]{Wish}, whatever your class and without a check. The scroll is used up, and you suffer none of the stress the spell normally causes its caster.</p><p><strong>Written Once.</strong> The scroll holds exactly the words its scribe wrote, and the scribe chose them. Whoever commissions it decides the wording with the scribe at the desk; whoever reads it gets that wish and no other. A careless clause is the reader's to live with.</p>",
+      "chat": ""
+    },
+    "identifier": "scroll-of-wish",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "type": {
+      "value": "scroll",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgr9fUA2xRqA3f": {
+        "type": "cast",
+        "name": "Read the Scroll",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplWish000000",
+          "level": 9,
+          "ability": "",
+          "properties": [],
+          "spellbook": true,
+          "challenge": {
+            "attack": 12,
+            "save": 20,
+            "override": true
+          }
+        },
+        "_id": "ggcgr9fUA2xRqA3f"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "scroll-of-wish",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "spell-scrolls",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

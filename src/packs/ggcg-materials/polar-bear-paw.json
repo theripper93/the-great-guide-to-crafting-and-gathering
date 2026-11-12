@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgz5DlbjN7B9fA",
+  "_key": "!items!ggcgz5DlbjN7B9fA",
+  "name": "Polar Bear Paw",
+  "type": "loot",
+  "img": "icons/commodities/claws/claw-bear-brown.webp",
+  "folder": "ggcg6re4OmekUgIz",
+  "system": {
+    "description": {
+      "value": "<p>Northern hunters say that whoever eats a polar bear paw never shivers again. The paws go to the oldest hunters at the feast after a bear hunt, and some of those old men sit outside in shirtsleeves on the coldest nights.</p><p><em>Tier 3 · Game Meat · Found: Arctic, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "polar-bear-paw",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "polar-bear-paw",
+      "kind": "raw",
+      "tier": 3,
+      "family": "game-meat",
+      "subcategory": "meat-cuts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "arctic",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "game-meat",
+        "game-meat-t3",
+        "game-meat-t1+",
+        "game-meat-t2+",
+        "game-meat-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

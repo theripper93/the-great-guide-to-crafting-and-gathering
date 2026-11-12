@@ -1,0 +1,86 @@
+{
+  "_id": "ggcg1NovKbV6rEuo",
+  "_key": "!items!ggcg1NovKbV6rEuo",
+  "name": "Monkshood",
+  "type": "loot",
+  "img": "icons/commodities/flowers/iris-blue.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Monkshood root numbs the fingers of anyone who digs it bare-handed.</p><p><em>Tier 2 · Toxic Herb · Found: Mountain, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "monkshood",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monkshood",
+      "kind": "raw",
+      "tier": 2,
+      "family": "toxic-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "toxic-herb",
+        "toxic-herb-t2",
+        "toxic-herb-t1+",
+        "toxic-herb-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

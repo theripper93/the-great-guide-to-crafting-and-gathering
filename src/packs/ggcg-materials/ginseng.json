@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgsw7DWsDKswHC",
+  "_key": "!items!ggcgsw7DWsDKswHC",
+  "name": "Ginseng",
+  "type": "loot",
+  "img": "icons/consumables/vegetable/root-carrot-yam-orange.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>Ginseng diggers count the scars on the neck of a root to tell its age.</p><p><em>Tier 2 · Root · Found: Forest, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "ginseng",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "ginseng",
+      "kind": "raw",
+      "tier": 2,
+      "family": "root",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "root",
+        "root-t2",
+        "root-t1+",
+        "root-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

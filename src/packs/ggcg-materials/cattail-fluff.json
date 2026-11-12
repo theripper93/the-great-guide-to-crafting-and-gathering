@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgyZvRmTS7sYwT",
+  "_key": "!items!ggcgyZvRmTS7sYwT",
+  "name": "Cattail Fluff",
+  "type": "loot",
+  "img": "icons/commodities/flowers/wheat-bundle.webp",
+  "folder": "ggcg8nISBkiTqyY6",
+  "system": {
+    "description": {
+      "value": "<p>Each cattail head breaks open into a double handful of fluff.</p><p><em>Tier 1 · Plant Fiber · Found: Swamp, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "cattail-fluff",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cattail-fluff",
+      "kind": "raw",
+      "tier": 1,
+      "family": "plant-fiber",
+      "subcategory": "fibers-reeds",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "plant-fiber",
+        "plant-fiber-t1",
+        "plant-fiber-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgBdU4rW0isJLB",
+  "_key": "!items!ggcgBdU4rW0isJLB",
+  "name": "Mesquite Log",
+  "type": "loot",
+  "img": "icons/commodities/wood/log-cut-maple-brown.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>Desert cooks say nothing smokes meat better than mesquite.</p><p><em>Tier 2 · Timber · Found: Desert, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "mesquite-log",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mesquite-log",
+      "kind": "raw",
+      "tier": 2,
+      "family": "timber",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "desert",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "timber",
+        "timber-t2",
+        "timber-t1+",
+        "timber-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

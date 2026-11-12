@@ -1,0 +1,265 @@
+{
+  "_id": "ggcgf1cSLotFo22A",
+  "_key": "!items!ggcgf1cSLotFo22A",
+  "name": "Bracing Ginger Ale",
+  "type": "consumable",
+  "img": "icons/consumables/drinks/alcohol-beer-mug-yellow.webp",
+  "folder": "ggcg1prH7bvzn2pJ",
+  "system": {
+    "description": {
+      "value": "<p>Yellow ginger ale that foams over the rim if poured too fast.</p><p>As an action, you can drink this brew. For 4 hours, you have a +2 bonus to Death Saving Throws, but also a 1d4 penalty to Wisdom saving throws (<em>Ginger Resolve</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "bracing-ginger-ale",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 125,
+      "denomination": "sp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "food",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgNtk4DsgoTsiO": {
+        "type": "utility",
+        "name": "Drink",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgE5xzPY9IQkYH",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "self",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcgNtk4DsgoTsiO"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Ginger Resolve",
+      "img": "icons/consumables/drinks/alcohol-beer-mug-yellow.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.death.roll.bonus",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.abilities.wis.save.roll.bonus",
+            "type": "subtract",
+            "value": "1d4",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 4,
+        "units": "hours",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {
+        "the-great-guide-to-crafting-and-gathering": {
+          "stackGroup": "drink"
+        }
+      },
+      "_id": "ggcgE5xzPY9IQkYH",
+      "_key": "!items.effects!ggcgf1cSLotFo22A.ggcgE5xzPY9IQkYH",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bracing-ginger-ale",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "drinks-brews",
+      "activity": null,
+      "profession": "cooking",
+      "sources": [],
+      "archetype": "brew",
+      "priceClass": "C",
+      "stackGroup": "drink",
+      "batch": 2
+    },
+    "mastercrafted": {
+      "tags": [
+        "cooking-drinks-brews"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

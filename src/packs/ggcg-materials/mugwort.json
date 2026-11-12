@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgGbrnLRaHpufE",
+  "_key": "!items!ggcgGbrnLRaHpufE",
+  "name": "Mugwort",
+  "type": "loot",
+  "img": "icons/consumables/plants/dried-leaf-stem-herb-brown.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Walkers on long roads tuck a sprig of mugwort into their boots.</p><p><em>Tier 1 · Arcane Herb · Found: Plains, Coast, Desert</em></p>",
+      "chat": ""
+    },
+    "identifier": "mugwort",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mugwort",
+      "kind": "raw",
+      "tier": 1,
+      "family": "arcane-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "plains",
+        "coast",
+        "desert"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-herb",
+        "arcane-herb-t1",
+        "arcane-herb-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

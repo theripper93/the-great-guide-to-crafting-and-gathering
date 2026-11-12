@@ -1,0 +1,84 @@
+{
+  "_id": "ggcg844HDDcMMsp9",
+  "_key": "!items!ggcg844HDDcMMsp9",
+  "name": "Polished Fire Opal",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-fire.webp",
+  "folder": "ggcgIvpGm0n72Rnu",
+  "system": {
+    "description": {
+      "value": "<p>Polished fire opals are kept apart, since two set side by side grow cloudy.</p><p><em>Tier 3 · Cut Gem</em></p>",
+      "chat": ""
+    },
+    "identifier": "polished-fire-opal",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 240,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "polished-fire-opal",
+      "kind": "intermediate",
+      "tier": 3,
+      "family": "cut-gem",
+      "subcategory": "cut-gems-settings",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "cut-gem",
+        "cut-gem-t3",
+        "cut-gem-t1+",
+        "cut-gem-t2+",
+        "cut-gem-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

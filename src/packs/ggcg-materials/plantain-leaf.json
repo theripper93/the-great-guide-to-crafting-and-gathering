@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgwQ9WzPZcgfYm",
+  "_key": "!items!ggcgwQ9WzPZcgfYm",
+  "name": "Plantain Leaf",
+  "type": "loot",
+  "img": "icons/consumables/plants/leaf-herb-green.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Broad, tough leaves with strings that pull out of the stem when torn.</p><p><em>Tier 1 · Healing Herb · Found: Plains, Forest, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "plantain-leaf",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "plantain-leaf",
+      "kind": "raw",
+      "tier": 1,
+      "family": "healing-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "plains",
+        "forest",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "healing-herb",
+        "healing-herb-t1",
+        "healing-herb-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

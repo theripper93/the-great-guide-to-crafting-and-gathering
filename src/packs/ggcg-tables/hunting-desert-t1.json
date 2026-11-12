@@ -1,0 +1,347 @@
+{
+  "_id": "ggcgRaoVKYsuRbGZ",
+  "_key": "!tables!ggcgRaoVKYsuRbGZ",
+  "name": "Desert Game (Tier 1)",
+  "img": "icons/environment/wilderness/cave-entrance-rocky.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgLCRg1N3URx34",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgLCRg1N3URx34",
+      "weight": 18,
+      "range": [
+        1,
+        18
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lizard Hide",
+      "img": "icons/commodities/leather/scales-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHAvSVdzVtYIu"
+    },
+    {
+      "_id": "ggcgZtPAazz0T0Mw",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgZtPAazz0T0Mw",
+      "weight": 17,
+      "range": [
+        19,
+        35
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lizard Tail",
+      "img": "icons/commodities/biological/tail-scaled-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBapSMvTMlpJY"
+    },
+    {
+      "_id": "ggcgSHvJGPE2qems",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgSHvJGPE2qems",
+      "weight": 17,
+      "range": [
+        36,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Adder Gland",
+      "img": "icons/creatures/abilities/fang-tooth-venomous.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgdnASx534D8lY"
+    },
+    {
+      "_id": "ggcgw1r1pJnJOJ9n",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgw1r1pJnJOJ9n",
+      "weight": 10,
+      "range": [
+        53,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goat Hide",
+      "img": "icons/commodities/leather/fur-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgyWHpUn21VuZy"
+    },
+    {
+      "_id": "ggcgLfTay6wDmcER",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgLfTay6wDmcER",
+      "weight": 9,
+      "range": [
+        63,
+        71
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goat Shoulder",
+      "img": "icons/consumables/meat/shank-bone-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgRdYIm2eWgavc"
+    },
+    {
+      "_id": "ggcgGpvE2PygSdD7",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgGpvE2PygSdD7",
+      "weight": 9,
+      "range": [
+        72,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Quail Brace",
+      "img": "icons/consumables/meat/drumstick-bone-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgKEslMnKp5Wt8"
+    },
+    {
+      "_id": "ggcg53AWc8YkN3ek",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcg53AWc8YkN3ek",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goat Horn",
+      "img": "icons/commodities/bones/horn-curved-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgpdO0GdMpFSK9"
+    },
+    {
+      "_id": "ggcgoel2dCHmF0xz",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgoel2dCHmF0xz",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bat Catch",
+      "img": "icons/commodities/biological/wing-bat-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgABtXwTJiXGt3"
+    },
+    {
+      "_id": "ggcgYQfeo8vUeObe",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcgYQfeo8vUeObe",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Lizard Haunch",
+      "img": "icons/consumables/meat/hock-leg-pink-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgppIMA04PPTYL"
+    },
+    {
+      "_id": "ggcg4I1vubzAYTgS",
+      "_key": "!tables.results!ggcgRaoVKYsuRbGZ.ggcg4I1vubzAYTgS",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ostrich Plume",
+      "img": "icons/commodities/materials/feather-colored-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgYOpCibasQGZK"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcg4ACbRwYtlMkx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hunting-desert-t1",
+      "activity": "hunting",
+      "source": "desert",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

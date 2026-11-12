@@ -1,0 +1,277 @@
+{
+  "_id": "ggcgVcHGjEDso3cn",
+  "_key": "!items!ggcgVcHGjEDso3cn",
+  "name": "Sigil of the Stormwall",
+  "type": "consumable",
+  "img": "icons/magic/symbols/runes-star-pentagon-magenta.webp",
+  "folder": "ggcgDYVISy52q5pl",
+  "system": {
+    "description": {
+      "value": "<p>Rain bends around a shield marked with this sigil and never wets its face.</p><p>As a Bonus Action, you can press this rune onto a Shield. For 1 hour, it is magical and you have a +2 bonus to Armor Class while wearing it. An item holds one coating or temporary rune at a time.</p>",
+      "chat": ""
+    },
+    "identifier": "sigil-of-the-stormwall",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcg9CgUYDtB6Uvu": {
+        "type": "enchant",
+        "name": "Press Rune",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgDtmRiwBf86NC",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [],
+              "item": []
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "enchant": {
+          "self": false
+        },
+        "restrictions": {
+          "allowMagical": true,
+          "type": "equipment",
+          "categories": [
+            "shield"
+          ],
+          "properties": []
+        },
+        "_id": "ggcg9CgUYDtB6Uvu"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Sigil of the Stormwall",
+      "img": "icons/magic/symbols/runes-star-pentagon-magenta.webp",
+      "type": "enchantment",
+      "system": {
+        "changes": [
+          {
+            "key": "name",
+            "type": "override",
+            "value": "{} (Sigil of the Stormwall)",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.properties",
+            "type": "add",
+            "value": "mgc",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.armor.magicalBonus",
+            "type": "upgrade",
+            "value": 2,
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": true,
+      "duration": {
+        "value": 1,
+        "units": "hours",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgDtmRiwBf86NC",
+      "_key": "!items.effects!ggcgVcHGjEDso3cn.ggcgDtmRiwBf86NC",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sigil-of-the-stormwall",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "runes",
+      "activity": null,
+      "profession": "enchanting",
+      "sources": [],
+      "archetype": "temporary-rune",
+      "priceClass": "C",
+      "stackGroup": "coating"
+    },
+    "mastercrafted": {
+      "tags": [
+        "enchanting-runes"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

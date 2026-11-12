@@ -1,0 +1,88 @@
+{
+  "_id": "ggcg0GxXyKRqDtYQ",
+  "_key": "!items!ggcg0GxXyKRqDtYQ",
+  "name": "Skyflax",
+  "type": "loot",
+  "img": "icons/consumables/plants/grass-leaves-green.webp",
+  "folder": "ggcg8nISBkiTqyY6",
+  "system": {
+    "description": {
+      "value": "<p>Skyflax grows only on high, windy ground, and its fiber is so fine that a single thread hums in the faintest breeze. Woven, the cloth goes quiet, but a fresh skein hung up to dry fills a weaver's yard with a thin, steady note.</p><p><em>Tier 4 · Plant Fiber · Found: Mountain, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "skyflax",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "skyflax",
+      "kind": "raw",
+      "tier": 4,
+      "family": "plant-fiber",
+      "subcategory": "fibers-reeds",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "plant-fiber",
+        "plant-fiber-t4",
+        "plant-fiber-t1+",
+        "plant-fiber-t2+",
+        "plant-fiber-t3+",
+        "plant-fiber-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

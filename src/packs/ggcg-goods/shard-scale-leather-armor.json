@@ -1,0 +1,113 @@
+{
+  "_id": "ggcgdrFZ2JGXNoPR",
+  "_key": "!items!ggcgdrFZ2JGXNoPR",
+  "name": "Shard-Scale Leather Armor",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-scale-leather.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>Overlapping scales, each no bigger than a fingernail, cover the chest of this light coat.</p><p>This Leather Armor is made of a finer material. It weighs 7.5 lb.</p>",
+      "chat": ""
+    },
+    "identifier": "shard-scale-leather-armor",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 7.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 22,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 11,
+      "dex": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "light",
+      "baseItem": "leather"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "shard-scale-leather-armor",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "light-armor",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "material-armor",
+      "priceClass": "B",
+      "base": "leather"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-light-armor",
+        "leatherworking-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

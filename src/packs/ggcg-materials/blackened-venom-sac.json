@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg4dNucmiJ9GRC",
+  "_key": "!items!ggcg4dNucmiJ9GRC",
+  "name": "Blackened Venom Sac",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-black.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A single drop from a blackened venom sac turns a cup of water black to the bottom. The sac itself is the size of a fist, wrinkled and dull, and poisoners say a creature grows one only after it has killed something larger than itself.</p><p><em>Tier 4 · Venom Gland · Found: Monstrosity</em></p>",
+      "chat": ""
+    },
+    "identifier": "blackened-venom-sac",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "blackened-venom-sac",
+      "kind": "raw",
+      "tier": 4,
+      "family": "venom-gland",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "monstrosity"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "venom-gland",
+        "venom-gland-t4",
+        "venom-gland-t1+",
+        "venom-gland-t2+",
+        "venom-gland-t3+",
+        "venom-gland-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

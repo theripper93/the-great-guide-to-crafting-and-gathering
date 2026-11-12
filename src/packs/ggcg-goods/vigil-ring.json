@@ -1,0 +1,200 @@
+{
+  "_id": "ggcgLnhn1ndVZjNe",
+  "_key": "!items!ggcgLnhn1ndVZjNe",
+  "name": "Vigil Ring",
+  "type": "equipment",
+  "img": "icons/equipment/finger/ring-ball-purple.webp",
+  "folder": "ggcglHgYFGDHmPrS",
+  "system": {
+    "description": {
+      "value": "<p>Between two black pearls sits a wight's clouded eye, dried hard and never rotting.</p><p>It has 3 charges and regains all expended charges daily at dawn. While holding it, you can expend 1 charge to cast @UUID[Compendium.dnd5e.spells24.Item.phbsplDeathWard0]{Death Ward} from it (save DC 15, +7 to hit).</p>",
+      "chat": ""
+    },
+    "identifier": "vigil-ring",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "ring",
+      "baseItem": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "3",
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll",
+          "formula": ""
+        }
+      ]
+    },
+    "attunement": "required",
+    "activities": {
+      "ggcgmTKAXVTQazY3": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplDeathWard0",
+          "level": 4,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 7,
+            "save": 15,
+            "override": true
+          }
+        },
+        "_id": "ggcgmTKAXVTQazY3"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "vigil-ring",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "rings",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "spell-charged",
+      "priceClass": "E"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-rings",
+        "jewelcrafting-charged"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

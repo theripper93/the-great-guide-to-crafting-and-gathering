@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg8kgx97tlOXoK",
+  "_key": "!items!ggcg8kgx97tlOXoK",
+  "name": "Bison Hide",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-brown-gold.webp",
+  "folder": "ggcg2BhZ1lCClmwt",
+  "system": {
+    "description": {
+      "value": "<p>It takes two people to carry a whole bison hide. The hair over the shoulders is a hand deep, and a robe cut from that part is the warmest thing on the plains in winter.</p><p><em>Tier 2 · Hide · Found: Plains, Mountain, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "bison-hide",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bison-hide",
+      "kind": "raw",
+      "tier": 2,
+      "family": "hide",
+      "subcategory": "hides-pelts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "plains",
+        "mountain",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "hide",
+        "hide-t2",
+        "hide-t1+",
+        "hide-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

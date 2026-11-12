@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgdUxSkrZY8oCE",
+  "_key": "!items!ggcgdUxSkrZY8oCE",
+  "name": "Black Bronze Ingot",
+  "type": "loot",
+  "img": "icons/commodities/metal/ingot-steel-brass.webp",
+  "folder": "ggcgSH56tqxFG3nv",
+  "system": {
+    "description": {
+      "value": "<p>Black bronze takes a dark finish that shows off inlay.</p><p><em>Tier 2 · Ingot</em></p>",
+      "chat": ""
+    },
+    "identifier": "black-bronze-ingot",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "black-bronze-ingot",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "ingot",
+      "subcategory": "ingots-alloys",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ingot",
+        "ingot-t2",
+        "ingot-t1+",
+        "ingot-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

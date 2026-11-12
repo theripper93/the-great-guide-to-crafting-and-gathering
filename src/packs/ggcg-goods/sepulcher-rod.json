@@ -1,0 +1,164 @@
+{
+  "_id": "ggcgNGIn0fGXsVtl",
+  "_key": "!items!ggcgNGIn0fGXsVtl",
+  "name": "Sepulcher Rod",
+  "type": "equipment",
+  "img": "icons/weapons/wands/wand-skull-horned.webp",
+  "folder": "ggcgzkD6NhoQ1tEc",
+  "system": {
+    "description": {
+      "value": "<p>A lich's skull caps the rod, its eye sockets filled with cut diamonds. Candle flames in the same room lean away from it and burn small and blue until the rod is carried out.</p><p>You can use this as an Arcane Focus for your spells. While you hold it, you have a +2 bonus to spell attack rolls and a +2 bonus to the saving throw DCs of your spells.</p>",
+      "chat": ""
+    },
+    "identifier": "sepulcher-rod",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [
+      "foc",
+      "mgc"
+    ],
+    "type": {
+      "value": "rod",
+      "baseItem": ""
+    },
+    "attunement": "required",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Sepulcher Rod",
+      "img": "icons/weapons/wands/wand-skull-horned.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.rolls.attack.msak.bonus",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.rolls.attack.rsak.bonus",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.bonuses.spell.dc",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgEA0rV7wouh8u",
+      "_key": "!items.effects!ggcgNGIn0fGXsVtl.ggcgEA0rV7wouh8u",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "focusType": "arcane",
+      "slug": "sepulcher-rod",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "foci",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "spell-focus",
+      "priceClass": "E"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-foci"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

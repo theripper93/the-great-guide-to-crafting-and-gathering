@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgtQ7ivf9tbB6V",
+  "_key": "!tables!ggcgtQ7ivf9tbB6V",
+  "name": "Deep Cavern (Tier 4)",
+  "img": "icons/magic/earth/barrier-stone-brown-green.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcglyBz0XbPbnUy",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcglyBz0XbPbnUy",
+      "weight": 24,
+      "range": [
+        1,
+        24
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Prism Cluster",
+      "img": "icons/commodities/gems/gem-cluster-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgCOmE7EDmmCgU"
+    },
+    {
+      "_id": "ggcgRPJjQz1QMczU",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcgRPJjQz1QMczU",
+      "weight": 23,
+      "range": [
+        25,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lightless Salt",
+      "img": "icons/commodities/materials/powder-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgUApfILyikB8P"
+    },
+    {
+      "_id": "ggcgM59ftvF8JL36",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcgM59ftvF8JL36",
+      "weight": 23,
+      "range": [
+        48,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Adamantine Ore",
+      "img": "icons/commodities/stone/ore-chunk-purple-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgmKsWiTfAGTLe"
+    },
+    {
+      "_id": "ggcgVOsOhgpTZHPr",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcgVOsOhgpTZHPr",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Diamond Rough",
+      "img": "icons/commodities/gems/gem-rough-oval-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEcLKyqnKV0cE"
+    },
+    {
+      "_id": "ggcgLp8qlDZ50fN0",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcgLp8qlDZ50fN0",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Nightsilver Ore",
+      "img": "icons/commodities/stone/geode-raw-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgbDPiaEsGoOCf"
+    },
+    {
+      "_id": "ggcgPJOmqEcyw4xm",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcgPJOmqEcyw4xm",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lanternstone Rough",
+      "img": "icons/commodities/gems/gem-rough-brilliant-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgGUg85Z5b8ysH"
+    },
+    {
+      "_id": "ggcgD8HiWceSnCUc",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcgD8HiWceSnCUc",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rime Flux",
+      "img": "icons/commodities/stone/stone-porous-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5c8P6yfrVk3d"
+    },
+    {
+      "_id": "ggcgC3Cfdp0hqCnC",
+      "_key": "!tables.results!ggcgtQ7ivf9tbB6V.ggcgC3Cfdp0hqCnC",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Orpiment",
+      "img": "icons/commodities/gems/gem-rough-square-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwm28JsHrudcP"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgNIGb51gAVWLu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mining-deep-cavern-t4",
+      "activity": "mining",
+      "source": "deep-cavern",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

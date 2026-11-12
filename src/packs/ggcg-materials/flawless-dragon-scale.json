@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgZ3ZnBr4Dqd7j",
+  "_key": "!items!ggcgZ3ZnBr4Dqd7j",
+  "name": "Flawless Dragon Scale",
+  "type": "loot",
+  "img": "icons/commodities/leather/scales-white.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A flawless dragon scale is a broad white plate that floats on water. Yet it has worn centuries of claws, rock and fire on the dragon's body without one scratch, and even the dragon's own teeth leave no mark on it.</p><p><em>Tier 4 · Scale and Chitin · Found: Dragon</em></p>",
+      "chat": ""
+    },
+    "identifier": "flawless-dragon-scale",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "flawless-dragon-scale",
+      "kind": "raw",
+      "tier": 4,
+      "family": "scale-chitin",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "dragon"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scale-chitin",
+        "scale-chitin-t4",
+        "scale-chitin-t1+",
+        "scale-chitin-t2+",
+        "scale-chitin-t3+",
+        "scale-chitin-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

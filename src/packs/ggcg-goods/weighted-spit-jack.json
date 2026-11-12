@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgFxl5BdRQK0Tr",
+  "_key": "!items!ggcgFxl5BdRQK0Tr",
+  "name": "Weighted Spit Jack",
+  "type": "equipment",
+  "img": "icons/commodities/tech/crank.webp",
+  "folder": "ggcgS95h8DxCiEF9",
+  "system": {
+    "description": {
+      "value": "<p>Its lead weight turns the spit while the cook works.</p><p>While this is equipped, ready to hand, you have a +1 bonus to ability checks made with Cook's Utensils (<em>Even Turning</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "weighted-spit-jack",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Even Turning",
+      "img": "icons/commodities/tech/crank.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.tools.cook.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgR21gUZ9hTtcC",
+      "_key": "!items.effects!ggcgFxl5BdRQK0Tr.ggcgR21gUZ9hTtcC",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "weighted-spit-jack",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "gadgets",
+      "activity": null,
+      "profession": "tinkering",
+      "sources": [],
+      "archetype": "utility-gear",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tinkering-gadgets"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

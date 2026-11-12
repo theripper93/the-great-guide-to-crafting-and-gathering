@@ -1,0 +1,409 @@
+{
+  "_id": "ggcgGYAaSw3ZE8ba",
+  "_key": "!tables!ggcgGYAaSw3ZE8ba",
+  "name": "Forest Game (Tier 2)",
+  "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcg7gTCb5sFRyUJ",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcg7gTCb5sFRyUJ",
+      "weight": 14,
+      "range": [
+        1,
+        14
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wolf Pelt",
+      "img": "icons/commodities/leather/fur-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgD1CdEGHBuqH2"
+    },
+    {
+      "_id": "ggcgJJHkcLJYyOSO",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgJJHkcLJYyOSO",
+      "weight": 14,
+      "range": [
+        15,
+        28
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Elk Saddle",
+      "img": "icons/consumables/meat/lamb-chop-rack-raw-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgm9Ah9QT2Czgo"
+    },
+    {
+      "_id": "ggcgtrKM9e2AZJp1",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgtrKM9e2AZJp1",
+      "weight": 14,
+      "range": [
+        29,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Elk Sinew",
+      "img": "icons/commodities/materials/hair-tuft-grey-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgCEKBfvRxx2wQ"
+    },
+    {
+      "_id": "ggcgSHMgsOCcMLFm",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgSHMgsOCcMLFm",
+      "weight": 7,
+      "range": [
+        43,
+        49
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Black Bear Pelt",
+      "img": "icons/commodities/leather/fur-pelt-bear.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgOw1sAG1OzytR"
+    },
+    {
+      "_id": "ggcgC9JhrgI7U2r5",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgC9JhrgI7U2r5",
+      "weight": 7,
+      "range": [
+        50,
+        56
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Elk Antler",
+      "img": "icons/commodities/bones/horn-antler-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgnC3U56E8wtlp"
+    },
+    {
+      "_id": "ggcgNUBhOQJGqn9u",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgNUBhOQJGqn9u",
+      "weight": 7,
+      "range": [
+        57,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wolf Fang",
+      "img": "icons/commodities/bones/tooth-canine-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgmWd07fCCHa7u"
+    },
+    {
+      "_id": "ggcgloOnc9QKjK0E",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgloOnc9QKjK0E",
+      "weight": 4,
+      "range": [
+        64,
+        67
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Badger Claw",
+      "img": "icons/commodities/claws/claws-plain-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgPEWywjkJopfE"
+    },
+    {
+      "_id": "ggcgBTgsLCfDfra9",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgBTgsLCfDfra9",
+      "weight": 3,
+      "range": [
+        68,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bear Fat",
+      "img": "icons/consumables/meat/steak-glowing-fatty-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgtkR6UI4N722q"
+    },
+    {
+      "_id": "ggcgcrBJtk76bGaM",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgcrBJtk76bGaM",
+      "weight": 7,
+      "range": [
+        71,
+        77
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Deer Hide",
+      "img": "icons/commodities/leather/fur-pelt-spotted-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg77wOJiV4P9HD"
+    },
+    {
+      "_id": "ggcghuw6o1GNoDe6",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcghuw6o1GNoDe6",
+      "weight": 7,
+      "range": [
+        78,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Deer Haunch",
+      "img": "icons/consumables/meat/hock-leg-red-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgr08BivpeZ4f7"
+    },
+    {
+      "_id": "ggcgCREWauaZVGPa",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgCREWauaZVGPa",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Boar Belly",
+      "img": "icons/consumables/meat/side-pork-fat-skin-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgxUZmQhchyYtf"
+    },
+    {
+      "_id": "ggcgtHfCMd3EZjfX",
+      "_key": "!tables.results!ggcgGYAaSw3ZE8ba.ggcgtHfCMd3EZjfX",
+      "weight": 10,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant Boar Ham",
+      "img": "icons/consumables/meat/hock-fatty-skin-brown-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgb3UQXkVQwT7l"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcg4ACbRwYtlMkx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hunting-forest-t2",
+      "activity": "hunting",
+      "source": "forest",
+      "tier": 2,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

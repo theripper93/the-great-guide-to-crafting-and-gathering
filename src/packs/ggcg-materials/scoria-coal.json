@@ -1,0 +1,87 @@
+{
+  "_id": "ggcga6Wh8AN9t9us",
+  "_key": "!items!ggcga6Wh8AN9t9us",
+  "name": "Scoria Coal",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-magma-brown.webp",
+  "folder": "ggcgnHAPVlLgXw1d",
+  "system": {
+    "description": {
+      "value": "<p>Scoria coal catches from a single spark, and sometimes from a hard knock.</p><p><em>Tier 3 · Fuel and Flux · Found: Volcanic, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "scoria-coal",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "scoria-coal",
+      "kind": "raw",
+      "tier": 3,
+      "family": "fuel-flux",
+      "subcategory": "fuels-fluxes",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fuel-flux",
+        "fuel-flux-t3",
+        "fuel-flux-t1+",
+        "fuel-flux-t2+",
+        "fuel-flux-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

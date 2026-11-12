@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgoOtrzJOuxphY",
+  "_key": "!items!ggcgoOtrzJOuxphY",
+  "name": "Jelly Solvent",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>Spilled jelly solvent creeps across a table, leaving a pale eaten trail in the wood.</p><p><em>Tier 2 · Alchemical Base</em></p>",
+      "chat": ""
+    },
+    "identifier": "jelly-solvent",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "jelly-solvent",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "alchemical-base",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemical-base",
+        "alchemical-base-t2",
+        "alchemical-base-t1+",
+        "alchemical-base-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

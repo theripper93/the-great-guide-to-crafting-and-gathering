@@ -1,0 +1,409 @@
+{
+  "_id": "ggcgrbZde9S2YPfe",
+  "_key": "!tables!ggcgrbZde9S2YPfe",
+  "name": "Lake Fishing (Tier 1)",
+  "img": "icons/skills/trades/fishing-bobber-red.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgciNdVKA6FaUD",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgciNdVKA6FaUD",
+      "weight": 13,
+      "range": [
+        1,
+        13
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pond Carp",
+      "img": "icons/creatures/fish/fish-carp-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgz67c0846GWhV"
+    },
+    {
+      "_id": "ggcgpzXH5w6haV9c",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgpzXH5w6haV9c",
+      "weight": 13,
+      "range": [
+        14,
+        26
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Channel Catfish",
+      "img": "icons/environment/creatures/fish-smooth-horned-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgpuBOql5VqpXT"
+    },
+    {
+      "_id": "ggcg4gvfMmgVUP0C",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcg4gvfMmgVUP0C",
+      "weight": 13,
+      "range": [
+        27,
+        39
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "River Perch",
+      "img": "icons/environment/creatures/fish-striped-gold-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgRqLIp6nHrKOX"
+    },
+    {
+      "_id": "ggcg3ixwRxvMG7Qt",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcg3ixwRxvMG7Qt",
+      "weight": 13,
+      "range": [
+        40,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mud Eel",
+      "img": "icons/environment/creatures/fish-horned-grey-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgAf1yM5EuxDXE"
+    },
+    {
+      "_id": "ggcgUzbbImDQW8P7",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgUzbbImDQW8P7",
+      "weight": 7,
+      "range": [
+        53,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Watercress",
+      "img": "icons/consumables/plants/herb-tied-bundle-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgy7yV9VBIQ1Pd"
+    },
+    {
+      "_id": "ggcgdtrHRhL0TmFL",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgdtrHRhL0TmFL",
+      "weight": 7,
+      "range": [
+        60,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Driftwood",
+      "img": "icons/commodities/wood/log-rough-petrified-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgG7laLOXaRJQ1"
+    },
+    {
+      "_id": "ggcgRTDoAY7ZmUXK",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgRTDoAY7ZmUXK",
+      "weight": 7,
+      "range": [
+        67,
+        73
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bullfrog Legs",
+      "img": "icons/commodities/biological/foot-amphibian-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgxSmUTcwWGAFd"
+    },
+    {
+      "_id": "ggcg7Du0PHWp7uyF",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcg7Du0PHWp7uyF",
+      "weight": 7,
+      "range": [
+        74,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "River Crayfish",
+      "img": "icons/consumables/meat/claw-crab-lobster-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgx8hvT6vZkswk"
+    },
+    {
+      "_id": "ggcgmN0Vrsvv5x0K",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgmN0Vrsvv5x0K",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Brook Trout",
+      "img": "icons/environment/creatures/fish-trout-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgTuSu9BAP1uul"
+    },
+    {
+      "_id": "ggcgHN9cpPalv8Pe",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgHN9cpPalv8Pe",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pearl Mussel",
+      "img": "icons/commodities/biological/shell-ridged-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgY0oO99z9vcij"
+    },
+    {
+      "_id": "ggcgLffyFx0DTkHU",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgLffyFx0DTkHU",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lake Trout",
+      "img": "icons/environment/creatures/fish-spotted-silver-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg0d7LzVpXpFiG"
+    },
+    {
+      "_id": "ggcgyk0xVkYlQab2",
+      "_key": "!tables.results!ggcgrbZde9S2YPfe.ggcgyk0xVkYlQab2",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Snapping Turtle Shell",
+      "img": "icons/commodities/biological/shell-ridged-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgL1JSNuZvBU9A"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgjt2f7fUp9JF7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fishing-lake-pond-t1",
+      "activity": "fishing",
+      "source": "lake-pond",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

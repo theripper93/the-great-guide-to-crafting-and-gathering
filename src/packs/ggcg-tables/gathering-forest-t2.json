@@ -1,0 +1,409 @@
+{
+  "_id": "ggcgiFSgLGU8SIn4",
+  "_key": "!tables!ggcgiFSgLGU8SIn4",
+  "name": "Forest Herbs (Tier 2)",
+  "img": "icons/environment/wilderness/tree-spruce.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgdfJYfWG3OQmE",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcgdfJYfWG3OQmE",
+      "weight": 14,
+      "range": [
+        1,
+        14
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Foxglove",
+      "img": "icons/commodities/flowers/blooms-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgrO9b0qLHc5PN"
+    },
+    {
+      "_id": "ggcg1AUes4kl2Y2a",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcg1AUes4kl2Y2a",
+      "weight": 14,
+      "range": [
+        15,
+        28
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goldenseal",
+      "img": "icons/consumables/plants/heart-cordate-leaf-yellow-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgfmFOH2V2VWNA"
+    },
+    {
+      "_id": "ggcgYhIxdU9UJnHb",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcgYhIxdU9UJnHb",
+      "weight": 14,
+      "range": [
+        29,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Yew Bough",
+      "img": "icons/commodities/wood/log-cut-hickory-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgi4As6cdiRmkT"
+    },
+    {
+      "_id": "ggcg1ZZuUBqCjp6F",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcg1ZZuUBqCjp6F",
+      "weight": 7,
+      "range": [
+        43,
+        49
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Morel",
+      "img": "icons/consumables/mushrooms/helm-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgimgxNAVwlfS4"
+    },
+    {
+      "_id": "ggcgYrxySpkG5AB8",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcgYrxySpkG5AB8",
+      "weight": 7,
+      "range": [
+        50,
+        56
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ginseng",
+      "img": "icons/consumables/vegetable/root-carrot-yam-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgsw7DWsDKswHC"
+    },
+    {
+      "_id": "ggcgR9XU9TG8yM0O",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcgR9XU9TG8yM0O",
+      "weight": 7,
+      "range": [
+        57,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Oak Mistletoe",
+      "img": "icons/commodities/flowers/holly-buds-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgMbRGcHNde7ch"
+    },
+    {
+      "_id": "ggcgf2n0BmTGVdmK",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcgf2n0BmTGVdmK",
+      "weight": 4,
+      "range": [
+        64,
+        67
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hazel Truffle",
+      "img": "icons/consumables/vegetable/root-potato-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgeImDBomVktab"
+    },
+    {
+      "_id": "ggcgc3zYWV0u36Pa",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcgc3zYWV0u36Pa",
+      "weight": 3,
+      "range": [
+        68,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Starflower",
+      "img": "icons/commodities/flowers/cornflower-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgazLFn33u9K5o"
+    },
+    {
+      "_id": "ggcg5HOgndG6aGYI",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcg5HOgndG6aGYI",
+      "weight": 7,
+      "range": [
+        71,
+        77
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ash Log",
+      "img": "icons/commodities/wood/log-cut-ash-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcggQPxxgj4Dbrv"
+    },
+    {
+      "_id": "ggcguaXZnyEbA3Oz",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcguaXZnyEbA3Oz",
+      "weight": 7,
+      "range": [
+        78,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Oak Bark",
+      "img": "icons/commodities/wood/bark-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEM13kszAWdTJ"
+    },
+    {
+      "_id": "ggcglQYIFfTuFkn7",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcglQYIFfTuFkn7",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pine Pitch",
+      "img": "icons/commodities/gems/gem-amber-insect-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgo7M4JbeCydJV"
+    },
+    {
+      "_id": "ggcgUEVY3pzq8d9X",
+      "_key": "!tables.results!ggcgiFSgLGU8SIn4.ggcgUEVY3pzq8d9X",
+      "weight": 10,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ironwood Log",
+      "img": "icons/commodities/wood/log-stack-hickory-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgN4G9jT2zQ5Br"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-forest-t2",
+      "activity": "gathering",
+      "source": "forest",
+      "tier": 2,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

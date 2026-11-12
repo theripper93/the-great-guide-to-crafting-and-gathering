@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgWpyZ6ABai9O7",
+  "_key": "!items!ggcgWpyZ6ABai9O7",
+  "name": "Selenite Spar",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-cluster-blue-white.webp",
+  "folder": "ggcgguEoW64A7yrG",
+  "system": {
+    "description": {
+      "value": "<p>Selenite splits into clear sheets that bend a little before they snap.</p><p><em>Tier 2 · Arcane Crystal · Found: Deep Cavern, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "selenite-spar",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "selenite-spar",
+      "kind": "raw",
+      "tier": 2,
+      "family": "arcane-crystal",
+      "subcategory": "minerals-salts-crystals",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "deep-cavern",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-crystal",
+        "arcane-crystal-t2",
+        "arcane-crystal-t1+",
+        "arcane-crystal-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

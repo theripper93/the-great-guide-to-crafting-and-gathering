@@ -1,0 +1,116 @@
+{
+  "_id": "ggcgmDUkPmqT6O1l",
+  "_key": "!items!ggcgmDUkPmqT6O1l",
+  "name": "Plate Armor",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-gorget-steel-white.webp",
+  "folder": "ggcgodohM3jMK2lc",
+  "system": {
+    "description": {
+      "value": "<p>A suit of plate is shaped to one body and rarely fits another.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 1500,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 65,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 18,
+      "dex": 0
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "heavy",
+      "baseItem": "plate"
+    },
+    "properties": [
+      "stealthDisadvantage"
+    ],
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": 15,
+    "proficient": null,
+    "activities": {},
+    "identifier": "plate-armor",
+    "rarities": [],
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "plate",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "armor-shields",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbarmPlateArmor"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-armor-shields",
+        "smithing-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbarmPlateArmor",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "_id": "ggcgFE1ohPOMzUUk",
+  "_key": "!items!ggcgFE1ohPOMzUUk",
+  "name": "Atlas of All Roads",
+  "type": "equipment",
+  "img": "icons/sundries/books/book-backed-blue-gold.webp",
+  "folder": "ggcgWrWsVzNL9BZ6",
+  "system": {
+    "description": {
+      "value": "<p>A blue book of maps that is never the same thickness twice. New pages appear at the back whenever its owner crosses a border, already inked and already dry.</p><p>While you carry this atlas, you cannot become lost, and you always know which way is north and how far you are from any place you have visited.</p><p><strong>Step Onto the Page.</strong> Once per day, you can cast @UUID[Compendium.dnd5e.spells24.Item.phbsplTeleport00]{Teleport} from the atlas to any place drawn in it, arriving on target without fail. It regains this power at dawn.</p><p><strong>The Atlas Draws Itself.</strong> The atlas keeps drawing itself. It shows places that no longer exist, marked in gray, and on request it draws the road that any person named to it travelled the day before, as a thin red line that fades by evening.</p>",
+      "chat": ""
+    },
+    "identifier": "atlas-of-all-roads",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {
+      "ggcgbJVzGwFTx6FN": {
+        "type": "cast",
+        "name": "Step Onto the Page",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "activityUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "1",
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "recoverAll",
+              "formula": ""
+            }
+          ]
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplTeleport00",
+          "level": 7,
+          "ability": "",
+          "properties": [],
+          "spellbook": true,
+          "challenge": {
+            "attack": 12,
+            "save": 20,
+            "override": true
+          }
+        },
+        "_id": "ggcgbJVzGwFTx6FN"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "atlas-of-all-roads",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "maps-charts",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_id": "ggcgYkilRfSs1On4",
+  "_key": "!items!ggcgYkilRfSs1On4",
+  "name": "Shovel",
+  "type": "loot",
+  "img": "icons/tools/hand/shovel-steel.webp",
+  "folder": "ggcgBFaRQdEcf4vX",
+  "system": {
+    "description": {
+      "value": "<p>A bog-iron blade riveted to a straight wooden handle.</p><p>Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each side in soil or similar material.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "shovel",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "shovel",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "tools-hardware",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagShovel00000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-tools-hardware"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagShovel00000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

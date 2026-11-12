@@ -1,0 +1,23 @@
+{
+  "_id": "ggcggWMrVSkCjLZ3",
+  "_key": "!folders!ggcggWMrVSkCjLZ3",
+  "name": "Shellfish and Crustaceans",
+  "type": "Item",
+  "folder": "ggcgGQm0RUPBLllC",
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

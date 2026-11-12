@@ -1,0 +1,378 @@
+{
+  "_id": "ggcgfKiEDw0DRJmE",
+  "_key": "!tables!ggcgfKiEDw0DRJmE",
+  "name": "Coast Game (Tier 1)",
+  "img": "icons/creatures/birds/birds-flock-fly-yellow.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgAyurZ8Lb9NOB",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgAyurZ8Lb9NOB",
+      "weight": 18,
+      "range": [
+        1,
+        18
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gull Feather",
+      "img": "icons/commodities/materials/feather-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgtnXple2XWieX"
+    },
+    {
+      "_id": "ggcgLIsCh2mxOWAE",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgLIsCh2mxOWAE",
+      "weight": 17,
+      "range": [
+        19,
+        35
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goose Feather",
+      "img": "icons/commodities/biological/wing-bird-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg4zFG4RSccXL0"
+    },
+    {
+      "_id": "ggcgnJpAFkGAXudL",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgnJpAFkGAXudL",
+      "weight": 17,
+      "range": [
+        36,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Blubber",
+      "img": "icons/consumables/meat/round-steak-fat-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgSZ7mxWTLRJ8c"
+    },
+    {
+      "_id": "ggcgJbJf8YkuanpQ",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgJbJf8YkuanpQ",
+      "weight": 7,
+      "range": [
+        53,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Pelt",
+      "img": "icons/commodities/leather/fur-pelt-off-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvcfTuotMXqGm"
+    },
+    {
+      "_id": "ggcg6Ov9j5d9oDVq",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcg6Ov9j5d9oDVq",
+      "weight": 7,
+      "range": [
+        60,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Loin",
+      "img": "icons/consumables/meat/shank-aged-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8MI08LmXEnBU"
+    },
+    {
+      "_id": "ggcg6M4rIWW4Z30z",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcg6M4rIWW4Z30z",
+      "weight": 7,
+      "range": [
+        67,
+        73
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Marsh Hare",
+      "img": "icons/consumables/meat/hock-bones-skin-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgUsJhi4RG7cd3"
+    },
+    {
+      "_id": "ggcgw5aCYl4h75jT",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgw5aCYl4h75jT",
+      "weight": 7,
+      "range": [
+        74,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Seal Rib",
+      "img": "icons/commodities/bones/bones-rib-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgZJ0f53yjKUrB"
+    },
+    {
+      "_id": "ggcgzrcXAphBscFQ",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgzrcXAphBscFQ",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Goose Breast",
+      "img": "icons/consumables/meat/chicken-breast-raw-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg9bEIOcJ9NIjk"
+    },
+    {
+      "_id": "ggcgrXJIkNaaHn7U",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgrXJIkNaaHn7U",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Heron Plume",
+      "img": "icons/commodities/materials/feather-blue-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgtJk1GKdwgHDF"
+    },
+    {
+      "_id": "ggcgNXh1tkXG8Fp4",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgNXh1tkXG8Fp4",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sea Otter",
+      "img": "icons/commodities/leather/fur-simple-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgnsyCa9OTHvNN"
+    },
+    {
+      "_id": "ggcgsnILmkPKDeAZ",
+      "_key": "!tables.results!ggcgfKiEDw0DRJmE.ggcgsnILmkPKDeAZ",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hawk Pinion",
+      "img": "icons/commodities/materials/feather-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgK3XpN6j9pxgc"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcg4ACbRwYtlMkx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hunting-coast-t1",
+      "activity": "hunting",
+      "source": "coast",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

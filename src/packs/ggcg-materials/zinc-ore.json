@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgdZ6NjkXnczML",
+  "_key": "!items!ggcgdZ6NjkXnczML",
+  "name": "Zinc Ore",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-teal.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>Brass begins with this brittle blue-green rock.</p><p><em>Tier 2 · Base Ore · Found: Mountain Vein, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "zinc-ore",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "zinc-ore",
+      "kind": "raw",
+      "tier": 2,
+      "family": "base-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "mountain-vein",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "base-ore",
+        "base-ore-t2",
+        "base-ore-t1+",
+        "base-ore-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

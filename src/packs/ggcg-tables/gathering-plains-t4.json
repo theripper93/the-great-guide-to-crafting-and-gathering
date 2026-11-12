@@ -1,0 +1,254 @@
+{
+  "_id": "ggcg6b2Gq8UjcwsD",
+  "_key": "!tables!ggcg6b2Gq8UjcwsD",
+  "name": "Plains Herbs (Tier 4)",
+  "img": "icons/environment/wilderness/arch-stone.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcg4EtiEXxBJ0Ey",
+      "_key": "!tables.results!ggcg6b2Gq8UjcwsD.ggcg4EtiEXxBJ0Ey",
+      "weight": 47,
+      "range": [
+        1,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wyrmweed",
+      "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcglA97AbhQ0em7"
+    },
+    {
+      "_id": "ggcgh0s7hw3evBJt",
+      "_key": "!tables.results!ggcg6b2Gq8UjcwsD.ggcgh0s7hw3evBJt",
+      "weight": 23,
+      "range": [
+        48,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sevenyear Plum",
+      "img": "icons/consumables/fruit/plum-ripe-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgfEIB4Y1vO7Np"
+    },
+    {
+      "_id": "ggcg9AhCUCuLcMlK",
+      "_key": "!tables.results!ggcg6b2Gq8UjcwsD.ggcg9AhCUCuLcMlK",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wraithvine",
+      "img": "icons/magic/nature/plant-vines-skull-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgq4aVi1YgB89x"
+    },
+    {
+      "_id": "ggcgkiOwGkJvVm26",
+      "_key": "!tables.results!ggcg6b2Gq8UjcwsD.ggcgkiOwGkJvVm26",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Thunderlily",
+      "img": "icons/commodities/flowers/lily-grey-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8NcqX8PuSP8O"
+    },
+    {
+      "_id": "ggcg7tVCOdHE9osF",
+      "_key": "!tables.results!ggcg6b2Gq8UjcwsD.ggcg7tVCOdHE9osF",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mandrake",
+      "img": "icons/consumables/vegetable/root-ginger-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEVNz0xi2S3SH"
+    },
+    {
+      "_id": "ggcgeCf75PDp3ckH",
+      "_key": "!tables.results!ggcg6b2Gq8UjcwsD.ggcgeCf75PDp3ckH",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Stumpring",
+      "img": "icons/consumables/mushrooms/conical-bell-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgS3vm5FxAXWgA"
+    },
+    {
+      "_id": "ggcgMsmWcWyF6U4U",
+      "_key": "!tables.results!ggcg6b2Gq8UjcwsD.ggcgMsmWcWyF6U4U",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Snow Rye",
+      "img": "icons/consumables/grains/sack-oats-glowing-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgNe8phciamMuO"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-plains-t4",
+      "activity": "gathering",
+      "source": "plains",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

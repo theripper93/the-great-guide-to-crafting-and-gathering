@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgthSn8CtkK4hU",
+  "_key": "!items!ggcgthSn8CtkK4hU",
+  "name": "Ankheg Plate",
+  "type": "loot",
+  "img": "icons/commodities/bones/fossil-chitin.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Ankheg plate is thick chitin, pitted on the inside by the creature's own acid.</p><p><em>Tier 2 · Scale and Chitin · Found: Monstrosity</em></p>",
+      "chat": ""
+    },
+    "identifier": "ankheg-plate",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "ankheg-plate",
+      "kind": "raw",
+      "tier": 2,
+      "family": "scale-chitin",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "monstrosity"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scale-chitin",
+        "scale-chitin-t2",
+        "scale-chitin-t1+",
+        "scale-chitin-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

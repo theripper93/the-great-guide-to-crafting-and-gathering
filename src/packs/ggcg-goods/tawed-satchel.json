@@ -1,0 +1,96 @@
+{
+  "_id": "ggcg8chTAhOTNyKI",
+  "_key": "!items!ggcg8chTAhOTNyKI",
+  "name": "Tawed Satchel",
+  "type": "container",
+  "img": "icons/containers/bags/satchel-leather-brown.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>A soft tawed satchel that lies flat against the hip on a running horse.</p><p>It holds up to 20 pounds of gear.</p>",
+      "chat": ""
+    },
+    "identifier": "tawed-satchel",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 20,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "tawed-satchel",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "bags-containers",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "B"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-bags-containers"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

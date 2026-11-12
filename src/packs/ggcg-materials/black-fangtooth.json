@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgEoyhaHBIKTGi",
+  "_key": "!items!ggcgEoyhaHBIKTGi",
+  "name": "Black Fangtooth",
+  "type": "loot",
+  "img": "icons/creatures/fish/deepsea-creature-glowing-blue.webp",
+  "folder": "ggcga3lZJIAgOhvl",
+  "system": {
+    "description": {
+      "value": "<p>The black fangtooth lives in water so deep and dark that its skin takes no light at all. A lantern held over one shows only its long pale teeth and a faint blue glow behind the eyes. Vellum made from the skin can only be written on in pale ink.</p><p><em>Tier 4 · Fish · Found: Deep or Strange Water, Lake and Pond</em></p>",
+      "chat": ""
+    },
+    "identifier": "black-fangtooth",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "black-fangtooth",
+      "kind": "raw",
+      "tier": 4,
+      "family": "fish",
+      "subcategory": "exotic-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "deep-strange",
+        "lake-pond"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t4",
+        "fish-t1+",
+        "fish-t2+",
+        "fish-t3+",
+        "fish-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

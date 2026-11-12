@@ -1,0 +1,111 @@
+{
+  "_id": "ggcg8zGhOB2twTTR",
+  "_key": "!items!ggcg8zGhOB2twTTR",
+  "name": "Ink",
+  "type": "consumable",
+  "img": "icons/tools/scribal/ink-quill-red.webp",
+  "folder": "ggcgo9YwekVvqmP0",
+  "system": {
+    "description": {
+      "value": "<p>Bark ink thickened with acacia gum, in stoppered bottles.</p><p>Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 pages.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "1",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        },
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    },
+    "properties": [],
+    "activities": {},
+    "identifier": "ink",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bottle-of-ink",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "treated-papers",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagInk00000000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scribing-treated-papers",
+        "ink",
+        "ink-t1",
+        "ink-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagInk00000000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgEcLKyqnKV0cE",
+  "_key": "!items!ggcgEcLKyqnKV0cE",
+  "name": "Diamond Rough",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-rough-oval-white.webp",
+  "folder": "ggcgse4GqSQMfdAv",
+  "system": {
+    "description": {
+      "value": "<p>A rough diamond looks like a dull, greasy pebble, and miners have thrown more than one away. It is the hardest stone there is, yet in the white heat of a forge it burns away and leaves nothing behind.</p><p><em>Tier 4 · Rough Gem · Found: Volcanic, Deep Cavern</em></p>",
+      "chat": ""
+    },
+    "identifier": "diamond-rough",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "diamond-rough",
+      "kind": "raw",
+      "tier": 4,
+      "family": "rough-gem",
+      "subcategory": "rough-gems",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "deep-cavern"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "rough-gem",
+        "rough-gem-t4",
+        "rough-gem-t1+",
+        "rough-gem-t2+",
+        "rough-gem-t3+",
+        "rough-gem-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

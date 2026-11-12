@@ -1,0 +1,173 @@
+{
+  "_id": "ggcgC01SAdWYfQI2",
+  "_key": "!items!ggcgC01SAdWYfQI2",
+  "name": "Leatherworker's Tools",
+  "type": "tool",
+  "img": "icons/tools/hand/awl-steel-tan.webp",
+  "folder": "ggcgIZJXO9Cpzc5C",
+  "system": {
+    "description": {
+      "value": "<p>Awls packed point down in a block of beeswax.</p><p class=\"phb-meta\"><strong>Ability:</strong> Dexterity</p><p class=\"phb-meta\"><strong>Utilize:</strong> Add a design to a leather item (DC 10)</p><p class=\"phb-meta\"><strong>Craft:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepSling00000]{Sling}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepWhip000000]{Whip}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmHideArmor0]{Hide Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBackpack000]{Backpack}, @UUID[Compendium.dnd5e.items.Item.eJtPBiZtr2pp6ynt]{Crossbow Bolt Case}, @UUID[Compendium.dnd5e.equipment24.Item.phbagCaseMaporSc]{Map or Scroll Case}, @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{Parchment}, @UUID[Compendium.dnd5e.equipment24.Item.phbagPouch000000]{Pouch}, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{Quiver}, @UUID[Compendium.dnd5e.equipment24.Item.phbagWaterskin00]{Waterskin}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "art",
+      "baseItem": "leatherworker"
+    },
+    "ability": "dex",
+    "chatFlavor": "",
+    "proficient": null,
+    "properties": [],
+    "bonus": "",
+    "activities": {
+      "9GMvXIRK14ghlLel": {
+        "type": "check",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "concentration": false,
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "override": false,
+          "expiry": null
+        },
+        "effects": [],
+        "range": {
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": false,
+          "override": false
+        },
+        "check": {
+          "ability": "dex",
+          "dc": {
+            "calculation": "",
+            "formula": "10"
+          },
+          "associated": [],
+          "visible": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "sort": 0,
+        "_id": "9GMvXIRK14ghlLel",
+        "name": "Add Design",
+        "img": "",
+        "behaviors": [],
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "identifier": "leatherworkers-tools",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "leatherworkers-tools",
+      "kind": "tool",
+      "tier": 1,
+      "family": null,
+      "subcategory": "profession-kit",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbtulLeatherwor"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbtulLeatherwor",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

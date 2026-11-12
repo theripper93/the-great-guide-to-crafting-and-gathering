@@ -1,0 +1,96 @@
+{
+  "_id": "ggcgx7Giiw7OW3tm",
+  "_key": "!items!ggcgx7Giiw7OW3tm",
+  "name": "Boiled Quiver",
+  "type": "container",
+  "img": "icons/containers/ammunition/arrows-quiver-simple-brown.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>A stiff boiled-leather tube that stands up by itself.</p><p>It holds up to 30 items.</p>",
+      "chat": ""
+    },
+    "identifier": "boiled-quiver",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "capacity": {
+      "count": 30,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": null,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "boiled-quiver",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "bags-containers",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-bags-containers"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

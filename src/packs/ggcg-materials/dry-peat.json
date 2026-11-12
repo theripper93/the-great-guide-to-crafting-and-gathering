@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgHRbrog5XK42s",
+  "_key": "!items!ggcgHRbrog5XK42s",
+  "name": "Dry Peat",
+  "type": "loot",
+  "img": "icons/commodities/stone/rock-chunk-brown.webp",
+  "folder": "ggcgnHAPVlLgXw1d",
+  "system": {
+    "description": {
+      "value": "<p>Dry peat burns slow and low, with a sweet earthy smoke.</p><p><em>Tier 1 · Fuel and Flux · Found: Surface Outcrop, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "dry-peat",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "dry-peat",
+      "kind": "raw",
+      "tier": 1,
+      "family": "fuel-flux",
+      "subcategory": "fuels-fluxes",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fuel-flux",
+        "fuel-flux-t1",
+        "fuel-flux-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

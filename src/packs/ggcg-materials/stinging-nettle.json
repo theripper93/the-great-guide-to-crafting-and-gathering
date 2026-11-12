@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgUxvRvY0EyRVc",
+  "_key": "!items!ggcgUxvRvY0EyRVc",
+  "name": "Stinging Nettle",
+  "type": "loot",
+  "img": "icons/consumables/plants/milkweed-stem-serrated-leaves-green.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>A nettle sting tingles on the skin until nightfall.</p><p><em>Tier 1 · Toxic Herb · Found: Forest, Plains, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "stinging-nettle",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "stinging-nettle",
+      "kind": "raw",
+      "tier": 1,
+      "family": "toxic-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "plains",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "toxic-herb",
+        "toxic-herb-t1",
+        "toxic-herb-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

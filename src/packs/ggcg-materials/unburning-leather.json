@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgNUIo4uZm2I9D",
+  "_key": "!items!ggcgNUIo4uZm2I9D",
+  "name": "Unburning Leather",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-buckle-embossed-gold.webp",
+  "folder": "ggcguz2rCpU21hKF",
+  "system": {
+    "description": {
+      "value": "<p>Over a flame, unburning leather turns bright gold, then fades back to brown as it cools.</p><p><em>Tier 4 · Leather</em></p>",
+      "chat": ""
+    },
+    "identifier": "unburning-leather",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "unburning-leather",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "leather",
+      "subcategory": "leathers-cured-hides",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leather",
+        "leather-t4",
+        "leather-t1+",
+        "leather-t2+",
+        "leather-t3+",
+        "leather-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

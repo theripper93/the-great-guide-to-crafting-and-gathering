@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgTfvT6TpTFqAw",
+  "_key": "!items!ggcgTfvT6TpTFqAw",
+  "name": "Drowned Compass",
+  "type": "loot",
+  "img": "icons/tools/navigation/compass-worn-copper.webp",
+  "folder": "ggcga3lZJIAgOhvl",
+  "system": {
+    "description": {
+      "value": "<p>A ship's compass that lies long enough on the sea floor forgets north. Its needle swings round to the nearest wreck instead, and it keeps pointing there after it has been dried, cleaned and carried far inland. Sailors will not have one aboard, but enchanters pay well for the needle.</p><p><em>Tier 3 · Salvage · Found: Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "drowned-compass",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "drowned-compass",
+      "kind": "raw",
+      "tier": 3,
+      "family": "salvage",
+      "subcategory": "exotic-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "salvage",
+        "salvage-t3",
+        "salvage-t1+",
+        "salvage-t2+",
+        "salvage-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

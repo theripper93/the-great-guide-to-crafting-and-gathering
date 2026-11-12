@@ -1,0 +1,84 @@
+{
+  "_id": "ggcgcQdeEWdAYWui",
+  "_key": "!items!ggcgcQdeEWdAYWui",
+  "name": "Ghostgold Leaf",
+  "type": "loot",
+  "img": "icons/commodities/metal/steel-sheet.webp",
+  "folder": "ggcgSH56tqxFG3nv",
+  "system": {
+    "description": {
+      "value": "<p>Ghostgold leaf looks dull gray by day and pale gold by moonlight.</p><p><em>Tier 3 · Precious Metal</em></p>",
+      "chat": ""
+    },
+    "identifier": "ghostgold-leaf",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 240,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "ghostgold-leaf",
+      "kind": "intermediate",
+      "tier": 3,
+      "family": "precious-metal",
+      "subcategory": "ingots-alloys",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "precious-metal",
+        "precious-metal-t3",
+        "precious-metal-t1+",
+        "precious-metal-t2+",
+        "precious-metal-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

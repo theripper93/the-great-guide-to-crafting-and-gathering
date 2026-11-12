@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg3tCnZts7f2r4",
+  "_key": "!items!ggcg3tCnZts7f2r4",
+  "name": "Lich Skull",
+  "type": "loot",
+  "img": "icons/commodities/bones/skull-white-purple.webp",
+  "folder": "ggcgFMfWH9jZN7WP",
+  "system": {
+    "description": {
+      "value": "<p>A cold violet light still sits in the eye sockets, and it brightens whenever someone nearby casts a spell, as if the skull were paying attention. It can only be taken once the lich's hidden vessel is broken. Even then, a chip cut from it will slowly creep back toward the rest.</p><p><em>Tier 4 · Boss Trophy · Found: Undead</em></p>",
+      "chat": ""
+    },
+    "identifier": "lich-skull",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4800,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "lich-skull",
+      "kind": "raw",
+      "tier": 4,
+      "family": "boss-trophy",
+      "subcategory": "boss-trophies",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "undead"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "boss-trophy",
+        "boss-trophy-t4",
+        "boss-trophy-t1+",
+        "boss-trophy-t2+",
+        "boss-trophy-t3+",
+        "boss-trophy-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

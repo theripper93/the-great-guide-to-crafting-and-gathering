@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgVyL83rjsQoaM",
+  "_key": "!tables!ggcgVyL83rjsQoaM",
+  "name": "Elemental Harvest",
+  "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgvblPlXDPKIbI",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcgvblPlXDPKIbI",
+      "weight": 31,
+      "range": [
+        1,
+        31
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Magmin Slag",
+      "img": "icons/commodities/stone/ore-chunk-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgCtESLIc7cWmv"
+    },
+    {
+      "_id": "ggcgKHjCGTKyrAAa",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcgKHjCGTKyrAAa",
+      "weight": 31,
+      "range": [
+        32,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mephit Salt",
+      "img": "icons/commodities/materials/bowl-powder-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5xCeqSC1t1iw"
+    },
+    {
+      "_id": "ggcg2E6JnzfNzbpg",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcg2E6JnzfNzbpg",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bottled Gale",
+      "img": "icons/commodities/materials/glass-orb.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgl1T2U9nj4NkR"
+    },
+    {
+      "_id": "ggcgWXlrTTK9IUN2",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcgWXlrTTK9IUN2",
+      "weight": 14,
+      "range": [
+        77,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Evercold Water",
+      "img": "icons/magic/water/orb-water-bubbles-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgWrt4nup5Yoa7"
+    },
+    {
+      "_id": "ggcgYVA0x2j5MMRn",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcgYVA0x2j5MMRn",
+      "weight": 4,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Salamander Ember",
+      "img": "icons/commodities/stone/stone-meterorite-glowing-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgM2FxG4b2hjK6"
+    },
+    {
+      "_id": "ggcg9YiFmTmIcVlg",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcg9YiFmTmIcVlg",
+      "weight": 3,
+      "range": [
+        95,
+        97
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Living Stone Shard",
+      "img": "icons/commodities/stone/geode-raw-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLkbBFsWfZknQ"
+    },
+    {
+      "_id": "ggcgUiIzHXCxOimJ",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcgUiIzHXCxOimJ",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Djinni Storm Core",
+      "img": "icons/commodities/treasure/stone-cracked-lightning-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgMAjVxUpEFp1N"
+    },
+    {
+      "_id": "ggcgbULwgZRNeNuZ",
+      "_key": "!tables.results!ggcgVyL83rjsQoaM.ggcgbULwgZRNeNuZ",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Primal Bead",
+      "img": "icons/commodities/gems/pearl-fire-swirl.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvcGX3TowDfzQ"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-elemental",
+      "activity": "monster",
+      "source": "elemental",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

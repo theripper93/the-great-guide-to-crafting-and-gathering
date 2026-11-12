@@ -1,0 +1,173 @@
+{
+  "_id": "ggcg7qRydaj2EKld",
+  "_key": "!items!ggcg7qRydaj2EKld",
+  "name": "Fishing Tackle",
+  "type": "tool",
+  "img": "icons/tools/fishing/reel-simple-brown.webp",
+  "folder": "ggcgWyABDpZ4DGx0",
+  "system": {
+    "description": {
+      "value": "<p>A plain wooden reel wound with fine linen line.</p><p>This tool uses Wisdom.</p>",
+      "chat": ""
+    },
+    "identifier": "fishing-tackle",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "",
+      "baseItem": ""
+    },
+    "ability": "wis",
+    "bonus": "",
+    "chatFlavor": "",
+    "proficient": null,
+    "uses": {
+      "spent": 0,
+      "max": "",
+      "recovery": []
+    },
+    "activities": {
+      "ggcgxTf98Fac9xk6": {
+        "type": "check",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "check": {
+          "ability": "wis",
+          "associated": [],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": ""
+          },
+          "visible": true
+        },
+        "_id": "ggcgxTf98Fac9xk6"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fishing-tackle",
+      "kind": "tool",
+      "tier": 1,
+      "family": null,
+      "subcategory": "gathering-tool",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "tool"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "_id": "ggcggJR4Esz8CEq6",
+  "_key": "!items!ggcggJR4Esz8CEq6",
+  "name": "Masterwork Adamantine Chain Mail",
+  "type": "equipment",
+  "img": "icons/commodities/metal/mail-chain-steel.webp",
+  "folder": "ggcg7Xntu0jxiMLt",
+  "system": {
+    "description": {
+      "value": "<p>Each of its tiny rings is riveted shut, every rivet set in the same direction.</p><p>This Chain Mail is made of a finer material. It weighs 41.25 lb. It is Adamantine: any Critical Hit against you becomes a normal hit while you wear it.</p>",
+      "chat": ""
+    },
+    "identifier": "masterwork-adamantine-chain-mail",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 41.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 20000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [
+      "stealthDisadvantage",
+      "ada"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 16,
+      "dex": 0
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "heavy",
+      "baseItem": "chainmail"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": 13,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "masterwork-adamantine-chain-mail",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "armor-shields",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": "material-armor",
+      "priceClass": "D",
+      "base": "chainmail"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-armor-shields",
+        "smithing-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

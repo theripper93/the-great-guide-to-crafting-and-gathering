@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgA4DncHCly658",
+  "_key": "!items!ggcgA4DncHCly658",
+  "name": "Thought Pearl",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-purple-dark.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A thought pearl forms in the brain of an old aberration, one dark layer for every year of its life. Held to the ear it murmurs, too low to make out, and those who have cut one open say each layer speaks in a different voice.</p><p><em>Tier 4 · Monster Organ · Found: Aberration</em></p>",
+      "chat": ""
+    },
+    "identifier": "thought-pearl",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "thought-pearl",
+      "kind": "raw",
+      "tier": 4,
+      "family": "monster-organ",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "aberration"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "monster-organ",
+        "monster-organ-t4",
+        "monster-organ-t1+",
+        "monster-organ-t2+",
+        "monster-organ-t3+",
+        "monster-organ-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

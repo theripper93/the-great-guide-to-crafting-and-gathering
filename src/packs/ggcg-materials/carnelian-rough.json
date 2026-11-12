@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgfnGdtW1WZNX5",
+  "_key": "!items!ggcgfnGdtW1WZNX5",
+  "name": "Carnelian Rough",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-rough-cushion-orange-red.webp",
+  "folder": "ggcgse4GqSQMfdAv",
+  "system": {
+    "description": {
+      "value": "<p>Hot sealing wax never sticks to carnelian, the old stone of signet rings.</p><p><em>Tier 2 · Rough Gem · Found: Surface Outcrop, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "carnelian-rough",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "carnelian-rough",
+      "kind": "raw",
+      "tier": 2,
+      "family": "rough-gem",
+      "subcategory": "rough-gems",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "rough-gem",
+        "rough-gem-t2",
+        "rough-gem-t1+",
+        "rough-gem-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

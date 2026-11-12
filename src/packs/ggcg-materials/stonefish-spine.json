@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgdCvEV1jHkUML",
+  "_key": "!items!ggcgdCvEV1jHkUML",
+  "name": "Stonefish Spine",
+  "type": "loot",
+  "img": "icons/commodities/bones/bone-spine-grey.webp",
+  "folder": "ggcgE9UmxcOSnWyI",
+  "system": {
+    "description": {
+      "value": "<p>A short gray spine, grooved along its length to carry venom to the tip.</p><p><em>Tier 2 · Venom Gland · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "stonefish-spine",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "stonefish-spine",
+      "kind": "raw",
+      "tier": 2,
+      "family": "venom-gland",
+      "subcategory": "saltwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "venom-gland",
+        "venom-gland-t2",
+        "venom-gland-t1+",
+        "venom-gland-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

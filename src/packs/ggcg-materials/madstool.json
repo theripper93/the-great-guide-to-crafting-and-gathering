@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgBQbn5tGau13P",
+  "_key": "!items!ggcgBQbn5tGau13P",
+  "name": "Madstool",
+  "type": "loot",
+  "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+  "folder": "ggcgN4Fbahm4d18A",
+  "system": {
+    "description": {
+      "value": "<p>A madstool slowly turns its bright pink cap to face whoever stands nearest. In a cave where madstools grow, the rats keep to the far wall, and the dust around each patch is free of their tracks.</p><p><em>Tier 4 · Strange Fungus · Found: Underground, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "madstool",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "madstool",
+      "kind": "raw",
+      "tier": 4,
+      "family": "strange-fungus",
+      "subcategory": "fungi",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "underground",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "strange-fungus",
+        "strange-fungus-t4",
+        "strange-fungus-t1+",
+        "strange-fungus-t2+",
+        "strange-fungus-t3+",
+        "strange-fungus-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

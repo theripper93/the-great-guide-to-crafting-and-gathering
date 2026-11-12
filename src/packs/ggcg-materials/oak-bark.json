@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgEM13kszAWdTJ",
+  "_key": "!items!ggcgEM13kszAWdTJ",
+  "name": "Oak Bark",
+  "type": "loot",
+  "img": "icons/commodities/wood/bark-brown.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>Thick, furrowed oak bark that turns any water it soaks in brown.</p><p><em>Tier 1 · Bark · Found: Forest, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "oak-bark",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "oak-bark",
+      "kind": "raw",
+      "tier": 1,
+      "family": "bark",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bark",
+        "bark-t1",
+        "bark-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

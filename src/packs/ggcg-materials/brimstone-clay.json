@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgQQncHU1QQ6lt",
+  "_key": "!items!ggcgQQncHU1QQ6lt",
+  "name": "Brimstone Clay",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-yellow-brown.webp",
+  "folder": "ggcgP5gXQ5XuwXbd",
+  "system": {
+    "description": {
+      "value": "<p>Brimstone clay stinks of sulfur when it is wet, and it keeps a faint trace of the smell through every firing. Yet acid that would eat through an iron pot sits in a yellow brimstone jar for years and leaves no mark inside.</p><p><em>Tier 3 · Clay · Found: Volcanic, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "brimstone-clay",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "brimstone-clay",
+      "kind": "raw",
+      "tier": 3,
+      "family": "clay",
+      "subcategory": "stone-clay",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "clay",
+        "clay-t3",
+        "clay-t1+",
+        "clay-t2+",
+        "clay-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

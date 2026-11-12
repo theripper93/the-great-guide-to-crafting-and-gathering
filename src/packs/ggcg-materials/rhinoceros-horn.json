@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgjRNosSZjKuTI",
+  "_key": "!items!ggcgjRNosSZjKuTI",
+  "name": "Rhinoceros Horn",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-grey.webp",
+  "folder": "ggcgyMtunHbkgeWw",
+  "system": {
+    "description": {
+      "value": "<p>Rhinoceros horn is not bone at all but hair, packed so tight it can be carved and polished. Left long in water it softens and frays back into coarse gray strands, so a grip made from it is kept well oiled.</p><p><em>Tier 3 · Bone · Found: Plains, Forest</em></p>",
+      "chat": ""
+    },
+    "identifier": "rhinoceros-horn",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "rhinoceros-horn",
+      "kind": "raw",
+      "tier": 3,
+      "family": "bone",
+      "subcategory": "bone-horn-antler",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "plains",
+        "forest"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bone",
+        "bone-t3",
+        "bone-t1+",
+        "bone-t2+",
+        "bone-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgAlzUDufU7WtD",
+  "_key": "!items!ggcgAlzUDufU7WtD",
+  "name": "Heron-Plume Mantle",
+  "type": "equipment",
+  "img": "icons/equipment/back/mantle-collared-white.webp",
+  "folder": "ggcg8YZ4Xw64aRBg",
+  "system": {
+    "description": {
+      "value": "<p>A white mantle edged with heron plumes, worn by river folk on feast days.</p><p>While you wear it, you have a +1 bonus to Persuasion checks (<em>Plume Poise</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "heron-plume-mantle",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Plume Poise",
+      "img": "icons/equipment/back/mantle-collared-white.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.per.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgHbWfUjpCJOzz",
+      "_key": "!items.effects!ggcgAlzUDufU7WtD.ggcgHbWfUjpCJOzz",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "heron-plume-mantle",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "cloaks",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-cloaks"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

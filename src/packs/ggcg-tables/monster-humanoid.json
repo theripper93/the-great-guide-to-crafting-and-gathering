@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgNkIyVcB7SqOo",
+  "_key": "!tables!ggcgNkIyVcB7SqOo",
+  "name": "Humanoid Harvest",
+  "img": "icons/containers/bags/satchel-worn-leather-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgIaGi0OqgqoaW",
+      "_key": "!tables.results!ggcgNkIyVcB7SqOo.ggcgIaGi0OqgqoaW",
+      "weight": 21,
+      "range": [
+        1,
+        21
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Worn Whetstone",
+      "img": "icons/commodities/stone/paver-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgyFL3WYPhjbnQ"
+    },
+    {
+      "_id": "ggcgtarm4IBKTioc",
+      "_key": "!tables.results!ggcgNkIyVcB7SqOo.ggcgtarm4IBKTioc",
+      "weight": 21,
+      "range": [
+        22,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Smuggled Herb Pouch",
+      "img": "icons/containers/bags/pouch-leather-brown-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgkZQpHGIsqUiB"
+    },
+    {
+      "_id": "ggcg4kTfnWQpa9eg",
+      "_key": "!tables.results!ggcgNkIyVcB7SqOo.ggcg4kTfnWQpa9eg",
+      "weight": 21,
+      "range": [
+        43,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Knotted Charm Cord",
+      "img": "icons/sundries/survival/rope-braided-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgcDU8Pa8yImQZ"
+    },
+    {
+      "_id": "ggcgm6M324EiMcGX",
+      "_key": "!tables.results!ggcgNkIyVcB7SqOo.ggcgm6M324EiMcGX",
+      "weight": 15,
+      "range": [
+        64,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Trophy Claw String",
+      "img": "icons/equipment/neck/choker-simple-claws.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgsV0KZUNmL6mX"
+    },
+    {
+      "_id": "ggcgTr6JQnzLArpY",
+      "_key": "!tables.results!ggcgNkIyVcB7SqOo.ggcgTr6JQnzLArpY",
+      "weight": 14,
+      "range": [
+        79,
+        92
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Spy's Ink Vial",
+      "img": "icons/consumables/potions/vial-cork-empty.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg63iBgxvZyA7Z"
+    },
+    {
+      "_id": "ggcgxsLj8De7TUe0",
+      "_key": "!tables.results!ggcgNkIyVcB7SqOo.ggcgxsLj8De7TUe0",
+      "weight": 4,
+      "range": [
+        93,
+        96
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Silvered Chalk",
+      "img": "icons/commodities/treasure/case-red-silver.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgKAxGAurtY7jh"
+    },
+    {
+      "_id": "ggcgODwoIKgi1ImL",
+      "_key": "!tables.results!ggcgNkIyVcB7SqOo.ggcgODwoIKgi1ImL",
+      "weight": 4,
+      "range": [
+        97,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Assassin's Phial",
+      "img": "icons/consumables/potions/vial-ornet-silver-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHW4OeQhyTb4O"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-humanoid",
+      "activity": "monster",
+      "source": "humanoid",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

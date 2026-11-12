@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgS3vm5FxAXWgA",
+  "_key": "!items!ggcgS3vm5FxAXWgA",
+  "name": "Stumpring",
+  "type": "loot",
+  "img": "icons/consumables/mushrooms/conical-bell-pink.webp",
+  "folder": "ggcgN4Fbahm4d18A",
+  "system": {
+    "description": {
+      "value": "<p>Stumpring caps always stand in a perfect circle around an old stump, with never one out of line. Country folk say nobody standing inside the ring can be talked into anything, so bargains and courting are often settled there.</p><p><em>Tier 3 · Edible Fungus · Found: Plains, Forest</em></p>",
+      "chat": ""
+    },
+    "identifier": "stumpring",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "stumpring",
+      "kind": "raw",
+      "tier": 3,
+      "family": "edible-fungus",
+      "subcategory": "fungi",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "plains",
+        "forest"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "edible-fungus",
+        "edible-fungus-t3",
+        "edible-fungus-t1+",
+        "edible-fungus-t2+",
+        "edible-fungus-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

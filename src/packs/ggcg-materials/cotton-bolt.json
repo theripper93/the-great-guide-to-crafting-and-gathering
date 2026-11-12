@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgRpVTqdnSjYwM",
+  "_key": "!items!ggcgRpVTqdnSjYwM",
+  "name": "Cotton Bolt",
+  "type": "loot",
+  "img": "icons/commodities/cloth/cloth-bolt-gold.webp",
+  "folder": "ggcgyraylaoJnH8S",
+  "system": {
+    "description": {
+      "value": "<p>Cotton cloth takes dye better than linen, and this bolt has come out a warm, even gold.</p><p><em>Tier 2 · Cloth</em></p>",
+      "chat": ""
+    },
+    "identifier": "cotton-bolt",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cotton-bolt",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "cloth",
+      "subcategory": "cloth-thread-cord",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "cloth",
+        "cloth-t2",
+        "cloth-t1+",
+        "cloth-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

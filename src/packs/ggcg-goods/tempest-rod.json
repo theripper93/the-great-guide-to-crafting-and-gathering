@@ -1,0 +1,200 @@
+{
+  "_id": "ggcgV310LHDE4TjS",
+  "_key": "!items!ggcgV310LHDE4TjS",
+  "name": "Tempest Rod",
+  "type": "equipment",
+  "img": "icons/weapons/staves/staff-ornate-blue-jewel.webp",
+  "folder": "ggcgHANLGzOhbIsp",
+  "system": {
+    "description": {
+      "value": "<p>Fine drops of water bead on the tempest rod's blue jewel, even in dry air.</p><p>It has 3 charges and regains all expended charges daily at dawn. While holding it, you can expend 1 charge to cast @UUID[Compendium.dnd5e.spells24.Item.phbsplCallLightn]{Call Lightning} from it (save DC 15, +7 to hit).</p>",
+      "chat": ""
+    },
+    "identifier": "tempest-rod",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "rod",
+      "baseItem": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "3",
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll",
+          "formula": ""
+        }
+      ]
+    },
+    "attunement": "required",
+    "activities": {
+      "ggcg981YslRHThvg": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplCallLightn",
+          "level": 3,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 7,
+            "save": 15,
+            "override": true
+          }
+        },
+        "_id": "ggcg981YslRHThvg"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "tempest-rod",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "charged-items",
+      "activity": null,
+      "profession": "enchanting",
+      "sources": [],
+      "archetype": "spell-charged",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "enchanting-charged-items",
+        "enchanting-charged"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

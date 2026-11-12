@@ -1,0 +1,86 @@
+{
+  "_id": "ggcg6N5l3deJR6tF",
+  "_key": "!items!ggcg6N5l3deJR6tF",
+  "name": "Birch Bark",
+  "type": "loot",
+  "img": "icons/commodities/wood/bark-beige.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>Birch bark comes away in thin, pale sheets that can be written on.</p><p><em>Tier 1 · Bark · Found: Forest, Arctic, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "birch-bark",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "birch-bark",
+      "kind": "raw",
+      "tier": 1,
+      "family": "bark",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "arctic",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bark",
+        "bark-t1",
+        "bark-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

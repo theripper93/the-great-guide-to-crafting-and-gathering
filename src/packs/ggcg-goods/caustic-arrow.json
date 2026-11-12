@@ -1,0 +1,117 @@
+{
+  "_id": "ggcgOBL8hwZIUVvE",
+  "_key": "!items!ggcgOBL8hwZIUVvE",
+  "name": "Caustic Arrow",
+  "type": "consumable",
+  "img": "icons/weapons/ammunition/arrow-broadhead-green.webp",
+  "folder": "ggcgvrajbKK7sas7",
+  "system": {
+    "description": {
+      "value": "<p>Caustic arrows travel with their green heads sheathed in waxed cloth.</p><p>A hit with this ammunition deals an extra [[/damage 2d4 type=acid]] damage. A piece is used up when it is fired.</p>",
+      "chat": ""
+    },
+    "identifier": "caustic-arrow",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.05,
+      "units": "lb"
+    },
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": 2,
+        "denomination": 4,
+        "types": [
+          "acid"
+        ],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "number": 1,
+          "mode": "",
+          "formula": ""
+        },
+        "bonus": "",
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": "arrow"
+    },
+    "magicalBonus": "",
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "caustic-arrow",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "bombs",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "special-ammunition",
+      "priceClass": "C",
+      "base": "arrow",
+      "batch": 5
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemy-bombs"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

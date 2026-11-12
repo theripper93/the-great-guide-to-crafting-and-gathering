@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgf5amgsgRoyFp",
+  "_key": "!tables!ggcgf5amgsgRoyFp",
+  "name": "Monster Harvest Mishaps (Uncanny Types and Dragons)",
+  "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgjvvVLd7rEkei",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcgjvvVLd7rEkei",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>The cut opens on nothing: inside, the creature was not built the way it looked from outside.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Built Wrong Inside",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgoqRzCGlnSTLN",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcgoqRzCGlnSTLN",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>Whatever the remains are made of, flesh, slime, stone or smoke, knits shut behind the knife before anything can be taken.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Cut Closes",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgjalH6fyqoJH4",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcgjalH6fyqoJH4",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>What makes this part valuable thins away as the knife goes in, leaving it dull.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Power Ebbs",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgaS821HXGn9BR",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcgaS821HXGn9BR",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>The freed part slides from the harvester's hand back into the remains and melts into place as if it had never been cut.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Drawn Back In",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgjbvxOvzqKnUL",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcgjbvxOvzqKnUL",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>A last jolt of the creature's power leaps up the blade into the harvester's arm. The harvester makes a [[/save ability=con dc=13 format=long]] or takes [[/damage 1d6+1 type=force]].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Backlash",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgr7dav9auq0it",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcgr7dav9auq0it",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>A sense of dread rises from the remains. The harvester makes a [[/save ability=wis dc=13 format=long]] or is &amp;Reference[Frightened] for 10 minutes while the remains stay in sight; a new [[/save ability=wis dc=13 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Dread Presence",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgM6BbpxdJ0SvV",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcgM6BbpxdJ0SvV",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>A blinding flash bursts from the opened remains. The harvester makes a [[/save ability=con dc=12 format=long]] or is &amp;Reference[Blinded] for 10 minutes; a new [[/save ability=con dc=12 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Blinding Surge",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg5gpQMw7LVQGg",
+      "_key": "!tables.results!ggcgf5amgsgRoyFp.ggcg5gpQMw7LVQGg",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>A prickling force lingers around the part. The harvester makes a [[/save ability=wis dc=13 format=long]] or must slow to a crawl around it and loses 1 hour.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Painstaking Work",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-monster-2",
+      "activity": "monster",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

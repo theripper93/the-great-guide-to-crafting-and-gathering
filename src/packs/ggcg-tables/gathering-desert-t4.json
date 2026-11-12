@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgyMUu3gBFZbPW",
+  "_key": "!tables!ggcgyMUu3gBFZbPW",
+  "name": "Desert Herbs (Tier 4)",
+  "img": "icons/environment/settlement/pyramid.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgdaJ1dc3Pv7ti",
+      "_key": "!tables.results!ggcgyMUu3gBFZbPW.ggcgdaJ1dc3Pv7ti",
+      "weight": 47,
+      "range": [
+        1,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Temple Lotus",
+      "img": "icons/commodities/flowers/lotus-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLLD4Fe4W2IGx"
+    },
+    {
+      "_id": "ggcgtbT0nqCNflIQ",
+      "_key": "!tables.results!ggcgyMUu3gBFZbPW.ggcgtbT0nqCNflIQ",
+      "weight": 23,
+      "range": [
+        48,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bedrock Root",
+      "img": "icons/consumables/vegetable/root-carrot-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgbwK4XWXwXai4"
+    },
+    {
+      "_id": "ggcg2IXN0GWO76Uk",
+      "_key": "!tables.results!ggcgyMUu3gBFZbPW.ggcg2IXN0GWO76Uk",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fogmilk",
+      "img": "icons/commodities/materials/bowl-liquid-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgqJb7AlMNgNpW"
+    },
+    {
+      "_id": "ggcgazx3n8X47yfN",
+      "_key": "!tables.results!ggcgyMUu3gBFZbPW.ggcgazx3n8X47yfN",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ventpitch",
+      "img": "icons/commodities/materials/slime-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgxKN7aakfXk1Z"
+    },
+    {
+      "_id": "ggcg3fTAxJpgRYwB",
+      "_key": "!tables.results!ggcgyMUu3gBFZbPW.ggcg3fTAxJpgRYwB",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Saltpan Date",
+      "img": "icons/consumables/fruit/date-ripe-red-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvoOJr6BfoUoO"
+    },
+    {
+      "_id": "ggcga69aIgSF9mNl",
+      "_key": "!tables.results!ggcgyMUu3gBFZbPW.ggcga69aIgSF9mNl",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cragsage",
+      "img": "icons/consumables/plants/leaf-hastate-white-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgMcf28wI9PQC4"
+    },
+    {
+      "_id": "ggcgpeRbmHHl3BFH",
+      "_key": "!tables.results!ggcgyMUu3gBFZbPW.ggcgpeRbmHHl3BFH",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Desert Aloe",
+      "img": "icons/consumables/plants/aloe-succulent-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgrzssitHscDsW"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-desert-t4",
+      "activity": "gathering",
+      "source": "desert",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

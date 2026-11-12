@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg9PuqiOINRoPk",
+  "_key": "!items!ggcg9PuqiOINRoPk",
+  "name": "Black Pearl",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-swirl-teal.webp",
+  "folder": "ggcgXWbpjWFVffG9",
+  "system": {
+    "description": {
+      "value": "<p>Even in a lamp-lit room, a black pearl shows open water and a gray sky in its surface instead of the room around it. Jewelers who set them say the reflected water is always the water the pearl came from, and the best of them can tell river from sea at a glance.</p><p><em>Tier 3 · Shell and Pearl · Found: River and Stream, Sea Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "black-pearl",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "black-pearl",
+      "kind": "raw",
+      "tier": 3,
+      "family": "shell-pearl",
+      "subcategory": "non-fish-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "river-stream",
+        "sea-coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "shell-pearl",
+        "shell-pearl-t3",
+        "shell-pearl-t1+",
+        "shell-pearl-t2+",
+        "shell-pearl-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

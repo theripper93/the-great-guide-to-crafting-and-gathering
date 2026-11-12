@@ -1,0 +1,264 @@
+{
+  "_id": "ggcgIL6aAs45XLCB",
+  "_key": "!items!ggcgIL6aAs45XLCB",
+  "name": "Hemlock Bane",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-jug-corked-skull-poison-brown-green.webp",
+  "folder": "ggcgPDGwsyAjMUIL",
+  "system": {
+    "description": {
+      "value": "<p>Hemlock bane goes on a blade thick and dries to a tacky brown film.</p><p>As a Bonus Action, you can coat one weapon with this. For 1 minute, a hit with it deals an extra [[/damage 1 type=poison]] damage. A weapon holds one coating at a time.</p>",
+      "chat": ""
+    },
+    "identifier": "hemlock-bane",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "poison",
+      "subtype": "injury"
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgAtsp9EjzdqZd": {
+        "type": "enchant",
+        "name": "Coat Weapon",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcg5LmBXq7eZuX7",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [],
+              "item": []
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "enchant": {
+          "self": false
+        },
+        "restrictions": {
+          "allowMagical": true,
+          "type": "weapon",
+          "categories": [],
+          "properties": []
+        },
+        "_id": "ggcgAtsp9EjzdqZd"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Hemlock Bane",
+      "img": "icons/consumables/potions/potion-jug-corked-skull-poison-brown-green.webp",
+      "type": "enchantment",
+      "system": {
+        "changes": [
+          {
+            "key": "name",
+            "type": "override",
+            "value": "{} (Hemlock Bane)",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "activities[attack].damage.parts",
+            "type": "add",
+            "value": "{\"number\":null,\"denomination\":null,\"bonus\":\"1\",\"types\":[\"poison\"],\"custom\":{\"enabled\":false,\"formula\":\"\"},\"scaling\":{\"number\":1}}",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": true,
+      "duration": {
+        "value": 1,
+        "units": "minutes",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcg5LmBXq7eZuX7",
+      "_key": "!items.effects!ggcgIL6aAs45XLCB.ggcg5LmBXq7eZuX7",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hemlock-bane",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "injury",
+      "activity": null,
+      "profession": "poisoncraft",
+      "sources": [],
+      "archetype": "weapon-oil",
+      "priceClass": "B",
+      "stackGroup": "coating"
+    },
+    "mastercrafted": {
+      "tags": [
+        "poisoncraft-injury"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

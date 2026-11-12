@@ -1,0 +1,180 @@
+{
+  "_id": "ggcgwsz2YAMIgsmz",
+  "_key": "!items!ggcgwsz2YAMIgsmz",
+  "name": "Draught of Ages",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-bottle-corked-stopper-ornate-yellow.webp",
+  "folder": "ggcgCj8fQCyrGjWW",
+  "system": {
+    "description": {
+      "value": "<p>A single mouthful of pale gold liquid in a stoppered bottle. It moves more slowly than water should, and bubbles that rise in it take most of a minute to reach the top.</p><p><strong>Drink.</strong> As an action, you drink the draught and choose one ability. That ability score increases by 2 for good, and so does its maximum. A creature can gain this benefit only once, and the draught is used up.</p><p><strong>The Years Given.</strong> The draught takes ten years from its drinker's past in payment: not from their age, but from their history. For those ten years nobody remembers them, no record names them, and they themselves recall the time only as a dream. The drinker chooses which ten.</p>",
+      "chat": ""
+    },
+    "identifier": "draught-of-ages",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcg7KOIoPYd0Oa3": {
+        "type": "utility",
+        "name": "Drink",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcg7KOIoPYd0Oa3"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "draught-of-ages",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "buff-elixirs",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

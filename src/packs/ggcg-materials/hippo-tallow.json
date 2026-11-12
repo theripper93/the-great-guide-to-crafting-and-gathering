@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgioRKOkayGjUW",
+  "_key": "!items!ggcgioRKOkayGjUW",
+  "name": "Hippo Tallow",
+  "type": "loot",
+  "img": "icons/consumables/meat/steak-marbled.webp",
+  "folder": "ggcgZ1lxh6Btrvj3",
+  "system": {
+    "description": {
+      "value": "<p>Hippo tallow never goes rancid, even after a summer in the swamp heat.</p><p><em>Tier 3 · Animal Fat · Found: Swamp, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "hippo-tallow",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hippo-tallow",
+      "kind": "raw",
+      "tier": 3,
+      "family": "animal-fat",
+      "subcategory": "sinew-fat-glands",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "animal-fat",
+        "animal-fat-t3",
+        "animal-fat-t1+",
+        "animal-fat-t2+",
+        "animal-fat-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

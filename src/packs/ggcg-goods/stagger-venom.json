@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgFVREQB1lDjIk",
+  "_key": "!items!ggcgFVREQB1lDjIk",
+  "name": "Stagger Venom",
+  "type": "consumable",
+  "img": "icons/consumables/potions/vial-cork-red.webp",
+  "folder": "ggcgPDGwsyAjMUIL",
+  "system": {
+    "description": {
+      "value": "<p>Stagger venom is thick enough to cling to an arrowhead in the rain.</p><p><em>&amp;Reference[injurypoison] Poison</em></p><p>A creature hit by a weapon or piece of ammunition coated with this poison must succeed on a [[/save ability=con dc=11 format=long]] or have the &amp;Reference[Poisoned apply=false] and &amp;Reference[Prone apply=false] conditions for 1 minute.</p>",
+      "chat": ""
+    },
+    "identifier": "stagger-venom",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "poison",
+      "subtype": "injury"
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgo42fjKSdzlpG": {
+        "type": "save",
+        "name": "Use Poison",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgRG3KugJY1T6t",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "onSave": false
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "con"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "11"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": []
+        },
+        "_id": "ggcgo42fjKSdzlpG"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Stagger Venom: Poisoned and Prone",
+      "img": "icons/consumables/potions/vial-cork-red.webp",
+      "type": "base",
+      "system": {
+        "changes": [],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 1,
+        "units": "minutes",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [
+        "poisoned",
+        "prone"
+      ],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgRG3KugJY1T6t",
+      "_key": "!items.effects!ggcgFVREQB1lDjIk.ggcgRG3KugJY1T6t",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "stagger-venom",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "injury",
+      "activity": null,
+      "profession": "poisoncraft",
+      "sources": [],
+      "archetype": "condition-poison",
+      "priceClass": "B"
+    },
+    "mastercrafted": {
+      "tags": [
+        "poisoncraft-injury"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "_id": "ggcgg3HtowxotvmH",
+  "_key": "!items!ggcgg3HtowxotvmH",
+  "name": "Masterwork Adamantine Plate",
+  "type": "equipment",
+  "img": "icons/equipment/chest/breastplate-layered-steel-black.webp",
+  "folder": "ggcg7Xntu0jxiMLt",
+  "system": {
+    "description": {
+      "value": "<p>Swords that strike this black plate come away with their edges bent.</p><p>This Plate Armor is made of a finer material. It is Adamantine: any Critical Hit against you becomes a normal hit while you wear it. You have a +2 bonus to Armor Class while you wear this magic armor.</p>",
+      "chat": ""
+    },
+    "identifier": "masterwork-adamantine-plate",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 65,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [
+      "stealthDisadvantage",
+      "ada",
+      "mgc"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 18,
+      "dex": 0,
+      "magicalBonus": "2"
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "heavy",
+      "baseItem": "plate"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": 15,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "masterwork-adamantine-plate",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "armor-shields",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": "material-armor",
+      "priceClass": "E",
+      "base": "plate"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-armor-shields",
+        "smithing-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

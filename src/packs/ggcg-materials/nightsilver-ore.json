@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgbDPiaEsGoOCf",
+  "_key": "!items!ggcgbDPiaEsGoOCf",
+  "name": "Nightsilver Ore",
+  "type": "loot",
+  "img": "icons/commodities/stone/geode-raw-white.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>A lump of nightsilver ore casts a shadow blacker than the rock beside it.</p><p><em>Tier 3 · Precious Ore · Found: Deep Cavern, Mountain Vein</em></p>",
+      "chat": ""
+    },
+    "identifier": "nightsilver-ore",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "nightsilver-ore",
+      "kind": "raw",
+      "tier": 3,
+      "family": "precious-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "deep-cavern",
+        "mountain-vein"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "precious-ore",
+        "precious-ore-t3",
+        "precious-ore-t1+",
+        "precious-ore-t2+",
+        "precious-ore-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

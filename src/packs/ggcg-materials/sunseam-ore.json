@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgDcLdQ8zL1aZh",
+  "_key": "!items!ggcgDcLdQ8zL1aZh",
+  "name": "Sunseam Ore",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-pile-gold-orange.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>Deep inside a mountain, a vein of sunseam ore still brightens at dawn and goes dull at dusk. Miners who work it keep no other clock, and on overcast days the rock stays dim from morning to night.</p><p><em>Tier 4 · Precious Ore · Found: Mountain Vein, Surface Outcrop</em></p>",
+      "chat": ""
+    },
+    "identifier": "sunseam-ore",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sunseam-ore",
+      "kind": "raw",
+      "tier": 4,
+      "family": "precious-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "mountain-vein",
+        "surface-outcrop"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "precious-ore",
+        "precious-ore-t4",
+        "precious-ore-t1+",
+        "precious-ore-t2+",
+        "precious-ore-t3+",
+        "precious-ore-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

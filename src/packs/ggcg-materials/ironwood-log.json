@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgN4G9jT2zQ5Br",
+  "_key": "!items!ggcgN4G9jT2zQ5Br",
+  "name": "Ironwood Log",
+  "type": "loot",
+  "img": "icons/commodities/wood/log-stack-hickory-brown.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>Left out in the rain, cut ironwood grows a thin skin of orange rust, though there is no metal in it. Under the rust the wood is so hard and heavy that a log sinks in water, and woodcutters wear out an axe on a single tree.</p><p><em>Tier 3 · Timber · Found: Forest, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "ironwood-log",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "ironwood-log",
+      "kind": "raw",
+      "tier": 3,
+      "family": "timber",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "timber",
+        "timber-t3",
+        "timber-t1+",
+        "timber-t2+",
+        "timber-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

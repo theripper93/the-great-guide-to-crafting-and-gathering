@@ -1,0 +1,85 @@
+{
+  "_id": "ggcg8rdLbcLOsp0p",
+  "_key": "!items!ggcg8rdLbcLOsp0p",
+  "name": "Specter Ectoplasm",
+  "type": "loot",
+  "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Specter ectoplasm sinks slowly through a wooden table and drips from the underside.</p><p><em>Tier 2 · Essence · Found: Undead</em></p>",
+      "chat": ""
+    },
+    "identifier": "specter-ectoplasm",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "specter-ectoplasm",
+      "kind": "raw",
+      "tier": 2,
+      "family": "essence",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "undead"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "essence",
+        "essence-t2",
+        "essence-t1+",
+        "essence-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

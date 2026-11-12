@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgQDWm0hRrrru1",
+  "_key": "!items!ggcgQDWm0hRrrru1",
+  "name": "Greatsquid Arm",
+  "type": "loot",
+  "img": "icons/consumables/meat/octopus-tentacle-cut-purple.webp",
+  "folder": "ggcga3lZJIAgOhvl",
+  "system": {
+    "description": {
+      "value": "<p>One greatsquid arm is longer than a fishing boat, and every sucker on it is ringed with small hooked teeth. When one is hauled in, the whole shore eats for days, and the cooks roast it along a row of driftwood fires down the beach.</p><p><em>Tier 4 · Fish · Found: Deep or Strange Water, Sea Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "greatsquid-arm",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "greatsquid-arm",
+      "kind": "raw",
+      "tier": 4,
+      "family": "fish",
+      "subcategory": "exotic-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "deep-strange",
+        "sea-coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t4",
+        "fish-t1+",
+        "fish-t2+",
+        "fish-t3+",
+        "fish-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

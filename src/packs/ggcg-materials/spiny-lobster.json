@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgjJmaFCPDtMDu",
+  "_key": "!items!ggcgjJmaFCPDtMDu",
+  "name": "Spiny Lobster",
+  "type": "loot",
+  "img": "icons/consumables/meat/claw-crab-lobster-red.webp",
+  "folder": "ggcggWMrVSkCjLZ3",
+  "system": {
+    "description": {
+      "value": "<p>Each autumn spiny lobsters cross the sea floor in long single-file lines.</p><p><em>Tier 2 · Shellfish · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "spiny-lobster",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "spiny-lobster",
+      "kind": "raw",
+      "tier": 2,
+      "family": "shellfish",
+      "subcategory": "shellfish-crustaceans",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "shellfish",
+        "shellfish-t2",
+        "shellfish-t1+",
+        "shellfish-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

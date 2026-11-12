@@ -1,0 +1,84 @@
+{
+  "_id": "ggcgipFOgb2p5FGS",
+  "_key": "!items!ggcgipFOgb2p5FGS",
+  "name": "Gelatinous Cube Jelly",
+  "type": "loot",
+  "img": "icons/commodities/materials/glass-cube.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Gelatinous cube jelly cuts into blocks with sharp, clear corners.</p><p><em>Tier 1 · Ichor · Found: Ooze</em></p>",
+      "chat": ""
+    },
+    "identifier": "gelatinous-cube-jelly",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gelatinous-cube-jelly",
+      "kind": "raw",
+      "tier": 1,
+      "family": "ichor",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "ooze"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ichor",
+        "ichor-t1",
+        "ichor-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

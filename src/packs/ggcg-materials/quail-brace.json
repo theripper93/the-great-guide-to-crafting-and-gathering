@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgKEslMnKp5Wt8",
+  "_key": "!items!ggcgKEslMnKp5Wt8",
+  "name": "Quail Brace",
+  "type": "loot",
+  "img": "icons/consumables/meat/drumstick-bone-pink.webp",
+  "folder": "ggcgWv9FyprnjsIX",
+  "system": {
+    "description": {
+      "value": "<p>A brace of quail, two small plump birds tied at the neck.</p><p><em>Tier 1 · Game Meat · Found: Plains, Forest, Desert</em></p>",
+      "chat": ""
+    },
+    "identifier": "quail-brace",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "quail-brace",
+      "kind": "raw",
+      "tier": 1,
+      "family": "game-meat",
+      "subcategory": "small-game",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "plains",
+        "forest",
+        "desert"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "game-meat",
+        "game-meat-t1",
+        "game-meat-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

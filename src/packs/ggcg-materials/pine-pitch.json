@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgo7M4JbeCydJV",
+  "_key": "!items!ggcgo7M4JbeCydJV",
+  "name": "Pine Pitch",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-amber-insect-orange.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>Sticky golden pine pitch, often with a fly or two stuck in it.</p><p><em>Tier 1 · Resin · Found: Forest, Mountain, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "pine-pitch",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "pine-pitch",
+      "kind": "raw",
+      "tier": 1,
+      "family": "resin",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "mountain",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "resin",
+        "resin-t1",
+        "resin-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

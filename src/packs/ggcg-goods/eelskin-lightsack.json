@@ -1,0 +1,99 @@
+{
+  "_id": "ggcgkzw14zqIKY71",
+  "_key": "!items!ggcgkzw14zqIKY71",
+  "name": "Eelskin Lightsack",
+  "type": "container",
+  "img": "icons/containers/bags/sack-simple-leather-teal.webp",
+  "folder": "ggcgmGKKaQUSAayq",
+  "system": {
+    "description": {
+      "value": "<p>Slick teal eelskin, stitched with the seams turned inward against the wet.</p><p>It holds up to 60 pounds of gear. Its contents add nothing to its weight.</p>",
+      "chat": ""
+    },
+    "identifier": "eelskin-lightsack",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc",
+      "weightlessContents"
+    ],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 60,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "eelskin-lightsack",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "bags-containers",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-bags-containers"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

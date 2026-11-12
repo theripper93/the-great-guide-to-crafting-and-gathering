@@ -1,0 +1,88 @@
+{
+  "_id": "ggcg1P91dBQ50oDr",
+  "_key": "!items!ggcg1P91dBQ50oDr",
+  "name": "Gloamvine",
+  "type": "loot",
+  "img": "icons/magic/nature/vines-thorned-entwined-glow-teal-purple.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Gloamvine grows toward shadow the way other plants grow toward light, and in a cave it creeps across the roof to the darkest corner. Yet its thorns glow teal and violet, so the darker the place it finds, the brighter it shows.</p><p><em>Tier 4 · Arcane Herb · Found: Underground, Forest</em></p>",
+      "chat": ""
+    },
+    "identifier": "gloamvine",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gloamvine",
+      "kind": "raw",
+      "tier": 4,
+      "family": "arcane-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "underground",
+        "forest"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-herb",
+        "arcane-herb-t4",
+        "arcane-herb-t1+",
+        "arcane-herb-t2+",
+        "arcane-herb-t3+",
+        "arcane-herb-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

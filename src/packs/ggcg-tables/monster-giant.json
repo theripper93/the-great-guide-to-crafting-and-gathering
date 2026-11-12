@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgMJ4DH3rkva0q",
+  "_key": "!tables!ggcgMJ4DH3rkva0q",
+  "name": "Giant Harvest",
+  "img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgbpDhzV2OctNw",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcgbpDhzV2OctNw",
+      "weight": 31,
+      "range": [
+        1,
+        31
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ogre Hide",
+      "img": "icons/commodities/leather/leather-patch-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgyD4NG9hT0zh8"
+    },
+    {
+      "_id": "ggcgzbG3OsKChbIK",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcgzbG3OsKChbIK",
+      "weight": 31,
+      "range": [
+        32,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant's Beard Hair",
+      "img": "icons/commodities/materials/hair-tuft-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg015Pwig1LdWo"
+    },
+    {
+      "_id": "ggcgY2ApyADALBZD",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcgY2ApyADALBZD",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Troll Sinew",
+      "img": "icons/sundries/survival/rope-wrapped-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgAGYfqg8TAck9"
+    },
+    {
+      "_id": "ggcgShPoPVJzlRLE",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcgShPoPVJzlRLE",
+      "weight": 14,
+      "range": [
+        77,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hill Giant Molar",
+      "img": "icons/commodities/bones/tooth-molar-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgnjuEeGxYzzd7"
+    },
+    {
+      "_id": "ggcgJaVI0m7ouYMT",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcgJaVI0m7ouYMT",
+      "weight": 4,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fire Giant Chain Link",
+      "img": "icons/commodities/metal/fragments-steel-ring.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgOKeojBKCPVR6"
+    },
+    {
+      "_id": "ggcgsXhZj0NDfsaS",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcgsXhZj0NDfsaS",
+      "weight": 3,
+      "range": [
+        95,
+        97
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cloud Giant Hair",
+      "img": "icons/commodities/materials/hair-tuft-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg0GpxolwpSkia"
+    },
+    {
+      "_id": "ggcg1lP1mKtgE11a",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcg1lP1mKtgE11a",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Storm Giant Beard",
+      "img": "icons/commodities/materials/hair-braid-gold.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgkVMH39oxm9MC"
+    },
+    {
+      "_id": "ggcgiWq5jepcVfpN",
+      "_key": "!tables.results!ggcgMJ4DH3rkva0q.ggcgiWq5jepcVfpN",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Giant's Ironbone",
+      "img": "icons/commodities/bones/bones-joint-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwCiiinHj50ht"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-giant",
+      "activity": "monster",
+      "source": "giant",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

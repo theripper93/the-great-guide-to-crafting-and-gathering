@@ -1,0 +1,23 @@
+{
+  "_id": "ggcgrdm3vtilxTke",
+  "_key": "!folders!ggcgrdm3vtilxTke",
+  "name": "Leatherworking",
+  "type": "Item",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

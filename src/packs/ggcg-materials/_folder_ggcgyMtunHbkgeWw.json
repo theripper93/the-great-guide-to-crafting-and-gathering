@@ -1,0 +1,23 @@
+{
+  "_id": "ggcgyMtunHbkgeWw",
+  "_key": "!folders!ggcgyMtunHbkgeWw",
+  "name": "Bone, Horn and Antler",
+  "type": "Item",
+  "folder": "ggcg9ADS3s37bG7t",
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

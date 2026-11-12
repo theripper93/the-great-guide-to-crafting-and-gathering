@@ -1,0 +1,173 @@
+{
+  "_id": "ggcgHUuUIHg3Lo9R",
+  "_key": "!items!ggcgHUuUIHg3Lo9R",
+  "name": "Woodcarver's Tools",
+  "type": "tool",
+  "img": "icons/tools/hand/chisel-steel-brown.webp",
+  "folder": "ggcgIZJXO9Cpzc5C",
+  "system": {
+    "description": {
+      "value": "<p>The handles are turned from boxwood, which does not split under the mallet.</p><p class=\"phb-meta\"><strong>Ability:</strong> Dexterity</p><p class=\"phb-meta\"><strong>Utilize:</strong> Carve a pattern in wood (DC 10)</p><p class=\"phb-meta\"><strong>Craft:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepClub000000]{Club}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatclub0]{Greatclub}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{Quarterstaff}, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{Arrows}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoBolts00000]{Bolts}, Druidic Focus, @UUID[Compendium.dnd5e.equipment24.Item.phbagInkPen00000]{Ink Pen}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoNeedles000]{Needles}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "art",
+      "baseItem": "woodcarver"
+    },
+    "ability": "dex",
+    "chatFlavor": "",
+    "proficient": null,
+    "properties": [],
+    "bonus": "",
+    "activities": {
+      "BUtZN2MAxVTxHX0S": {
+        "type": "check",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "concentration": false,
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "override": false,
+          "expiry": null
+        },
+        "effects": [],
+        "range": {
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": false,
+          "override": false
+        },
+        "check": {
+          "ability": "dex",
+          "dc": {
+            "calculation": "",
+            "formula": "10"
+          },
+          "associated": [],
+          "visible": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "sort": 0,
+        "_id": "BUtZN2MAxVTxHX0S",
+        "name": "Carve Pattern",
+        "img": "",
+        "behaviors": [],
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "identifier": "woodcarvers-tools",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "woodcarvers-tools",
+      "kind": "tool",
+      "tier": 1,
+      "family": null,
+      "subcategory": "profession-kit",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbtulWoodcarver"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbtulWoodcarver",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

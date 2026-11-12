@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgkVMH39oxm9MC",
+  "_key": "!items!ggcgkVMH39oxm9MC",
+  "name": "Storm Giant Beard",
+  "type": "loot",
+  "img": "icons/commodities/materials/hair-braid-gold.webp",
+  "folder": "ggcgFMfWH9jZN7WP",
+  "system": {
+    "description": {
+      "value": "<p>A braid of storm giant beard is thick golden hair that smells of rain, even after years shut in a chest. Storm giants give braids from their own beards to those they honor, and the few seen among people were almost always gifts.</p><p><em>Tier 3 · Boss Trophy · Found: Giant</em></p>",
+      "chat": ""
+    },
+    "identifier": "storm-giant-beard",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 480,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "storm-giant-beard",
+      "kind": "raw",
+      "tier": 3,
+      "family": "boss-trophy",
+      "subcategory": "boss-trophies",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "giant"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "boss-trophy",
+        "boss-trophy-t3",
+        "boss-trophy-t1+",
+        "boss-trophy-t2+",
+        "boss-trophy-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

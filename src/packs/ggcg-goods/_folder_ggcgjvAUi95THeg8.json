@@ -1,0 +1,23 @@
+{
+  "_id": "ggcgjvAUi95THeg8",
+  "_key": "!folders!ggcgjvAUi95THeg8",
+  "name": "Tier 3",
+  "type": "Item",
+  "folder": "ggcgrdm3vtilxTke",
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

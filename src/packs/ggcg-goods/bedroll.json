@@ -1,0 +1,77 @@
+{
+  "_id": "ggcgRJStDNzV0FFZ",
+  "_key": "!items!ggcgRJStDNzV0FFZ",
+  "name": "Bedroll",
+  "type": "loot",
+  "img": "icons/sundries/survival/bedroll-brown.webp",
+  "folder": "ggcg8YZ4Xw64aRBg",
+  "system": {
+    "description": {
+      "value": "<p>A hide sleeping roll stuffed thick with cattail fluff.</p><p>A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see @UUID[Compendium.dnd5e.content24.JournalEntry.dmgDmsToolbox000]{Gameplay Toolbox}).</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 7,
+      "units": "lb"
+    },
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "bedroll",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bedroll",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "packs-wraps",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagBedroll0000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-packs-wraps"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagBedroll0000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

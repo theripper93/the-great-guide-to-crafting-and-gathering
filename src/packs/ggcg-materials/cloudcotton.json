@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgur7CYghJOC7x",
+  "_key": "!items!ggcgur7CYghJOC7x",
+  "name": "Cloudcotton",
+  "type": "loot",
+  "img": "icons/commodities/flowers/dandelion-pod-white.webp",
+  "folder": "ggcg8nISBkiTqyY6",
+  "system": {
+    "description": {
+      "value": "<p>Mountain birds line their nests with cloudcotton, and their eggs never freeze.</p><p><em>Tier 3 · Plant Fiber · Found: Mountain, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "cloudcotton",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cloudcotton",
+      "kind": "raw",
+      "tier": 3,
+      "family": "plant-fiber",
+      "subcategory": "fibers-reeds",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "plant-fiber",
+        "plant-fiber-t3",
+        "plant-fiber-t1+",
+        "plant-fiber-t2+",
+        "plant-fiber-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

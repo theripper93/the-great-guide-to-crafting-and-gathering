@@ -1,0 +1,316 @@
+{
+  "_id": "ggcg0zYdacLVUdrO",
+  "_key": "!tables!ggcg0zYdacLVUdrO",
+  "name": "Deep Water Fishing (Tier 4)",
+  "img": "icons/magic/water/vortex-water-whirlpool.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgJC6PxNr0tVAw",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcgJC6PxNr0tVAw",
+      "weight": 24,
+      "range": [
+        1,
+        24
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Black Fangtooth",
+      "img": "icons/creatures/fish/deepsea-creature-glowing-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEoyhaHBIKTGi"
+    },
+    {
+      "_id": "ggcgMyk82BfqQVwG",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcgMyk82BfqQVwG",
+      "weight": 23,
+      "range": [
+        25,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hearthfin Shark",
+      "img": "icons/creatures/fish/fish-shark-swimming.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgb0iDoCbtpsS1"
+    },
+    {
+      "_id": "ggcgUFiOy5PZpvXM",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcgUFiOy5PZpvXM",
+      "weight": 12,
+      "range": [
+        48,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Domeback Carapace",
+      "img": "icons/commodities/biological/shell-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgVBu7YxnZzPDO"
+    },
+    {
+      "_id": "ggcg29DtWe5zji6y",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcg29DtWe5zji6y",
+      "weight": 11,
+      "range": [
+        60,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Greatsquid Arm",
+      "img": "icons/consumables/meat/octopus-tentacle-cut-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgQDWm0hRrrru1"
+    },
+    {
+      "_id": "ggcg4xUoMA4frTu7",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcg4xUoMA4frTu7",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Weatherglass Pearl",
+      "img": "icons/commodities/gems/pearl-storm.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg95MtWhOgusRe"
+    },
+    {
+      "_id": "ggcgh4Mb6tA3P58c",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcgh4Mb6tA3P58c",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Drowned Compass",
+      "img": "icons/tools/navigation/compass-worn-copper.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgTfvT6TpTFqAw"
+    },
+    {
+      "_id": "ggcg9ljmWzWLLLjK",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcg9ljmWzWLLLjK",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ashwater Eel Oil",
+      "img": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHnJ2GZ8t8y81"
+    },
+    {
+      "_id": "ggcg9v5ckEuGJtl6",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcg9v5ckEuGJtl6",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cavern Crayfish",
+      "img": "icons/consumables/meat/claw-crab-lobster-serrated-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg1fhUDZ7dQ8Gb"
+    },
+    {
+      "_id": "ggcguBCXHqYION51",
+      "_key": "!tables.results!ggcg0zYdacLVUdrO.ggcguBCXHqYION51",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gilt Scallop",
+      "img": "icons/environment/creatures/crustacean-oyster.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgUHXF4KAZd8Le"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgjt2f7fUp9JF7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fishing-deep-strange-t4",
+      "activity": "fishing",
+      "source": "deep-strange",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

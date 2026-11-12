@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgsE5ybSgIXNXa",
+  "_key": "!items!ggcgsE5ybSgIXNXa",
+  "name": "Rootsilk",
+  "type": "loot",
+  "img": "icons/magic/nature/root-vines-grow-brown.webp",
+  "folder": "ggcg8nISBkiTqyY6",
+  "system": {
+    "description": {
+      "value": "<p>Rootsilk is the fine brown thread that old trees use to bind their roots together underground.</p><p><em>Tier 4 · Plant Fiber · Found: Forest, Underground</em></p>",
+      "chat": ""
+    },
+    "identifier": "rootsilk",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "rootsilk",
+      "kind": "raw",
+      "tier": 4,
+      "family": "plant-fiber",
+      "subcategory": "fibers-reeds",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "underground"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "plant-fiber",
+        "plant-fiber-t4",
+        "plant-fiber-t1+",
+        "plant-fiber-t2+",
+        "plant-fiber-t3+",
+        "plant-fiber-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

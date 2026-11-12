@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgxF6zjHSxzAaw",
+  "_key": "!items!ggcgxF6zjHSxzAaw",
+  "name": "Emberiron Ore",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-orange-red.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>Snow never settles on an emberiron outcrop, so in winter its veins show from far off as red stripes down a white mountainside. The ore stays warm in the hand for days after it is broken out, and herders on the high slopes carry a lump of it in their coats.</p><p><em>Tier 4 · Base Ore · Found: Mountain Vein, Volcanic</em></p>",
+      "chat": ""
+    },
+    "identifier": "emberiron-ore",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "emberiron-ore",
+      "kind": "raw",
+      "tier": 4,
+      "family": "base-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "mountain-vein",
+        "volcanic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "base-ore",
+        "base-ore-t4",
+        "base-ore-t1+",
+        "base-ore-t2+",
+        "base-ore-t3+",
+        "base-ore-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

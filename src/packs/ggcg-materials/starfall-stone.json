@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgRYbPYRVfFVIi",
+  "_key": "!items!ggcgRYbPYRVfFVIi",
+  "name": "Starfall Stone",
+  "type": "loot",
+  "img": "icons/commodities/stone/stone-cratered-brown.webp",
+  "folder": "ggcgP5gXQ5XuwXbd",
+  "system": {
+    "description": {
+      "value": "<p>Starfall stone always turns up alone, with no other rock like it for miles around.</p><p><em>Tier 4 · Stone · Found: Surface Outcrop, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "starfall-stone",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "starfall-stone",
+      "kind": "raw",
+      "tier": 4,
+      "family": "stone",
+      "subcategory": "stone-clay",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "stone",
+        "stone-t4",
+        "stone-t1+",
+        "stone-t2+",
+        "stone-t3+",
+        "stone-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

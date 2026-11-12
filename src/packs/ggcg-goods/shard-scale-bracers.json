@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgVdIY56wC11tb",
+  "_key": "!items!ggcgVdIY56wC11tb",
+  "name": "Shard-Scale Bracers",
+  "type": "equipment",
+  "img": "icons/equipment/wrist/bracer-banded-leather.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>Rows of small pointed scales bristle along the forearm.</p><p>While you wear it, you have a +1 bonus to Intimidation checks (<em>Scaled Menace</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "shard-scale-bracers",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "wondrous",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Scaled Menace",
+      "img": "icons/equipment/wrist/bracer-banded-leather.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.itm.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgUCd1k1uQQ08l",
+      "_key": "!items.effects!ggcgVdIY56wC11tb.ggcgUCd1k1uQQ08l",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "shard-scale-bracers",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "worn-gear",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-worn-gear"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

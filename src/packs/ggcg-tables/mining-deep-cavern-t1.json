@@ -1,0 +1,378 @@
+{
+  "_id": "ggcgQ50eNfEzWhME",
+  "_key": "!tables!ggcgQ50eNfEzWhME",
+  "name": "Deep Cavern (Tier 1)",
+  "img": "icons/environment/wilderness/cave-entrance.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgrD8NcSeTCiQg",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgrD8NcSeTCiQg",
+      "weight": 18,
+      "range": [
+        1,
+        18
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Silver Ore",
+      "img": "icons/commodities/stone/ore-chunk-silver-gray.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5wl2oK24BdYZ"
+    },
+    {
+      "_id": "ggcgINKbTR4uUjyc",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgINKbTR4uUjyc",
+      "weight": 17,
+      "range": [
+        19,
+        35
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Saltpeter",
+      "img": "icons/commodities/materials/powder-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLfx4azR3QteG"
+    },
+    {
+      "_id": "ggcgI7igV7QMjkqp",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgI7igV7QMjkqp",
+      "weight": 17,
+      "range": [
+        36,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Humming Quartz",
+      "img": "icons/commodities/gems/gem-cluster-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgIymieQGiIIfo"
+    },
+    {
+      "_id": "ggcgpMEjR4RGfMG3",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgpMEjR4RGfMG3",
+      "weight": 7,
+      "range": [
+        53,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Azurite Shard",
+      "img": "icons/commodities/gems/gem-shattered-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgPcYjjO4qPX1Y"
+    },
+    {
+      "_id": "ggcgonWiVGoELFjM",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgonWiVGoELFjM",
+      "weight": 7,
+      "range": [
+        60,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Malachite Pebble",
+      "img": "icons/commodities/gems/gem-rough-oval-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgeibtmK71daR5"
+    },
+    {
+      "_id": "ggcgiKxsHjmRemDn",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgiKxsHjmRemDn",
+      "weight": 7,
+      "range": [
+        67,
+        73
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Smoke Quartz Rough",
+      "img": "icons/commodities/gems/gem-fragments-rough-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgy2ooI4i9Lknb"
+    },
+    {
+      "_id": "ggcgYPefM7mKSl4h",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgYPefM7mKSl4h",
+      "weight": 7,
+      "range": [
+        74,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rock Salt",
+      "img": "icons/commodities/materials/bowl-powder-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvEeTgVNe4rCH"
+    },
+    {
+      "_id": "ggcgHSfBlDyOQK9X",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgHSfBlDyOQK9X",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Tiger Eye Rough",
+      "img": "icons/commodities/gems/gem-rough-cushion-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg7qz6FT3Yl2ox"
+    },
+    {
+      "_id": "ggcgIxeJqdAOhoa6",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgIxeJqdAOhoa6",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lapis Pebble",
+      "img": "icons/commodities/gems/gem-rough-oval-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgKaXfxaiaoIV8"
+    },
+    {
+      "_id": "ggcgvRyiWxxM6CvC",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgvRyiWxxM6CvC",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Electrum Pebble",
+      "img": "icons/commodities/stone/ore-chunk-yellow-gold.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgXusBxPXmvXdP"
+    },
+    {
+      "_id": "ggcgZE1RTJ3Dkjrv",
+      "_key": "!tables.results!ggcgQ50eNfEzWhME.ggcgZE1RTJ3Dkjrv",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Moonstone Rough",
+      "img": "icons/commodities/gems/gem-rough-cushion-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgCtiu6XNqPOGF"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgNIGb51gAVWLu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mining-deep-cavern-t1",
+      "activity": "mining",
+      "source": "deep-cavern",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

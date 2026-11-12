@@ -1,0 +1,82 @@
+{
+  "_id": "ggcgfKfzfVkzra0I",
+  "_key": "!items!ggcgfKfzfVkzra0I",
+  "name": "Oak-Gall Ink",
+  "type": "loot",
+  "img": "icons/tools/scribal/ink-quill-pink.webp",
+  "folder": "ggcg6d9g15Uwiyw9",
+  "system": {
+    "description": {
+      "value": "<p>Oak-gall ink goes on pale and darkens to black over a day.</p><p><em>Tier 1 · Ink</em></p>",
+      "chat": ""
+    },
+    "identifier": "oak-gall-ink",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "oak-gall-ink",
+      "kind": "intermediate",
+      "tier": 1,
+      "family": "ink",
+      "subcategory": "inks-pigments-dyes",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ink",
+        "ink-t1",
+        "ink-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

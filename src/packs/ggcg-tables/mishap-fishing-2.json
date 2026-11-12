@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgF97bB0vjUo6w",
+  "_key": "!tables!ggcgF97bB0vjUo6w",
+  "name": "Fishing Mishaps (Tiers 3 and 4)",
+  "img": "icons/creatures/fish/squid-kraken-teal.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgDKcHDJ3iFevg",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcgDKcHDJ3iFevg",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>Halfway up, the line jerks once and goes light: something bigger has taken the catch, and only its head reaches the winch.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Taken on the Way Up",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg156UgOaq19dg",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcg156UgOaq19dg",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>A great boil of bubbles rises from far below around the line, and every fish feeding near the bait scatters.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Boil of Bubbles",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg7vA7KkbD8315",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcg7vA7KkbD8315",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>Whatever lies below goes still and will not rise to the bait.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Shy Depths",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgyriunAH4mlp9",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcgyriunAH4mlp9",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>Something strange that no fishmonger would take comes up on the hook, and back it goes.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Not Worth Keeping",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgljmdEcAR9nVK",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcgljmdEcAR9nVK",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>Something heavy takes the line and pulls hard for the water. The angler makes a [[/save ability=str dc=14 format=long]] or is dragged against the stones at the water's edge and takes [[/damage 2d6 type=bludgeoning]], or half as much on a success.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Heavy Pull",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgEDbW4ROmEiNO",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcgEDbW4ROmEiNO",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>A great shape circles just under the surface. The angler makes a [[/save ability=wis dc=15 format=long]] or is &amp;Reference[Frightened] for 10 minutes while the shape stays in sight; a new [[/save ability=wis dc=15 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Something Large Circles",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgAlsqLyWuSVOn",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcgAlsqLyWuSVOn",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>As it is hauled in, the catch squirts black ink or slime into the angler's eyes. The angler makes a [[/save ability=con dc=15 format=long]] or is &amp;Reference[Blinded] for 10 minutes; a new [[/save ability=con dc=15 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Burst of Ink",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgztUZHe4APcEp",
+      "_key": "!tables.results!ggcgF97bB0vjUo6w.ggcgztUZHe4APcEp",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>A deep run spins the winch faster than hands can check it, and the line comes off in a great snarl. The angler makes a [[/save ability=dex dc=14 format=long]] to catch the crank, or loses 1 hour unpicking the snarl; the winch's clatter carries over the water and may draw attention (the GM's call).</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Overrun Winch",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-fishing-2",
+      "activity": "fishing",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

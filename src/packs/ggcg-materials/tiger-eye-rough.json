@@ -1,0 +1,85 @@
+{
+  "_id": "ggcg7qz6FT3Yl2ox",
+  "_key": "!items!ggcg7qz6FT3Yl2ox",
+  "name": "Tiger Eye Rough",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-rough-cushion-orange.webp",
+  "folder": "ggcgse4GqSQMfdAv",
+  "system": {
+    "description": {
+      "value": "<p>Many a caravan guard carries a pebble of tiger eye for luck on the road.</p><p><em>Tier 1 · Rough Gem · Found: Hill Quarry, Deep Cavern</em></p>",
+      "chat": ""
+    },
+    "identifier": "tiger-eye-rough",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "tiger-eye-rough",
+      "kind": "raw",
+      "tier": 1,
+      "family": "rough-gem",
+      "subcategory": "rough-gems",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "hill-quarry",
+        "deep-cavern"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "rough-gem",
+        "rough-gem-t1",
+        "rough-gem-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

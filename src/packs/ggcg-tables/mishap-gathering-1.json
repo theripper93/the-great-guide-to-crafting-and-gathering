@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgtifmDL82njb8",
+  "_key": "!tables!ggcgtifmDL82njb8",
+  "name": "Gathering Mishaps (Tiers 1 and 2)",
+  "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgJ8AuLJyL9YNF",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcgJ8AuLJyL9YNF",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>Halfway through the cut, the telltale mark of a look-alike shows on the find.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Look-Alike",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgKaNIXaaZQKRz",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcgKaNIXaaZQKRz",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>The best of the growth is still young, small and pale, and would come away as next to nothing.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Not Yet Ripe",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg6oHDgCQqGoLL",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcg6oHDgCQqGoLL",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>Something small bolts out from under the growth, and the gatherer snatches the hand back before the cut is made.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Startled Hand",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgvbgjXQv2m7kI",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcgvbgjXQv2m7kI",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>The best of it grows in a crack or a hollow just beyond the gatherer's fingertips, and no stretch closes the gap.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Just Out of Reach",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgCIEeo3wbSl2h",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcgCIEeo3wbSl2h",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>Spines or sharp stone lie hidden under the growth where the hand goes in. The gatherer makes a [[/save ability=dex dc=10 format=long]] or takes [[/damage 1d4 type=piercing]].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Hidden Spines",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgNkEjyLfFU9KI",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcgNkEjyLfFU9KI",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>Sap or juice from the cut splashes on bare skin. The gatherer makes a [[/save ability=con dc=11 format=long]] or is &amp;Reference[Poisoned] for 1 minute.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Stinging Sap",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcglDNeCKQF3QRh",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcglDNeCKQF3QRh",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>The ground the gatherer kneels on crumbles under the weight. The gatherer makes a [[/save ability=dex dc=11 format=long]] or falls &amp;Reference[Prone].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Crumbling Edge",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg6c3QAFQuzQcy",
+      "_key": "!tables.results!ggcgtifmDL82njb8.ggcg6c3QAFQuzQcy",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>The cutting knife slips from cold, tired fingers into the growth below. The gatherer makes a [[/save ability=dex dc=10 format=long]] to catch it, or loses 10 minutes finding it again.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Dropped Knife",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-gathering-1",
+      "activity": "gathering",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

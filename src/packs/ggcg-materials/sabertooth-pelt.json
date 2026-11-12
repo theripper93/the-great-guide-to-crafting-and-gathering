@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgqb4nJISbfJDf",
+  "_key": "!items!ggcgqb4nJISbfJDf",
+  "name": "Sabertooth Pelt",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-beige.webp",
+  "folder": "ggcg2BhZ1lCClmwt",
+  "system": {
+    "description": {
+      "value": "<p>Faint black stripes show on a sabertooth pelt at night and fade by morning. Mountain folk say the cat is still hunting in the pelt, and they hang it on a wall rather than sleep under it.</p><p><em>Tier 3 · Hide · Found: Mountain, Underground</em></p>",
+      "chat": ""
+    },
+    "identifier": "sabertooth-pelt",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sabertooth-pelt",
+      "kind": "raw",
+      "tier": 3,
+      "family": "hide",
+      "subcategory": "hides-pelts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "underground"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "hide",
+        "hide-t3",
+        "hide-t1+",
+        "hide-t2+",
+        "hide-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

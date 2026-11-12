@@ -1,0 +1,82 @@
+{
+  "_id": "ggcgPHOtCUrWxo04",
+  "_key": "!items!ggcgPHOtCUrWxo04",
+  "name": "Hedge Seasoning",
+  "type": "loot",
+  "img": "icons/tools/laboratory/mortar-powder-green.webp",
+  "folder": "ggcgnfyZkkbn8zhG",
+  "system": {
+    "description": {
+      "value": "<p>A coarse green mix of dried hedge herbs and salt, kept in a twist of paper.</p><p><em>Tier 1 · Spice Blend</em></p>",
+      "chat": ""
+    },
+    "identifier": "hedge-seasoning",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hedge-seasoning",
+      "kind": "intermediate",
+      "tier": 1,
+      "family": "spice-blend",
+      "subcategory": "cooking-staples",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "spice-blend",
+        "spice-blend-t1",
+        "spice-blend-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

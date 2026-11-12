@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgBrhE6pJwRZJ7",
+  "_key": "!items!ggcgBrhE6pJwRZJ7",
+  "name": "Mammoth Tusk",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-worn-curved-white.webp",
+  "folder": "ggcgyMtunHbkgeWw",
+  "system": {
+    "description": {
+      "value": "<p>Tapped with a knuckle, a mammoth tusk gives a low hum that lasts a full breath.</p><p><em>Tier 3 · Bone · Found: Arctic, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "mammoth-tusk",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mammoth-tusk",
+      "kind": "raw",
+      "tier": 3,
+      "family": "bone",
+      "subcategory": "bone-horn-antler",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "arctic",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "bone",
+        "bone-t3",
+        "bone-t1+",
+        "bone-t2+",
+        "bone-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

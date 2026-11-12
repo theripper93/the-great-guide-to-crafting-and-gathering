@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgGeC0lz2xX6h4",
+  "_key": "!items!ggcgGeC0lz2xX6h4",
+  "name": "Borax",
+  "type": "loot",
+  "img": "icons/commodities/stone/stone-pile-grey.webp",
+  "folder": "ggcgguEoW64A7yrG",
+  "system": {
+    "description": {
+      "value": "<p>Smiths keep a jar of borax by the forge for welding iron.</p><p><em>Tier 2 · Mineral Salt · Found: Surface Outcrop, Volcanic</em></p>",
+      "chat": ""
+    },
+    "identifier": "borax",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "borax",
+      "kind": "raw",
+      "tier": 2,
+      "family": "mineral-salt",
+      "subcategory": "minerals-salts-crystals",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "volcanic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "mineral-salt",
+        "mineral-salt-t2",
+        "mineral-salt-t1+",
+        "mineral-salt-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

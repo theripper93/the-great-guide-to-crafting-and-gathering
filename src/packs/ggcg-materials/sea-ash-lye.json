@@ -1,0 +1,82 @@
+{
+  "_id": "ggcghf6Y7jJwop2r",
+  "_key": "!items!ggcghf6Y7jJwop2r",
+  "name": "Sea Ash Lye",
+  "type": "loot",
+  "img": "icons/tools/laboratory/bowl-mixing.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>Sea ash lye feels slippery on the fingers, then starts to sting.</p><p><em>Tier 1 · Alchemical Base</em></p>",
+      "chat": ""
+    },
+    "identifier": "sea-ash-lye",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sea-ash-lye",
+      "kind": "intermediate",
+      "tier": 1,
+      "family": "alchemical-base",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemical-base",
+        "alchemical-base-t1",
+        "alchemical-base-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgjpDi9N8c4cpa",
+  "_key": "!items!ggcgjpDi9N8c4cpa",
+  "name": "Animating Spark",
+  "type": "loot",
+  "img": "icons/commodities/tech/battery-arcane-crystal-cube.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>An animating spark is a point of light caught inside a small crystal cube, and it buzzes without stopping. Set beside a broken toy or a rusted lock, it makes the thing shiver and tick for a moment, as if trying to remember how it moved.</p><p><em>Tier 3 · Essence · Found: Construct</em></p>",
+      "chat": ""
+    },
+    "identifier": "animating-spark",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "animating-spark",
+      "kind": "raw",
+      "tier": 3,
+      "family": "essence",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "construct"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "essence",
+        "essence-t3",
+        "essence-t1+",
+        "essence-t2+",
+        "essence-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

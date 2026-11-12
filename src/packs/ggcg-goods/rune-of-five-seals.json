@@ -1,0 +1,279 @@
+{
+  "_id": "ggcgqaGnE9EVtNMB",
+  "_key": "!items!ggcgqaGnE9EVtNMB",
+  "name": "Rune of Five Seals",
+  "type": "consumable",
+  "img": "icons/commodities/treasure/talisman-embossed-rune-red.webp",
+  "folder": "ggcgnKq6FzBhFQfd",
+  "system": {
+    "description": {
+      "value": "<p>A disc of red metal stamped with a mark that hurts a little to look at directly. Four older marks are worn smooth beneath it, and nobody living can say what those four sealed.</p><p><strong>Bind the Seal.</strong> Over 10 minutes, you bind this rune into a weapon, magical or not. The rune is used up and the weapon keeps its power for good. The weapon requires Attunement and gives a +3 bonus to attack rolls and damage rolls. Each dawn its wielder chooses Acid, Cold, Fire, Force, Lightning, Necrotic, Radiant or Thunder, and until the next dawn a hit with it deals an extra [[/damage 2d6]] damage of that type.</p><p><strong>The Fifth Seal.</strong> A weapon that bears the seal can be pledged. Its wielder names one oath aloud; while they keep it, the weapon cannot be taken from them, lost or broken. If they break it, the seal goes dark and the weapon will not leave its sheath for them again.</p>",
+      "chat": ""
+    },
+    "identifier": "rune-of-five-seals",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgGheWsvrfN8MM": {
+        "type": "enchant",
+        "name": "Bind the Seal",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "minute",
+          "value": 10,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgKQoSefXIFzuH",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [],
+              "item": []
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "touch",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "enchant": {
+          "self": false
+        },
+        "restrictions": {
+          "allowMagical": true,
+          "type": "weapon",
+          "categories": [],
+          "properties": []
+        },
+        "_id": "ggcgGheWsvrfN8MM"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Rune of Five Seals",
+      "img": "icons/commodities/treasure/talisman-embossed-rune-red.webp",
+      "type": "enchantment",
+      "system": {
+        "changes": [
+          {
+            "key": "system.properties",
+            "type": "add",
+            "value": "mgc",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.magicalBonus",
+            "type": "upgrade",
+            "value": 3,
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attunement",
+            "type": "override",
+            "value": "required",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.rarity",
+            "type": "override",
+            "value": "artifact",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": true,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgKQoSefXIFzuH",
+      "_key": "!items.effects!ggcgqaGnE9EVtNMB.ggcgKQoSefXIFzuH",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "rune-of-five-seals",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "weapon-enchants",
+      "activity": null,
+      "profession": "enchanting",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

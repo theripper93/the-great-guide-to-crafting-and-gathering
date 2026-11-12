@@ -1,0 +1,144 @@
+{
+  "_id": "ggcgfofB3HVskOC9",
+  "_key": "!items!ggcgfofB3HVskOC9",
+  "name": "Glamour-Hair Cloak",
+  "type": "equipment",
+  "img": "icons/equipment/back/cloak-layered-grey.webp",
+  "folder": "ggcgkSWmyUORlyXt",
+  "system": {
+    "description": {
+      "value": "<p>Eyes slide off this layered gray cloak in dim light.</p><p>While you wear it, you have Advantage on Stealth checks (<em>Cloaked Step</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "glamour-hair-cloak",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Cloaked Step",
+      "img": "icons/equipment/back/cloak-layered-grey.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.ste.roll.mode",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgRq7wbgV437Ln",
+      "_key": "!items.effects!ggcgfofB3HVskOC9.ggcgRq7wbgV437Ln",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "glamour-hair-cloak",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "cloaks",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "E"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-cloaks"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

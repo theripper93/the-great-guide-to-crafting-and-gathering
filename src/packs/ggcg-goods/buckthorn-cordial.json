@@ -1,0 +1,265 @@
+{
+  "_id": "ggcg2MOtO48IfNXU",
+  "_key": "!items!ggcg2MOtO48IfNXU",
+  "name": "Buckthorn Cordial",
+  "type": "consumable",
+  "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+  "folder": "ggcg1prH7bvzn2pJ",
+  "system": {
+    "description": {
+      "value": "<p>Cooks keep a green bottle of buckthorn cordial on the shelf beside the salt.</p><p>As an action, you can drink this brew. For 4 hours, you have a 1d6 bonus to ability checks made with Cook's Utensils, but also a 1d6 penalty to Dexterity saving throws (<em>Cook Sharpener</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "buckthorn-cordial",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 15,
+      "denomination": "sp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "food",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgOOz2NLEoB9Ju": {
+        "type": "utility",
+        "name": "Drink",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgHsY0YOfcn8oM",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            }
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "self",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcgOOz2NLEoB9Ju"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Cook Sharpener",
+      "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.tools.cook.roll.bonus",
+            "type": "add",
+            "value": "1d6",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.abilities.dex.save.roll.bonus",
+            "type": "subtract",
+            "value": "1d6",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 4,
+        "units": "hours",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {
+        "the-great-guide-to-crafting-and-gathering": {
+          "stackGroup": "drink"
+        }
+      },
+      "_id": "ggcgHsY0YOfcn8oM",
+      "_key": "!items.effects!ggcg2MOtO48IfNXU.ggcgHsY0YOfcn8oM",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "buckthorn-cordial",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "drinks-brews",
+      "activity": null,
+      "profession": "cooking",
+      "sources": [],
+      "archetype": "brew",
+      "priceClass": "A",
+      "stackGroup": "drink",
+      "batch": 4
+    },
+    "mastercrafted": {
+      "tags": [
+        "cooking-drinks-brews"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

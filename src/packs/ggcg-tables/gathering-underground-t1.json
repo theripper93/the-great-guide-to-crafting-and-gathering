@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgaNs2RN7SIblN",
+  "_key": "!tables!ggcgaNs2RN7SIblN",
+  "name": "Underground Herbs (Tier 1)",
+  "img": "icons/consumables/mushrooms/umbontae-green.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgeDBcdyhDIbtL",
+      "_key": "!tables.results!ggcgaNs2RN7SIblN.ggcgeDBcdyhDIbtL",
+      "weight": 26,
+      "range": [
+        1,
+        26
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Foxfire",
+      "img": "icons/consumables/mushrooms/convex-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgSoDLTNafxxrq"
+    },
+    {
+      "_id": "ggcgOGFBenavuCJS",
+      "_key": "!tables.results!ggcgaNs2RN7SIblN.ggcgOGFBenavuCJS",
+      "weight": 26,
+      "range": [
+        27,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Oyster Mushroom",
+      "img": "icons/consumables/mushrooms/convex-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgivowygWvCWZp"
+    },
+    {
+      "_id": "ggcg3NGQMDE5yGOU",
+      "_key": "!tables.results!ggcgaNs2RN7SIblN.ggcg3NGQMDE5yGOU",
+      "weight": 14,
+      "range": [
+        53,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Stinkhorn",
+      "img": "icons/consumables/mushrooms/conical-shiny-magenta-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgzPtVVnoMpbMU"
+    },
+    {
+      "_id": "ggcgU1QUNUqPx7Pn",
+      "_key": "!tables.results!ggcgaNs2RN7SIblN.ggcgU1QUNUqPx7Pn",
+      "weight": 14,
+      "range": [
+        67,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pale Tuber",
+      "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgM3Vi3pq1pp4V"
+    },
+    {
+      "_id": "ggcgWBKqwZeKP4gp",
+      "_key": "!tables.results!ggcgaNs2RN7SIblN.ggcgWBKqwZeKP4gp",
+      "weight": 8,
+      "range": [
+        81,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Puffball",
+      "img": "icons/commodities/gems/pearl-rough-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgiAjcJM77grj7"
+    },
+    {
+      "_id": "ggcgLTfJ5EtMhU8V",
+      "_key": "!tables.results!ggcgaNs2RN7SIblN.ggcgLTfJ5EtMhU8V",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cave Button",
+      "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg3tjMLfaXkGuS"
+    },
+    {
+      "_id": "ggcgwww4kcaJ7z21",
+      "_key": "!tables.results!ggcgaNs2RN7SIblN.ggcgwww4kcaJ7z21",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hazel Truffle",
+      "img": "icons/consumables/vegetable/root-potato-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgeImDBomVktab"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-underground-t1",
+      "activity": "gathering",
+      "source": "underground",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

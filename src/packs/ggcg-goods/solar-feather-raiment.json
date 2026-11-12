@@ -1,0 +1,294 @@
+{
+  "_id": "ggcgLip3sX3g6LV7",
+  "_key": "!items!ggcgLip3sX3g6LV7",
+  "name": "Solar-Feather Raiment",
+  "type": "equipment",
+  "img": "icons/equipment/chest/robe-layered-white.webp",
+  "folder": "ggcgCjDNEDBTvbfE",
+  "system": {
+    "description": {
+      "value": "<p>White cloth sewn with feathers that are warm to the touch. In a dark room the raiment gives off the gray light of the hour before sunrise, and roosters crow when it is carried past.</p><p>While you wear this raiment and no armor, your Armor Class is 15 plus your Dexterity modifier. You have a Fly Speed of 60 feet and Resistance to Radiant damage.</p><p><strong>Daybreak.</strong> Once per day, as an action, you spread the raiment and it blazes. Each creature of your choice within 30 feet makes a [[/save ability=con dc=20 format=long]], taking [[/damage 10d6 type=radiant]] damage and having the Blinded condition for 1 minute on a failed save, or taking half as much damage only on a success. The raiment regains this power at dawn.</p><p><strong>No Shadow Falls.</strong> The wearer casts no shadow, and no darkness, mundane or magical, quite closes over them: they are always seen as a figure in faint dawn light. Those who look at the wearer cannot make themselves believe a lie the wearer tells for gain.</p>",
+      "chat": ""
+    },
+    "identifier": "solar-feather-raiment",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "activities": {
+      "ggcgVelg53NyzCg2": {
+        "type": "save",
+        "name": "Daybreak",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "activityUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "sphere",
+            "size": "30",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "1",
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "recoverAll",
+              "formula": ""
+            }
+          ]
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "con"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "20"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "number": 10,
+              "denomination": 6,
+              "bonus": "",
+              "types": [
+                "radiant"
+              ],
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "modifiers": [],
+              "scaling": {
+                "mode": "",
+                "number": 1,
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "_id": "ggcgVelg53NyzCg2"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Solar-Feather Raiment",
+      "img": "icons/equipment/chest/robe-layered-white.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.movement.fly",
+            "type": "upgrade",
+            "value": 60,
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.traits.dr.value",
+            "type": "add",
+            "value": "radiant",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.ac.calc",
+            "type": "override",
+            "value": "custom",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.ac.formula",
+            "type": "override",
+            "value": "15 + @abilities.dex.mod",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgfaSmqvIQYO4u",
+      "_key": "!items.effects!ggcgLip3sX3g6LV7.ggcgfaSmqvIQYO4u",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "solar-feather-raiment",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "robes",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "_id": "ggcglx0yTcKMjoiW",
+  "_key": "!items!ggcglx0yTcKMjoiW",
+  "name": "Masterwork Mithral Chain Mail",
+  "type": "equipment",
+  "img": "icons/commodities/metal/chain-silver.webp",
+  "folder": "ggcgodohM3jMK2lc",
+  "system": {
+    "description": {
+      "value": "<p>The whole coat can be pulled through a finger ring.</p><p>This Chain Mail is made of a finer material. It does not give Disadvantage on Dexterity (Stealth) checks. Its Strength requirement is 11. It weighs 27.5 lb.</p>",
+      "chat": ""
+    },
+    "identifier": "masterwork-mithral-chain-mail",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 27.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 16,
+      "dex": 0
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "heavy",
+      "baseItem": "chainmail"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": 11,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "masterwork-mithral-chain-mail",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "armor-shields",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": "material-armor",
+      "priceClass": "D",
+      "base": "chainmail"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-armor-shields",
+        "smithing-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

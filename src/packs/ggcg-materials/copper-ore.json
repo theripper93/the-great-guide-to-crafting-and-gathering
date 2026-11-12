@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgpImwbm2Ezsli",
+  "_key": "!items!ggcgpImwbm2Ezsli",
+  "name": "Copper Ore",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-copper-orange.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>Copper ore weathers green wherever the rain gets at it.</p><p><em>Tier 1 · Precious Ore · Found: Surface Outcrop, Mountain Vein</em></p>",
+      "chat": ""
+    },
+    "identifier": "copper-ore",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "copper-ore",
+      "kind": "raw",
+      "tier": 1,
+      "family": "precious-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "mountain-vein"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "precious-ore",
+        "precious-ore-t1",
+        "precious-ore-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

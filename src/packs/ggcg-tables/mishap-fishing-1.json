@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgd2E9fl6nE7ex",
+  "_key": "!tables!ggcgd2E9fl6nE7ex",
+  "name": "Fishing Mishaps (Tiers 1 and 2)",
+  "img": "icons/tools/fishing/hook-barbed-steel-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgmcJNr7Fur8sX",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcgmcJNr7Fur8sX",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>The line parts, and the fish goes off with the bait and a length of line.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Line Snaps",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgGqoF6B1HlLzs",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcgGqoF6B1HlLzs",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>The fish leaps clear in a flash of silver side and throws the hook at the top of the leap.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Thrown Hook",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgJPhNkga3AHsu",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcgJPhNkga3AHsu",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>Wind or a stiff arm drops the cast well short of where the fish are feeding.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Cast Falls Short",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgYTZ5hHijzscm",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcgYTZ5hHijzscm",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>Something strips the bait without ever taking the hook.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Nibbled Bait",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgsr7n5VIrVOFQ",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcgsr7n5VIrVOFQ",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>On the back-cast, the hook swings round and buries its barb in the angler's own hand. The angler makes a [[/save ability=dex dc=10 format=long]] or takes [[/damage 1d4 type=piercing]].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Hooked Hand",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgz4SHFalL6MWb",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcgz4SHFalL6MWb",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>The bank or rock underfoot gives way. The angler makes a [[/save ability=dex dc=11 format=long]] or goes into the cold water and takes [[/damage 1d4 type=cold]].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Cold Dunking",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgcvM2DOAnTVE0",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcgcvM2DOAnTVE0",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>A spine on the catch pricks the angler's palm as it is unhooked. The angler makes a [[/save ability=con dc=11 format=long]] or is &amp;Reference[Poisoned] for 1 minute.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Spiny Catch",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg3xCetL0CHz4l",
+      "_key": "!tables.results!ggcgd2E9fl6nE7ex.ggcg3xCetL0CHz4l",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>The hook catches on something sunken. The angler makes a [[/save ability=dex dc=10 format=long]] to work it free at once, or loses 10 minutes tugging the line from one angle after another until it comes free.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Snagged Bottom",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-fishing-1",
+      "activity": "fishing",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

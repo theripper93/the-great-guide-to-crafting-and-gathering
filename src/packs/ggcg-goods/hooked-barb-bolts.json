@@ -1,0 +1,267 @@
+{
+  "_id": "ggcggFlEVPCMrB19",
+  "_key": "!items!ggcggFlEVPCMrB19",
+  "name": "Hooked Barb Bolts",
+  "type": "consumable",
+  "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+  "folder": "ggcg3FLMnOWzEQHc",
+  "system": {
+    "description": {
+      "value": "<p>Backward hooks on each steel head catch in flesh and will not pull free.</p><p>A creature hit by it must succeed on a [[/save ability=str dc=13 format=long]] or have the &amp;Reference[Restrained apply=false] condition until the end of its next turn. A piece is used up when it is fired.</p>",
+      "chat": ""
+    },
+    "identifier": "hooked-barb-bolts",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.075,
+      "units": "lb"
+    },
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "number": 1,
+          "mode": "",
+          "formula": ""
+        },
+        "bonus": "",
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": "crossbowBolt"
+    },
+    "magicalBonus": "",
+    "activities": {
+      "ggcgSh4VgAi1qo1C": {
+        "type": "save",
+        "name": "On Hit",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": "On a hit",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "ggcgoQ2zuM7jUUF6",
+            "uuid": null,
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "onSave": false
+          }
+        ],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "1",
+            "type": "creature",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "save": {
+          "ability": [
+            "str"
+          ],
+          "bonus": "",
+          "dc": {
+            "calculation": "",
+            "formula": "13"
+          },
+          "visible": true
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "_id": "ggcgSh4VgAi1qo1C"
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Hooked Barb Bolts: Restrained",
+      "img": "icons/weapons/ammunition/arrows-barbed-white.webp",
+      "type": "base",
+      "system": {
+        "changes": [],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 1,
+        "units": "rounds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [
+        "restrained"
+      ],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgoQ2zuM7jUUF6",
+      "_key": "!items.effects!ggcggFlEVPCMrB19.ggcgoQ2zuM7jUUF6",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hooked-barb-bolts",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "ammunition",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "special-ammunition",
+      "priceClass": "C",
+      "base": "crossbowBolt",
+      "batch": 5
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-ammunition"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

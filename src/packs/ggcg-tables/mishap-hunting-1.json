@@ -1,0 +1,253 @@
+{
+  "_id": "ggcguolQVkgK2lpf",
+  "_key": "!tables!ggcguolQVkgK2lpf",
+  "name": "Hunting Mishaps (Tiers 1 and 2)",
+  "img": "icons/skills/ranged/arrow-flying-gray-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgedCKuhx0TCuv",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcgedCKuhx0TCuv",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>The snare is sprung and empty, its bait licked clean by something that knew the trick.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Empty Snare",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg3lf4zMqkxNgP",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcg3lf4zMqkxNgP",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>The string catches a sleeve on the release, and the shot buries itself in the ground a stride short.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Wild Shot",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgtQXwrUIEzgwk",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcgtQXwrUIEzgwk",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>At the end of a long stalk, the shape ahead turns out to be some scrawnier beast than the one the hunter was after.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Not the Quarry",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgXnnK85B3TH9A",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcgXnnK85B3TH9A",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>The light shifts at the wrong moment, and the quarry melts into the ground behind it before the hunter can be sure of the shot.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Bad Light",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgZE8iqvPS27TP",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcgZE8iqvPS27TP",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>The snared quarry twists round and bites or pecks the hand that reaches for it. The hunter makes a [[/save ability=dex dc=11 format=long]] or takes [[/damage 1d4 type=piercing]].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Bitten Hand",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcguQoAJYSeesUy",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcguQoAJYSeesUy",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>Uneven ground catches the hunter's foot mid-stride. The hunter makes a [[/save ability=dex dc=11 format=long]] or falls &amp;Reference[Prone].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Fall in the Chase",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg1D0m2nsXU0vQ",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcg1D0m2nsXU0vQ",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>Creeping up on the quarry, the hunter puts both hands into the rotting leftovers of another predator's meal. The hunter makes a [[/save ability=con dc=11 format=long]] or is &amp;Reference[Poisoned] for 1 minute.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Old Kill",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgLRjLOGXwSIap",
+      "_key": "!tables.results!ggcguolQVkgK2lpf.ggcgLRjLOGXwSIap",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>The quarry dives into a hole or crevice that has a second way out. The hunter makes a [[/save ability=wis dc=11 format=long]] to spot the far exit, or loses 10 minutes watching the wrong one.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Bolt-Hole",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-hunting-1",
+      "activity": "hunting",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

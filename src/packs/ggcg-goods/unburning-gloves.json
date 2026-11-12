@@ -1,0 +1,153 @@
+{
+  "_id": "ggcgz9Gq9dkjsuSt",
+  "_key": "!items!ggcgz9Gq9dkjsuSt",
+  "name": "Unburning Gloves",
+  "type": "equipment",
+  "img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+  "folder": "ggcg5BWq6Lwo7u6E",
+  "system": {
+    "description": {
+      "value": "<p>Candle flames lean away from an unburning glove's fingertips.</p><p>While you wear it, you have Resistance to Fire damage and a +2 bonus to Dexterity checks (<em>Cinder Grip</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "unburning-gloves",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 20000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "wondrous",
+      "baseItem": ""
+    },
+    "attunement": "required",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Cinder Grip",
+      "img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.traits.dr.value",
+            "type": "add",
+            "value": "fire",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.abilities.dex.check.roll.bonus",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcg7v7TC9mRGwjA",
+      "_key": "!items.effects!ggcgz9Gq9dkjsuSt.ggcg7v7TC9mRGwjA",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "unburning-gloves",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "worn-gear",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-worn-gear"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

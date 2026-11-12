@@ -1,0 +1,84 @@
+{
+  "_id": "ggcgIhPLV90BEaBl",
+  "_key": "!items!ggcgIhPLV90BEaBl",
+  "name": "Orpiment Acid",
+  "type": "loot",
+  "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>Orpiment acid stains everything it touches a bright, lasting yellow.</p><p><em>Tier 3 · Alchemical Base</em></p>",
+      "chat": ""
+    },
+    "identifier": "orpiment-acid",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 240,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "orpiment-acid",
+      "kind": "intermediate",
+      "tier": 3,
+      "family": "alchemical-base",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemical-base",
+        "alchemical-base-t3",
+        "alchemical-base-t1+",
+        "alchemical-base-t2+",
+        "alchemical-base-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

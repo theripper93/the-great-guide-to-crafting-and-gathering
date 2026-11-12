@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgRcOjpiVcq4Ix",
+  "_key": "!items!ggcgRcOjpiVcq4Ix",
+  "name": "Bull Kelp",
+  "type": "loot",
+  "img": "icons/magic/nature/plant-undersea-seaweed-glow-green.webp",
+  "folder": "ggcgXWbpjWFVffG9",
+  "system": {
+    "description": {
+      "value": "<p>Shore cooks dry bull kelp in strips and crumble it into every broth for salt.</p><p><em>Tier 2 · Culinary Herb · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "bull-kelp",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bull-kelp",
+      "kind": "raw",
+      "tier": 2,
+      "family": "culinary-herb",
+      "subcategory": "non-fish-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "culinary-herb",
+        "culinary-herb-t2",
+        "culinary-herb-t1+",
+        "culinary-herb-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "_id": "ggcgcL0s0Zwq19hI",
+  "_key": "!items!ggcgcL0s0Zwq19hI",
+  "name": "Hellfire Rod",
+  "type": "equipment",
+  "img": "icons/weapons/staves/staff-engraved-red.webp",
+  "folder": "ggcgDYVISy52q5pl",
+  "system": {
+    "description": {
+      "value": "<p>The red shaft scorches every bare hand but its owner's.</p><p>It has 3 charges and regains all expended charges daily at dawn. While holding it, you can expend 1 charge to cast @UUID[Compendium.dnd5e.spells24.Item.phbsplFireStorm0]{Fire Storm} from it (save DC 18, +10 to hit).</p>",
+      "chat": ""
+    },
+    "identifier": "hellfire-rod",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "legendary"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "rod",
+      "baseItem": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "3",
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll",
+          "formula": ""
+        }
+      ]
+    },
+    "attunement": "required",
+    "activities": {
+      "ggcg2WV6WkZp0xLf": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplFireStorm0",
+          "level": 7,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 10,
+            "save": 18,
+            "override": true
+          }
+        },
+        "_id": "ggcg2WV6WkZp0xLf"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "hellfire-rod",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "charged-items",
+      "activity": null,
+      "profession": "enchanting",
+      "sources": [],
+      "archetype": "spell-charged",
+      "priceClass": "L"
+    },
+    "mastercrafted": {
+      "tags": [
+        "enchanting-charged-items",
+        "enchanting-charged"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

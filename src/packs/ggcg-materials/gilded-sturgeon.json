@@ -1,0 +1,88 @@
+{
+  "_id": "ggcguv65WLWFbzk9",
+  "_key": "!items!ggcguv65WLWFbzk9",
+  "name": "Gilded Sturgeon",
+  "type": "loot",
+  "img": "icons/environment/creatures/fish-spotted-gold-red.webp",
+  "folder": "ggcgnCDNRe33ZHiQ",
+  "system": {
+    "description": {
+      "value": "<p>Gilded sturgeon live longer than the villages on their banks, and their backs grow plates of soft red gold that shed a few at a time. River folk count it bad luck to take one, and nobody on the bank will pan the gold dust in the gravel below its pool.</p><p><em>Tier 4 · Fish · Found: River and Stream, Lake and Pond</em></p>",
+      "chat": ""
+    },
+    "identifier": "gilded-sturgeon",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gilded-sturgeon",
+      "kind": "raw",
+      "tier": 4,
+      "family": "fish",
+      "subcategory": "freshwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "river-stream",
+        "lake-pond"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t4",
+        "fish-t1+",
+        "fish-t2+",
+        "fish-t3+",
+        "fish-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

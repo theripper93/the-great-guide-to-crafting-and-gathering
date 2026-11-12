@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgBXZG6F5sJ7Hu",
+  "_key": "!items!ggcgBXZG6F5sJ7Hu",
+  "name": "Rooted Heart",
+  "type": "loot",
+  "img": "icons/consumables/vegetable/root-potato-sprout-brown.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Held to the ear, a rooted heart gives a slow wooden knock.</p><p><em>Tier 4 · Monster Organ · Found: Plant</em></p>",
+      "chat": ""
+    },
+    "identifier": "rooted-heart",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "rooted-heart",
+      "kind": "raw",
+      "tier": 4,
+      "family": "monster-organ",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "plant"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "monster-organ",
+        "monster-organ-t4",
+        "monster-organ-t1+",
+        "monster-organ-t2+",
+        "monster-organ-t3+",
+        "monster-organ-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

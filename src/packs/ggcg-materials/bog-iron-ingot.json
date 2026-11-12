@@ -1,0 +1,82 @@
+{
+  "_id": "ggcg3L9sKmzYWtoe",
+  "_key": "!items!ggcg3L9sKmzYWtoe",
+  "name": "Bog-Iron Ingot",
+  "type": "loot",
+  "img": "icons/commodities/metal/ingot-worn-iron.webp",
+  "folder": "ggcgSH56tqxFG3nv",
+  "system": {
+    "description": {
+      "value": "<p>Pitted bog iron, the cheapest metal a smith can buy.</p><p><em>Tier 1 · Ingot</em></p>",
+      "chat": ""
+    },
+    "identifier": "bog-iron-ingot",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bog-iron-ingot",
+      "kind": "intermediate",
+      "tier": 1,
+      "family": "ingot",
+      "subcategory": "ingots-alloys",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ingot",
+        "ingot-t1",
+        "ingot-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

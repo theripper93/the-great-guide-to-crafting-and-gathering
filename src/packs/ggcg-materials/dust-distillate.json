@@ -1,0 +1,82 @@
+{
+  "_id": "ggcgVb8agC5CEqwU",
+  "_key": "!items!ggcgVb8agC5CEqwU",
+  "name": "Dust Distillate",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-label-cork-purple.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>Left standing, dust distillate settles into a fine purple silt.</p><p><em>Tier 1 · Distilled Essence</em></p>",
+      "chat": ""
+    },
+    "identifier": "dust-distillate",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "dust-distillate",
+      "kind": "intermediate",
+      "tier": 1,
+      "family": "distilled-essence",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "distilled-essence",
+        "distilled-essence-t1",
+        "distilled-essence-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

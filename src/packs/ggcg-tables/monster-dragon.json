@@ -1,0 +1,316 @@
+{
+  "_id": "ggcg8Z4mkNHpNkzk",
+  "_key": "!tables!ggcg8Z4mkNHpNkzk",
+  "name": "Dragon Harvest",
+  "img": "icons/creatures/reptiles/dragon-winged-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcggAyb5J39xk5q",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcggAyb5J39xk5q",
+      "weight": 62,
+      "range": [
+        1,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wyrmling Scale",
+      "img": "icons/commodities/leather/scales-blue-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHFVj8u5UiQ5V"
+    },
+    {
+      "_id": "ggcgOfzbCOXh2T48",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcgOfzbCOXh2T48",
+      "weight": 62,
+      "range": [
+        63,
+        124
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pseudodragon Sting",
+      "img": "icons/commodities/biological/stinger-insect-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgVCCzDIi0WSsk"
+    },
+    {
+      "_id": "ggcgDGZ2UJwb2bKL",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcgDGZ2UJwb2bKL",
+      "weight": 28,
+      "range": [
+        125,
+        152
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dragon Tooth",
+      "img": "icons/commodities/bones/teeth-sharp-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcguLCtkXqHYuLX"
+    },
+    {
+      "_id": "ggcgP5dHIr0s8Xyy",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcgP5dHIr0s8Xyy",
+      "weight": 28,
+      "range": [
+        153,
+        180
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dragon Wing Membrane",
+      "img": "icons/commodities/biological/wing-lizard-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwxRGJjsAprfv"
+    },
+    {
+      "_id": "ggcgvu9GLY8eMZ8l",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcgvu9GLY8eMZ8l",
+      "weight": 14,
+      "range": [
+        181,
+        194
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Draconic Breath Gland",
+      "img": "icons/commodities/biological/organ-bladder-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgKljtFOOVIFaX"
+    },
+    {
+      "_id": "ggcghhuvS0iOJKU6",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcghhuvS0iOJKU6",
+      "weight": 2,
+      "range": [
+        195,
+        196
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dragon Brow Horn",
+      "img": "icons/commodities/bones/horn-jagged-grey-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgl5C8KqUl4aPn"
+    },
+    {
+      "_id": "ggcgbvDy1NR0ei2P",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcgbvDy1NR0ei2P",
+      "weight": 1,
+      "range": [
+        197,
+        197
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dragon Blood",
+      "img": "icons/commodities/materials/bowl-liquid-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgUnevjk8AcuYB"
+    },
+    {
+      "_id": "ggcgeFhOmZrAzVKz",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcgeFhOmZrAzVKz",
+      "weight": 1,
+      "range": [
+        198,
+        198
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Flawless Dragon Scale",
+      "img": "icons/commodities/leather/scales-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgZ3ZnBr4Dqd7j"
+    },
+    {
+      "_id": "ggcgXvf7G5FMY7mx",
+      "_key": "!tables.results!ggcg8Z4mkNHpNkzk.ggcgXvf7G5FMY7mx",
+      "weight": 2,
+      "range": [
+        199,
+        200
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dragon Heart",
+      "img": "icons/commodities/biological/organ-heart-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgi3zEwvWlKRxK"
+    }
+  ],
+  "formula": "1d200",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-dragon",
+      "activity": "monster",
+      "source": "dragon",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

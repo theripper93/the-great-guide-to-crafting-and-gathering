@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg1fhUDZ7dQ8Gb",
+  "_key": "!items!ggcg1fhUDZ7dQ8Gb",
+  "name": "Cavern Crayfish",
+  "type": "loot",
+  "img": "icons/consumables/meat/claw-crab-lobster-serrated-pink.webp",
+  "folder": "ggcggWMrVSkCjLZ3",
+  "system": {
+    "description": {
+      "value": "<p>The cavern crayfish has no eyes, and it knows someone is coming long before the lantern light reaches its pool. Cave dwellers keep one in a bowl by the door, and when it backs into a corner, someone is coming up the tunnel.</p><p><em>Tier 3 · Shellfish · Found: Deep or Strange Water, River and Stream</em></p>",
+      "chat": ""
+    },
+    "identifier": "cavern-crayfish",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cavern-crayfish",
+      "kind": "raw",
+      "tier": 3,
+      "family": "shellfish",
+      "subcategory": "shellfish-crustaceans",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "deep-strange",
+        "river-stream"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "shellfish",
+        "shellfish-t3",
+        "shellfish-t1+",
+        "shellfish-t2+",
+        "shellfish-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "_id": "ggcg4dxvoWkofO3r",
+  "_key": "!tables!ggcg4dxvoWkofO3r",
+  "name": "Mining Mishaps (Tiers 3 and 4)",
+  "img": "icons/magic/earth/projectile-stone-landslide.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcg6rK0UB5hcWjj",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcg6rK0UB5hcWjj",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>The stone shatters under the drill into fragments too small to use.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Shattered Under the Drill",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgMUKWZ0fXEZY9",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcgMUKWZ0fXEZY9",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>Seep water fills the cut and stops the work.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Seeping Water",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg9ebMc84YH2ET",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcg9ebMc84YH2ET",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>The find lies so that every line the drill could take to it runs through the find itself.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Locked in Stone",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg4VyFnr1miz5h",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcg4VyFnr1miz5h",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>A knock answers the drill from somewhere deep in the rock, and the miner stops to listen until the moment has passed.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Answering Knock",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg2Bxzis3RkUQU",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcg2Bxzis3RkUQU",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>A slab breaks from the face or overhang above the cut. The miner makes a [[/save ability=dex dc=15 format=long]] or takes [[/damage 3d6 type=bludgeoning]], or half as much on a success.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Rockfall",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgd8LJ3uWNsbo0",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcgd8LJ3uWNsbo0",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>Drill dust boils out of the bore into the miner's eyes and throat. The miner makes a [[/save ability=con dc=14 format=long]] or is &amp;Reference[Blinded] for 10 minutes; a new [[/save ability=con dc=14 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Choking Dust",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgGE090H9eJhhM",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcgGE090H9eJhhM",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>The drill breaks into a hollow behind the rock, and a cold breath sighs out of a blackness the light does not reach. The miner makes a [[/save ability=wis dc=14 format=long]] or is &amp;Reference[Frightened] for 10 minutes while the black opening stays in sight; a new [[/save ability=wis dc=14 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Breath of the Dark",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgH1yVYlRNHckd",
+      "_key": "!tables.results!ggcg4dxvoWkofO3r.ggcgH1yVYlRNHckd",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>The drill bit wanders off its line into barren rock. The miner makes a [[/save ability=str dc=14 format=long]] to hold it true, or loses 1 hour starting a new bore; the grinding carries through the rock and may draw attention (the GM's call).</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "The Bit Wanders",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-mining-2",
+      "activity": "mining",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

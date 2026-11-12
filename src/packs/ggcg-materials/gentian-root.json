@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgiSCGlWC7hIld",
+  "_key": "!items!ggcgiSCGlWC7hIld",
+  "name": "Gentian Root",
+  "type": "loot",
+  "img": "icons/consumables/vegetable/root-turnip-yellow.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>Gentian is a thick yellow root under a cluster of deep blue trumpet flowers.</p><p><em>Tier 2 · Root · Found: Mountain, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "gentian-root",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gentian-root",
+      "kind": "raw",
+      "tier": 2,
+      "family": "root",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "root",
+        "root-t2",
+        "root-t1+",
+        "root-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

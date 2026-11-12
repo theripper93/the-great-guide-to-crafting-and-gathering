@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgQUhBfR07cRmS",
+  "_key": "!tables!ggcgQUhBfR07cRmS",
+  "name": "Desert Herbs (Tier 1)",
+  "img": "icons/environment/wilderness/terrain-rocky-ground.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgo3DK7Q0rCSRK",
+      "_key": "!tables.results!ggcgQUhBfR07cRmS.ggcgo3DK7Q0rCSRK",
+      "weight": 26,
+      "range": [
+        1,
+        26
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Acacia Gum",
+      "img": "icons/commodities/gems/gem-rough-teardrop-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcguDDBWoKv2TrT"
+    },
+    {
+      "_id": "ggcgkt9i2qnfin5X",
+      "_key": "!tables.results!ggcgQUhBfR07cRmS.ggcgkt9i2qnfin5X",
+      "weight": 26,
+      "range": [
+        27,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Tamarisk Pole",
+      "img": "icons/commodities/wood/wood-pole.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8YYFNV9kd7id"
+    },
+    {
+      "_id": "ggcgnbTmwomMYbEj",
+      "_key": "!tables.results!ggcgQUhBfR07cRmS.ggcgnbTmwomMYbEj",
+      "weight": 14,
+      "range": [
+        53,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mugwort",
+      "img": "icons/consumables/plants/dried-leaf-stem-herb-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgGbrnLRaHpufE"
+    },
+    {
+      "_id": "ggcgj3UN1OPX7OL0",
+      "_key": "!tables.results!ggcgQUhBfR07cRmS.ggcgj3UN1OPX7OL0",
+      "weight": 14,
+      "range": [
+        67,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wild Honeycomb",
+      "img": "icons/consumables/food/honey-beehive-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgKKbSsfVoEemS"
+    },
+    {
+      "_id": "ggcg5kb4CdNf0Stk",
+      "_key": "!tables.results!ggcgQUhBfR07cRmS.ggcg5kb4CdNf0Stk",
+      "weight": 8,
+      "range": [
+        81,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wild Thyme",
+      "img": "icons/consumables/plants/herb-marjoram-basil-oregano-leaf-bunch-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg3Wh1lS3O5ovX"
+    },
+    {
+      "_id": "ggcgzLvxhV2QoQGK",
+      "_key": "!tables.results!ggcgQUhBfR07cRmS.ggcgzLvxhV2QoQGK",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Desert Aloe",
+      "img": "icons/consumables/plants/aloe-succulent-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgrzssitHscDsW"
+    },
+    {
+      "_id": "ggcgnDvSWKmrFz3Q",
+      "_key": "!tables.results!ggcgQUhBfR07cRmS.ggcgnDvSWKmrFz3Q",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Myrrh Tears",
+      "img": "icons/commodities/gems/gem-rough-pear-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgk41M8VA9U6Ei"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-desert-t1",
+      "activity": "gathering",
+      "source": "desert",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

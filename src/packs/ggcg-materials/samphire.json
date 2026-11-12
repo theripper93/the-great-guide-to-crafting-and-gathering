@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgdHOXFcCNbb0P",
+  "_key": "!items!ggcgdHOXFcCNbb0P",
+  "name": "Samphire",
+  "type": "loot",
+  "img": "icons/consumables/plants/aloe-succulent-green-purple.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Fisherfolk pickle samphire in jars to eat through the winter.</p><p><em>Tier 1 · Culinary Herb · Found: Coast, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "samphire",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "samphire",
+      "kind": "raw",
+      "tier": 1,
+      "family": "culinary-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "coast",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "culinary-herb",
+        "culinary-herb-t1",
+        "culinary-herb-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

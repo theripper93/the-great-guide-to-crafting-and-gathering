@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgWqqHUd3r6jBr",
+  "_key": "!items!ggcgWqqHUd3r6jBr",
+  "name": "Sturgeon Roe",
+  "type": "loot",
+  "img": "icons/commodities/materials/powder-black.webp",
+  "folder": "ggcgnCDNRe33ZHiQ",
+  "system": {
+    "description": {
+      "value": "<p>Tiny glossy black eggs, salted and packed tight in small crocks.</p><p><em>Tier 2 · Fish · Found: River and Stream, Lake and Pond</em></p>",
+      "chat": ""
+    },
+    "identifier": "sturgeon-roe",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sturgeon-roe",
+      "kind": "raw",
+      "tier": 2,
+      "family": "fish",
+      "subcategory": "freshwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "river-stream",
+        "lake-pond"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t2",
+        "fish-t1+",
+        "fish-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgBN3cpa2pQrF6",
+  "_key": "!items!ggcgBN3cpa2pQrF6",
+  "name": "Bluefin Tuna",
+  "type": "loot",
+  "img": "icons/consumables/meat/tuna-fish-red.webp",
+  "folder": "ggcgE9UmxcOSnWyI",
+  "system": {
+    "description": {
+      "value": "<p>Dark red tuna meat, firm and heavy with fat.</p><p><em>Tier 2 · Fish · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "bluefin-tuna",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bluefin-tuna",
+      "kind": "raw",
+      "tier": 2,
+      "family": "fish",
+      "subcategory": "saltwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t2",
+        "fish-t1+",
+        "fish-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

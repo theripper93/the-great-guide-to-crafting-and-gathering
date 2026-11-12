@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgiLvZ658pLGKc",
+  "_key": "!tables!ggcgiLvZ658pLGKc",
+  "name": "Gathering Mishaps (Tiers 3 and 4)",
+  "img": "icons/magic/nature/plant-poison-spit-green.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgIqMvnWO6R7o0",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcgIqMvnWO6R7o0",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>The growth draws itself shut as the gatherer's shadow falls on it, and it will not open for the knife.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Shut Tight",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgyBZMqFpMT3zC",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcgyBZMqFpMT3zC",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>The Briar Gloves are too thick for so fine a cut, and the part slides out from between the stiff fingers.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Too Thick a Glove",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgRrrHBce8NQ6q",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcgRrrHBce8NQ6q",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>Between one breath and the next, the find stands a pace from where the knife was going, as if the place itself had moved it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "The Place Shifts",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgkJ8W9za0YKt0",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcgkJ8W9za0YKt0",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>The part worth taking is so hard that the knife skids off it without leaving a mark.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Harder Than the Blade",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgY4QaEvagXzyV",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcgY4QaEvagXzyV",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>A swollen pod, cap or husk bursts at the touch and flings its hard contents like sling stones. The gatherer makes a [[/save ability=dex dc=14 format=long]] or takes [[/damage 2d6 type=bludgeoning]], or half as much on a success.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Bursting Husk",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgay744JbYqrTZ",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcgay744JbYqrTZ",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>A cloud of spores or pollen puffs from the growth into the gatherer's face. The gatherer makes a [[/save ability=con dc=15 format=long]] or is &amp;Reference[Poisoned] for 10 minutes; a new [[/save ability=con dc=15 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Choking Spores",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcguoDJO6gWhqlN",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcguoDJO6gWhqlN",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>Roots, tendrils or threads coil around the gatherer's legs. The gatherer makes a [[/save ability=str dc=14 format=long]] or is &amp;Reference[Restrained] for up to 10 minutes; a new [[/save ability=str dc=14 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Grasping Roots",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg4rwBfNplZz5x",
+      "_key": "!tables.results!ggcgiLvZ658pLGKc.ggcg4rwBfNplZz5x",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>The growth weeps a glue-like ooze over the hand that touches it. The gatherer makes a [[/save ability=dex dc=14 format=long]] to pull back clean, or loses 1 hour scraping it off before anything can be held; its sharp reek clings and may draw attention (the GM's call).</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Weeping Glue",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-gathering-2",
+      "activity": "gathering",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

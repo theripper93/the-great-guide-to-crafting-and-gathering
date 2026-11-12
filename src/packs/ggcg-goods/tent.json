@@ -1,0 +1,77 @@
+{
+  "_id": "ggcgoVSuTtHd5eW8",
+  "_key": "!items!ggcgoVSuTtHd5eW8",
+  "name": "Tent",
+  "type": "loot",
+  "img": "icons/environment/settlement/tent.webp",
+  "folder": "ggcg8YZ4Xw64aRBg",
+  "system": {
+    "description": {
+      "value": "<p>A low ridge tent held up by stout hemp lines.</p><p>A Tent sleeps up to two Small or Medium creatures.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 20,
+      "units": "lb"
+    },
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "tent",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "tent",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "packs-wraps",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagTent0000000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-packs-wraps"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagTent0000000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

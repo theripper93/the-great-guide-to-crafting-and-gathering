@@ -1,0 +1,200 @@
+{
+  "_id": "ggcgQu0pOeUcdrVb",
+  "_key": "!items!ggcgQu0pOeUcdrVb",
+  "name": "Rallying Wand",
+  "type": "equipment",
+  "img": "icons/weapons/staves/staff-winged-red.webp",
+  "folder": "ggcg1q40oFLjEHLb",
+  "system": {
+    "description": {
+      "value": "<p>Before a charge, old soldiers kiss the sprig of mistletoe on its shaft.</p><p>It has 2 charges and regains all expended charges daily at dawn. While holding it, you can expend 1 charge to cast @UUID[Compendium.dnd5e.spells24.Item.phbsplHeroism000]{Heroism} from it (save DC 13, +5 to hit).</p>",
+      "chat": ""
+    },
+    "identifier": "rallying-wand",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "wand",
+      "baseItem": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "2",
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll",
+          "formula": ""
+        }
+      ]
+    },
+    "attunement": "required",
+    "activities": {
+      "ggcgM3JtMdcQL3Ui": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplHeroism000",
+          "level": 1,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 5,
+            "save": 13,
+            "override": true
+          }
+        },
+        "_id": "ggcgM3JtMdcQL3Ui"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "rallying-wand",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "charged-items",
+      "activity": null,
+      "profession": "enchanting",
+      "sources": [],
+      "archetype": "spell-charged",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "enchanting-charged-items",
+        "enchanting-charged"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

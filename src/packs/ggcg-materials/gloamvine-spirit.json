@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgzrDrKkcE4CWX",
+  "_key": "!items!ggcgzrDrKkcE4CWX",
+  "name": "Gloamvine Spirit",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>By day gloamvine spirit clings thick to the glass, and pours freely only after sundown.</p><p><em>Tier 4 · Distilled Essence</em></p>",
+      "chat": ""
+    },
+    "identifier": "gloamvine-spirit",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gloamvine-spirit",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "distilled-essence",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "distilled-essence",
+        "distilled-essence-t4",
+        "distilled-essence-t1+",
+        "distilled-essence-t2+",
+        "distilled-essence-t3+",
+        "distilled-essence-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

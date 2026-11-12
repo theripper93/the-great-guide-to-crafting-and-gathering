@@ -1,0 +1,84 @@
+{
+  "_id": "ggcg015Pwig1LdWo",
+  "_key": "!items!ggcg015Pwig1LdWo",
+  "name": "Giant's Beard Hair",
+  "type": "loot",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Coarse brown beard hair, thick enough to twist into rope.</p><p><em>Tier 1 · Plant Fiber · Found: Giant</em></p>",
+      "chat": ""
+    },
+    "identifier": "giants-beard-hair",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "giants-beard-hair",
+      "kind": "raw",
+      "tier": 1,
+      "family": "plant-fiber",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "giant"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "plant-fiber",
+        "plant-fiber-t1",
+        "plant-fiber-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

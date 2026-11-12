@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg8QFPVJDBG45z",
+  "_key": "!items!ggcg8QFPVJDBG45z",
+  "name": "Pit Fiend Crown Horn",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-jagged-grey.webp",
+  "folder": "ggcgFMfWH9jZN7WP",
+  "system": {
+    "description": {
+      "value": "<p>The root of a pit fiend crown horn glows a dull red, and coal left beside it catches fire by itself. Dogs and horses will not stay in a room with one, and a stable where it was kept stands empty for a season afterward.</p><p><em>Tier 4 · Boss Trophy · Found: Fiend</em></p>",
+      "chat": ""
+    },
+    "identifier": "pit-fiend-crown-horn",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4800,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "pit-fiend-crown-horn",
+      "kind": "raw",
+      "tier": 4,
+      "family": "boss-trophy",
+      "subcategory": "boss-trophies",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "fiend"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "boss-trophy",
+        "boss-trophy-t4",
+        "boss-trophy-t1+",
+        "boss-trophy-t2+",
+        "boss-trophy-t3+",
+        "boss-trophy-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

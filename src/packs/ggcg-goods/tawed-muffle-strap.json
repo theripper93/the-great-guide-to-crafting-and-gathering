@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgZgB43aIygZOl",
+  "_key": "!items!ggcgZgB43aIygZOl",
+  "name": "Tawed Muffle Strap",
+  "type": "equipment",
+  "img": "icons/commodities/leather/leather-buckle-clip-steel.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>Soft tawed leather, padded with cloth, wrapped over every buckle and ring of a harness.</p><p>While this is equipped, ready to hand, you have a +1 bonus to Stealth checks (<em>Muffled Tack</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "tawed-muffle-strap",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Muffled Tack",
+      "img": "icons/commodities/leather/leather-buckle-clip-steel.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.ste.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgrbIkOvy8BUuI",
+      "_key": "!items.effects!ggcgZgB43aIygZOl.ggcgrbIkOvy8BUuI",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "tawed-muffle-strap",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "tack-harness",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "utility-gear",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-tack-harness"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

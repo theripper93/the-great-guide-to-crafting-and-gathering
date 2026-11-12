@@ -1,0 +1,316 @@
+{
+  "_id": "ggcgX4xTJSbuo6GE",
+  "_key": "!tables!ggcgX4xTJSbuo6GE",
+  "name": "Monstrosity Harvest",
+  "img": "icons/creatures/mammals/beast-horned-scaled-glowing-orange.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgMDjlSMFB86ls",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcgMDjlSMFB86ls",
+      "weight": 31,
+      "range": [
+        1,
+        31
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Axe Beak Drumstick",
+      "img": "icons/consumables/meat/hock-leg-skin-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgAR3rgCjS94uP"
+    },
+    {
+      "_id": "ggcgQpUI6cRMtA8C",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcgQpUI6cRMtA8C",
+      "weight": 31,
+      "range": [
+        32,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Harpy Feather",
+      "img": "icons/commodities/materials/feather-damaged-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwhfzrKfPIc4s"
+    },
+    {
+      "_id": "ggcg7fzYgWbcDcMC",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcg7fzYgWbcDcMC",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Owlbear Pelt",
+      "img": "icons/commodities/leather/fur-pelt-spotted-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgmXkHJU8RphFL"
+    },
+    {
+      "_id": "ggcg0Fcsu4QoG1TE",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcg0Fcsu4QoG1TE",
+      "weight": 13,
+      "range": [
+        77,
+        89
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ankheg Plate",
+      "img": "icons/commodities/bones/fossil-chitin.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgthSn8CtkK4hU"
+    },
+    {
+      "_id": "ggcgX4YvJMdGaHtO",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcgX4YvJMdGaHtO",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hydra Heart",
+      "img": "icons/consumables/meat/heart-organ-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgOdPc6hazO39l"
+    },
+    {
+      "_id": "ggcgGcjE2dZye3sS",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcgGcjE2dZye3sS",
+      "weight": 4,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Stonegaze Eye",
+      "img": "icons/commodities/biological/eye-lizard-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHgKDLFomipNB"
+    },
+    {
+      "_id": "ggcgRBQ6baJxL2cr",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcgRBQ6baJxL2cr",
+      "weight": 4,
+      "range": [
+        95,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bulette Shell",
+      "img": "icons/commodities/biological/shell-turtle-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg5ULytQ0MzU34"
+    },
+    {
+      "_id": "ggcgV9eB2BiRE3R1",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcgV9eB2BiRE3R1",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Blackened Venom Sac",
+      "img": "icons/commodities/biological/organ-heart-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg4dNucmiJ9GRC"
+    },
+    {
+      "_id": "ggcg2QOR52qF3KoY",
+      "_key": "!tables.results!ggcgX4xTJSbuo6GE.ggcg2QOR52qF3KoY",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Kraken Hide",
+      "img": "icons/commodities/biological/tentacle-purple-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg4aydlBzyl5Yv"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-monstrosity",
+      "activity": "monster",
+      "source": "monstrosity",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

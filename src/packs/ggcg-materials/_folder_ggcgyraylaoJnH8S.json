@@ -1,0 +1,23 @@
+{
+  "_id": "ggcgyraylaoJnH8S",
+  "_key": "!folders!ggcgyraylaoJnH8S",
+  "name": "Cloth, Thread and Cord",
+  "type": "Item",
+  "folder": "ggcgv8lmCnExMwL0",
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

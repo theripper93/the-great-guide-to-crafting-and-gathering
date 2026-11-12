@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgiVxCFo4Uls0H",
+  "_key": "!items!ggcgiVxCFo4Uls0H",
+  "name": "Dragon Blood Base",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>Dragon blood base is a dark orange liquid that begins to simmer in its flask whenever a blade is drawn nearby. Smiths say the blood still remembers the swords that killed its dragon, and the flask goes quiet again once the steel is back in its sheath.</p><p><em>Tier 4 · Alchemical Base</em></p>",
+      "chat": ""
+    },
+    "identifier": "dragon-blood-base",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "dragon-blood-base",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "alchemical-base",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "alchemical-base",
+        "alchemical-base-t4",
+        "alchemical-base-t1+",
+        "alchemical-base-t2+",
+        "alchemical-base-t3+",
+        "alchemical-base-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

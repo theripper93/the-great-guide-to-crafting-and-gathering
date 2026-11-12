@@ -1,0 +1,85 @@
+{
+  "_id": "ggcg8MI08LmXEnBU",
+  "_key": "!items!ggcg8MI08LmXEnBU",
+  "name": "Seal Loin",
+  "type": "loot",
+  "img": "icons/consumables/meat/shank-aged-red.webp",
+  "folder": "ggcg6re4OmekUgIz",
+  "system": {
+    "description": {
+      "value": "<p>Seal meat is so dark it looks almost black.</p><p><em>Tier 1 · Game Meat · Found: Arctic, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "seal-loin",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "seal-loin",
+      "kind": "raw",
+      "tier": 1,
+      "family": "game-meat",
+      "subcategory": "meat-cuts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "arctic",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "game-meat",
+        "game-meat-t1",
+        "game-meat-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

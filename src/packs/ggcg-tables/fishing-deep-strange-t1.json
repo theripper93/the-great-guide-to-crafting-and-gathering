@@ -1,0 +1,378 @@
+{
+  "_id": "ggcgAKq5EkeDWOvJ",
+  "_key": "!tables!ggcgAKq5EkeDWOvJ",
+  "name": "Deep Water Fishing (Tier 1)",
+  "img": "icons/creatures/fish/fish-bioluminous-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcg4LYu6OTYYhni",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcg4LYu6OTYYhni",
+      "weight": 18,
+      "range": [
+        1,
+        18
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Waterlogged Boot",
+      "img": "icons/commodities/leather/boot-torn-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwYD81tD4JOM8"
+    },
+    {
+      "_id": "ggcgH6huRiBeXyu4",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgH6huRiBeXyu4",
+      "weight": 17,
+      "range": [
+        19,
+        35
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Reef Crab",
+      "img": "icons/creatures/fish/crab-blue-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLNftZvDWyBI9"
+    },
+    {
+      "_id": "ggcg4dEPh5JVqlIW",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcg4dEPh5JVqlIW",
+      "weight": 17,
+      "range": [
+        36,
+        52
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mud Eel",
+      "img": "icons/environment/creatures/fish-horned-grey-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgAf1yM5EuxDXE"
+    },
+    {
+      "_id": "ggcg6muTfKBH9gf3",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcg6muTfKBH9gf3",
+      "weight": 7,
+      "range": [
+        53,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sand Flounder",
+      "img": "icons/environment/creatures/fish-spotted-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgnabCsQatHG6h"
+    },
+    {
+      "_id": "ggcgSM5pyPPOgMPt",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgSM5pyPPOgMPt",
+      "weight": 7,
+      "range": [
+        60,
+        66
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bullfrog Legs",
+      "img": "icons/commodities/biological/foot-amphibian-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgxSmUTcwWGAFd"
+    },
+    {
+      "_id": "ggcgphE7F461NqOk",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgphE7F461NqOk",
+      "weight": 7,
+      "range": [
+        67,
+        73
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Shore Herring",
+      "img": "icons/environment/creatures/fish-crosshatched-silver-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgJbSFeE4Gcd05"
+    },
+    {
+      "_id": "ggcgVJW5Lhz16nRw",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgVJW5Lhz16nRw",
+      "weight": 7,
+      "range": [
+        74,
+        80
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cod Liver Oil",
+      "img": "icons/consumables/potions/potion-jar-corked-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHs9NM9uH3JhB"
+    },
+    {
+      "_id": "ggcgQbhKkzyfm83G",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgQbhKkzyfm83G",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rock Cod",
+      "img": "icons/environment/creatures/fish-scaled-yellow-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgtoAzAgQL4exy"
+    },
+    {
+      "_id": "ggcgUx71IeSyqP42",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgUx71IeSyqP42",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Striped Mackerel",
+      "img": "icons/environment/creatures/fish-crosshatched-grey-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgo07sICX7eIyi"
+    },
+    {
+      "_id": "ggcgwHqkV4lXZfiT",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgwHqkV4lXZfiT",
+      "weight": 6,
+      "range": [
+        89,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wreck Spikes",
+      "img": "icons/tools/fasteners/nails-worn-steel.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg0BEnCQb6xciz"
+    },
+    {
+      "_id": "ggcgEiXQwUV8ZWMg",
+      "_key": "!tables.results!ggcgAKq5EkeDWOvJ.ggcgEiXQwUV8ZWMg",
+      "weight": 6,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Squid Ink Sac",
+      "img": "icons/commodities/materials/slime-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgPJVzk2adYXhO"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgjt2f7fUp9JF7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fishing-deep-strange-t1",
+      "activity": "fishing",
+      "source": "deep-strange",
+      "tier": 1,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

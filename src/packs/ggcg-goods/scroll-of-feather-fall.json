@@ -1,0 +1,199 @@
+{
+  "_id": "ggcg9wM31mZyKbBw",
+  "_key": "!items!ggcg9wM31mZyKbBw",
+  "name": "Scroll of Feather Fall",
+  "type": "consumable",
+  "img": "icons/sundries/scrolls/scroll-rolled-white.webp",
+  "folder": "ggcgo9YwekVvqmP0",
+  "system": {
+    "description": {
+      "value": "<p>A dropped copy of this scroll takes a long time to reach the floor.</p><p>This scroll holds @UUID[Compendium.dnd5e.spells24.Item.phbsplFeatherFal]{Feather Fall}. If the spell is on your class's spell list, you can read the scroll and cast the spell (save DC 13, +5 to hit) without Material components. The scroll then crumbles to dust (&amp;Reference[spellscroll]).</p>",
+      "chat": ""
+    },
+    "identifier": "scroll-of-feather-fall",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "scroll",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgKk3o3PdyZLbm": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplFeatherFal",
+          "level": 1,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "material"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 5,
+            "save": 13,
+            "override": true
+          }
+        },
+        "_id": "ggcgKk3o3PdyZLbm"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "spellLevel": {
+        "base": 1,
+        "value": 1
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "scroll-of-feather-fall",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "spell-scrolls",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": "spell-scroll",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scribing-spell-scrolls"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

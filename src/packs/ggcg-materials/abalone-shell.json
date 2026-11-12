@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgbd1MI3stpqeH",
+  "_key": "!items!ggcgbd1MI3stpqeH",
+  "name": "Abalone Shell",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-green.webp",
+  "folder": "ggcgXWbpjWFVffG9",
+  "system": {
+    "description": {
+      "value": "<p>Rough on the outside, abalone shell is all green and blue shimmer inside.</p><p><em>Tier 2 · Shell and Pearl · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "abalone-shell",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "abalone-shell",
+      "kind": "raw",
+      "tier": 2,
+      "family": "shell-pearl",
+      "subcategory": "non-fish-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "shell-pearl",
+        "shell-pearl-t2",
+        "shell-pearl-t1+",
+        "shell-pearl-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

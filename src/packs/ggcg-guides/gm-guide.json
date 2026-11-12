@@ -1,0 +1,269 @@
+{
+  "_id": "ggcgXT9S9t0UbKyh",
+  "_key": "!journal!ggcgXT9S9t0UbKyh",
+  "name": "GM Guide",
+  "folder": null,
+  "sort": 100,
+  "ownership": {
+    "default": 0
+  },
+  "categories": [],
+  "pages": [
+    {
+      "_id": "ggcgJJxa76sHx7Cp",
+      "name": "First Steps",
+      "type": "text",
+      "sort": 1000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>The rules the players follow are in @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcguC6apt8CR6VT]{Player Guide}, and this guide does not repeat them, so read that one first. Four steps then take you to a first gather and craft.</p>\n<ol>\n<li>View a map the players will visit and place a <strong>Forest Herbs (Tier 1)</strong> node on it (@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcgXT9S9t0UbKyh.JournalEntryPage.ggcg8ud8DXPIryLJ]{Gathering Nodes}).</li>\n<li>Give each character a gathering tool and the kit of their profession (@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcgXT9S9t0UbKyh.JournalEntryPage.ggcg2cx5cfkpL3op]{Tools and Proficiencies}).</li>\n<li>Decide whether you unlock recipes by hand or let practice do it (@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcgXT9S9t0UbKyh.JournalEntryPage.ggcgFH6Je6HGXbtj]{Unlocking Recipes}).</li>\n<li>Walk a character with a @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg11tOwQlRVG9a]{Herbalism Kit} into the node and click <strong>Forage</strong>, to see it work as a player does.</li>\n</ol>\n<p>The <strong>Great Guide Tools</strong> button at the top of the Items sidebar opens one window with the three GM tools as tabs: <strong>Recipe Tracker</strong>, <strong>Crafting Lookup</strong> and <strong>Node Placer</strong>. When a player asks where something is found or what it is for, @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcgXT9S9t0UbKyh.JournalEntryPage.ggcgc5EOIFaZZmMn]{Crafting Lookup} gives the answer in a few seconds.</p>\n<p>The table shows what the module holds and where.</p>\n<table>\n<thead>\n<tr>\n<th>Content</th>\n<th>Count</th>\n<th>Where it lives</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Raw materials</td>\n<td>420</td>\n<td>Compendium <strong>Materials</strong></td>\n</tr>\n<tr>\n<td>Refined materials</td>\n<td>130</td>\n<td>Compendium <strong>Materials</strong></td>\n</tr>\n<tr>\n<td>Finished goods</td>\n<td>553</td>\n<td>Compendium <strong>Finished Goods</strong></td>\n</tr>\n<tr>\n<td>Tools and kits</td>\n<td>20</td>\n<td>Compendium <strong>Tools and Kits</strong></td>\n</tr>\n<tr>\n<td>Drop tables and mishap tables</td>\n<td>116</td>\n<td>Compendium <strong>Drop Tables</strong></td>\n</tr>\n<tr>\n<td>The player guide and this guide</td>\n<td>2 journals</td>\n<td>Compendium <strong>Guides</strong></td>\n</tr>\n<tr>\n<td>Recipes</td>\n<td>687, in 12 books</td>\n<td>Imported into your world</td>\n</tr>\n<tr>\n<td>Artifact pages</td>\n<td>33, in <strong>The Book of Great Works</strong></td>\n<td>Imported into your world</td>\n</tr>\n<tr>\n<td>Gathering pages</td>\n<td>106, in 5 journals</td>\n<td>Imported into your world</td>\n</tr>\n</tbody></table>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcgJJxa76sHx7Cp",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcg8ud8DXPIryLJ",
+      "name": "Gathering Nodes",
+      "type": "text",
+      "sort": 2000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>A node is a scene region where a player&#39;s selected token gets a <strong>Forage</strong>, <strong>Hunt</strong>, <strong>Mine</strong> or <strong>Fish</strong> button. Each node draws on one gathering page, which sets its drops, check, tools and pulls.</p>\n<h2>The Node Placer</h2>\n<p>The <strong>Node Placer</strong> tab of <strong>Great Guide Tools</strong> places nodes. Choose an activity, a place and a tier, click <strong>Place on this scene</strong>, and the window steps aside while you drop the node. Before you do, it shows the check, the DC and the tools that node asks for. Make the node generous when you resize it, because the minigame plays inside it.</p>\n<table>\n<thead>\n<tr>\n<th>Activity</th>\n<th>Places</th>\n<th>Tiers</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Gathering</td>\n<td>Forest, Plains, Mountain, Swamp, Desert, Arctic, Coast, Underground</td>\n<td>1 to 4</td>\n</tr>\n<tr>\n<td>Hunting</td>\n<td>Forest, Plains, Mountain, Swamp, Desert, Arctic, Coast, Underground</td>\n<td>1 to 3</td>\n</tr>\n<tr>\n<td>Mining</td>\n<td>Surface Outcrop, Hill Quarry, Mountain Vein, Deep Cavern, Volcanic</td>\n<td>1 to 4</td>\n</tr>\n<tr>\n<td>Fishing</td>\n<td>River and Stream, Lake and Pond, Sea Coast, Deep or Strange Water</td>\n<td>1 to 4</td>\n</tr>\n</tbody></table>\n<p>Match the node to the place, not to the party. Tier 1 fits anywhere, but a mishap at a tier 3 or 4 node can kill a low-level character.</p>\n<p><strong>Pulls.</strong> Each node has its own pulls and refills on its own. To make several nodes drain one pool, set <strong>Pull Pool</strong> to <strong>Shared with page</strong> in the region&#39;s <strong>Gatherer Node</strong> behavior.</p>\n<p><strong>Markers.</strong> The region shows only on the Regions layer, so players see no marker on the map. To show one, add a tile of your own and list it under <strong>Linked Tiles</strong> in the behavior; the tile hides when the node runs dry.</p>\n<p><strong>Without a Map.</strong> Every gathering page has a <strong>Gather</strong> button of its own. For travel or downtime, open the page, such as @UUID[JournalEntry.ggcgt3xAMcpgTjeY.JournalEntryPage.ggcguxsynAP55f04]{Forest Herbs (Tier 1)}, select the token and click it.</p>\n<p><strong>Secrecy.</strong> The gathering journals arrive hidden from players, which keeps the higher tiers a surprise. A player who can open a gathering page can read every drop on it and use its Gather button from anywhere, so share a page only on purpose.</p>\n<h2>Pulls by Tier</h2>\n<p>Every gathering page of a tier has the settings below.</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Tier 1</th>\n<th>Tier 2</th>\n<th>Tier 3</th>\n<th>Tier 4</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Pulls in a node</td>\n<td>8</td>\n<td>6</td>\n<td>4</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Pulls per character</td>\n<td>3</td>\n<td>2</td>\n<td>2</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Refill</td>\n<td>1 pull every 6 hours</td>\n<td>1 pull every 12 hours</td>\n<td>full after 72 hours</td>\n<td>full after 168 hours</td>\n</tr>\n<tr>\n<td>Minigame</td>\n<td>easy</td>\n<td>normal</td>\n<td>normal</td>\n<td>hard</td>\n</tr>\n</tbody></table>\n<p>Refills run on the game clock, so a node fills again only as time passes in the world.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcg8ud8DXPIryLJ",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgIJFVyUybPasT",
+      "name": "Monster Harvesting",
+      "type": "text",
+      "sort": 3000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>A defeated creature that is out of combat shows a <strong>Harvest</strong> button to you and to any player whose token is next to it. The harvester needs a @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgA6vNIsKN8NOP]{Harvesting Kit} and passes the check of the creature&#39;s type, listed in @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcguC6apt8CR6VT.JournalEntryPage.ggcg12PcPlVd5OY5]{Harvesting Creatures}.</p>\n<p><strong>Drops.</strong> What a body gives depends on its creature type and nothing else. Each of the 14 types has one page and one table, such as @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tables.RollTable.ggcgA3zY186eKBjp]{Beast Harvest} and @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tables.RollTable.ggcg8Z4mkNHpNkzk]{Dragon Harvest}. Most parts are tier 1, and a weak creature can, rarely, give a tier 4 part. Bodies do not refill, so you control the supply through the creatures you put in the party&#39;s way.</p>\n<p><strong>Pulls.</strong> Each body gives two. To let big creatures give more, use <strong>Configure Settings</strong>, <strong>The Great Guide to Crafting and Gathering</strong>, <strong>Harvest pulls by challenge rating</strong>. It writes a limit on each creature from its challenge rating, for the selected tokens, the current scene or every NPC in the world, using the numbers below. It changes how much a body gives, never what.</p>\n<table>\n<thead>\n<tr>\n<th>Challenge rating</th>\n<th>Pulls</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>0 to 4</td>\n<td>2</td>\n</tr>\n<tr>\n<td>5 to 10</td>\n<td>3</td>\n</tr>\n<tr>\n<td>11 to 16</td>\n<td>4</td>\n</tr>\n<tr>\n<td>17 and up</td>\n<td>6</td>\n</tr>\n</tbody></table>\n<p><strong>Boss Trophies.</strong> Twelve trophies sit in their tables at 1 percent, so a lucky surprise can happen. Treat them as rewards: when a worthy foe falls, drag the trophy from the compendium onto a character. Each legendary recipe needs one, and every artifact needs two.</p>\n<table>\n<thead>\n<tr>\n<th>Trophy</th>\n<th>Tier</th>\n<th>Creature type</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEINjrS4kuIpg]{Tyrannosaurus Fang}</td>\n<td>2</td>\n<td>Beast</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgOdPc6hazO39l]{Hydra Heart}</td>\n<td>2</td>\n<td>Monstrosity</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgcgkfo03S5Hdu]{Golem Core}</td>\n<td>3</td>\n<td>Construct</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgl5C8KqUl4aPn]{Dragon Brow Horn}</td>\n<td>3</td>\n<td>Dragon</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgMAjVxUpEFp1N]{Djinni Storm Core}</td>\n<td>3</td>\n<td>Elemental</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgkVMH39oxm9MC]{Storm Giant Beard}</td>\n<td>3</td>\n<td>Giant</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBleasZT0auOZ]{Treant Living Bough}</td>\n<td>3</td>\n<td>Plant</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgi3zEwvWlKRxK]{Dragon Heart}</td>\n<td>4</td>\n<td>Dragon</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg4aydlBzyl5Yv]{Kraken Hide}</td>\n<td>4</td>\n<td>Monstrosity</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg7Qqv8YsMtE1e]{Solar Wing Feather}</td>\n<td>4</td>\n<td>Celestial</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8QFPVJDBG45z]{Pit Fiend Crown Horn}</td>\n<td>4</td>\n<td>Fiend</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg3tCnZts7f2r4]{Lich Skull}</td>\n<td>4</td>\n<td>Undead</td>\n</tr>\n</tbody></table>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcgIJFVyUybPasT",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgFH6Je6HGXbtj",
+      "name": "Unlocking Recipes",
+      "type": "text",
+      "sort": 4000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Players see every recipe book, but only tier 1 recipes are open at first, and you decide when the higher tiers open. The recipe books head their sections with the tier names Apprentice, Journeyman, Expert and Master; the tracker and this guide number the tiers 1 to 4.</p>\n<h2>The Recipe Tracker</h2>\n<p>The <strong>Recipe Tracker</strong> tab of <strong>Great Guide Tools</strong> shows, for the book you pick, each player character with its level, the number of different recipes it has crafted at each tier, its progress toward the next tier, and a lock for tiers 2, 3 and 4. Click a lock to open or close that tier for that character. Unlocking a tier of a profession book also unlocks that tier of @UUID[JournalEntry.ggcgdpsGVkcWx3ru]{The Refiner's Ledger}.</p>\n<p>The tracker counts every successful craft against the practice rule in @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcguC6apt8CR6VT.JournalEntryPage.ggcg1XYjfX62emai]{Learning Recipes}. The world setting <strong>Recipe unlocking</strong> decides what happens when a character meets it. With <strong>Manual (the GM unlocks)</strong>, the default, the tracker shows the progress and you click the lock. With <strong>Automatic (by practice)</strong>, the tier unlocks at once and a chat message tells the player and you.</p>\n<p>For less bookkeeping, unlock by level alone. When the party reaches level 5, 11 or 17, tick everyone and unlock the next tier of every book.</p>\n<h2>Unlocking by Hand</h2>\n<p><strong>Single Recipes.</strong> You can unlock any one recipe at any time, as treasure or a teacher&#39;s lesson. Under <strong>Recipes unlocked one by one</strong>, the tracker has a lock for each recipe and character. Legendary and artifact recipes are always listed there, and <strong>Another recipe</strong> adds any other.</p>\n<p><strong>Legendary Recipes.</strong> Three recipes open only by hand: @UUID[JournalEntry.ggcg0u6ANOvPsEH5.JournalEntryPage.ggcg78x9uZMG5V7I]{Dragonfire Greataxe}, @UUID[JournalEntry.ggcgL3E3N9yABHxL.JournalEntryPage.ggcgValuwDVvNoOJ]{Goldvane Longbow} and @UUID[JournalEntry.ggcg18V7DCNVBqal.JournalEntryPage.ggcgrGRMdU3aZORZ]{Hellfire Rod}.</p>\n<p><strong>Artifacts.</strong> Each profession book has an <strong>Artifacts</strong> section with three recipes for level 20 characters, and these too open only by hand. Unlocking one also opens its page in <strong>The Book of Great Works</strong>, from which the player can craft every step; locking the recipe closes the page again.</p>\n<p>Every artifact has one ability that is played at the table and not automated, and you rule on it. Three more need your hand in play: the treant of the First Tree Staff, the creature swallowed by the Devourer Satchel and the extra turn of the Mainspring Heart Harness.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcgFH6Je6HGXbtj",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcg2cx5cfkpL3op",
+      "name": "Tools and Proficiencies",
+      "type": "text",
+      "sort": 5000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>A character needs the kit of its profession to craft and a gathering tool for each activity it takes up. All eleven kits are tools from the core rules, so proficiency works as usual. The table gives the ability each kit uses and its bench accessory, a crafted item that adds to that kit&#39;s checks while equipped.</p>\n<table>\n<thead>\n<tr>\n<th>Kit</th>\n<th>Ability</th>\n<th>Bench accessory</th>\n<th>Accessory tier</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgAXu1Awk4CPVO]{Smith's Tools}</td>\n<td>Strength</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgS8dV0a2vgSIw]{Swage Block}</td>\n<td>2</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgBS7LV329NriB]{Alchemist's Supplies}</td>\n<td>Intelligence</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgvcKW4pvAbyih]{Needle-Valve Fine Burner}</td>\n<td>2</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgIhY9Ly1cLEQK]{Cook's Utensils}</td>\n<td>Wisdom</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgFxl5BdRQK0Tr]{Weighted Spit Jack}</td>\n<td>2</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgJj1G85Tcjm5G]{Calligrapher's Supplies}</td>\n<td>Dexterity</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgDzeTQJw9ulZX]{Steady-Nib Pen Case}</td>\n<td>2</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgSm3uBYHoYTJP]{Weaver's Tools}</td>\n<td>Dexterity</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgN4ZQRGbFI92Q]{Knotless Bobbin}</td>\n<td>2</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgkqmSZTpy0jYh]{Painter's Supplies}</td>\n<td>Wisdom</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcghcPlALLkB5bX]{Truecolor Fine Brush}</td>\n<td>2</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgC01SAdWYfQI2]{Leatherworker's Tools}</td>\n<td>Dexterity</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgT2Dny4cBdUBF]{Creasing Iron Set}</td>\n<td>3</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgHUuUIHg3Lo9R]{Woodcarver's Tools}</td>\n<td>Dexterity</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcguqBo6sIuA8m9]{Spokeshave Set}</td>\n<td>3</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgsWwHvNwIhoxq]{Jeweler's Tools}</td>\n<td>Intelligence</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgSN0rlZph0eZL]{Swing-Lens Loupe}</td>\n<td>3</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgruhNUzSbyySj]{Poisoner's Kit}</td>\n<td>Intelligence</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgX0HD8p2dLcv1]{Venom Screw Press}</td>\n<td>3</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgGD4pIENIpnDJ]{Tinker's Tools}</td>\n<td>Dexterity</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-goods.Item.ggcgGlScAXV1Puop]{Escapement Gauge Set}</td>\n<td>4</td>\n</tr>\n</tbody></table>\n<h2>Gathering Tools</h2>\n<p>Gathering tools grant access, not a bonus. The basic tools are meant to be bought. The add-ons for tier 3 and 4 nodes are tier 2 recipes, so a party needs a tier 2 crafter, or a merchant you allow, before it can work those nodes.</p>\n<table>\n<thead>\n<tr>\n<th>Activity</th>\n<th>Basic tool</th>\n<th>Add-on for tier 3 and 4</th>\n<th>Made by</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Gathering</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg11tOwQlRVG9a]{Herbalism Kit} (5 gp)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgbCtFg2K8ZKLu]{Briar Gloves} (100 gp)</td>\n<td>Leatherworking, @UUID[JournalEntry.ggcgUdtg4myXvWYH.JournalEntryPage.ggcglbfPK7P0ikBc]{Briar Gloves}</td>\n</tr>\n<tr>\n<td>Hunting</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgQuqWVxtejCvG]{Hunting Kit} (10 gp)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg9XVYSo3JiiOB]{Hunting Ladder} (100 gp)</td>\n<td>Woodworking, @UUID[JournalEntry.ggcgL3E3N9yABHxL.JournalEntryPage.ggcgecJvuxdZHSkT]{Hunting Ladder}</td>\n</tr>\n<tr>\n<td>Mining</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgo3zHJJOTfzMV]{Prospector's Pick} (10 gp)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg51w018KVRCuW]{Deep Vein Drill} (100 gp)</td>\n<td>Smithing, @UUID[JournalEntry.ggcg0u6ANOvPsEH5.JournalEntryPage.ggcg5QJvwFmgSj4s]{Deep Vein Drill}</td>\n</tr>\n<tr>\n<td>Fishing</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg7qRydaj2EKld]{Fishing Tackle} (10 gp)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgwd9dfrtfrjPG]{Winch Reel} (100 gp)</td>\n<td>Tinkering, @UUID[JournalEntry.ggcgCafsy9DZqFOJ.JournalEntryPage.ggcgpNvIveIIyGL2]{Winch Reel}</td>\n</tr>\n<tr>\n<td>Monster harvesting</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgA6vNIsKN8NOP]{Harvesting Kit} (10 gp)</td>\n<td>none</td>\n<td></td>\n</tr>\n</tbody></table>\n<p><strong>Names Matter.</strong> Nodes and recipes find tools, materials and products by name, so a renamed item stops counting. Leave the names of this module&#39;s items as they are.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcg2cx5cfkpL3op",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgc5EOIFaZZmMn",
+      "name": "Crafting Lookup",
+      "type": "text",
+      "sort": 6000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><strong>Crafting Lookup</strong> answers the two questions players ask most: where a thing is found and what it is for. It is a tab of <strong>Great Guide Tools</strong>. Type part of an item&#39;s or recipe&#39;s name, and narrow a long list by kind or tier if you need to.</p>\n<p>For a material, it gives every table and harvest that drops it with the chance on a pull, so &quot;where do I find Bog Iron&quot; becomes &quot;a surface outcrop, about one pull in eight&quot;. For anything crafted, it gives the recipe, its book and its tier. Either way it lists every recipe the item goes into, and each line opens the item, recipe, gathering page or table it names.</p>\n<p>The lookup follows your own edits to recipes and gathering pages.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcgc5EOIFaZZmMn",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgujivL2auThW4",
+      "name": "Prices",
+      "type": "text",
+      "sort": 7000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Every item has a price, and the prices follow one rule: a product is worth twice the ingredients that went into it, and everything sells for half. Crafting before selling therefore doubles what the materials fetch.</p>\n<p>The table gives the price of one material at each tier, which is what a merchant charges if you let one sell them.</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Tier 1</th>\n<th>Tier 2</th>\n<th>Tier 3</th>\n<th>Tier 4</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>One raw material</td>\n<td>1 gp</td>\n<td>4 gp</td>\n<td>40 gp</td>\n<td>400 gp</td>\n</tr>\n<tr>\n<td>One refined material</td>\n<td>6 gp</td>\n<td>24 gp</td>\n<td>240 gp</td>\n<td>2,400 gp</td>\n</tr>\n<tr>\n<td>One boss trophy</td>\n<td>none</td>\n<td>48 gp</td>\n<td>480 gp</td>\n<td>4,800 gp</td>\n</tr>\n</tbody></table>\n<p>A crafted item as strong as an official magic item costs what the core rules charge for that rarity, so crafting never undercuts the treasure you hand out. Healing is never cheaper than the official potions either.</p>\n<p><strong>Legendary Items and Artifacts.</strong> No recipe asks for coin. A legendary item needs a tier 4 trophy and an artifact needs two, and you hand those out, so the trophies are the price.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcgujivL2auThW4",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgfcpfWAA8HJqd",
+      "name": "Troubleshooting",
+      "type": "text",
+      "sort": 8000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>A few things are left to you, and a few behaviors surprise at first.</p>\n<p><strong>A Connected GM.</strong> Players cannot gather or harvest while no GM is in the game, so plan gathering for sessions.</p>\n<p><strong>Effects.</strong> The setting <strong>One effect per stacking group</strong> lets a creature keep one drink, one food and one charm effect at a time, and a new one replaces the old. An item that blinds or restrains says how the condition ends, and you remove the effect then.</p>\n<p><strong>Hidden Results.</strong> A player sees question marks on a gathering page until someone has found that result there.</p>\n<h2>Common Problems</h2>\n<p>The table lists what you see and what fixes it.</p>\n<table>\n<thead>\n<tr>\n<th>What you see</th>\n<th>What to do</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>The import window never appeared</td>\n<td>Run it from <strong>Configure Settings</strong>, <strong>Import content</strong>. It shows only to the active GM</td>\n</tr>\n<tr>\n<td>A player cannot see a tier 2 recipe</td>\n<td>Check in the Recipe Tracker that a character this player owns has the tier</td>\n</tr>\n<tr>\n<td>The tracker shows &quot;?&quot; for progress</td>\n<td>Reload the world. If it stays, reinstall the module</td>\n</tr>\n<tr>\n<td>No button on a node</td>\n<td>The token must be selected and inside the region. The node may be empty: wait, or open its page and click <strong>Reset</strong></td>\n</tr>\n<tr>\n<td>Nothing happens when a player gathers</td>\n<td>No GM is connected</td>\n</tr>\n<tr>\n<td>The gather refuses to start</td>\n<td>A tool is missing or renamed (tier 3 and 4 need both tools), or the character has used its pulls there</td>\n</tr>\n<tr>\n<td>No Harvest button on a body</td>\n<td>End the combat. The body must be Defeated or at 0 Hit Points, and the harvester next to it with more than 0</td>\n</tr>\n<tr>\n<td>&quot;There are no more resources to harvest from this creature&quot;</td>\n<td>Its pulls are used up. Raise them on the creature&#39;s sheet</td>\n</tr>\n<tr>\n<td>A recipe says tools are missing</td>\n<td>The crafter needs the profession&#39;s kit under its exact name</td>\n</tr>\n<tr>\n<td>An &quot;Any&quot; ingredient is refused</td>\n<td>Only this module&#39;s materials count. A homebrew &quot;Coal&quot; does not; @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg2Am9uYxU4dyU]{Soft Coal} does</td>\n</tr>\n<tr>\n<td>A crafted item did not arrive</td>\n<td>Advance the game clock by the crafting time</td>\n</tr>\n<tr>\n<td>A potion did nothing</td>\n<td>The player has to click <strong>Apply</strong> on the chat card</td>\n</tr>\n<tr>\n<td>A player asks for the craft DC</td>\n<td>The recipe window does not show it. The defaults are in @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcguC6apt8CR6VT.JournalEntryPage.ggcg5JRNDxotQYWX]{Tiers}</td>\n</tr>\n<tr>\n<td>Gathering pages look broken</td>\n<td>Gatherer is off or out of date</td>\n</tr>\n</tbody></table>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcgXT9S9t0UbKyh.ggcgfcpfWAA8HJqd",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "key": "gm-guide"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "_id": "ggcgHixtywFNBMvn",
+  "_key": "!tables!ggcgHixtywFNBMvn",
+  "name": "Mountain Vein (Tier 4)",
+  "img": "icons/commodities/stone/stone-nugget-gold.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgPeU0MocvN1Uq",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcgPeU0MocvN1Uq",
+      "weight": 24,
+      "range": [
+        1,
+        24
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sunseam Ore",
+      "img": "icons/commodities/stone/ore-pile-gold-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgDcLdQ8zL1aZh"
+    },
+    {
+      "_id": "ggcgVIZprSMYzViM",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcgVIZprSMYzViM",
+      "weight": 23,
+      "range": [
+        25,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Emberiron Ore",
+      "img": "icons/commodities/stone/ore-chunk-orange-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgxF6zjHSxzAaw"
+    },
+    {
+      "_id": "ggcgblcTJv829YdE",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcgblcTJv829YdE",
+      "weight": 12,
+      "range": [
+        48,
+        59
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Adamantine Ore",
+      "img": "icons/commodities/stone/ore-chunk-purple-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgmKsWiTfAGTLe"
+    },
+    {
+      "_id": "ggcgolUfQzsJAyNs",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcgolUfQzsJAyNs",
+      "weight": 11,
+      "range": [
+        60,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Anvil Coal",
+      "img": "icons/commodities/stone/ore-chunk-red-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgwPADIu1YwK7b"
+    },
+    {
+      "_id": "ggcgO46wFrzh6ETA",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcgO46wFrzh6ETA",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Prism Cluster",
+      "img": "icons/commodities/gems/gem-cluster-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgCOmE7EDmmCgU"
+    },
+    {
+      "_id": "ggcgEhKIpALJ5Xgo",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcgEhKIpALJ5Xgo",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Coldiron Ore",
+      "img": "icons/commodities/stone/ore-chunk-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgAIQdDzAGK1sI"
+    },
+    {
+      "_id": "ggcg2W5SenZzC6gV",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcg2W5SenZzC6gV",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mithral Ore",
+      "img": "icons/commodities/stone/stone-white-quartz-ball.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgjHqbdxRUrdwH"
+    },
+    {
+      "_id": "ggcg63p85Vyx7yNA",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcg63p85Vyx7yNA",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ghostgold Ore",
+      "img": "icons/commodities/stone/ore-pile-gold.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgFzkgbZ48Op7H"
+    },
+    {
+      "_id": "ggcgrEyLzuXvFcA5",
+      "_key": "!tables.results!ggcgHixtywFNBMvn.ggcgrEyLzuXvFcA5",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Sump Clay",
+      "img": "icons/commodities/stone/ore-pile-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgcNsFOaAUQHRN"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgNIGb51gAVWLu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mining-mountain-vein-t4",
+      "activity": "mining",
+      "source": "mountain-vein",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

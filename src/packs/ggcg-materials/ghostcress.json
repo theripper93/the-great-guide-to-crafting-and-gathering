@@ -1,0 +1,86 @@
+{
+  "_id": "ggcghF95iivt85ql",
+  "_key": "!items!ggcghF95iivt85ql",
+  "name": "Ghostcress",
+  "type": "loot",
+  "img": "icons/consumables/plants/leaf-veins-glowing-green.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Ghostcress leaves are thin enough to see through, laced with pale veins.</p><p><em>Tier 2 · Arcane Herb · Found: Underground, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "ghostcress",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "ghostcress",
+      "kind": "raw",
+      "tier": 2,
+      "family": "arcane-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "underground",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-herb",
+        "arcane-herb-t2",
+        "arcane-herb-t1+",
+        "arcane-herb-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

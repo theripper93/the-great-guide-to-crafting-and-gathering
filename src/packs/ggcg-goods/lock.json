@@ -1,0 +1,77 @@
+{
+  "_id": "ggcgXSWxekHeTSgK",
+  "_key": "!items!ggcgXSWxekHeTSgK",
+  "name": "Lock",
+  "type": "loot",
+  "img": "icons/sundries/misc/lock-bronze-reinforced.webp",
+  "folder": "ggcgVqsQXYjJ4ANK",
+  "system": {
+    "description": {
+      "value": "<p>Each lock is built around a plate of animated armor.</p><p>A Lock comes with a key. Without the key, a creature can use @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{Thieves' Tools} to pick this Lock with a successful [[/tool thief dex 15]] check.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 10,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "lock",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "lock",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "gadgets",
+      "activity": null,
+      "profession": "tinkering",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagLock0000000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tinkering-gadgets"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagLock0000000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

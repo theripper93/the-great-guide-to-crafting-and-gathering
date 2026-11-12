@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgoozD2fZqkrm8",
+  "_key": "!items!ggcgoozD2fZqkrm8",
+  "name": "Duskfire Geode",
+  "type": "loot",
+  "img": "icons/commodities/stone/geode-raw-red.webp",
+  "folder": "ggcgse4GqSQMfdAv",
+  "system": {
+    "description": {
+      "value": "<p>An unopened duskfire geode crackles faintly when held to the ear.</p><p><em>Tier 4 · Rough Gem · Found: Volcanic, Hill Quarry</em></p>",
+      "chat": ""
+    },
+    "identifier": "duskfire-geode",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "duskfire-geode",
+      "kind": "raw",
+      "tier": 4,
+      "family": "rough-gem",
+      "subcategory": "rough-gems",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "hill-quarry"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "rough-gem",
+        "rough-gem-t4",
+        "rough-gem-t1+",
+        "rough-gem-t2+",
+        "rough-gem-t3+",
+        "rough-gem-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

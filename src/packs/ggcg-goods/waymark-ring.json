@@ -1,0 +1,142 @@
+{
+  "_id": "ggcggfu24uwIfAIk",
+  "_key": "!items!ggcggfu24uwIfAIk",
+  "name": "Waymark Ring",
+  "type": "equipment",
+  "img": "icons/equipment/finger/ring-cabochon-silver-teal.webp",
+  "folder": "ggcgQcidddgjaI8i",
+  "system": {
+    "description": {
+      "value": "<p>Trail guides thumb the turquoise of a waymark ring at every fork in the path.</p><p>While you wear this ring, you have a +1 bonus to Survival checks (<em>Waymark Sense</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "waymark-ring",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "ring",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Waymark Sense",
+      "img": "icons/equipment/finger/ring-cabochon-silver-teal.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.sur.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgug1DKVie6vqg",
+      "_key": "!items.effects!ggcggfu24uwIfAIk.ggcgug1DKVie6vqg",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "waymark-ring",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "rings",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-rings"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

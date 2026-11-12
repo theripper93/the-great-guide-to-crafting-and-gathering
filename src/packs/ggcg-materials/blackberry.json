@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgx39ihY0zwANN",
+  "_key": "!items!ggcgx39ihY0zwANN",
+  "name": "Blackberry",
+  "type": "loot",
+  "img": "icons/consumables/fruit/berry-leaf-purple-teal.webp",
+  "folder": "ggcgzHXR1eHOHoZV",
+  "system": {
+    "description": {
+      "value": "<p>Blackberries ripen at the end of summer on brambles that snag every sleeve.</p><p><em>Tier 1 · Wild Fruit · Found: Forest, Plains, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "blackberry",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "blackberry",
+      "kind": "raw",
+      "tier": 1,
+      "family": "wild-fruit",
+      "subcategory": "wild-edibles",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "plains",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "wild-fruit",
+        "wild-fruit-t1",
+        "wild-fruit-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_id": "ggcgVCCzDIi0WSsk",
+  "_key": "!items!ggcgVCCzDIi0WSsk",
+  "name": "Pseudodragon Sting",
+  "type": "loot",
+  "img": "icons/commodities/biological/stinger-insect-pink.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A pink tail sting no longer than a thumbnail.</p><p><em>Tier 1 · Venom Gland · Found: Dragon</em></p>",
+      "chat": ""
+    },
+    "identifier": "pseudodragon-sting",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "pseudodragon-sting",
+      "kind": "raw",
+      "tier": 1,
+      "family": "venom-gland",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "dragon"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "venom-gland",
+        "venom-gland-t1",
+        "venom-gland-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgoNhvgmGaNsr9",
+  "_key": "!items!ggcgoNhvgmGaNsr9",
+  "name": "Glasswood Bough",
+  "type": "loot",
+  "img": "icons/commodities/wood/log-cut-petrified-violet.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>A glasswood bough is clear violet, and its growth rings show inside it as fine bright lines. It bends easily, yet a bough bent too far shatters into sharp violet splinters, and the snow under an old glasswood tree glitters with them.</p><p><em>Tier 4 · Timber · Found: Arctic, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "glasswood-bough",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "glasswood-bough",
+      "kind": "raw",
+      "tier": 4,
+      "family": "timber",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "arctic",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "timber",
+        "timber-t4",
+        "timber-t1+",
+        "timber-t2+",
+        "timber-t3+",
+        "timber-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

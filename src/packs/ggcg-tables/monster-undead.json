@@ -1,0 +1,285 @@
+{
+  "_id": "ggcg12mxKTbidZ3i",
+  "_key": "!tables!ggcg12mxKTbidZ3i",
+  "name": "Undead Harvest",
+  "img": "icons/creatures/magical/spirit-undead-masked-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgdG1JYd97phDi",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcgdG1JYd97phDi",
+      "weight": 31,
+      "range": [
+        1,
+        31
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Grave Dust",
+      "img": "icons/containers/kitchenware/vase-clay-cracked-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgj7IDS7tmktPT"
+    },
+    {
+      "_id": "ggcgKRcHbo04p6w7",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcgKRcHbo04p6w7",
+      "weight": 31,
+      "range": [
+        32,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Skeleton Fingerbone",
+      "img": "icons/commodities/bones/bones-hand-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgeGoE16USwj1h"
+    },
+    {
+      "_id": "ggcgiwgYLtT5pViI",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcgiwgYLtT5pViI",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mummy Wrappings",
+      "img": "icons/commodities/cloth/cloth-roll-worn-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLQH0ZjynCFc4"
+    },
+    {
+      "_id": "ggcgK2J8f4r6yWRo",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcgK2J8f4r6yWRo",
+      "weight": 14,
+      "range": [
+        77,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Specter Ectoplasm",
+      "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8rdLbcLOsp0p"
+    },
+    {
+      "_id": "ggcgayC6GQelvrTj",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcgayC6GQelvrTj",
+      "weight": 4,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Clouded Wight Eye",
+      "img": "icons/creatures/eyes/humanoid-single-blind.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEwGrBaF0Hgy4"
+    },
+    {
+      "_id": "ggcgDTYCvFCuJcff",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcgDTYCvFCuJcff",
+      "weight": 4,
+      "range": [
+        95,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Unclotting Blood",
+      "img": "icons/consumables/potions/vial-cork-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgl8qhto0MA4fY"
+    },
+    {
+      "_id": "ggcg953GbrpeXKWC",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcg953GbrpeXKWC",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Undying Marrow",
+      "img": "icons/commodities/bones/bones-broken-marrow-white-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgH6j7e06BpInR"
+    },
+    {
+      "_id": "ggcgwsmzrOJksViF",
+      "_key": "!tables.results!ggcg12mxKTbidZ3i.ggcgwsmzrOJksViF",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Lich Skull",
+      "img": "icons/commodities/bones/skull-white-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg3tCnZts7f2r4"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-undead",
+      "activity": "monster",
+      "source": "undead",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

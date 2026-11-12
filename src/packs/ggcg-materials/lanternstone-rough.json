@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgGUg85Z5b8ysH",
+  "_key": "!items!ggcgGUg85Z5b8ysH",
+  "name": "Lanternstone Rough",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-rough-brilliant-green.webp",
+  "folder": "ggcgse4GqSQMfdAv",
+  "system": {
+    "description": {
+      "value": "<p>Lanternstone glows a steady green from deep inside, yet a page held right against it stays too dark to read. Cave guides refuse to carry one, because the glow fools the eye into thinking the path ahead is lit.</p><p><em>Tier 3 · Rough Gem · Found: Deep Cavern, Surface Outcrop</em></p>",
+      "chat": ""
+    },
+    "identifier": "lanternstone-rough",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "lanternstone-rough",
+      "kind": "raw",
+      "tier": 3,
+      "family": "rough-gem",
+      "subcategory": "rough-gems",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "deep-cavern",
+        "surface-outcrop"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "rough-gem",
+        "rough-gem-t3",
+        "rough-gem-t1+",
+        "rough-gem-t2+",
+        "rough-gem-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

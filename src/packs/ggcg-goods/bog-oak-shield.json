@@ -1,0 +1,116 @@
+{
+  "_id": "ggcgDB1fr3y2JPjQ",
+  "_key": "!items!ggcgDB1fr3y2JPjQ",
+  "name": "Bog-Oak Shield",
+  "type": "equipment",
+  "img": "icons/equipment/shield/round-wooden-boss-steel-brown.webp",
+  "folder": "ggcg3FLMnOWzEQHc",
+  "system": {
+    "description": {
+      "value": "<p>Brass rivets ring the face of this dark oak shield, holding its leather down.</p><p>This Shield is made of a finer material. You have a +1 bonus to Armor Class while you wear this magic Shield.</p>",
+      "chat": ""
+    },
+    "identifier": "bog-oak-shield",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 6,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 2,
+      "dex": null,
+      "magicalBonus": "1"
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "shield",
+      "baseItem": "shield"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bog-oak-shield",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "wooden-shields",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "material-shield",
+      "priceClass": "E",
+      "base": "shield"
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-wooden-shields",
+        "woodworking-shield"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

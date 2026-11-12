@@ -1,0 +1,183 @@
+{
+  "_id": "ggcg6fl7AIBNPws3",
+  "_key": "!items!ggcg6fl7AIBNPws3",
+  "name": "Brinewood Shield",
+  "type": "equipment",
+  "img": "icons/equipment/shield/pavise-wooden-seahorse-blue-white.webp",
+  "folder": "ggcgEvOxUXNGzkLi",
+  "system": {
+    "description": {
+      "value": "<p>A white seahorse rears across the face of this tall blue shield, painted over brinewood boards sealed with storm spume. Lightning that strikes it runs off the rim in thin white threads, and a thunderclap behind it sounds no louder than a door closing.</p><p>While you wear this Shield, you have Resistance to Lightning damage and Resistance to Thunder damage (<em>Squall Ward</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "brinewood-shield",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 6,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 2,
+      "dex": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "shield",
+      "baseItem": "shield"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Squall Ward",
+      "img": "icons/equipment/shield/pavise-wooden-seahorse-blue-white.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.traits.dr.value",
+            "type": "add",
+            "value": "lightning",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.traits.dr.value",
+            "type": "add",
+            "value": "thunder",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgqnczAlpqmuHT",
+      "_key": "!items.effects!ggcg6fl7AIBNPws3.ggcgqnczAlpqmuHT",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "brinewood-shield",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "wooden-shields",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "passive-armor",
+      "priceClass": "E",
+      "base": "shield"
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-wooden-shields",
+        "woodworking-shield"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

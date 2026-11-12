@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgWsU1wPR5E73y",
+  "_key": "!tables!ggcgWsU1wPR5E73y",
+  "name": "Ooze Harvest",
+  "img": "icons/creatures/slimes/slime-movement-pseudopods-teal.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgY2y1iAu5MOYM",
+      "_key": "!tables.results!ggcgWsU1wPR5E73y.ggcgY2y1iAu5MOYM",
+      "weight": 21,
+      "range": [
+        1,
+        21
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gray Ooze Slime",
+      "img": "icons/commodities/materials/bowl-liquid-white.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg24vSeHa26JHg"
+    },
+    {
+      "_id": "ggcglpssosZ6V7YU",
+      "_key": "!tables.results!ggcgWsU1wPR5E73y.ggcglpssosZ6V7YU",
+      "weight": 21,
+      "range": [
+        22,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gelatinous Cube Jelly",
+      "img": "icons/commodities/materials/glass-cube.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgipFOgb2p5FGS"
+    },
+    {
+      "_id": "ggcgRyfIKm8m04NO",
+      "_key": "!tables.results!ggcgWsU1wPR5E73y.ggcgRyfIKm8m04NO",
+      "weight": 21,
+      "range": [
+        43,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Slime Salt",
+      "img": "icons/commodities/materials/powder-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgON04liwJB69M"
+    },
+    {
+      "_id": "ggcgu0dX6mcDGbhc",
+      "_key": "!tables.results!ggcgWsU1wPR5E73y.ggcgu0dX6mcDGbhc",
+      "weight": 15,
+      "range": [
+        64,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Oozing Membrane",
+      "img": "icons/creatures/slimes/slime-bubble-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgY7vfatopOPqk"
+    },
+    {
+      "_id": "ggcgnXmQgxggwWq5",
+      "_key": "!tables.results!ggcgWsU1wPR5E73y.ggcgnXmQgxggwWq5",
+      "weight": 14,
+      "range": [
+        79,
+        92
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Ochre Jelly Acid",
+      "img": "icons/commodities/materials/slime-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgme27HydF8xne"
+    },
+    {
+      "_id": "ggcgsSyytCRwYdBo",
+      "_key": "!tables.results!ggcgWsU1wPR5E73y.ggcgsSyytCRwYdBo",
+      "weight": 4,
+      "range": [
+        93,
+        96
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Black Pudding Ichor",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgmqD1jhqR8Mdw"
+    },
+    {
+      "_id": "ggcg4ofq4WO1Wp5E",
+      "_key": "!tables.results!ggcgWsU1wPR5E73y.ggcg4ofq4WO1Wp5E",
+      "weight": 4,
+      "range": [
+        97,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Drifting Nucleus",
+      "img": "icons/creatures/eyes/slime-single-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgPOAXJKawvmlr"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-ooze",
+      "activity": "monster",
+      "source": "ooze",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "_id": "ggcgEkwwUqLC4nq2",
+  "_key": "!items!ggcgEkwwUqLC4nq2",
+  "name": "Clothes, Traveler's",
+  "type": "equipment",
+  "img": "icons/equipment/chest/shirt-collared-brown.webp",
+  "folder": "ggcg8YZ4Xw64aRBg",
+  "system": {
+    "description": {
+      "value": "<p>Sturdy flax cloth, dyed a dull brown with oak bark.</p><p>Traveler's Clothes are resilient garments designed for travel in various environments.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 4,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "properties": [],
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "activities": {},
+    "identifier": "clothes-travelers",
+    "rarities": [],
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "travelers-clothes",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "clothing",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagClothesTrav"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-clothing"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagClothesTrav",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

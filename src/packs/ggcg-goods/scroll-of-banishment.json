@@ -1,0 +1,200 @@
+{
+  "_id": "ggcg8n50H6D47SOa",
+  "_key": "!items!ggcg8n50H6D47SOa",
+  "name": "Scroll of Banishment",
+  "type": "consumable",
+  "img": "icons/sundries/scrolls/scroll-bound-blue-white.webp",
+  "folder": "ggcgoRuV7V1Xpn9m",
+  "system": {
+    "description": {
+      "value": "<p>Ink spilled while copying it is gone from the desk by morning.</p><p>This scroll holds @UUID[Compendium.dnd5e.spells24.Item.phbsplBanishment]{Banishment}. If the spell is on your class's spell list, you can read the scroll and cast the spell (save DC 15, +7 to hit) without Material components. The scroll then crumbles to dust (&amp;Reference[spellscroll]).</p>",
+      "chat": ""
+    },
+    "identifier": "scroll-of-banishment",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "scroll",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgvsvxRVPbUgeh": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplBanishment",
+          "level": 4,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "somatic",
+            "material"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 7,
+            "save": 15,
+            "override": true
+          }
+        },
+        "_id": "ggcgvsvxRVPbUgeh"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "spellLevel": {
+        "base": 4,
+        "value": 4
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "scroll-of-banishment",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "spell-scrolls",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": "spell-scroll",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scribing-spell-scrolls"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

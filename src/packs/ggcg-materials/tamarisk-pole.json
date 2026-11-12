@@ -1,0 +1,85 @@
+{
+  "_id": "ggcg8YYFNV9kd7id",
+  "_key": "!items!ggcg8YYFNV9kd7id",
+  "name": "Tamarisk Pole",
+  "type": "loot",
+  "img": "icons/commodities/wood/wood-pole.webp",
+  "folder": "ggcgfR2kYuWg8dB2",
+  "system": {
+    "description": {
+      "value": "<p>Thin, knotty poles cut from tamarisk scrub on salty ground.</p><p><em>Tier 1 · Timber · Found: Coast, Desert</em></p>",
+      "chat": ""
+    },
+    "identifier": "tamarisk-pole",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "tamarisk-pole",
+      "kind": "raw",
+      "tier": 1,
+      "family": "timber",
+      "subcategory": "wood-bark",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "coast",
+        "desert"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "timber",
+        "timber-t1",
+        "timber-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

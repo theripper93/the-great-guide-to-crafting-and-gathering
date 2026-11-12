@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgivowygWvCWZp",
+  "_key": "!items!ggcgivowygWvCWZp",
+  "name": "Oyster Mushroom",
+  "type": "loot",
+  "img": "icons/consumables/mushrooms/convex-tan.webp",
+  "folder": "ggcgN4Fbahm4d18A",
+  "system": {
+    "description": {
+      "value": "<p>Tan shelves of oyster mushroom, stacked one above another on a fallen log.</p><p><em>Tier 1 · Edible Fungus · Found: Forest, Underground</em></p>",
+      "chat": ""
+    },
+    "identifier": "oyster-mushroom",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "oyster-mushroom",
+      "kind": "raw",
+      "tier": 1,
+      "family": "edible-fungus",
+      "subcategory": "fungi",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "underground"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "edible-fungus",
+        "edible-fungus-t1",
+        "edible-fungus-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

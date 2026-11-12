@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgHdkbHryEvsty",
+  "_key": "!items!ggcgHdkbHryEvsty",
+  "name": "Giant Bat Wing",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-lizard-brown.webp",
+  "folder": "ggcg2BhZ1lCClmwt",
+  "system": {
+    "description": {
+      "value": "<p>Held up to a lamp, a giant bat wing shows every vein in its brown skin.</p><p><em>Tier 2 · Hide · Found: Underground, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "giant-bat-wing",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "giant-bat-wing",
+      "kind": "raw",
+      "tier": 2,
+      "family": "hide",
+      "subcategory": "hides-pelts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "underground",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "hide",
+        "hide-t2",
+        "hide-t1+",
+        "hide-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

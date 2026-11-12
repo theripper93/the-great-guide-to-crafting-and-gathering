@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgfrDxhtzb4UgR",
+  "_key": "!items!ggcgfrDxhtzb4UgR",
+  "name": "Polished Coral",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-rough-rose-red.webp",
+  "folder": "ggcgIvpGm0n72Rnu",
+  "system": {
+    "description": {
+      "value": "<p>Deep rose coral, polished until the tiny pores barely show.</p><p><em>Tier 2 · Cut Gem</em></p>",
+      "chat": ""
+    },
+    "identifier": "polished-coral",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "polished-coral",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "cut-gem",
+      "subcategory": "cut-gems-settings",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "cut-gem",
+        "cut-gem-t2",
+        "cut-gem-t1+",
+        "cut-gem-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

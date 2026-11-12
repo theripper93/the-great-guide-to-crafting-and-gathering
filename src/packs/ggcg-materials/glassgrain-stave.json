@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgpAm1nM8e9kqw",
+  "_key": "!items!ggcgpAm1nM8e9kqw",
+  "name": "Glassgrain Stave",
+  "type": "loot",
+  "img": "icons/commodities/wood/lumber-plank-pink.webp",
+  "folder": "ggcgY0tYwOL1ZA1h",
+  "system": {
+    "description": {
+      "value": "<p>Glassgrain looks brittle enough to shatter, yet a stave bends nearly double without a crack.</p><p><em>Tier 4 · Lumber</em></p>",
+      "chat": ""
+    },
+    "identifier": "glassgrain-stave",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "glassgrain-stave",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "lumber",
+      "subcategory": "lumber-shaped-wood",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "lumber",
+        "lumber-t4",
+        "lumber-t1+",
+        "lumber-t2+",
+        "lumber-t3+",
+        "lumber-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

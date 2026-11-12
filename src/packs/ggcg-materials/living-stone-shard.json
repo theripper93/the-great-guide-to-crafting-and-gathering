@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgLkbBFsWfZknQ",
+  "_key": "!items!ggcgLkbBFsWfZknQ",
+  "name": "Living Stone Shard",
+  "type": "loot",
+  "img": "icons/commodities/stone/geode-raw-green.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A living stone shard is a rough green geode that takes hold of any bare rock it touches. A shard dropped on a cave floor has to be chiseled loose, and the stone around it comes away too, in one piece.</p><p><em>Tier 3 · Arcane Crystal · Found: Elemental</em></p>",
+      "chat": ""
+    },
+    "identifier": "living-stone-shard",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "living-stone-shard",
+      "kind": "raw",
+      "tier": 3,
+      "family": "arcane-crystal",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "elemental"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-crystal",
+        "arcane-crystal-t3",
+        "arcane-crystal-t1+",
+        "arcane-crystal-t2+",
+        "arcane-crystal-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

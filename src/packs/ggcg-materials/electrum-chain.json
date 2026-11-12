@@ -1,0 +1,83 @@
+{
+  "_id": "ggcg5UqoBCIx29iu",
+  "_key": "!items!ggcg5UqoBCIx29iu",
+  "name": "Electrum Chain",
+  "type": "loot",
+  "img": "icons/tools/fasteners/chain-brass-yellow.webp",
+  "folder": "ggcgIvpGm0n72Rnu",
+  "system": {
+    "description": {
+      "value": "<p>A fine electrum chain, each link no bigger than a grain of rice.</p><p><em>Tier 2 · Setting</em></p>",
+      "chat": ""
+    },
+    "identifier": "electrum-chain",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "electrum-chain",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "setting",
+      "subcategory": "cut-gems-settings",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "setting",
+        "setting-t2",
+        "setting-t1+",
+        "setting-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

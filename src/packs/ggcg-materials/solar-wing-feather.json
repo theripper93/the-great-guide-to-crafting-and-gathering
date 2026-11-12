@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg7Qqv8YsMtE1e",
+  "_key": "!items!ggcg7Qqv8YsMtE1e",
+  "name": "Solar Wing Feather",
+  "type": "loot",
+  "img": "icons/commodities/materials/feather-yellow.webp",
+  "folder": "ggcgFMfWH9jZN7WP",
+  "system": {
+    "description": {
+      "value": "<p>A solar wing feather is longer than a man's arm, yet its shaft is perfectly straight from root to tip. Ink, blood and mud all run off the golden vane, and a feather dropped in a puddle comes out clean and dry.</p><p><em>Tier 4 · Boss Trophy · Found: Celestial</em></p>",
+      "chat": ""
+    },
+    "identifier": "solar-wing-feather",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4800,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "solar-wing-feather",
+      "kind": "raw",
+      "tier": 4,
+      "family": "boss-trophy",
+      "subcategory": "boss-trophies",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "celestial"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "boss-trophy",
+        "boss-trophy-t4",
+        "boss-trophy-t1+",
+        "boss-trophy-t2+",
+        "boss-trophy-t3+",
+        "boss-trophy-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

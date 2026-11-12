@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgu6KnXd9gtFuc",
+  "_key": "!items!ggcgu6KnXd9gtFuc",
+  "name": "Cinnabar",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-pile-red.webp",
+  "folder": "ggcgguEoW64A7yrG",
+  "system": {
+    "description": {
+      "value": "<p>Cinnabar is a soft, heavy stone of the brightest red, and near a fire it beads with tiny drops of quicksilver. Its fumes are a slow poison, and around the old workings nothing grows on the spoil heaps, which stay bright red for generations.</p><p><em>Tier 3 · Mineral Salt · Found: Volcanic, Surface Outcrop</em></p>",
+      "chat": ""
+    },
+    "identifier": "cinnabar",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cinnabar",
+      "kind": "raw",
+      "tier": 3,
+      "family": "mineral-salt",
+      "subcategory": "minerals-salts-crystals",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "surface-outcrop"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "mineral-salt",
+        "mineral-salt-t3",
+        "mineral-salt-t1+",
+        "mineral-salt-t2+",
+        "mineral-salt-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

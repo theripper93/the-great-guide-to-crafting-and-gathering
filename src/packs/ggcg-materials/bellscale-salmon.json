@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgkmPdmlEKIU66",
+  "_key": "!items!ggcgkmPdmlEKIU66",
+  "name": "Bellscale Salmon",
+  "type": "loot",
+  "img": "icons/consumables/meat/salmon-fish-fillet-pink-gray.webp",
+  "folder": "ggcgE9UmxcOSnWyI",
+  "system": {
+    "description": {
+      "value": "<p>Each scale of a bellscale salmon gives a small, clear note when it is tapped, and every fish from the same river rings the same note. Fishers say the salmon find their way home from the sea by listening for it in the falls.</p><p><em>Tier 4 · Fish · Found: River and Stream, Sea Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "bellscale-salmon",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bellscale-salmon",
+      "kind": "raw",
+      "tier": 4,
+      "family": "fish",
+      "subcategory": "saltwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "river-stream",
+        "sea-coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t4",
+        "fish-t1+",
+        "fish-t2+",
+        "fish-t3+",
+        "fish-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

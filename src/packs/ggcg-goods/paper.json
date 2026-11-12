@@ -1,0 +1,77 @@
+{
+  "_id": "ggcgPV6Y5PuhwhXF",
+  "_key": "!items!ggcgPV6Y5PuhwhXF",
+  "name": "Paper",
+  "type": "loot",
+  "img": "icons/sundries/scrolls/scroll-rolled-plain-white.webp",
+  "folder": "ggcgo9YwekVvqmP0",
+  "system": {
+    "description": {
+      "value": "<p>Each sheet still shows the faint grid of the screen it dried on.</p><p>One sheet of Paper can hold about 250 handwritten words.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 2,
+      "denomination": "sp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "paper",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "paper",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "treated-papers",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagPaper000000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scribing-treated-papers"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagPaper000000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

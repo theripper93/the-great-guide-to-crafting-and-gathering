@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg3yV7XoPzJ43h",
+  "_key": "!items!ggcg3yV7XoPzJ43h",
+  "name": "Bestial Heart",
+  "type": "loot",
+  "img": "icons/consumables/meat/heart-organ-realistic-red.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>In the pot, a bestial heart swells until it barely fits.</p><p><em>Tier 4 · Game Meat · Found: Beast</em></p>",
+      "chat": ""
+    },
+    "identifier": "bestial-heart",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bestial-heart",
+      "kind": "raw",
+      "tier": 4,
+      "family": "game-meat",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "beast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "game-meat",
+        "game-meat-t4",
+        "game-meat-t1+",
+        "game-meat-t2+",
+        "game-meat-t3+",
+        "game-meat-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "_id": "ggcgQVB9kSsuT77d",
+  "_key": "!items!ggcgQVB9kSsuT77d",
+  "name": "Giant-Hair Sack",
+  "type": "container",
+  "img": "icons/containers/bags/sack-cloth-purple.webp",
+  "folder": "ggcgtxjaCN5hHw6k",
+  "system": {
+    "description": {
+      "value": "<p>Packed with stones, the purple sack still flaps in a breeze.</p><p>It holds up to 300 pounds of gear. Its contents add nothing to its weight.</p>",
+      "chat": ""
+    },
+    "identifier": "giant-hair-sack",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc",
+      "weightlessContents"
+    ],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 300,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "giant-hair-sack",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "packs-wraps",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-packs-wraps"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

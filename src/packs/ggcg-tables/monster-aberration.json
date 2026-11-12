@@ -1,0 +1,254 @@
+{
+  "_id": "ggcgcOXkz1DTLT53",
+  "_key": "!tables!ggcgcOXkz1DTLT53",
+  "name": "Aberration Harvest",
+  "img": "icons/creatures/eyes/slime-stalks-yellow-purple.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgA1l5SIqDCz8X",
+      "_key": "!tables.results!ggcgcOXkz1DTLT53.ggcgA1l5SIqDCz8X",
+      "weight": 31,
+      "range": [
+        1,
+        31
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Grick Beak",
+      "img": "icons/commodities/bones/beak-hooked-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgnlyRlJUp5Ggh"
+    },
+    {
+      "_id": "ggcgYqKqCaZnuHHD",
+      "_key": "!tables.results!ggcgcOXkz1DTLT53.ggcgYqKqCaZnuHHD",
+      "weight": 31,
+      "range": [
+        32,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mouther Eye",
+      "img": "icons/commodities/biological/eye-green-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgp2j9u47dQMVL"
+    },
+    {
+      "_id": "ggcgBw4Q8w9aIVRL",
+      "_key": "!tables.results!ggcgcOXkz1DTLT53.ggcgBw4Q8w9aIVRL",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cloaker Hide",
+      "img": "icons/commodities/biological/wing-lizard-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgYsJcPTP5Whsf"
+    },
+    {
+      "_id": "ggcggKQEaWtkUUzl",
+      "_key": "!tables.results!ggcgcOXkz1DTLT53.ggcggKQEaWtkUUzl",
+      "weight": 14,
+      "range": [
+        77,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Nothic Eye",
+      "img": "icons/commodities/biological/eye-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg4be7FJeHq3iP"
+    },
+    {
+      "_id": "ggcgzuEXkkUeAzwI",
+      "_key": "!tables.results!ggcgcOXkz1DTLT53.ggcgzuEXkkUeAzwI",
+      "weight": 4,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Aboleth Mucus",
+      "img": "icons/commodities/materials/slime-thick-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgJKydNsnZFP5q"
+    },
+    {
+      "_id": "ggcgE3cJHehO0fMN",
+      "_key": "!tables.results!ggcgcOXkz1DTLT53.ggcgE3cJHehO0fMN",
+      "weight": 4,
+      "range": [
+        95,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Aberrant Mote",
+      "img": "icons/magic/lightning/orb-ball-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgyClJPzga1tNT"
+    },
+    {
+      "_id": "ggcgqZyk4q0SsY2P",
+      "_key": "!tables.results!ggcgcOXkz1DTLT53.ggcgqZyk4q0SsY2P",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Thought Pearl",
+      "img": "icons/commodities/gems/pearl-purple-dark.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgA4DncHCly658"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-aberration",
+      "activity": "monster",
+      "source": "aberration",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

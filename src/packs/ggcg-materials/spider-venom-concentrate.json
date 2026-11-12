@@ -1,0 +1,84 @@
+{
+  "_id": "ggcglzikyX9VZ1Go",
+  "_key": "!items!ggcglzikyX9VZ1Go",
+  "name": "Spider Venom Concentrate",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>A clear crust forms on the bottle neck and crackles when the cork turns.</p><p><em>Tier 3 · Toxin Concentrate</em></p>",
+      "chat": ""
+    },
+    "identifier": "spider-venom-concentrate",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 240,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "spider-venom-concentrate",
+      "kind": "intermediate",
+      "tier": 3,
+      "family": "toxin-concentrate",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "toxin-concentrate",
+        "toxin-concentrate-t3",
+        "toxin-concentrate-t1+",
+        "toxin-concentrate-t2+",
+        "toxin-concentrate-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

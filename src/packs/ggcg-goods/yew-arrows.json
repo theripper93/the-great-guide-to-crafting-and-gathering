@@ -1,0 +1,115 @@
+{
+  "_id": "ggcg0A9WZezSMZfJ",
+  "_key": "!items!ggcg0A9WZezSMZfJ",
+  "name": "Yew Arrows",
+  "type": "consumable",
+  "img": "icons/weapons/ammunition/arrows-broadhead-white.webp",
+  "folder": "ggcg3FLMnOWzEQHc",
+  "system": {
+    "description": {
+      "value": "<p>Straight yew shafts tipped in dark bog iron and fletched with hawk feathers.</p><p>You have a +1 bonus to attack rolls and damage rolls made with this magic ammunition.</p>",
+      "chat": ""
+    },
+    "identifier": "yew-arrows",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.05,
+      "units": "lb"
+    },
+    "price": {
+      "value": 20,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "number": 1,
+          "mode": "",
+          "formula": ""
+        },
+        "bonus": "",
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": "arrow"
+    },
+    "magicalBonus": "1",
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "yew-arrows",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "ammunition",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "ammunition",
+      "priceClass": "D",
+      "base": "arrow",
+      "batch": 10
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-ammunition"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

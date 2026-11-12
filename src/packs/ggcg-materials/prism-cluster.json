@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgCOmE7EDmmCgU",
+  "_key": "!items!ggcgCOmE7EDmmCgU",
+  "name": "Prism Cluster",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-cluster-pink.webp",
+  "folder": "ggcgguEoW64A7yrG",
+  "system": {
+    "description": {
+      "value": "<p>A pale pink prism cluster scatters lamplight into spots of color across the walls. The spots drift slowly around the room even when the stone and the lamp stand still, and they fade a moment after the lamp goes out.</p><p><em>Tier 4 · Arcane Crystal · Found: Deep Cavern, Mountain Vein</em></p>",
+      "chat": ""
+    },
+    "identifier": "prism-cluster",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "prism-cluster",
+      "kind": "raw",
+      "tier": 4,
+      "family": "arcane-crystal",
+      "subcategory": "minerals-salts-crystals",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "deep-cavern",
+        "mountain-vein"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-crystal",
+        "arcane-crystal-t4",
+        "arcane-crystal-t1+",
+        "arcane-crystal-t2+",
+        "arcane-crystal-t3+",
+        "arcane-crystal-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

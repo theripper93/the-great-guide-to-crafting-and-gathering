@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgAIQdDzAGK1sI",
+  "_key": "!items!ggcgAIQdDzAGK1sI",
+  "name": "Coldiron Ore",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-blue.webp",
+  "folder": "ggcgLyN8UBzPq0Kg",
+  "system": {
+    "description": {
+      "value": "<p>No moss or lichen will grow on coldiron ore, even in the dampest cave.</p><p><em>Tier 3 · Base Ore · Found: Mountain Vein, Deep Cavern</em></p>",
+      "chat": ""
+    },
+    "identifier": "coldiron-ore",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "coldiron-ore",
+      "kind": "raw",
+      "tier": 3,
+      "family": "base-ore",
+      "subcategory": "metal-ores",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "mountain-vein",
+        "deep-cavern"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "base-ore",
+        "base-ore-t3",
+        "base-ore-t1+",
+        "base-ore-t2+",
+        "base-ore-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

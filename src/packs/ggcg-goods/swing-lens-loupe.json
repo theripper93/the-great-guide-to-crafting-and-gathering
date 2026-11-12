@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgSN0rlZph0eZL",
+  "_key": "!items!ggcgSN0rlZph0eZL",
+  "name": "Swing-Lens Loupe",
+  "type": "equipment",
+  "img": "icons/commodities/treasure/lense-pipe-bronze.webp",
+  "folder": "ggcgn7R2ykPVgDsZ",
+  "system": {
+    "description": {
+      "value": "<p>Through the watcher lens, a gem's hidden cracks show as threads of light.</p><p>While this is equipped, ready to hand, you have a +2 bonus to ability checks made with Jeweler's Tools (<em>Loupe Magnification</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "swing-lens-loupe",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Loupe Magnification",
+      "img": "icons/commodities/treasure/lense-pipe-bronze.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.tools.jeweler.roll.bonus",
+            "type": "add",
+            "value": "2",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgWSilxdaT3GHB",
+      "_key": "!items.effects!ggcgSN0rlZph0eZL.ggcgWSilxdaT3GHB",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "swing-lens-loupe",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "gadgets",
+      "activity": null,
+      "profession": "tinkering",
+      "sources": [],
+      "archetype": "utility-gear",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tinkering-gadgets"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

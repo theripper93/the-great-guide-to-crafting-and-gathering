@@ -1,0 +1,144 @@
+{
+  "_id": "ggcgtMLahXOe0Oo6",
+  "_key": "!items!ggcgtMLahXOe0Oo6",
+  "name": "Cloudcotton Greatcoat",
+  "type": "equipment",
+  "img": "icons/equipment/chest/coat-collared-red.webp",
+  "folder": "ggcgtxjaCN5hHw6k",
+  "system": {
+    "description": {
+      "value": "<p>Icicles never form on the hem of this red greatcoat, even in a blizzard.</p><p>While you wear it, you have Resistance to Cold damage (<em>Cold Ward</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "cloudcotton-greatcoat",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "attunement": "required",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Cold Ward",
+      "img": "icons/equipment/chest/coat-collared-red.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.traits.dr.value",
+            "type": "add",
+            "value": "cold",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcg8lFyPMOWGsu3",
+      "_key": "!items.effects!ggcgtMLahXOe0Oo6.ggcg8lFyPMOWGsu3",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cloudcotton-greatcoat",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "clothing",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": "passive-wearable",
+      "priceClass": "E"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-clothing"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

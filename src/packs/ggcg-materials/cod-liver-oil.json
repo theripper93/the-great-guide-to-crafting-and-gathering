@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgHs9NM9uH3JhB",
+  "_key": "!items!ggcgHs9NM9uH3JhB",
+  "name": "Cod Liver Oil",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-jar-corked-orange.webp",
+  "folder": "ggcgE9UmxcOSnWyI",
+  "system": {
+    "description": {
+      "value": "<p>Thick orange oil, rendered from cod livers in sun-warmed barrels.</p><p><em>Tier 1 · Animal Fat · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "cod-liver-oil",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cod-liver-oil",
+      "kind": "raw",
+      "tier": 1,
+      "family": "animal-fat",
+      "subcategory": "saltwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "animal-fat",
+        "animal-fat-t1",
+        "animal-fat-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

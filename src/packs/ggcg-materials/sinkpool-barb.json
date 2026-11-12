@@ -1,0 +1,87 @@
+{
+  "_id": "ggcge7S1UDyGuTZF",
+  "_key": "!items!ggcge7S1UDyGuTZF",
+  "name": "Sinkpool Barb",
+  "type": "loot",
+  "img": "icons/commodities/bones/bone-spine-white.webp",
+  "folder": "ggcgnCDNRe33ZHiQ",
+  "system": {
+    "description": {
+      "value": "<p>Brushing a sinkpool barb numbs the hand to the wrist for an hour.</p><p><em>Tier 3 · Venom Gland · Found: River and Stream, Lake and Pond</em></p>",
+      "chat": ""
+    },
+    "identifier": "sinkpool-barb",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "sinkpool-barb",
+      "kind": "raw",
+      "tier": 3,
+      "family": "venom-gland",
+      "subcategory": "freshwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "river-stream",
+        "lake-pond"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "venom-gland",
+        "venom-gland-t3",
+        "venom-gland-t1+",
+        "venom-gland-t2+",
+        "venom-gland-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

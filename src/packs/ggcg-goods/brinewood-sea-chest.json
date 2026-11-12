@@ -1,0 +1,99 @@
+{
+  "_id": "ggcgrMfvV1anDXML",
+  "_key": "!items!ggcgrMfvV1anDXML",
+  "name": "Brinewood Sea Chest",
+  "type": "container",
+  "img": "icons/containers/chest/chest-worn-oak-tan.webp",
+  "folder": "ggcgEvOxUXNGzkLi",
+  "system": {
+    "description": {
+      "value": "<p>Sailors swear a brinewood chest floats even when packed with anchor chain.</p><p>It holds up to 1000 pounds of gear. Its contents add nothing to its weight.</p>",
+      "chat": ""
+    },
+    "identifier": "brinewood-sea-chest",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 20000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [
+      "mgc",
+      "weightlessContents"
+    ],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 1000,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "brinewood-sea-chest",
+      "kind": "finished",
+      "tier": 4,
+      "family": null,
+      "subcategory": "utility",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-utility"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

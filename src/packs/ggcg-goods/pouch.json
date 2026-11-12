@@ -1,0 +1,92 @@
+{
+  "_id": "ggcgAGR2XO6pICnq",
+  "_key": "!items!ggcgAGR2XO6pICnq",
+  "name": "Pouch",
+  "type": "container",
+  "img": "icons/containers/bags/pouch-leather-simple-tan.webp",
+  "folder": "ggcgIlD1ZE8RHgdO",
+  "system": {
+    "description": {
+      "value": "<p>Leatherworkers make pouches from the scraps left over when a hide is cut for armor.</p><p>A Pouch holds up to 6 pounds within one-fifth of a cubic foot.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "quantity": 1,
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "properties": [],
+    "capacity": {
+      "weight": {
+        "value": 6,
+        "units": "lb"
+      },
+      "volume": {
+        "units": "cubicFoot"
+      }
+    },
+    "identifier": "pouch",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "pouch",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "bags-containers",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagPouch000000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-bags-containers"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagPouch000000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

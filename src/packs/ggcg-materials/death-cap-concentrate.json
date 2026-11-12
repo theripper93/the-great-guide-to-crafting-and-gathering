@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgVoOF907ZIDo6",
+  "_key": "!items!ggcgVoOF907ZIDo6",
+  "name": "Death Cap Concentrate",
+  "type": "loot",
+  "img": "icons/consumables/potions/potion-tube-corked-green.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>Death cap concentrate tastes mild and faintly sweet.</p><p><em>Tier 2 · Toxin Concentrate</em></p>",
+      "chat": ""
+    },
+    "identifier": "death-cap-concentrate",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "death-cap-concentrate",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "toxin-concentrate",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "toxin-concentrate",
+        "toxin-concentrate-t2",
+        "toxin-concentrate-t1+",
+        "toxin-concentrate-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

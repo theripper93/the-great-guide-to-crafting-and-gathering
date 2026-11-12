@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgzEBY1H52jc0L",
+  "_key": "!tables!ggcgzEBY1H52jc0L",
+  "name": "Plant Harvest",
+  "img": "icons/magic/nature/plant-maneater-purple.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgiPde3CQW1Wba",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgiPde3CQW1Wba",
+      "weight": 21,
+      "range": [
+        1,
+        21
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Awakened Bark",
+      "img": "icons/commodities/wood/bark-brown-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg1mdh7QI8T8kt"
+    },
+    {
+      "_id": "ggcgdrrOfo0uU7Ir",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgdrrOfo0uU7Ir",
+      "weight": 21,
+      "range": [
+        22,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Shambling Vine",
+      "img": "icons/consumables/plants/thorned-stem-vine-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgWxiA7oGgLYBp"
+    },
+    {
+      "_id": "ggcgWyJ1ASszA67m",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgWyJ1ASszA67m",
+      "weight": 20,
+      "range": [
+        43,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Shrieker Cap",
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg1DHmiKuA7lr0"
+    },
+    {
+      "_id": "ggcgra5bUpFWEfuD",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgra5bUpFWEfuD",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Violet Rot Spores",
+      "img": "icons/consumables/mushrooms/umbontae-bumpy-purple.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgz1C975XFD54x"
+    },
+    {
+      "_id": "ggcgSJSuR44yncAQ",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgSJSuR44yncAQ",
+      "weight": 14,
+      "range": [
+        77,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Verdant Sap",
+      "img": "icons/commodities/materials/slime-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBQKO5w0jPFqN"
+    },
+    {
+      "_id": "ggcgEzTk9Ie1yLHs",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgEzTk9Ie1yLHs",
+      "weight": 7,
+      "range": [
+        91,
+        97
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Wakewood",
+      "img": "icons/commodities/wood/log-rough-cherry-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg51jIoaeOaifZ"
+    },
+    {
+      "_id": "ggcgXxzk3R5eCSe8",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgXxzk3R5eCSe8",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Treant Living Bough",
+      "img": "icons/commodities/materials/plant-branch-brown-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBleasZT0auOZ"
+    },
+    {
+      "_id": "ggcgR6HwBAsqHWpR",
+      "_key": "!tables.results!ggcgzEBY1H52jc0L.ggcgR6HwBAsqHWpR",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rooted Heart",
+      "img": "icons/consumables/vegetable/root-potato-sprout-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgBXZG6F5sJ7Hu"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-plant",
+      "activity": "monster",
+      "source": "plant",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

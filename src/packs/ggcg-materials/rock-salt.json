@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgvEeTgVNe4rCH",
+  "_key": "!items!ggcgvEeTgVNe4rCH",
+  "name": "Rock Salt",
+  "type": "loot",
+  "img": "icons/commodities/materials/bowl-powder-grey.webp",
+  "folder": "ggcgguEoW64A7yrG",
+  "system": {
+    "description": {
+      "value": "<p>Sheep wear deep hollows in the lumps of rock salt farmers leave on the hills.</p><p><em>Tier 1 · Mineral Salt · Found: Surface Outcrop, Hill Quarry, Deep Cavern</em></p>",
+      "chat": ""
+    },
+    "identifier": "rock-salt",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "rock-salt",
+      "kind": "raw",
+      "tier": 1,
+      "family": "mineral-salt",
+      "subcategory": "minerals-salts-crystals",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "hill-quarry",
+        "deep-cavern"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "mineral-salt",
+        "mineral-salt-t1",
+        "mineral-salt-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

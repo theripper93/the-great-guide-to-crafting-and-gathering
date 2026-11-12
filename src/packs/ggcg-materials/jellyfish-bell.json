@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgLh7HdnsTehCp",
+  "_key": "!items!ggcgLh7HdnsTehCp",
+  "name": "Jellyfish Bell",
+  "type": "loot",
+  "img": "icons/environment/creatures/fish-jellyfish-teal.webp",
+  "folder": "ggcga3lZJIAgOhvl",
+  "system": {
+    "description": {
+      "value": "<p>Cut free of its tentacles, a jellyfish bell keeps pulsing in a bucket for days.</p><p><em>Tier 3 · Ichor · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "jellyfish-bell",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "jellyfish-bell",
+      "kind": "raw",
+      "tier": 3,
+      "family": "ichor",
+      "subcategory": "exotic-catch",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ichor",
+        "ichor-t3",
+        "ichor-t1+",
+        "ichor-t2+",
+        "ichor-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

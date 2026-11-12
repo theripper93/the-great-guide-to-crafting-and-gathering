@@ -1,0 +1,115 @@
+{
+  "_id": "ggcg7IS8ToAuyxuz",
+  "_key": "!items!ggcg7IS8ToAuyxuz",
+  "name": "Seal-Rib Needles",
+  "type": "consumable",
+  "img": "icons/weapons/thrown/dart-feathered.webp",
+  "folder": "ggcgmx0XBrFlmGkg",
+  "system": {
+    "description": {
+      "value": "<p>Slivers of seal rib, ground to a needle point.</p><p>A hit with this ammunition deals an extra [[/damage 1d4 type=piercing]] damage. A piece is used up when it is fired.</p>",
+      "chat": ""
+    },
+    "identifier": "seal-rib-needles",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.02,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "sp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": 1,
+        "denomination": 4,
+        "types": [
+          "piercing"
+        ],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "number": 1,
+          "mode": "",
+          "formula": ""
+        },
+        "bonus": "",
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": "blowgunNeedle"
+    },
+    "magicalBonus": "",
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "seal-rib-needles",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "ammunition",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "special-ammunition",
+      "priceClass": "B",
+      "base": "blowgunNeedle",
+      "batch": 5
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-ammunition"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

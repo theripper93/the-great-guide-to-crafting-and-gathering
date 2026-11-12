@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgkfZx6LNdDSjB",
+  "_key": "!items!ggcgkfZx6LNdDSjB",
+  "name": "Condor Pinion",
+  "type": "loot",
+  "img": "icons/commodities/materials/feather-black-blue.webp",
+  "folder": "ggcg9MdwbNe7L44h",
+  "system": {
+    "description": {
+      "value": "<p>A condor pinion is as long as a grown arm, with a quill as thick as a finger. Held up in a mountain wind it tugs at the hand like a small sail, and shepherds say a condor can cross a whole valley without one beat of its wings.</p><p><em>Tier 3 · Feather · Found: Mountain, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "condor-pinion",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "condor-pinion",
+      "kind": "raw",
+      "tier": 3,
+      "family": "feather",
+      "subcategory": "feathers",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "feather",
+        "feather-t3",
+        "feather-t1+",
+        "feather-t2+",
+        "feather-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

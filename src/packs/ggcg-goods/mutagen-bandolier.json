@@ -1,0 +1,180 @@
+{
+  "_id": "ggcgODlHbMyprvPI",
+  "_key": "!items!ggcgODlHbMyprvPI",
+  "name": "Mutagen Bandolier",
+  "type": "equipment",
+  "img": "icons/containers/ammunition/bullets-belt.webp",
+  "folder": "ggcgCj8fQCyrGjWW",
+  "system": {
+    "description": {
+      "value": "<p>A leather belt of small glass vials, each a different color and none of them labeled. The vials clink against each other in a pattern that is almost a tune, and they are never quite full.</p><p><strong>Drink a Vial.</strong> As a Bonus Action, you drink one of the bandolier's vials and choose an ability. For 1 hour that ability score increases by 2, to a maximum of 24, and you have Advantage on checks with it. The bandolier holds three vials and they refill at dawn; a second vial ends the first.</p><p><strong>The Change Shows.</strong> For as long as a vial lasts, the drinker looks the part: taller and heavier for Strength, quick-eyed for Wisdom, impossible to ignore for Charisma. People who meet the drinker then do not recognize them afterward.</p>",
+      "chat": ""
+    },
+    "identifier": "mutagen-bandolier",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "type": {
+      "value": "clothing",
+      "baseItem": ""
+    },
+    "activities": {
+      "ggcg08rZ9gtKL7VZ": {
+        "type": "utility",
+        "name": "Drink a Vial",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "activityUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "3",
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "recoverAll",
+              "formula": ""
+            }
+          ]
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcg08rZ9gtKL7VZ"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mutagen-bandolier",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "buff-elixirs",
+      "activity": null,
+      "profession": "alchemy",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_id": "ggcglA97AbhQ0em7",
+  "_key": "!items!ggcglA97AbhQ0em7",
+  "name": "Wyrmweed",
+  "type": "loot",
+  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Wyrmweed is said to spring up only where a dragon has breathed frost.</p><p><em>Tier 4 · Toxic Herb · Found: Arctic, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "wyrmweed",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "wyrmweed",
+      "kind": "raw",
+      "tier": 4,
+      "family": "toxic-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "arctic",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "toxic-herb",
+        "toxic-herb-t4",
+        "toxic-herb-t1+",
+        "toxic-herb-t2+",
+        "toxic-herb-t3+",
+        "toxic-herb-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

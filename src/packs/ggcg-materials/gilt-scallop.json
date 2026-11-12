@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgUHXF4KAZd8Le",
+  "_key": "!items!ggcgUHXF4KAZd8Le",
+  "name": "Gilt Scallop",
+  "type": "loot",
+  "img": "icons/environment/creatures/crustacean-oyster.webp",
+  "folder": "ggcggWMrVSkCjLZ3",
+  "system": {
+    "description": {
+      "value": "<p>A startled bed of gilt scallops lifts off the sea floor all at once, clapping their shells, and swims away in a glittering gold cloud. The gold lasts only while they are wet, and a basket of them is plain brown by the time it reaches the cook.</p><p><em>Tier 3 · Shellfish · Found: Sea Coast, Deep or Strange Water</em></p>",
+      "chat": ""
+    },
+    "identifier": "gilt-scallop",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gilt-scallop",
+      "kind": "raw",
+      "tier": 3,
+      "family": "shellfish",
+      "subcategory": "shellfish-crustaceans",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "sea-coast",
+        "deep-strange"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "shellfish",
+        "shellfish-t3",
+        "shellfish-t1+",
+        "shellfish-t2+",
+        "shellfish-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

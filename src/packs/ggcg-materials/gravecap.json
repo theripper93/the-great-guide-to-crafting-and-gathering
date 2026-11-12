@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgq5KHws93vrm7",
+  "_key": "!items!ggcgq5KHws93vrm7",
+  "name": "Gravecap",
+  "type": "loot",
+  "img": "icons/consumables/mushrooms/helm-purple-shiny.webp",
+  "folder": "ggcgN4Fbahm4d18A",
+  "system": {
+    "description": {
+      "value": "<p>Gravecap grows only on buried bone, so a patch of it marks a grave.</p><p><em>Tier 3 · Strange Fungus · Found: Swamp, Underground</em></p>",
+      "chat": ""
+    },
+    "identifier": "gravecap",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gravecap",
+      "kind": "raw",
+      "tier": 3,
+      "family": "strange-fungus",
+      "subcategory": "fungi",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "underground"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "strange-fungus",
+        "strange-fungus-t3",
+        "strange-fungus-t1+",
+        "strange-fungus-t2+",
+        "strange-fungus-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

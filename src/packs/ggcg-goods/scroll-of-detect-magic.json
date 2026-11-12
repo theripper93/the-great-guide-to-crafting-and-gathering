@@ -1,0 +1,199 @@
+{
+  "_id": "ggcgZjDXamSdPPcr",
+  "_key": "!items!ggcgZjDXamSdPPcr",
+  "name": "Scroll of Detect Magic",
+  "type": "consumable",
+  "img": "icons/sundries/scrolls/scroll-symbol-eye-blue.webp",
+  "folder": "ggcgo9YwekVvqmP0",
+  "system": {
+    "description": {
+      "value": "<p>A wide blue eye, painted in lapis, heads the page.</p><p>This scroll holds @UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{Detect Magic}. If the spell is on your class's spell list, you can read the scroll and cast the spell (save DC 13, +5 to hit) without Material components. The scroll then crumbles to dust (&amp;Reference[spellscroll]).</p>",
+      "chat": ""
+    },
+    "identifier": "scroll-of-detect-magic",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "scroll",
+      "subtype": ""
+    },
+    "uses": {
+      "spent": 0,
+      "max": "1",
+      "recovery": [],
+      "autoDestroy": true
+    },
+    "activities": {
+      "ggcgqgUkqc7UyBTo": {
+        "type": "cast",
+        "name": "",
+        "img": null,
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells24.Item.phbsplDetectMagi",
+          "level": 1,
+          "ability": "",
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true,
+          "challenge": {
+            "attack": 5,
+            "save": 13,
+            "override": true
+          }
+        },
+        "_id": "ggcgqgUkqc7UyBTo"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "spellLevel": {
+        "base": 1,
+        "value": 1
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "scroll-of-detect-magic",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "spell-scrolls",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": "spell-scroll",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scribing-spell-scrolls"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgiFPgBqWwRhbc",
+  "_key": "!items!ggcgiFPgBqWwRhbc",
+  "name": "Fulgurite Tube",
+  "type": "loot",
+  "img": "icons/commodities/bones/horn-simple-beige.webp",
+  "folder": "ggcgguEoW64A7yrG",
+  "system": {
+    "description": {
+      "value": "<p>Fulgurite is sand melted into a glass tube by a lightning strike.</p><p><em>Tier 3 · Arcane Crystal · Found: Surface Outcrop, Mountain Vein</em></p>",
+      "chat": ""
+    },
+    "identifier": "fulgurite-tube",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fulgurite-tube",
+      "kind": "raw",
+      "tier": 3,
+      "family": "arcane-crystal",
+      "subcategory": "minerals-salts-crystals",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "surface-outcrop",
+        "mountain-vein"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "arcane-crystal",
+        "arcane-crystal-t3",
+        "arcane-crystal-t1+",
+        "arcane-crystal-t2+",
+        "arcane-crystal-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

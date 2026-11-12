@@ -1,0 +1,316 @@
+{
+  "_id": "ggcgGzbY4yDaVW27",
+  "_key": "!tables!ggcgGzbY4yDaVW27",
+  "name": "Coast Herbs (Tier 3)",
+  "img": "icons/environment/settlement/lighthouse-rock-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgIRo1fex43nPl",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgIRo1fex43nPl",
+      "weight": 21,
+      "range": [
+        1,
+        21
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Rookery Chives",
+      "img": "icons/consumables/vegetable/leek-onion-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgP5BwKOMtpkqY"
+    },
+    {
+      "_id": "ggcgbhektANgX2LU",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgbhektANgX2LU",
+      "weight": 21,
+      "range": [
+        22,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d2"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Estuary Reed",
+      "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgLBlveyEIsw3B"
+    },
+    {
+      "_id": "ggcgcpVU5ynju9cu",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgcpVU5ynju9cu",
+      "weight": 11,
+      "range": [
+        43,
+        53
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Saltpan Date",
+      "img": "icons/consumables/fruit/date-ripe-red-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvoOJr6BfoUoO"
+    },
+    {
+      "_id": "ggcgMW1WiRmZpjj1",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgMW1WiRmZpjj1",
+      "weight": 10,
+      "range": [
+        54,
+        63
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Thunderlily",
+      "img": "icons/commodities/flowers/lily-grey-orange.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8NcqX8PuSP8O"
+    },
+    {
+      "_id": "ggcgj97xHjTX6Fr2",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgj97xHjTX6Fr2",
+      "weight": 7,
+      "range": [
+        64,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Mirebane",
+      "img": "icons/magic/nature/vines-thorned-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgpdI4yocJCKMi"
+    },
+    {
+      "_id": "ggcgmWWkBDsNe0tj",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgmWWkBDsNe0tj",
+      "weight": 7,
+      "range": [
+        71,
+        77
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pepperwort",
+      "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg4ci6hgogG9zT"
+    },
+    {
+      "_id": "ggcg5Uv7mvWrgbet",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcg5Uv7mvWrgbet",
+      "weight": 7,
+      "range": [
+        78,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Licorice Root",
+      "img": "icons/consumables/plants/dried-bundle-stems-sticks-roots-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgCAEZqaDxYlq4"
+    },
+    {
+      "_id": "ggcgLEwjcgZcngK5",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgLEwjcgZcngK5",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Dune Truffle",
+      "img": "icons/commodities/stone/stone-chunk-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg9xhcfdfHRsh6"
+    },
+    {
+      "_id": "ggcgI8yNNFE0HnoZ",
+      "_key": "!tables.results!ggcgGzbY4yDaVW27.ggcgI8yNNFE0HnoZ",
+      "weight": 10,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Skyflax",
+      "img": "icons/consumables/plants/grass-leaves-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg0GxXyKRqDtYQ"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgHD8T02rXpMda",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gathering-coast-t3",
+      "activity": "gathering",
+      "source": "coast",
+      "tier": 3,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

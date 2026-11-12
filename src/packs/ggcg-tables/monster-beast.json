@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgA3zY186eKBjp",
+  "_key": "!tables!ggcgA3zY186eKBjp",
+  "name": "Beast Harvest",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgRDUlvVV1DUOk",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcgRDUlvVV1DUOk",
+      "weight": 21,
+      "range": [
+        1,
+        21
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hollow Fang",
+      "img": "icons/commodities/bones/tooth-hollow-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgAwefCZyIvcTH"
+    },
+    {
+      "_id": "ggcg9iriJap2KyEo",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcg9iriJap2KyEo",
+      "weight": 21,
+      "range": [
+        22,
+        42
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Coiled Gut",
+      "img": "icons/commodities/biological/organ-intestines-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgJG715KFwjBG6"
+    },
+    {
+      "_id": "ggcgbs2v5mdYBFyA",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcgbs2v5mdYBFyA",
+      "weight": 20,
+      "range": [
+        43,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Carapace Shard",
+      "img": "icons/commodities/leather/scale-chitin-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgmhvJi1SymdQh"
+    },
+    {
+      "_id": "ggcgciA5j7V9hG7p",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcgciA5j7V9hG7p",
+      "weight": 14,
+      "range": [
+        63,
+        76
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Heavy Hide",
+      "img": "icons/commodities/leather/leather-bolt-brown.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg1zx69NIJ5nyK"
+    },
+    {
+      "_id": "ggcgq0ZkN2FuafkV",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcgq0ZkN2FuafkV",
+      "weight": 13,
+      "range": [
+        77,
+        89
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Knobbed Scute",
+      "img": "icons/commodities/biological/shell-worn-beige.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgKcgACe4UrkHm"
+    },
+    {
+      "_id": "ggcgPAw7rhOkckH4",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcgPAw7rhOkckH4",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Tyrannosaurus Fang",
+      "img": "icons/commodities/bones/tooth-canine-tan.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEINjrS4kuIpg"
+    },
+    {
+      "_id": "ggcgvgkqosJlTiFI",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcgvgkqosJlTiFI",
+      "weight": 8,
+      "range": [
+        91,
+        98
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Venom Blister",
+      "img": "icons/commodities/gems/gem-rough-trapeze-yellow-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcggeZByBI1x5KK"
+    },
+    {
+      "_id": "ggcgEcJYvYw7TI1Y",
+      "_key": "!tables.results!ggcgA3zY186eKBjp.ggcgEcJYvYw7TI1Y",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bestial Heart",
+      "img": "icons/consumables/meat/heart-organ-realistic-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg3yV7XoPzJ43h"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-beast",
+      "activity": "monster",
+      "source": "beast",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgbNUuNhXu0Ucf",
+  "_key": "!items!ggcgbNUuNhXu0Ucf",
+  "name": "Skyward Pinion",
+  "type": "loot",
+  "img": "icons/commodities/materials/feather-blue-glowing.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A skyward pinion falls upward. Let go indoors, it drifts to the ceiling and rests there like a moth, and in the open it climbs until the faint glow along its vane is lost in the sky.</p><p><em>Tier 4 · Feather · Found: Celestial</em></p>",
+      "chat": ""
+    },
+    "identifier": "skyward-pinion",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "skyward-pinion",
+      "kind": "raw",
+      "tier": 4,
+      "family": "feather",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "celestial"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "feather",
+        "feather-t4",
+        "feather-t1+",
+        "feather-t2+",
+        "feather-t3+",
+        "feather-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

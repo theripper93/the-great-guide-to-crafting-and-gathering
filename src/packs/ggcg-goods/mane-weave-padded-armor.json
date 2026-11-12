@@ -1,0 +1,113 @@
+{
+  "_id": "ggcgdjvtRFbtsq1A",
+  "_key": "!items!ggcgdjvtRFbtsq1A",
+  "name": "Mane-Weave Padded Armor",
+  "type": "equipment",
+  "img": "icons/equipment/shoulder/shoulderpad-quilted.webp",
+  "folder": "ggcgkSWmyUORlyXt",
+  "system": {
+    "description": {
+      "value": "<p>Mane weave quilting bends and folds without a rustle.</p><p>This Padded Armor is made of a finer material. It does not give Disadvantage on Dexterity (Stealth) checks.</p>",
+      "chat": ""
+    },
+    "identifier": "mane-weave-padded-armor",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 8,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 11,
+      "dex": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "light",
+      "baseItem": "padded"
+    },
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mane-weave-padded-armor",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "robes",
+      "activity": null,
+      "profession": "tailoring",
+      "sources": [],
+      "archetype": "material-armor",
+      "priceClass": "C",
+      "base": "padded"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tailoring-robes",
+        "tailoring-armor"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

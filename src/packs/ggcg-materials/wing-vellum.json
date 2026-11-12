@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgMUD7RO2Q51bT",
+  "_key": "!items!ggcgMUD7RO2Q51bT",
+  "name": "Wing Vellum",
+  "type": "loot",
+  "img": "icons/commodities/leather/leather-patch-grey.webp",
+  "folder": "ggcguz2rCpU21hKF",
+  "system": {
+    "description": {
+      "value": "<p>Wing vellum is smooth on one side and faintly ridged on the other.</p><p><em>Tier 2 · Parchment</em></p>",
+      "chat": ""
+    },
+    "identifier": "wing-vellum",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "wing-vellum",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "parchment",
+      "subcategory": "leathers-cured-hides",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "parchment",
+        "parchment-t2",
+        "parchment-t1+",
+        "parchment-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

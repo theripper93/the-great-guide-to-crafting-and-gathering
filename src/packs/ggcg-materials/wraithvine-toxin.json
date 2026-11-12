@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgNH5feyVIMenb",
+  "_key": "!items!ggcgNH5feyVIMenb",
+  "name": "Wraithvine Toxin",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>A full bottle of wraithvine toxin looks empty until it is tipped.</p><p><em>Tier 4 · Toxin Concentrate</em></p>",
+      "chat": ""
+    },
+    "identifier": "wraithvine-toxin",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "wraithvine-toxin",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "toxin-concentrate",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "toxin-concentrate",
+        "toxin-concentrate-t4",
+        "toxin-concentrate-t1+",
+        "toxin-concentrate-t2+",
+        "toxin-concentrate-t3+",
+        "toxin-concentrate-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

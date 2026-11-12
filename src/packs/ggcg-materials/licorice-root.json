@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgCAEZqaDxYlq4",
+  "_key": "!items!ggcgCAEZqaDxYlq4",
+  "name": "Licorice Root",
+  "type": "loot",
+  "img": "icons/consumables/plants/dried-bundle-stems-sticks-roots-brown.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>Dry, woody licorice root that tastes far sweeter than it looks.</p><p><em>Tier 2 · Root · Found: Plains, Desert, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "licorice-root",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "licorice-root",
+      "kind": "raw",
+      "tier": 2,
+      "family": "root",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "plains",
+        "desert",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "root",
+        "root-t2",
+        "root-t1+",
+        "root-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

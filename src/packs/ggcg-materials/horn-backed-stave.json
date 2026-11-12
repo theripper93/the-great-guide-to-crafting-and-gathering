@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgnYarwIh0xrZL",
+  "_key": "!items!ggcgnYarwIh0xrZL",
+  "name": "Horn-Backed Stave",
+  "type": "loot",
+  "img": "icons/commodities/wood/framing-brown.webp",
+  "folder": "ggcgY0tYwOL1ZA1h",
+  "system": {
+    "description": {
+      "value": "<p>Wood and horn glued into one short stave that bends farther than either alone.</p><p><em>Tier 2 · Lumber</em></p>",
+      "chat": ""
+    },
+    "identifier": "horn-backed-stave",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "horn-backed-stave",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "lumber",
+      "subcategory": "lumber-shaped-wood",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "lumber",
+        "lumber-t2",
+        "lumber-t1+",
+        "lumber-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

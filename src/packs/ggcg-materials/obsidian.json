@@ -1,0 +1,86 @@
+{
+  "_id": "ggcg5l9SPf9UPvNN",
+  "_key": "!items!ggcg5l9SPf9UPvNN",
+  "name": "Obsidian",
+  "type": "loot",
+  "img": "icons/commodities/stone/boulder-black.webp",
+  "folder": "ggcgP5gXQ5XuwXbd",
+  "system": {
+    "description": {
+      "value": "<p>Black volcanic glass that breaks to an edge finer than any razor.</p><p><em>Tier 2 · Stone · Found: Volcanic, Surface Outcrop</em></p>",
+      "chat": ""
+    },
+    "identifier": "obsidian",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "obsidian",
+      "kind": "raw",
+      "tier": 2,
+      "family": "stone",
+      "subcategory": "stone-clay",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "surface-outcrop"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "stone",
+        "stone-t2",
+        "stone-t1+",
+        "stone-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgxKN7aakfXk1Z",
+  "_key": "!items!ggcgxKN7aakfXk1Z",
+  "name": "Ventpitch",
+  "type": "loot",
+  "img": "icons/commodities/materials/slime-red.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>Ventpitch seeps red and sticky from cracks around hot vents, and it stays soft even on a cold night. Left in strong sun it bursts into flame, so the rock below a seep is scorched black in long streaks where it has run.</p><p><em>Tier 3 · Resin · Found: Desert, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "ventpitch",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "ventpitch",
+      "kind": "raw",
+      "tier": 3,
+      "family": "resin",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "desert",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "resin",
+        "resin-t3",
+        "resin-t1+",
+        "resin-t2+",
+        "resin-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

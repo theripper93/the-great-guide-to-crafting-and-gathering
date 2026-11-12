@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgtkR6UI4N722q",
+  "_key": "!items!ggcgtkR6UI4N722q",
+  "name": "Bear Fat",
+  "type": "loot",
+  "img": "icons/consumables/meat/steak-glowing-fatty-white.webp",
+  "folder": "ggcgZ1lxh6Btrvj3",
+  "system": {
+    "description": {
+      "value": "<p>Rendered bear fat stays soft and white through the hardest frost.</p><p><em>Tier 2 · Animal Fat · Found: Forest, Arctic, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "bear-fat",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bear-fat",
+      "kind": "raw",
+      "tier": 2,
+      "family": "animal-fat",
+      "subcategory": "sinew-fat-glands",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "forest",
+        "arctic",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "animal-fat",
+        "animal-fat-t2",
+        "animal-fat-t1+",
+        "animal-fat-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

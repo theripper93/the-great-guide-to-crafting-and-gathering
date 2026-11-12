@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgMy6Kqt8Vhlh9",
+  "_key": "!items!ggcgMy6Kqt8Vhlh9",
+  "name": "Scorchgill",
+  "type": "loot",
+  "img": "icons/consumables/mushrooms/bell-shiitake-brown.webp",
+  "folder": "ggcgN4Fbahm4d18A",
+  "system": {
+    "description": {
+      "value": "<p>Ripe scorchgill sheds its spores as a drift of sparks, which wink out a hand's width from the cap. In a dry year some do not wink out, and the woods where it grows are full of old black stumps.</p><p><em>Tier 3 · Strange Fungus · Found: Forest, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "scorchgill",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "scorchgill",
+      "kind": "raw",
+      "tier": 3,
+      "family": "strange-fungus",
+      "subcategory": "fungi",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "forest",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "strange-fungus",
+        "strange-fungus-t3",
+        "strange-fungus-t1+",
+        "strange-fungus-t2+",
+        "strange-fungus-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

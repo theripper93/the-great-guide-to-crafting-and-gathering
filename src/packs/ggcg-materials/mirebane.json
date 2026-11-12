@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgpdI4yocJCKMi",
+  "_key": "!items!ggcgpdI4yocJCKMi",
+  "name": "Mirebane",
+  "type": "loot",
+  "img": "icons/magic/nature/vines-thorned-green.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Frogs that rest on mirebane fall asleep where they sit, and a patch of it in the reeds is often dotted with them, still and breathing. Herons have learned to visit, and they take the sleepers one by one.</p><p><em>Tier 3 · Toxic Herb · Found: Swamp, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "mirebane",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mirebane",
+      "kind": "raw",
+      "tier": 3,
+      "family": "toxic-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "toxic-herb",
+        "toxic-herb-t3",
+        "toxic-herb-t1+",
+        "toxic-herb-t2+",
+        "toxic-herb-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

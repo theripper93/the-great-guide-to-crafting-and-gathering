@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgzMzJka41wwCi",
+  "_key": "!items!ggcgzMzJka41wwCi",
+  "name": "Fire Opal Rough",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-rough-can-orange-red.webp",
+  "folder": "ggcgse4GqSQMfdAv",
+  "system": {
+    "description": {
+      "value": "<p>Fire opal forms where hot water seeped through volcanic rock, and every stone still holds a little of that water. Kept too long somewhere warm and dry, a fine orange opal clouds over and fills with hair-thin cracks.</p><p><em>Tier 3 · Rough Gem · Found: Volcanic, Mountain Vein</em></p>",
+      "chat": ""
+    },
+    "identifier": "fire-opal-rough",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fire-opal-rough",
+      "kind": "raw",
+      "tier": 3,
+      "family": "rough-gem",
+      "subcategory": "rough-gems",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "volcanic",
+        "mountain-vein"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "rough-gem",
+        "rough-gem-t3",
+        "rough-gem-t1+",
+        "rough-gem-t2+",
+        "rough-gem-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

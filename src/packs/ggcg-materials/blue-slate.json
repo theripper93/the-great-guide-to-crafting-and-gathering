@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgoUndNSqJTrR4",
+  "_key": "!items!ggcgoUndNSqJTrR4",
+  "name": "Blue Slate",
+  "type": "loot",
+  "img": "icons/commodities/stone/stone-chunk-teal.webp",
+  "folder": "ggcgP5gXQ5XuwXbd",
+  "system": {
+    "description": {
+      "value": "<p>Blue slate splits into flat, smooth sheets along its grain.</p><p><em>Tier 1 · Stone · Found: Hill Quarry, Surface Outcrop</em></p>",
+      "chat": ""
+    },
+    "identifier": "blue-slate",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "blue-slate",
+      "kind": "raw",
+      "tier": 1,
+      "family": "stone",
+      "subcategory": "stone-clay",
+      "activity": "mining",
+      "profession": null,
+      "sources": [
+        "hill-quarry",
+        "surface-outcrop"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "stone",
+        "stone-t1",
+        "stone-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

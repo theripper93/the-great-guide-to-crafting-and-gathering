@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgkexML7HMytKY",
+  "_key": "!items!ggcgkexML7HMytKY",
+  "name": "Prickly Pear",
+  "type": "loot",
+  "img": "icons/consumables/fruit/pickly-pear-cactus-red-yellow.webp",
+  "folder": "ggcgzHXR1eHOHoZV",
+  "system": {
+    "description": {
+      "value": "<p>The worst spines on a prickly pear are the tiny ones too fine to see.</p><p><em>Tier 2 · Wild Fruit · Found: Desert, Plains</em></p>",
+      "chat": ""
+    },
+    "identifier": "prickly-pear",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "prickly-pear",
+      "kind": "raw",
+      "tier": 2,
+      "family": "wild-fruit",
+      "subcategory": "wild-edibles",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "desert",
+        "plains"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "wild-fruit",
+        "wild-fruit-t2",
+        "wild-fruit-t1+",
+        "wild-fruit-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

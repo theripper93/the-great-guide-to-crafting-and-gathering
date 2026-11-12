@@ -1,0 +1,84 @@
+{
+  "_id": "ggcggEo3aS8i0xFn",
+  "_key": "!items!ggcggEo3aS8i0xFn",
+  "name": "Timberline Stave",
+  "type": "loot",
+  "img": "icons/commodities/wood/lumber-yellow.webp",
+  "folder": "ggcgY0tYwOL1ZA1h",
+  "system": {
+    "description": {
+      "value": "<p>A timberline stave this thin can hold a hundred years of tight rings.</p><p><em>Tier 3 · Lumber</em></p>",
+      "chat": ""
+    },
+    "identifier": "timberline-stave",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 240,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "timberline-stave",
+      "kind": "intermediate",
+      "tier": 3,
+      "family": "lumber",
+      "subcategory": "lumber-shaped-wood",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "lumber",
+        "lumber-t3",
+        "lumber-t1+",
+        "lumber-t2+",
+        "lumber-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

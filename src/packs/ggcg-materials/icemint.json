@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg6av7fuaLaU4g",
+  "_key": "!items!ggcg6av7fuaLaU4g",
+  "name": "Icemint",
+  "type": "loot",
+  "img": "icons/consumables/plants/leaf-broad-blue.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Frost forms on icemint leaves even beside a hot fire.</p><p><em>Tier 3 · Culinary Herb · Found: Arctic, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "icemint",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "icemint",
+      "kind": "raw",
+      "tier": 3,
+      "family": "culinary-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "arctic",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "culinary-herb",
+        "culinary-herb-t3",
+        "culinary-herb-t1+",
+        "culinary-herb-t2+",
+        "culinary-herb-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

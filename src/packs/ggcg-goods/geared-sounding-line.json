@@ -1,0 +1,142 @@
+{
+  "_id": "ggcganjVpEQ0AAac",
+  "_key": "!items!ggcganjVpEQ0AAac",
+  "name": "Geared Sounding Line",
+  "type": "equipment",
+  "img": "icons/tools/fishing/weight-steel-iron.webp",
+  "folder": "ggcgn7R2ykPVgDsZ",
+  "system": {
+    "description": {
+      "value": "<p>The dial on its geared drum reads the depth while the lead is still sinking.</p><p>While this is equipped, ready to hand, you have a +3 bonus to Survival checks (<em>Sounding Reading</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "geared-sounding-line",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Sounding Reading",
+      "img": "icons/tools/fishing/weight-steel-iron.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.skills.sur.roll.bonus",
+            "type": "add",
+            "value": "3",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgRr1GuZk1zPI3",
+      "_key": "!items.effects!ggcganjVpEQ0AAac.ggcgRr1GuZk1zPI3",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "geared-sounding-line",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "gadgets",
+      "activity": null,
+      "profession": "tinkering",
+      "sources": [],
+      "archetype": "utility-gear",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "tinkering-gadgets"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

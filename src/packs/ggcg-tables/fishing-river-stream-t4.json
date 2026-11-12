@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgUDnEh0lCEsQO",
+  "_key": "!tables!ggcgUDnEh0lCEsQO",
+  "name": "River Fishing (Tier 4)",
+  "img": "icons/magic/water/pseudopod-swirl-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgObcX0LX4AhBX",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcgObcX0LX4AhBX",
+      "weight": 24,
+      "range": [
+        1,
+        24
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Gilded Sturgeon",
+      "img": "icons/environment/creatures/fish-spotted-gold-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcguv65WLWFbzk9"
+    },
+    {
+      "_id": "ggcgqgpKXVmtNT9P",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcgqgpKXVmtNT9P",
+      "weight": 23,
+      "range": [
+        25,
+        47
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Bellscale Salmon",
+      "img": "icons/consumables/meat/salmon-fish-fillet-pink-gray.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgkmPdmlEKIU66"
+    },
+    {
+      "_id": "ggcgOdaJIDkBVYfb",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcgOdaJIDkBVYfb",
+      "weight": 23,
+      "range": [
+        48,
+        70
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Storm Spume",
+      "img": "icons/magic/water/bubbles-air-water-light.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgUYLzpNIVeQU9"
+    },
+    {
+      "_id": "ggcgFaiXePnp9ueH",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcgFaiXePnp9ueH",
+      "weight": 8,
+      "range": [
+        71,
+        78
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hearthfin Shark",
+      "img": "icons/creatures/fish/fish-shark-swimming.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgb0iDoCbtpsS1"
+    },
+    {
+      "_id": "ggcggLCK3OQdTVYH",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcggLCK3OQdTVYH",
+      "weight": 6,
+      "range": [
+        79,
+        84
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Blackwater Gar",
+      "img": "icons/creatures/fish/fish-fangtooth-skeletal-green.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHa1JhrN6OEAp"
+    },
+    {
+      "_id": "ggcgSxQ03xRKMiRs",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcgSxQ03xRKMiRs",
+      "weight": 6,
+      "range": [
+        85,
+        90
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Glassbone Trout",
+      "img": "icons/environment/creatures/fish-smooth-grey-blue.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgEuD1KsYVmsyY"
+    },
+    {
+      "_id": "ggcguz8uSPCHG2Hh",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcguz8uSPCHG2Hh",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Cavern Crayfish",
+      "img": "icons/consumables/meat/claw-crab-lobster-serrated-pink.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg1fhUDZ7dQ8Gb"
+    },
+    {
+      "_id": "ggcgpAMwlH9MfgJf",
+      "_key": "!tables.results!ggcgUDnEh0lCEsQO.ggcgpAMwlH9MfgJf",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4+1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Black Pearl",
+      "img": "icons/commodities/gems/pearl-swirl-teal.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg9PuqiOINRoPk"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgjt2f7fUp9JF7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fishing-river-stream-t4",
+      "activity": "fishing",
+      "source": "river-stream",
+      "tier": 4,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

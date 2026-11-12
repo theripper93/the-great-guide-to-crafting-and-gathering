@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgm9Ah9QT2Czgo",
+  "_key": "!items!ggcgm9Ah9QT2Czgo",
+  "name": "Elk Saddle",
+  "type": "loot",
+  "img": "icons/consumables/meat/lamb-chop-rack-raw-red.webp",
+  "folder": "ggcg6re4OmekUgIz",
+  "system": {
+    "description": {
+      "value": "<p>An elk saddle, the whole back of the animal, will feed a crowded hall.</p><p><em>Tier 2 · Game Meat · Found: Forest, Plains, Mountain</em></p>",
+      "chat": ""
+    },
+    "identifier": "elk-saddle",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "elk-saddle",
+      "kind": "raw",
+      "tier": 2,
+      "family": "game-meat",
+      "subcategory": "meat-cuts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "forest",
+        "plains",
+        "mountain"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "game-meat",
+        "game-meat-t2",
+        "game-meat-t1+",
+        "game-meat-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

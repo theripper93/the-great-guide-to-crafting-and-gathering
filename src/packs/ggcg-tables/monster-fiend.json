@@ -1,0 +1,285 @@
+{
+  "_id": "ggcgQcZwq3n8xazv",
+  "_key": "!tables!ggcgQcZwq3n8xazv",
+  "name": "Fiend Harvest",
+  "img": "icons/creatures/unholy/demon-horned-winged-laughing.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgCRSJnAW9OKeM",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcgCRSJnAW9OKeM",
+      "weight": 62,
+      "range": [
+        1,
+        62
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Brimstone Scrapings",
+      "img": "icons/commodities/stone/geode-raw-yellow.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgWG78caTLfDJv"
+    },
+    {
+      "_id": "ggcgLNcRzKYK93Qh",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcgLNcRzKYK93Qh",
+      "weight": 62,
+      "range": [
+        63,
+        124
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Imp Stinger",
+      "img": "icons/commodities/biological/stinger-insect-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgvuppoLQIROcR"
+    },
+    {
+      "_id": "ggcgOj9n3Jbk9KWR",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcgOj9n3Jbk9KWR",
+      "weight": 28,
+      "range": [
+        125,
+        152
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Hell Hound Tongue",
+      "img": "icons/commodities/biological/tongue-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgO4HkyrtmUyL1"
+    },
+    {
+      "_id": "ggcgb9wgxCQjjxM0",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcgb9wgxCQjjxM0",
+      "weight": 28,
+      "range": [
+        153,
+        180
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Devil Horn",
+      "img": "icons/commodities/bones/horn-curved-black.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgA4nI9Mqs9X4V"
+    },
+    {
+      "_id": "ggcgkJZr70MYzkDV",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcgkJZr70MYzkDV",
+      "weight": 16,
+      "range": [
+        181,
+        196
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Fiendish Blood",
+      "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgjPZFPRaxcaeI"
+    },
+    {
+      "_id": "ggcgwBoKoKLScTAj",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcgwBoKoKLScTAj",
+      "weight": 1,
+      "range": [
+        197,
+        197
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Malice Shard",
+      "img": "icons/commodities/gems/gem-fragments-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgZaV9ErMNqHl5"
+    },
+    {
+      "_id": "ggcghdsqq2UWP0wE",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcghdsqq2UWP0wE",
+      "weight": 1,
+      "range": [
+        198,
+        198
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Unburning Hide",
+      "img": "icons/commodities/leather/leather-patch-red.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgZop1wJGt771Y"
+    },
+    {
+      "_id": "ggcgYs0CT1m7B7zc",
+      "_key": "!tables.results!ggcgQcZwq3n8xazv.ggcgYs0CT1m7B7zc",
+      "weight": 2,
+      "range": [
+        199,
+        200
+      ],
+      "drawn": false,
+      "description": "",
+      "flags": {
+        "gatherer": {
+          "quantity": "1"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "document",
+      "name": "Pit Fiend Crown Horn",
+      "img": "icons/commodities/bones/horn-jagged-grey.webp",
+      "documentUuid": "Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg8QFPVJDBG45z"
+    }
+  ],
+  "formula": "1d200",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcggc3r2zVRAjBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "monster-fiend",
+      "activity": "monster",
+      "source": "fiend",
+      "tier": null,
+      "mishap": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

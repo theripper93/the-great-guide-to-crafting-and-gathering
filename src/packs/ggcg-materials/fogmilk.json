@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgqJb7AlMNgNpW",
+  "_key": "!items!ggcgqJb7AlMNgNpW",
+  "name": "Fogmilk",
+  "type": "loot",
+  "img": "icons/commodities/materials/bowl-liquid-white.webp",
+  "folder": "ggcgyFkFRjMOX55D",
+  "system": {
+    "description": {
+      "value": "<p>An open bowl of fogmilk breathes out a low white mist that spills over the rim.</p><p><em>Tier 4 · Resin · Found: Mountain, Desert</em></p>",
+      "chat": ""
+    },
+    "identifier": "fogmilk",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.25,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "fogmilk",
+      "kind": "raw",
+      "tier": 4,
+      "family": "resin",
+      "subcategory": "resins-saps-roots",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "mountain",
+        "desert"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "resin",
+        "resin-t4",
+        "resin-t1+",
+        "resin-t2+",
+        "resin-t3+",
+        "resin-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

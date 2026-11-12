@@ -1,0 +1,82 @@
+{
+  "_id": "ggcgnbno53hERjwz",
+  "_key": "!items!ggcgnbno53hERjwz",
+  "name": "Oat Flour",
+  "type": "loot",
+  "img": "icons/consumables/grains/sack-grain-open-white.webp",
+  "folder": "ggcgnfyZkkbn8zhG",
+  "system": {
+    "description": {
+      "value": "<p>Coarse oat flour, flecked with bits of husk.</p><p><em>Tier 1 · Pantry Staple</em></p>",
+      "chat": ""
+    },
+    "identifier": "oat-flour",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 6,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "oat-flour",
+      "kind": "intermediate",
+      "tier": 1,
+      "family": "pantry-staple",
+      "subcategory": "cooking-staples",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "pantry-staple",
+        "pantry-staple-t1",
+        "pantry-staple-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

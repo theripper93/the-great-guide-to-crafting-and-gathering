@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgHgKDLFomipNB",
+  "_key": "!items!ggcgHgKDLFomipNB",
+  "name": "Stonegaze Eye",
+  "type": "loot",
+  "img": "icons/commodities/biological/eye-lizard-orange.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A stonegaze eye is orange, with a slit pupil that never quite closes. Morning dew that settles on it hardens into grains of gray stone, and the jar it is kept in slowly fills with a fine grit, like sand at the bottom of an hourglass.</p><p><em>Tier 3 · Monster Organ · Found: Monstrosity</em></p>",
+      "chat": ""
+    },
+    "identifier": "stonegaze-eye",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "stonegaze-eye",
+      "kind": "raw",
+      "tier": 3,
+      "family": "monster-organ",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "monstrosity"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "monster-organ",
+        "monster-organ-t3",
+        "monster-organ-t1+",
+        "monster-organ-t2+",
+        "monster-organ-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

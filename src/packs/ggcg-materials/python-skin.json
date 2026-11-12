@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgQAAo88iqsvc2",
+  "_key": "!items!ggcgQAAo88iqsvc2",
+  "name": "Python Skin",
+  "type": "loot",
+  "img": "icons/commodities/leather/scales-brown.webp",
+  "folder": "ggcg2BhZ1lCClmwt",
+  "system": {
+    "description": {
+      "value": "<p>Python skin from the desert stays cool in the sun, and skin from the swamp stays warm in the rain.</p><p><em>Tier 3 · Scale and Chitin · Found: Swamp, Desert</em></p>",
+      "chat": ""
+    },
+    "identifier": "python-skin",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "python-skin",
+      "kind": "raw",
+      "tier": 3,
+      "family": "scale-chitin",
+      "subcategory": "hides-pelts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "desert"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scale-chitin",
+        "scale-chitin-t3",
+        "scale-chitin-t1+",
+        "scale-chitin-t2+",
+        "scale-chitin-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

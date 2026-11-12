@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgYQA4dkQjeEkP",
+  "_key": "!items!ggcgYQA4dkQjeEkP",
+  "name": "Bogbean",
+  "type": "loot",
+  "img": "icons/consumables/plants/lily-pad-leaf-stem.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>Bogbean leaves are so bitter that even goats leave them alone.</p><p><em>Tier 2 · Healing Herb · Found: Swamp, Arctic</em></p>",
+      "chat": ""
+    },
+    "identifier": "bogbean",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "bogbean",
+      "kind": "raw",
+      "tier": 2,
+      "family": "healing-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "swamp",
+        "arctic"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "healing-herb",
+        "healing-herb-t2",
+        "healing-herb-t1+",
+        "healing-herb-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

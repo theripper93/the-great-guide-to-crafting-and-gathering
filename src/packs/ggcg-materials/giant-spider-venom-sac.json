@@ -1,0 +1,87 @@
+{
+  "_id": "ggcg9xSO1ZLflJby",
+  "_key": "!items!ggcg9xSO1ZLflJby",
+  "name": "Giant Spider Venom Sac",
+  "type": "loot",
+  "img": "icons/commodities/biological/pustules-pink.webp",
+  "folder": "ggcgZ1lxh6Btrvj3",
+  "system": {
+    "description": {
+      "value": "<p>Hunters say the fuller the sac, the hungrier the giant spider was.</p><p><em>Tier 3 · Venom Gland · Found: Underground, Forest</em></p>",
+      "chat": ""
+    },
+    "identifier": "giant-spider-venom-sac",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "giant-spider-venom-sac",
+      "kind": "raw",
+      "tier": 3,
+      "family": "venom-gland",
+      "subcategory": "sinew-fat-glands",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "underground",
+        "forest"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "venom-gland",
+        "venom-gland-t3",
+        "venom-gland-t1+",
+        "venom-gland-t2+",
+        "venom-gland-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

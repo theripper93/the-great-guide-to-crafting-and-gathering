@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgpuBOql5VqpXT",
+  "_key": "!items!ggcgpuBOql5VqpXT",
+  "name": "Channel Catfish",
+  "type": "loot",
+  "img": "icons/environment/creatures/fish-smooth-horned-grey.webp",
+  "folder": "ggcgnCDNRe33ZHiQ",
+  "system": {
+    "description": {
+      "value": "<p>Channel catfish have long whiskers and no scales at all.</p><p><em>Tier 1 · Fish · Found: River and Stream, Lake and Pond</em></p>",
+      "chat": ""
+    },
+    "identifier": "channel-catfish",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "channel-catfish",
+      "kind": "raw",
+      "tier": 1,
+      "family": "fish",
+      "subcategory": "freshwater-fish",
+      "activity": "fishing",
+      "profession": null,
+      "sources": [
+        "river-stream",
+        "lake-pond"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "fish",
+        "fish-t1",
+        "fish-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

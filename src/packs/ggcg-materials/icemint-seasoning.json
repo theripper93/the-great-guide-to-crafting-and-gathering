@@ -1,0 +1,84 @@
+{
+  "_id": "ggcgsFCqSFts6dI0",
+  "_key": "!items!ggcgsFCqSFts6dI0",
+  "name": "Icemint Seasoning",
+  "type": "loot",
+  "img": "icons/consumables/plants/herb-bunch-dried-leaf-green.webp",
+  "folder": "ggcgnfyZkkbn8zhG",
+  "system": {
+    "description": {
+      "value": "<p>Food seasoned with icemint stays cool on the tongue, even straight off the fire.</p><p><em>Tier 3 · Spice Blend</em></p>",
+      "chat": ""
+    },
+    "identifier": "icemint-seasoning",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 240,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "icemint-seasoning",
+      "kind": "intermediate",
+      "tier": 3,
+      "family": "spice-blend",
+      "subcategory": "cooking-staples",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "spice-blend",
+        "spice-blend-t3",
+        "spice-blend-t1+",
+        "spice-blend-t2+",
+        "spice-blend-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

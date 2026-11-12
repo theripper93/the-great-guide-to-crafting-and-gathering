@@ -1,0 +1,115 @@
+{
+  "_id": "ggcgl2meVCqkM6Uo",
+  "_key": "!items!ggcgl2meVCqkM6Uo",
+  "name": "Timberline Arrows",
+  "type": "consumable",
+  "img": "icons/weapons/ammunition/arrows-fletching.webp",
+  "folder": "ggcgBbqXHvYUcSGj",
+  "system": {
+    "description": {
+      "value": "<p>These shafts are cut from wind-bent trees at the very edge of the high forest.</p><p>You have a +2 bonus to attack rolls and damage rolls made with this magic ammunition.</p>",
+      "chat": ""
+    },
+    "identifier": "timberline-arrows",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.05,
+      "units": "lb"
+    },
+    "price": {
+      "value": 200,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false,
+          "formula": ""
+        },
+        "scaling": {
+          "number": 1,
+          "mode": "",
+          "formula": ""
+        },
+        "bonus": "",
+        "modifiers": []
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": "arrow"
+    },
+    "magicalBonus": "2",
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "timberline-arrows",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "ammunition",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "ammunition",
+      "priceClass": "D",
+      "base": "arrow",
+      "batch": 10
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-ammunition"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

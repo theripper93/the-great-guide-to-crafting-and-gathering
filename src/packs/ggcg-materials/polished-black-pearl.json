@@ -1,0 +1,84 @@
+{
+  "_id": "ggcg6Do8jg7CFcsa",
+  "_key": "!items!ggcg6Do8jg7CFcsa",
+  "name": "Polished Black Pearl",
+  "type": "loot",
+  "img": "icons/commodities/gems/pearl-purple.webp",
+  "folder": "ggcgIvpGm0n72Rnu",
+  "system": {
+    "description": {
+      "value": "<p>Divers say each black pearl holds one breath of the diver who found it.</p><p><em>Tier 3 · Cut Gem</em></p>",
+      "chat": ""
+    },
+    "identifier": "polished-black-pearl",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 240,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "polished-black-pearl",
+      "kind": "intermediate",
+      "tier": 3,
+      "family": "cut-gem",
+      "subcategory": "cut-gems-settings",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "cut-gem",
+        "cut-gem-t3",
+        "cut-gem-t1+",
+        "cut-gem-t2+",
+        "cut-gem-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

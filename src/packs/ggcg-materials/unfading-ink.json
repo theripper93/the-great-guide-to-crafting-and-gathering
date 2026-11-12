@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgeqXJp4pobIvk",
+  "_key": "!items!ggcgeqXJp4pobIvk",
+  "name": "Unfading Ink",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-label-cork-red.webp",
+  "folder": "ggcg6d9g15Uwiyw9",
+  "system": {
+    "description": {
+      "value": "<p>When a page written in unfading ink burns, the red letters are left lying in the ash, whole and readable. Scribes who lose a library to fire sift the ash for them, and some old texts now survive only as loose red words kept in a box.</p><p><em>Tier 4 · Ink</em></p>",
+      "chat": ""
+    },
+    "identifier": "unfading-ink",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "unfading-ink",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "ink",
+      "subcategory": "inks-pigments-dyes",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ink",
+        "ink-t4",
+        "ink-t1+",
+        "ink-t2+",
+        "ink-t3+",
+        "ink-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

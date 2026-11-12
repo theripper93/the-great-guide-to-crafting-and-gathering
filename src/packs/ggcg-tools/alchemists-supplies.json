@@ -1,0 +1,173 @@
+{
+  "_id": "ggcgBS7LV329NriB",
+  "_key": "!items!ggcgBS7LV329NriB",
+  "name": "Alchemist's Supplies",
+  "type": "tool",
+  "img": "icons/tools/laboratory/funnel-steel-grey.webp",
+  "folder": "ggcgIZJXO9Cpzc5C",
+  "system": {
+    "description": {
+      "value": "<p>Glass flasks bedded in straw around a steel funnel.</p><p class=\"phb-meta\"><strong>Ability:</strong> Intelligence</p><p class=\"phb-meta\"><strong>Utilize:</strong> Identify a substance (DC 15), or start a fire (DC 15)</p><p class=\"phb-meta\"><strong>Craft:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbagAcid0000000]{Acid}, @UUID[Compendium.dnd5e.equipment24.Item.phbagAlchemistsF]{Alchemist's Fire}, @UUID[Compendium.dnd5e.equipment24.Item.phbagComponentPo]{Component Pouch}, @UUID[Compendium.dnd5e.equipment24.Item.phbagOil00000000]{Oil}, @UUID[Compendium.dnd5e.equipment24.Item.phbagPaper000000]{Paper}, @UUID[Compendium.dnd5e.equipment24.Item.phbagPerfume0000]{Perfume}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 8,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "art",
+      "baseItem": "alchemist"
+    },
+    "ability": "int",
+    "chatFlavor": "",
+    "proficient": null,
+    "properties": [],
+    "bonus": "",
+    "activities": {
+      "3tr6iV1buoI6GB27": {
+        "type": "check",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "concentration": false,
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "override": false,
+          "expiry": null
+        },
+        "effects": [],
+        "range": {
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true,
+          "override": false
+        },
+        "check": {
+          "ability": "int",
+          "dc": {
+            "calculation": "",
+            "formula": "15"
+          },
+          "associated": [],
+          "visible": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "sort": 0,
+        "_id": "3tr6iV1buoI6GB27",
+        "name": "",
+        "img": "",
+        "behaviors": [],
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "identifier": "alchemists-supplies",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "alchemists-supplies",
+      "kind": "tool",
+      "tier": 1,
+      "family": null,
+      "subcategory": "profession-kit",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbtulAlchemists"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbtulAlchemists",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

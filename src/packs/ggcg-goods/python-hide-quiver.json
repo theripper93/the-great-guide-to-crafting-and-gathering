@@ -1,0 +1,99 @@
+{
+  "_id": "ggcgX7ik6Xsf6hVf",
+  "_key": "!items!ggcgX7ik6Xsf6hVf",
+  "name": "Python Hide Quiver",
+  "type": "container",
+  "img": "icons/containers/ammunition/arrows-quiver-green-brown.webp",
+  "folder": "ggcgjvAUi95THeg8",
+  "system": {
+    "description": {
+      "value": "<p>Archers say a python quiver swallows arrows the way the snake once swallowed deer. It never looks full, and a hunter can draw from it all afternoon before the last shafts rattle loose in the bottom.</p><p>It holds up to 80 items. Its contents add nothing to its weight.</p>",
+      "chat": ""
+    },
+    "identifier": "python-hide-quiver",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [
+      "mgc",
+      "weightlessContents"
+    ],
+    "capacity": {
+      "count": 80,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": null,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "python-hide-quiver",
+      "kind": "finished",
+      "tier": 3,
+      "family": null,
+      "subcategory": "bags-containers",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "D"
+    },
+    "mastercrafted": {
+      "tags": [
+        "leatherworking-bags-containers"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

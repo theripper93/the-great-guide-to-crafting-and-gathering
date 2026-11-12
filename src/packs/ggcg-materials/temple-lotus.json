@@ -1,0 +1,88 @@
+{
+  "_id": "ggcgLLD4Fe4W2IGx",
+  "_key": "!items!ggcgLLD4Fe4W2IGx",
+  "name": "Temple Lotus",
+  "type": "loot",
+  "img": "icons/commodities/flowers/lotus-pink.webp",
+  "folder": "ggcgoXiDHRaeBUCN",
+  "system": {
+    "description": {
+      "value": "<p>A temple lotus laid on a grave stays pink and fresh for months. Mourners in the desert believe it wilts overnight if the dead beneath begin to stir, and they walk out to look at the flowers each morning.</p><p><em>Tier 4 · Healing Herb · Found: Desert, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "temple-lotus",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "temple-lotus",
+      "kind": "raw",
+      "tier": 4,
+      "family": "healing-herb",
+      "subcategory": "herbs-flowers",
+      "activity": "gathering",
+      "profession": null,
+      "sources": [
+        "desert",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "healing-herb",
+        "healing-herb-t4",
+        "healing-herb-t1+",
+        "healing-herb-t2+",
+        "healing-herb-t3+",
+        "healing-herb-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

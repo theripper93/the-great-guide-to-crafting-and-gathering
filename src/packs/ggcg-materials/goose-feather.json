@@ -1,0 +1,86 @@
+{
+  "_id": "ggcg4zFG4RSccXL0",
+  "_key": "!items!ggcg4zFG4RSccXL0",
+  "name": "Goose Feather",
+  "type": "loot",
+  "img": "icons/commodities/biological/wing-bird-white.webp",
+  "folder": "ggcg9MdwbNe7L44h",
+  "system": {
+    "description": {
+      "value": "<p>Most quills on a scribe's desk are goose feathers.</p><p><em>Tier 1 · Feather · Found: Coast, Arctic, Swamp</em></p>",
+      "chat": ""
+    },
+    "identifier": "goose-feather",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "goose-feather",
+      "kind": "raw",
+      "tier": 1,
+      "family": "feather",
+      "subcategory": "feathers",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "coast",
+        "arctic",
+        "swamp"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "feather",
+        "feather-t1",
+        "feather-t1+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

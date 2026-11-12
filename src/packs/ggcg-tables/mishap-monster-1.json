@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgWdYj4FkVpr1k",
+  "_key": "!tables!ggcgWdYj4FkVpr1k",
+  "name": "Monster Harvest Mishaps (Mundane Types)",
+  "img": "icons/skills/melee/stabbing-knife.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgSsF8FK9dXyVq",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcgSsF8FK9dXyVq",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>Something under tension, a cord, a sinew, a spring or a bent bough, snaps back as it is cut and whips the piece out of the harvester's fingers and deep into the remains.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Snaps Back",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgtjuu2MR8vbmy",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcgtjuu2MR8vbmy",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>A splinter of bone, wood or metal lies lodged across the seam the harvester is working, and the cut runs into it and stops.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Splinter in the Seam",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgdVa05MVCRBTT",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcgdVa05MVCRBTT",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>The part that looked right turns out, once it is free, to be gristle, pith or scrap that no crafter would want.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Not What It Seemed",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgWsy0J9GQoGdd",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcgWsy0J9GQoGdd",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>The piece tears across as it comes free, and neither half is big enough to use.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Torn Across",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg96qaZL7JZEt6",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcg96qaZL7JZEt6",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>The knife skids on grease, gristle or a hidden plate and runs on toward the harvester's other hand. The harvester makes a [[/save ability=dex dc=10 format=long]] or takes [[/damage 1d4 type=slashing]].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Blade Slip",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgCMUaX5lMYpV8",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcgCMUaX5lMYpV8",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>A spray of whatever was inside hits the harvester's face. The harvester makes a [[/save ability=con dc=11 format=long]] or is &amp;Reference[Poisoned] for 1 minute.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Spray of Fluid",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgUfh753mS0eW1",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcgUfh753mS0eW1",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>Scraps, spilled fittings and loose pieces from the work roll underfoot. The harvester makes a [[/save ability=dex dc=11 format=long]] or falls &amp;Reference[Prone].</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Bad Footing",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgSztxNsOQf1Ms",
+      "_key": "!tables.results!ggcgWdYj4FkVpr1k.ggcgSztxNsOQf1Ms",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>The part lies on the underside of the remains. The harvester makes a [[/save ability=str dc=11 format=long]] or loses 10 minutes heaving the remains over to reach it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Heavy to Turn",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-monster-1",
+      "activity": "monster",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

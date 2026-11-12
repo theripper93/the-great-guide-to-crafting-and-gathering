@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgu8TcDge4RdrX",
+  "_key": "!items!ggcgu8TcDge4RdrX",
+  "name": "Springmoss Extract",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+  "folder": "ggcgsuAusWtteDxd",
+  "system": {
+    "description": {
+      "value": "<p>Where springmoss extract is spilled on bare stone, bright green moss comes up.</p><p><em>Tier 4 · Extract</em></p>",
+      "chat": ""
+    },
+    "identifier": "springmoss-extract",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "springmoss-extract",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "extract",
+      "subcategory": "alchemical-bases",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "extract",
+        "extract-t4",
+        "extract-t1+",
+        "extract-t2+",
+        "extract-t3+",
+        "extract-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

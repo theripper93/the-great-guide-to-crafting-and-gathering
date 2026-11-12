@@ -1,0 +1,85 @@
+{
+  "_id": "ggcgLDl3utBy8nbY",
+  "_key": "!items!ggcgLDl3utBy8nbY",
+  "name": "Cut Diamond",
+  "type": "loot",
+  "img": "icons/commodities/gems/gem-faceted-diamond-silver-.webp",
+  "folder": "ggcgIvpGm0n72Rnu",
+  "system": {
+    "description": {
+      "value": "<p>Gem cutters say a flawless diamond remembers every hand that has held it.</p><p><em>Tier 4 · Cut Gem</em></p>",
+      "chat": ""
+    },
+    "identifier": "cut-diamond",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 2400,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "veryRare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "cut-diamond",
+      "kind": "intermediate",
+      "tier": 4,
+      "family": "cut-gem",
+      "subcategory": "cut-gems-settings",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "cut-gem",
+        "cut-gem-t4",
+        "cut-gem-t1+",
+        "cut-gem-t2+",
+        "cut-gem-t3+",
+        "cut-gem-t4+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

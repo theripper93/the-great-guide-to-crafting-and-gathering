@@ -1,0 +1,85 @@
+{
+  "_id": "ggcg63iBgxvZyA7Z",
+  "_key": "!items!ggcg63iBgxvZyA7Z",
+  "name": "Spy's Ink Vial",
+  "type": "loot",
+  "img": "icons/consumables/potions/vial-cork-empty.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>A spy's ink vial looks empty, and so does a letter written from it.</p><p><em>Tier 2 · Ichor · Found: Humanoid</em></p>",
+      "chat": ""
+    },
+    "identifier": "spys-ink-vial",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 4,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "spys-ink-vial",
+      "kind": "raw",
+      "tier": 2,
+      "family": "ichor",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "humanoid"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "ichor",
+        "ichor-t2",
+        "ichor-t1+",
+        "ichor-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

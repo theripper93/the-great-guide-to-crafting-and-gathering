@@ -1,0 +1,83 @@
+{
+  "_id": "ggcgUHBVGVZ8wZ6Y",
+  "_key": "!items!ggcgUHBVGVZ8wZ6Y",
+  "name": "Jewel Pigment",
+  "type": "loot",
+  "img": "icons/commodities/materials/powder-red-green-yellow.webp",
+  "folder": "ggcg6d9g15Uwiyw9",
+  "system": {
+    "description": {
+      "value": "<p>Jewel pigment comes in small paper twists of red, green and yellow.</p><p><em>Tier 2 · Dye and Pigment</em></p>",
+      "chat": ""
+    },
+    "identifier": "jewel-pigment",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 24,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "jewel-pigment",
+      "kind": "intermediate",
+      "tier": 2,
+      "family": "dye-pigment",
+      "subcategory": "inks-pigments-dyes",
+      "activity": null,
+      "profession": null,
+      "sources": [],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "dye-pigment",
+        "dye-pigment-t2",
+        "dye-pigment-t1+",
+        "dye-pigment-t2+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

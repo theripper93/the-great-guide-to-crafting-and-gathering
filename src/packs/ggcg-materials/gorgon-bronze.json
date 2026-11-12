@@ -1,0 +1,86 @@
+{
+  "_id": "ggcghYcFkh5t8iJ4",
+  "_key": "!items!ggcghYcFkh5t8iJ4",
+  "name": "Gorgon Bronze",
+  "type": "loot",
+  "img": "icons/commodities/metal/plate-teal.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Gorgon bronze grows its teal crust back overnight, however hard it is scrubbed.</p><p><em>Tier 3 · Salvage · Found: Construct</em></p>",
+      "chat": ""
+    },
+    "identifier": "gorgon-bronze",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "gorgon-bronze",
+      "kind": "raw",
+      "tier": 3,
+      "family": "salvage",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "construct"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "salvage",
+        "salvage-t3",
+        "salvage-t1+",
+        "salvage-t2+",
+        "salvage-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

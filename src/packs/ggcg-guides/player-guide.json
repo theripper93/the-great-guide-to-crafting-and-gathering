@@ -1,0 +1,269 @@
+{
+  "_id": "ggcguC6apt8CR6VT",
+  "_key": "!journal!ggcguC6apt8CR6VT",
+  "name": "Player Guide",
+  "folder": null,
+  "sort": 200,
+  "ownership": {
+    "default": 0
+  },
+  "categories": [],
+  "pages": [
+    {
+      "_id": "ggcg6VOGN6RZlgPa",
+      "name": "Crafting and Gathering",
+      "type": "text",
+      "sort": 1000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Your character can live off the land and make things from what it yields. You pick herbs, hunt game, mine ore, fish, and cut useful parts from the creatures you defeat. Then you turn those materials into weapons, armor, potions, meals and stranger things.</p>\n<p>Most things take two steps. Raw materials are refined first, ore into an ingot and a hide into leather, with the recipes in @UUID[JournalEntry.ggcgdpsGVkcWx3ru]{The Refiner's Ledger}. The refined materials then go into a finished item from one of the eleven books in @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcguC6apt8CR6VT.JournalEntryPage.ggcg0orc41aYFjIe]{Professions}.</p>\n<p>Your GM decides where you can gather and which recipes you know, and can tell you where any material is found and what it is good for. Ask before you set out, because the answer often decides where the party goes next.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcg6VOGN6RZlgPa",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcg5JRNDxotQYWX",
+      "name": "Tiers",
+      "type": "text",
+      "sort": 2000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Everything you gather and make has a tier from 1 to 4. The recipe books file their recipes under the tier&#39;s name, and everywhere else the tier is a number.</p>\n<table>\n<thead>\n<tr>\n<th>Tier</th>\n<th>Name in the books</th>\n<th>Character level</th>\n<th>Items made</th>\n<th>Gather DC</th>\n<th>Craft DC</th>\n<th>A potion takes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>1</td>\n<td>Apprentice</td>\n<td>1 to 4</td>\n<td>Common</td>\n<td>10</td>\n<td>10</td>\n<td>1 hour</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Journeyman</td>\n<td>5 to 10</td>\n<td>Uncommon</td>\n<td>13</td>\n<td>12</td>\n<td>2 hours</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Expert</td>\n<td>11 to 16</td>\n<td>Rare</td>\n<td>16</td>\n<td>15</td>\n<td>4 hours</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Master</td>\n<td>17 to 20</td>\n<td>Very rare, and a very few legendary</td>\n<td>18</td>\n<td>17</td>\n<td>8 hours</td>\n</tr>\n<tr>\n<td>Above 4</td>\n<td>Artifacts</td>\n<td>20</td>\n<td>Artifacts, three per profession</td>\n<td>none</td>\n<td>20</td>\n<td>16 hours</td>\n</tr>\n</tbody></table>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcg5JRNDxotQYWX",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgBGMGadPzZR5Y",
+      "name": "Gathering",
+      "type": "text",
+      "sort": 3000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Your GM marks gathering spots on the map: an herb patch, a game trail, a rock face, a fishing hole. When your selected token stands in one, a button appears beside it: <strong>Forage</strong>, <strong>Hunt</strong>, <strong>Mine</strong> or <strong>Fish</strong>. Click it and roll the check. If you pass, a short minigame decides what you find, and the materials go straight to your inventory. The minigame can only help, and playing it well can turn up something rarer.</p>\n<p>Each activity has its own check and tool, and spots of tier 3 and 4 ask for a second tool as well.</p>\n<table>\n<thead>\n<tr>\n<th>Activity</th>\n<th>Check</th>\n<th>Tool</th>\n<th>Also needed at tier 3 and 4</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Gathering plants</td>\n<td>Intelligence (Nature)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg11tOwQlRVG9a]{Herbalism Kit}</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgbCtFg2K8ZKLu]{Briar Gloves}</td>\n</tr>\n<tr>\n<td>Hunting</td>\n<td>Wisdom (Survival)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgQuqWVxtejCvG]{Hunting Kit}</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg9XVYSo3JiiOB]{Hunting Ladder}</td>\n</tr>\n<tr>\n<td>Mining</td>\n<td>Strength (Athletics)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgo3zHJJOTfzMV]{Prospector's Pick}</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg51w018KVRCuW]{Deep Vein Drill}</td>\n</tr>\n<tr>\n<td>Fishing</td>\n<td>Wisdom (Survival)</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg7qRydaj2EKld]{Fishing Tackle}</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgwd9dfrtfrjPG]{Winch Reel}</td>\n</tr>\n</tbody></table>\n<p>Every attempt uses one of the spot&#39;s pulls, and a spot needs time to recover once they are gone. A failed check rolls a mishap, which at tier 3 and 4 spots can kill a low-level character.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcgBGMGadPzZR5Y",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcg12PcPlVd5OY5",
+      "name": "Harvesting Creatures",
+      "type": "text",
+      "sort": 4000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>After a fight, stand next to a defeated creature and a <strong>Harvest</strong> button appears. Click it, or target the body and press <strong>Shift+G</strong>. You need a @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgA6vNIsKN8NOP]{Harvesting Kit}, and the check depends on what the creature was.</p>\n<table>\n<thead>\n<tr>\n<th>Creature type</th>\n<th>Check</th>\n<th>DC</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Beast</td>\n<td>Survival</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Humanoid</td>\n<td>Investigation</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Plant</td>\n<td>Nature</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Monstrosity</td>\n<td>Survival</td>\n<td>13</td>\n</tr>\n<tr>\n<td>Ooze</td>\n<td>Nature</td>\n<td>13</td>\n</tr>\n<tr>\n<td>Undead</td>\n<td>Religion</td>\n<td>13</td>\n</tr>\n<tr>\n<td>Giant</td>\n<td>Medicine</td>\n<td>14</td>\n</tr>\n<tr>\n<td>Construct</td>\n<td>Investigation</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Elemental</td>\n<td>Arcana</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Fey</td>\n<td>Arcana</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Aberration</td>\n<td>Arcana</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Celestial</td>\n<td>Religion</td>\n<td>17</td>\n</tr>\n<tr>\n<td>Fiend</td>\n<td>Religion</td>\n<td>17</td>\n</tr>\n<tr>\n<td>Dragon</td>\n<td>Survival</td>\n<td>18</td>\n</tr>\n</tbody></table>\n<p>The mightiest creatures can yield a <strong>boss trophy</strong>. Trophies almost never drop by luck, so your GM usually hands one over when a worthy foe falls.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcg12PcPlVd5OY5",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcg0orc41aYFjIe",
+      "name": "Professions",
+      "type": "text",
+      "sort": 5000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Each profession has a recipe book and a tool. The tools are the ones in the core rules, so your tool proficiencies count as usual.</p>\n<table>\n<thead>\n<tr>\n<th>Profession</th>\n<th>Tool</th>\n<th>What it makes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Smithing (@UUID[JournalEntry.ggcg0u6ANOvPsEH5]{The Smith's Daybook})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgAXu1Awk4CPVO]{Smith's Tools}</td>\n<td>Metal weapons, metal armor and shields, tools and hardware</td>\n</tr>\n<tr>\n<td>Leatherworking (@UUID[JournalEntry.ggcgUdtg4myXvWYH]{The Leatherworker's Pattern Book})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgC01SAdWYfQI2]{Leatherworker's Tools}</td>\n<td>Light armor, bags and cases, tack and harness, boots, gloves and belts</td>\n</tr>\n<tr>\n<td>Woodworking (@UUID[JournalEntry.ggcgL3E3N9yABHxL]{The Woodcarver's Workbook})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgHUuUIHg3Lo9R]{Woodcarver's Tools}</td>\n<td>Bows and crossbows, ammunition, staves and clubs, wooden shields, wooden goods</td>\n</tr>\n<tr>\n<td>Tailoring (@UUID[JournalEntry.ggcgui2RsKE2pYEa]{The Tailor's Cutting Book})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgSm3uBYHoYTJP]{Weaver's Tools}</td>\n<td>Clothing, cloaks, robes, packs and wraps</td>\n</tr>\n<tr>\n<td>Jewelcrafting (@UUID[JournalEntry.ggcgmhSwKFe4dAEJ]{The Jeweler's Casebook})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgsWwHvNwIhoxq]{Jeweler's Tools}</td>\n<td>Rings, amulets, spellcasting foci and charms</td>\n</tr>\n<tr>\n<td>Alchemy (@UUID[JournalEntry.ggcgYqUmtn64iBEN]{The Alchemist's Stillroom Book})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgBS7LV329NriB]{Alchemist's Supplies}</td>\n<td>Healing draughts, elixirs, oils and coatings, bombs, useful mixtures</td>\n</tr>\n<tr>\n<td>Poisoncraft (@UUID[JournalEntry.ggcgMz805tXJZxvn]{The Poisoner's Notebook})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgruhNUzSbyySj]{Poisoner's Kit}</td>\n<td>Poisons of every kind, and antidotes</td>\n</tr>\n<tr>\n<td>Enchanting (@UUID[JournalEntry.ggcg18V7DCNVBqal]{The Enchanter's Rune Book})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgkqmSZTpy0jYh]{Painter's Supplies}</td>\n<td>Runes for weapons and armor, wands and rods</td>\n</tr>\n<tr>\n<td>Scribing (@UUID[JournalEntry.ggcg0VzHSdyY6Ugt]{The Scribe's Copybook})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgJj1G85Tcjm5G]{Calligrapher's Supplies}</td>\n<td>Spell scrolls, maps and charts, treated papers, wards</td>\n</tr>\n<tr>\n<td>Tinkering (@UUID[JournalEntry.ggcgCafsy9DZqFOJ]{The Tinker's Bench Notes})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgGD4pIENIpnDJ]{Tinker's Tools}</td>\n<td>Traps, gadgets, repair and field kits</td>\n</tr>\n<tr>\n<td>Cooking (@UUID[JournalEntry.ggcgAqBobViMKVwJ]{The Cook's Kitchen Book})</td>\n<td>@UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcgIhY9Ly1cLEQK]{Cook's Utensils}</td>\n<td>Meals, rations, drinks and brews, feasts, bait and feed</td>\n</tr>\n</tbody></table>\n<p>Refining has no tool of its own. An ingot is made with Smith&#39;s Tools, leather with Leatherworker&#39;s Tools, a cut gem with Jeweler&#39;s Tools, and so on. Healing potions, Antitoxin and the Healer&#39;s Kit use the @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-tools.Item.ggcg11tOwQlRVG9a]{Herbalism Kit}, as in the core rules. Enchanting is painted and inlaid onto gear, which is why it uses Painter&#39;s Supplies.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcg0orc41aYFjIe",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgzARGXjtNnXIb",
+      "name": "Crafting",
+      "type": "text",
+      "sort": 6000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>You open the recipe books with the <strong>Recipe Manager</strong> button at the top of the Items sidebar, or by choosing <strong>Crafting</strong> from the window menu of your character sheet.</p>\n<p>A recipe lists exact items and &quot;Any&quot; lines. @UUID[JournalEntry.ggcgdpsGVkcWx3ru.JournalEntryPage.ggcgTEp7mhIFjCoT]{Bronze Ingot}, in the refining book, asks for @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgpImwbm2Ezsli]{Copper Ore}, @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgqcAssMYFlYQE]{Tin Pebble} and &quot;Any Tier 1 Fuel and Flux&quot;. The first two are exact items. The last takes any material of that kind and tier, so @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcg2Am9uYxU4dyU]{Soft Coal} and @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-materials.Item.ggcgHRbrog5XK42s]{Dry Peat} both serve, and you choose which to spend. Most recipes are built from &quot;Any&quot; lines, so you rarely need one particular herb. The ingot also needs Smith&#39;s Tools and one hour.</p>\n<p>To craft, you make a check with the profession&#39;s tool against the craft DC of the recipe&#39;s tier. The recipe window does not show the DC. It is the one in the table on @UUID[Compendium.the-great-guide-to-crafting-and-gathering.ggcg-guides.JournalEntry.ggcguC6apt8CR6VT.JournalEntryPage.ggcg5JRNDxotQYWX]{Tiers}, unless your GM has changed it.</p>\n<p><strong>Success.</strong> The ingredients are used up, and the item is yours once its crafting time has passed on the game clock. A crafter works on one thing at a time.</p>\n<p><strong>Failure.</strong> The ingredients are lost, so a hard recipe is a gamble with everything you put into it.</p>\n<p><strong>Beating the DC by 10.</strong> Potions, food, other single-use items and refined materials come out with one extra unit. Lasting gear never does.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcgzARGXjtNnXIb",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcg1XYjfX62emai",
+      "name": "Learning Recipes",
+      "type": "text",
+      "sort": 7000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Every tier 1 recipe is open to you from the start. Higher tiers stay hidden until you learn them, and your GM decides how that happens.</p>\n<p>The usual way is practice. You learn the next tier of a book once you reach that tier&#39;s first character level and have crafted five different recipes of the tier below from the same book. For example, tier 2 of @UUID[JournalEntry.ggcg0u6ANOvPsEH5]{The Smith's Daybook} opens at level 5, after five different tier 1 smithing recipes. Only successful crafts count, and making the same recipe five times counts once. Applying a modification is not practice. Learning a tier of a profession also teaches you that tier of refining.</p>\n<p>Your GM can also teach you a single recipe at any time, through a teacher, a found notebook or a reward. Legendary and artifact recipes are learned only this way.</p>\n<p>The recipe books show recipes per player, not per character. If you play two characters, you see the recipes either of them knows.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcg1XYjfX62emai",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ggcgjDO6cmvGZLKu",
+      "name": "Improving Gear",
+      "type": "text",
+      "sort": 8000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p>Seven books also hold modifications. A modification makes nothing new: it improves an item you already carry, as long as this module&#39;s recipes made it.</p>\n<table>\n<thead>\n<tr>\n<th>Book</th>\n<th>Modification</th>\n<th>Works on</th>\n<th>What it does</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Smithing</td>\n<td>Honed Edge</td>\n<td>smithed weapons</td>\n<td>bonus of +1, +2, +3</td>\n</tr>\n<tr>\n<td>Smithing</td>\n<td>Bossed Shield</td>\n<td>smithed shields</td>\n<td>bonus of +1, +2, +3</td>\n</tr>\n<tr>\n<td>Smithing</td>\n<td>Reinforced Plates</td>\n<td>smithed armor</td>\n<td>bonus of +1, +2</td>\n</tr>\n<tr>\n<td>Smithing</td>\n<td>Lightened Armor, Featherweight Armor</td>\n<td>smithed armor</td>\n<td>a quarter less weight each time</td>\n</tr>\n<tr>\n<td>Woodworking</td>\n<td>Trued Grain</td>\n<td>bows, crossbows, staves and clubs</td>\n<td>bonus of +1, +2, +3</td>\n</tr>\n<tr>\n<td>Woodworking</td>\n<td>Tillered Limbs</td>\n<td>bows and crossbows</td>\n<td>longer range, three times</td>\n</tr>\n<tr>\n<td>Leatherworking</td>\n<td>Fitted Leather</td>\n<td>leather and hide armor</td>\n<td>bonus of +1, +2, and a little less weight</td>\n</tr>\n<tr>\n<td>Tailoring</td>\n<td>Quilted Lining</td>\n<td>padded armor</td>\n<td>bonus of +1, +2</td>\n</tr>\n<tr>\n<td>Jewelcrafting</td>\n<td>Reset Stones</td>\n<td>jewelry with charges</td>\n<td>one more charge, three times</td>\n</tr>\n<tr>\n<td>Enchanting</td>\n<td>Deepened Charge</td>\n<td>wands and rods</td>\n<td>one more charge, three times</td>\n</tr>\n<tr>\n<td>Tinkering</td>\n<td>Rewound Spring</td>\n<td>gadgets with charges</td>\n<td>one more charge, three times</td>\n</tr>\n</tbody></table>\n<p>Open the modification in its book, pick the item and roll as for a recipe of the modification&#39;s tier. The materials are spent either way, and on a failure the item stays as it was. Each step is a page of its own, one tier higher than the step before, and you learn it along with its tier.</p>\n",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!ggcguC6apt8CR6VT.ggcgjDO6cmvGZLKu",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "key": "player-guide"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

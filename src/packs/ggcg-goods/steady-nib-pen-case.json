@@ -1,0 +1,142 @@
+{
+  "_id": "ggcgDzeTQJw9ulZX",
+  "_key": "!items!ggcgDzeTQJw9ulZX",
+  "name": "Steady-Nib Pen Case",
+  "type": "equipment",
+  "img": "icons/commodities/treasure/case-red-silver.webp",
+  "folder": "ggcgM3EQ6jm6IbD3",
+  "system": {
+    "description": {
+      "value": "<p>A slim red case, lined with gold leaf, that holds pens without a rattle.</p><p>While this is equipped, ready to hand, you have a +1 bonus to ability checks made with Calligrapher's Supplies (<em>Steady Nib</em>).</p>",
+      "chat": ""
+    },
+    "identifier": "steady-nib-pen-case",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 100,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [
+    {
+      "name": "Steady Nib",
+      "img": "icons/commodities/treasure/case-red-silver.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.tools.calligrapher.roll.bonus",
+            "type": "add",
+            "value": "1",
+            "phase": "initial",
+            "priority": null,
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "conditions": "{}",
+        "magical": false,
+        "rider": {
+          "statuses": []
+        },
+        "origin": {
+          "actor": null,
+          "behavior": null,
+          "effect": null,
+          "item": null,
+          "message": null
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "_id": "ggcgc7cif0sbGWYd",
+      "_key": "!items.effects!ggcgDzeTQJw9ulZX.ggcgc7cif0sbGWYd",
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "steady-nib-pen-case",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "maps-charts",
+      "activity": null,
+      "profession": "scribing",
+      "sources": [],
+      "archetype": "utility-gear",
+      "priceClass": "C"
+    },
+    "mastercrafted": {
+      "tags": [
+        "scribing-maps-charts"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

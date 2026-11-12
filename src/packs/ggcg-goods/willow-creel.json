@@ -1,0 +1,96 @@
+{
+  "_id": "ggcgCM8O9zrLGzRY",
+  "_key": "!items!ggcgCM8O9zrLGzRY",
+  "name": "Willow Creel",
+  "type": "container",
+  "img": "icons/containers/misc/basket-handle-woven-yellow.webp",
+  "folder": "ggcg3FLMnOWzEQHc",
+  "system": {
+    "description": {
+      "value": "<p>Woven from pale yellow willow, this basket rides on an angler's hip.</p><p>It holds up to 50 pounds of gear.</p>",
+      "chat": ""
+    },
+    "identifier": "willow-creel",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "uncommon"
+    ],
+    "properties": [],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 50,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "attunement": ""
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "willow-creel",
+      "kind": "finished",
+      "tier": 2,
+      "family": null,
+      "subcategory": "utility",
+      "activity": null,
+      "profession": "woodworking",
+      "sources": [],
+      "archetype": "container",
+      "priceClass": "B"
+    },
+    "mastercrafted": {
+      "tags": [
+        "woodworking-utility"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "_id": "ggcgIfGNz4aMJ2wp",
+  "_key": "!items!ggcgIfGNz4aMJ2wp",
+  "name": "Wanderer's Spice Box",
+  "type": "equipment",
+  "img": "icons/commodities/treasure/box-jade-tassel.webp",
+  "folder": "ggcgRsEyb2YHmRPW",
+  "system": {
+    "description": {
+      "value": "<p>A small green box of many drawers, each holding a spice that grows in only one valley. However much is used, the drawers are full again by the time the pot is washed.</p><p><strong>Season the Meal.</strong> When you season a meal from the box during a Short Rest, each creature that eats it, up to twelve, treats every Hit Point Die it spends at the end of that rest as if it had rolled its highest number. A creature gains this benefit once per day.</p><p><strong>The Taste of Home.</strong> Food seasoned from the box tastes to each eater of their own home, whatever is in the pot. Nobody who shares the meal can raise a hand against another at the table until it is cleared, and few find that they want to.</p>",
+      "chat": ""
+    },
+    "identifier": "wanderers-spice-box",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc"
+    ],
+    "attunement": "required",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {
+      "ggcgiInuKGZ0Pso6": {
+        "type": "utility",
+        "name": "Season the Meal",
+        "img": null,
+        "sort": 1,
+        "activation": {
+          "type": "minute",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "behaviors": [],
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": "",
+          "value": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "expiry": null,
+          "special": "",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "flags": {},
+        "range": {
+          "value": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "stationary": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft"
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "override": false,
+          "prompt": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "visibility": {
+          "identifier": "",
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "_id": "ggcgiInuKGZ0Pso6"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "wanderers-spice-box",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "everyday-meals",
+      "activity": null,
+      "profession": "cooking",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

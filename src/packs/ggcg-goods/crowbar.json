@@ -1,0 +1,77 @@
+{
+  "_id": "ggcg4vLxCNrwU774",
+  "_key": "!items!ggcg4vLxCNrwU774",
+  "name": "Crowbar",
+  "type": "loot",
+  "img": "icons/tools/hand/pry-bar-hook-steel.webp",
+  "folder": "ggcgBFaRQdEcf4vX",
+  "system": {
+    "description": {
+      "value": "<p>A single bog-iron bar, hooked and split at one end.</p><p>Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "license": "CC-BY-4.0",
+      "book": "",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "properties": [],
+    "identifier": "crowbar",
+    "rarities": []
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "crowbar",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "tools-hardware",
+      "activity": null,
+      "profession": "smithing",
+      "sources": [],
+      "archetype": null,
+      "mirror": "equipment24.phbagCrowbar0000"
+    },
+    "mastercrafted": {
+      "tags": [
+        "smithing-tools-hardware"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbagCrowbar0000",
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

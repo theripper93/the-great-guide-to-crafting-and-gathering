@@ -1,0 +1,94 @@
+{
+  "_id": "ggcg8HmzsXirNeis",
+  "_key": "!items!ggcg8HmzsXirNeis",
+  "name": "Devourer Satchel",
+  "type": "container",
+  "img": "icons/containers/bags/pack-engraved-leather-blue.webp",
+  "folder": "ggcgFnF1mKuFDAQc",
+  "system": {
+    "description": {
+      "value": "<p>The inside of this satchel is darker than its leather can account for. It shifts on the shoulder like a sleeping animal, and it is always a little warm.</p><p>This satchel holds up to 5,000 pounds and never weighs more than 2 pounds. You can take out any item it holds as a Bonus Action, without searching for it.</p><p><strong>The Satchel Eats.</strong> Once per day the owner can open the satchel toward a Large or smaller creature within 10 feet, which makes a [[/save ability=str dc=20 format=long]] or is swallowed. A swallowed creature is unharmed, needs no air or food, and cannot act; it comes out when the owner lets it out, when the satchel is turned inside out, or after 24 hours. The satchel holds one creature at a time. It grows restless when it has not been fed, and it has opinions about what goes into it.</p>",
+      "chat": ""
+    },
+    "identifier": "devourer-satchel",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500000,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "artifact"
+    ],
+    "properties": [
+      "mgc",
+      "weightlessContents"
+    ],
+    "attunement": "required",
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": 5000,
+        "units": "lb"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "devourer-satchel",
+      "kind": "finished",
+      "tier": 5,
+      "family": null,
+      "subcategory": "bags-containers",
+      "activity": null,
+      "profession": "leatherworking",
+      "sources": [],
+      "archetype": "artifact",
+      "priceClass": "S"
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

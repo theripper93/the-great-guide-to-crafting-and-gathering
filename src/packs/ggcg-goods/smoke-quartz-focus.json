@@ -1,0 +1,86 @@
+{
+  "_id": "ggcg3vQDTDjGDHqt",
+  "_key": "!items!ggcg3vQDTDjGDHqt",
+  "name": "Smoke Quartz Focus",
+  "type": "equipment",
+  "img": "icons/commodities/treasure/statue-runed-blue-grey.webp",
+  "folder": "ggcgQcidddgjaI8i",
+  "system": {
+    "description": {
+      "value": "<p>Runes are scratched into every face of this little figure of smoky quartz.</p><p>You can use this as an Arcane Focus for your spells.</p>",
+      "chat": ""
+    },
+    "identifier": "smoke-quartz-focus",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "price": {
+      "value": 12,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "common"
+    ],
+    "properties": [
+      "foc"
+    ],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "attunement": "",
+    "activities": {}
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "focusType": "arcane",
+      "slug": "smoke-quartz-focus",
+      "kind": "finished",
+      "tier": 1,
+      "family": null,
+      "subcategory": "foci",
+      "activity": null,
+      "profession": "jewelcrafting",
+      "sources": [],
+      "archetype": "spell-focus",
+      "priceClass": "B"
+    },
+    "mastercrafted": {
+      "tags": [
+        "jewelcrafting-foci"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

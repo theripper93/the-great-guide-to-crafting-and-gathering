@@ -1,0 +1,86 @@
+{
+  "_id": "ggcgKAxGAurtY7jh",
+  "_key": "!items!ggcgKAxGAurtY7jh",
+  "name": "Silvered Chalk",
+  "type": "loot",
+  "img": "icons/commodities/treasure/case-red-silver.webp",
+  "folder": "ggcgJ8HyuZGWBVsi",
+  "system": {
+    "description": {
+      "value": "<p>Priests say no restless dead will step over a line of silvered chalk.</p><p><em>Tier 3 · Mineral Salt · Found: Humanoid</em></p>",
+      "chat": ""
+    },
+    "identifier": "silvered-chalk",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "silvered-chalk",
+      "kind": "raw",
+      "tier": 3,
+      "family": "mineral-salt",
+      "subcategory": "creature-parts",
+      "activity": "monster",
+      "profession": null,
+      "sources": [
+        "humanoid"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "mineral-salt",
+        "mineral-salt-t3",
+        "mineral-salt-t1+",
+        "mineral-salt-t2+",
+        "mineral-salt-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

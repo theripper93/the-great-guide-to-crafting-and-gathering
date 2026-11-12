@@ -1,0 +1,87 @@
+{
+  "_id": "ggcgtAsfnt9XHgCU",
+  "_key": "!items!ggcgtAsfnt9XHgCU",
+  "name": "Polar Bear Pelt",
+  "type": "loot",
+  "img": "icons/commodities/leather/fur-pelt-white.webp",
+  "folder": "ggcg2BhZ1lCClmwt",
+  "system": {
+    "description": {
+      "value": "<p>Snow slides off a polar bear pelt and never melts into the fur. Hunters in the far north sleep out under one through a blizzard and wake up dry beneath a smooth white drift.</p><p><em>Tier 3 · Hide · Found: Arctic, Coast</em></p>",
+      "chat": ""
+    },
+    "identifier": "polar-bear-pelt",
+    "source": {
+      "book": "GGCG",
+      "page": "",
+      "custom": "",
+      "license": "",
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "name": "",
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 40,
+      "denomination": "gp"
+    },
+    "rarities": [
+      "rare"
+    ],
+    "properties": [],
+    "type": {
+      "value": "material",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "polar-bear-pelt",
+      "kind": "raw",
+      "tier": 3,
+      "family": "hide",
+      "subcategory": "hides-pelts",
+      "activity": "hunting",
+      "profession": null,
+      "sources": [
+        "arctic",
+        "coast"
+      ],
+      "archetype": "material"
+    },
+    "mastercrafted": {
+      "tags": [
+        "hide",
+        "hide-t3",
+        "hide-t1+",
+        "hide-t2+",
+        "hide-t3+"
+      ]
+    }
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}

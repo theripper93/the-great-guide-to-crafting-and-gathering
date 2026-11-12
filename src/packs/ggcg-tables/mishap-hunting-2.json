@@ -1,0 +1,253 @@
+{
+  "_id": "ggcgyR3Nuu3sGdaT",
+  "_key": "!tables!ggcgyR3Nuu3sGdaT",
+  "name": "Hunting Mishaps (Tier 3)",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ggcgquqOPfdrMJvY",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcgquqOPfdrMJvY",
+      "weight": 12,
+      "range": [
+        1,
+        12
+      ],
+      "drawn": false,
+      "description": "<p>The beast crashes away over ground too broken or too steep for the hunter to follow.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Beast Breaks Away",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgyjR9KxSLNVVL",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcgyjR9KxSLNVVL",
+      "weight": 11,
+      "range": [
+        13,
+        23
+      ],
+      "drawn": false,
+      "description": "<p>The beast circles round behind the hunter, and the stalk is broken off before the stalker becomes the stalked.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Circles Behind",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcg5LwWRTtuErMQ",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcg5LwWRTtuErMQ",
+      "weight": 11,
+      "range": [
+        24,
+        34
+      ],
+      "drawn": false,
+      "description": "<p>The wind swings round and carries the hunter's scent straight to the quarry.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Scent on the Wind",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgmOLHYCSupV9f",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcgmOLHYCSupV9f",
+      "weight": 11,
+      "range": [
+        35,
+        45
+      ],
+      "drawn": false,
+      "description": "<p>A second beast of the same kind, unseen until now, stands watch nearby, and the hunter backs away from two.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Not Alone",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgiTcAYNNMWbfo",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcgiTcAYNNMWbfo",
+      "weight": 14,
+      "range": [
+        46,
+        59
+      ],
+      "drawn": false,
+      "description": "<p>The beast hurls its whole weight at the hunter. The hunter makes a [[/save ability=dex dc=15 format=long]] or takes [[/damage 2d6 type=bludgeoning]], or half as much on a success.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Headlong Charge",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgsFh946jKKQAm",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcgsFh946jKKQAm",
+      "weight": 14,
+      "range": [
+        60,
+        73
+      ],
+      "drawn": false,
+      "description": "<p>Claw, horn, beak or tooth leaves a graze crusted with the beast's filth, and it soon burns and swells. The hunter makes a [[/save ability=con dc=14 format=long]] or is &amp;Reference[Poisoned] for 10 minutes; a new [[/save ability=con dc=14 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Fouled Wound",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgzgnPL6srrWRb",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcgzgnPL6srrWRb",
+      "weight": 14,
+      "range": [
+        74,
+        87
+      ],
+      "drawn": false,
+      "description": "<p>The beast rears to its full size, hackles, wings or horns raised, and holds its ground. The hunter makes a [[/save ability=wis dc=15 format=long]] or is &amp;Reference[Frightened] for 10 minutes while the beast stays in sight; a new [[/save ability=wis dc=15 format=long]] at the end of each minute ends it.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Threat Display",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    },
+    {
+      "_id": "ggcgNthG1yLTvMUN",
+      "_key": "!tables.results!ggcgyR3Nuu3sGdaT.ggcgNthG1yLTvMUN",
+      "weight": 13,
+      "range": [
+        88,
+        100
+      ],
+      "drawn": false,
+      "description": "<p>The beast lies down within sight of the hunter's hiding place. The hunter makes a [[/save ability=dex dc=14 format=long]] to slip away unseen, or lies still for 1 hour until it moves off.</p>",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.369",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "type": "text",
+      "name": "Pinned in Hiding",
+      "img": "icons/svg/hazard.svg",
+      "documentUuid": null
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ggcgCr4atoeixRdk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "the-great-guide-to-crafting-and-gathering": {
+      "slug": "mishap-hunting-2",
+      "activity": "hunting",
+      "source": null,
+      "tier": null,
+      "mishap": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.369",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  }
+}
