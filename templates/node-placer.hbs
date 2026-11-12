@@ -1,0 +1,24 @@
+<section class="tab ggcg-tools-head {{tab.cssClass}}" data-group="{{tab.group}}" data-tab="{{tab.id}}">
+  {{#if warning}}
+  <p class="hint"><i class="fa-solid fa-triangle-exclamation" inert></i> {{warning}}</p>
+  {{else}}
+  {{formGroup fields.activity name="nodeActivity" value=activity options=activities rootId=partId}}
+  {{formGroup fields.source name="nodeSource" value=source options=places rootId=partId}}
+  {{formGroup fields.tier name="nodeTier" value=tier options=tiers rootId=partId}}
+  {{#if name}}
+  <fieldset class="ggcg-node-summary">
+    <legend>{{localize "GGCG.Nodes.Page"}}</legend>
+    <div class="ggcg-lookup-rows">
+      <strong class="grow">{{name}}</strong>
+      <button type="button" class="inline-control icon fa-solid fa-up-right-from-square" data-action="nodesOpen" data-uuid="{{uuid}}" data-tooltip="GGCG.Lookup.OpenPage" aria-label="{{localize "GGCG.Lookup.OpenPage"}}"></button>
+    </div>
+    <div><i class="fa-solid fa-dice-d20" inert></i> {{info.check}}</div>
+    <div><i class="fa-solid fa-toolbox" inert></i> {{info.tools}}</div>
+  </fieldset>
+  {{/if}}
+  {{/if}}
+  <footer class="form-footer">
+    <button type="button" data-action="nodesPlace" {{#unless name}}disabled{{/unless}}><i class="fa-solid fa-location-dot" inert></i> <span>{{localize "GGCG.Nodes.PlaceButton"}}</span></button>
+  </footer>
+  {{#if name}}<p class="hint">{{localize "GGCG.Nodes.How"}}</p>{{/if}}
+</section>

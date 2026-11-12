@@ -1,0 +1,17 @@
+{
+  "name": "the-great-guide-to-crafting-and-gathering",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Compendium build for The Great Guide to Crafting and Gathering (Foundry VTT v14, dnd5e 6.0.6).",
+  "scripts": {
+    "build": "node build.mjs build",
+    "unpack": "node build.mjs unpack"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.5"
+  }
+}

@@ -1,0 +1,81 @@
+<section class="tab ggcg-tools-body {{tab.cssClass}}" data-group="{{tab.group}}" data-tab="{{tab.id}}">
+  {{#if rows.length}}
+  <table class="ggcg-tracker-table">
+    <thead>
+      <tr>
+        <th class="name">{{localize "GGCG.Tracker.Character"}}</th>
+        <th>{{localize "GGCG.Tracker.Level"}}</th>
+        {{#each tiers}}<th>{{localize "GGCG.Tracker.TierN" tier=this}}</th>{{/each}}
+        <th class="name">{{localize "GGCG.Tracker.Next"}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each rows}}
+      <tr data-actor="{{id}}">
+        <td class="name">{{name}}{{#if players}} <span class="hint">{{players}}</span>{{/if}}</td>
+        <td>{{level}}</td>
+        {{#each tiers}}
+        <td class="{{#if unlocked}}unlocked{{/if}}">
+          <div class="ggcg-tracker-cell">
+            {{#if toggle}}
+            <button type="button" class="inline-control icon fa-solid {{#if unlocked}}fa-lock-open{{else}}fa-lock{{/if}}" data-action="trackerToggleTier" data-tier="{{tier}}" data-tooltip="{{tooltip}}" aria-label="{{tooltip}}"></button>
+            {{else}}
+            <i class="fa-solid fa-lock-open" data-tooltip="GGCG.Tracker.AlwaysOpen" aria-label="{{localize "GGCG.Tracker.AlwaysOpen"}}"></i>
+            {{/if}}
+            <span class="ggcg-tracker-count" data-tooltip="{{countTooltip}}">{{crafted}}</span>
+          </div>
+        </td>
+        {{/each}}
+        <td class="name {{#if progress.met}}met{{/if}}">
+          {{#if progress}}
+          {{#if progress.met}}<i class="fa-solid fa-circle-check" data-tooltip="GGCG.Tracker.Met" aria-label="{{localize "GGCG.Tracker.Met"}}"></i>{{/if}}
+          {{localize "GGCG.Tracker.Progress" tier=progress.tier crafted=progress.crafted need=progress.need level=progress.level needLevel=progress.needLevel}}
+          {{else}}
+          {{localize "GGCG.Tracker.AllOpen"}}
+          {{/if}}
+        </td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+  <p class="hint">{{localize "GGCG.Tracker.CountHint"}}</p>
+  {{else}}
+  <p class="hint">{{localize "GGCG.Tracker.NoCharacters"}}</p>
+  {{/if}}
+
+  {{#if rows.length}}
+  <fieldset>
+    <legend>{{localize "GGCG.Tracker.Singles"}}</legend>
+    {{#if singles.length}}
+    <table class="ggcg-tracker-table">
+      <thead>
+        <tr>
+          <th class="name">{{localize "GGCG.Tracker.Recipe"}}</th>
+          <th class="name">{{localize "GGCG.Tracker.UnlockedFor"}}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each singles}}
+        <tr>
+          <td class="name">{{name}} <span class="hint">{{localize "GGCG.Tracker.TierN" tier=tier}}{{#if legendary}} · {{localize "GGCG.Tracker.Legendary"}}{{/if}}</span></td>
+          <td class="name ggcg-tracker-who">
+            <multi-select name="trackerRecipe" data-recipe="{{slug}}" aria-label="{{localize "GGCG.Tracker.UnlockedFor"}}">
+              {{selectOptions @root.characters selected=unlocked}}
+            </multi-select>
+          </td>
+        </tr>
+        {{/each}}
+      </tbody>
+    </table>
+    {{/if}}
+    {{#if singleOptions.length}}
+    <div class="form-group">
+      <div class="form-fields">
+        {{formInput singleField name="trackerSingle" options=singleOptions blank=(localize "GGCG.Tracker.AddSingle") ariaLabel=(localize "GGCG.Tracker.AddSingle")}}
+        <button type="button" class="ggcg-tracker-add" data-action="trackerAddSingle" disabled><i class="fa-solid fa-plus" inert></i> <span>{{localize "GGCG.Tracker.AddSingleButton"}}</span></button>
+      </div>
+    </div>
+    {{/if}}
+  </fieldset>
+  {{/if}}
+</section>

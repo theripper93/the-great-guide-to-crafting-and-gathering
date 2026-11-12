@@ -1,0 +1,12 @@
+<section class="tab ggcg-tools-head {{tab.cssClass}}" data-group="{{tab.group}}" data-tab="{{tab.id}}">
+  <div class="form-fields ggcg-lookup-search">
+    <input type="search" name="lookupQuery" value="{{query}}" placeholder="{{localize "GGCG.Lookup.Search"}}" aria-label="{{localize "GGCG.Lookup.SearchLabel"}}" autocomplete="off">
+    <select name="lookupKind" aria-label="{{localize "GGCG.Lookup.Kind"}}">
+      {{selectOptions kinds selected=kind blank=(localize "GGCG.Lookup.AnyKind")}}
+    </select>
+    <select name="lookupTier" aria-label="{{localize "GGCG.Nodes.Tier"}}">
+      {{selectOptions tiers selected=tier blank=(localize "GGCG.Lookup.AnyTier")}}
+    </select>
+  </div>
+  {{#if warning}}<p class="hint"><i class="fa-solid fa-triangle-exclamation" inert></i> {{warning}}</p>{{/if}}
+</section>

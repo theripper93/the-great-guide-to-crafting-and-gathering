@@ -1,0 +1,12 @@
+<section class="tab ggcg-tools-head {{tab.cssClass}}" data-group="{{tab.group}}" data-tab="{{tab.id}}">
+  {{#if books.length}}
+  {{formGroup bookField name="trackerBook" value=book options=books rootId=partId}}
+  {{else}}
+  <p class="hint">{{localize "GGCG.Tracker.NoBooks"}}</p>
+  {{/if}}
+  <p class="hint">
+    <strong>{{localize "GGCG.Tracker.Mode"}}:</strong> {{mode}}.
+    {{#if rule}}{{rule}}{{else}}{{localize "GGCG.Tracker.NoRule"}}{{/if}}
+    <i class="fa-solid fa-circle-info" data-tooltip="GGCG.Tracker.PerPlayer" aria-label="{{localize "GGCG.Tracker.PerPlayer"}}"></i>
+  </p>
+</section>

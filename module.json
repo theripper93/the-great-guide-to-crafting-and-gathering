@@ -1,0 +1,181 @@
+{
+  "id": "the-great-guide-to-crafting-and-gathering",
+  "title": "The Great Guide to Crafting and Gathering",
+  "description": "Materials, recipes, drop tables and gathering sources for dnd5e, built for the Gatherer and Mastercrafted modules.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "theripper93",
+      "url": "https://www.patreon.com/theripper93"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.6",
+          "verified": "6.0.6"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "gatherer",
+        "type": "module",
+        "reason": "Gathering sources, drop table quantities and monster harvesting."
+      },
+      {
+        "id": "mastercrafted",
+        "type": "module",
+        "reason": "Recipe books and crafting."
+      },
+      {
+        "id": "ripper-system-abstraction",
+        "type": "module",
+        "reason": "Required by Gatherer and Mastercrafted for checks, quantities and creature types."
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/gm-tools.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "ggcg-materials",
+      "label": "Materials",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/ggcg-materials",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "GGCG",
+          "types": [
+            "loot",
+            "consumable"
+          ]
+        }
+      }
+    },
+    {
+      "name": "ggcg-goods",
+      "label": "Finished Goods",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/ggcg-goods",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "GGCG",
+          "types": [
+            "weapon",
+            "equipment",
+            "consumable",
+            "tool",
+            "loot",
+            "container"
+          ]
+        }
+      }
+    },
+    {
+      "name": "ggcg-tools",
+      "label": "Tools and Kits",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/ggcg-tools",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "GGCG",
+          "types": [
+            "tool",
+            "equipment"
+          ]
+        }
+      }
+    },
+    {
+      "name": "ggcg-tables",
+      "label": "Drop Tables",
+      "type": "RollTable",
+      "path": "packs/ggcg-tables",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ggcg-adventure",
+      "label": "The Great Guide (Import)",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "path": "packs/ggcg-adventure",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ggcg-guides",
+      "label": "Guides",
+      "type": "JournalEntry",
+      "path": "packs/ggcg-guides",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "The Great Guide to Crafting and Gathering",
+      "sorting": "m",
+      "color": "#5b3a1e",
+      "packs": [
+        "ggcg-guides",
+        "ggcg-adventure",
+        "ggcg-materials",
+        "ggcg-goods",
+        "ggcg-tools",
+        "ggcg-tables"
+      ]
+    }
+  ],
+  "flags": {
+    "dnd5e": {
+      "sourceBooks": {
+        "GGCG": "The Great Guide to Crafting and Gathering"
+      }
+    }
+  },
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

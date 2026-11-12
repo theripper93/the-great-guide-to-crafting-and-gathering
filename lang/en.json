@@ -1,0 +1,185 @@
+{
+  "GGCG": {
+    "Settings": {
+      "ImportMenu": {
+        "Name": "Import content",
+        "Label": "Import or update",
+        "Hint": "Import the recipe books and gathering journals into this world, and set up monster harvesting."
+      },
+      "EnforceStacking": {
+        "Name": "One effect per stacking group",
+        "Hint": "When a creature gains a drink, food or charm effect from this module's items, an older effect of the same group on that creature is removed (design rule: one drink, one food, one charm at a time)."
+      },
+      "HarvestDrawsMenu": {
+        "Name": "Harvest pulls by challenge rating",
+        "Label": "Set harvest pulls",
+        "Hint": "Set how many times each creature can be harvested in Gatherer, from its challenge rating."
+      },
+      "UnlockMode": {
+        "Name": "Recipe unlocking",
+        "Hint": "Manual: the recipe tracker records crafts and shows progress, and the GM unlocks tiers. Automatic: when a character has crafted enough different recipes of a book at one tier and reached the next tier's level, that tier of the book unlocks and the player and the GM are told in chat. Legendary recipes are never unlocked automatically.",
+        "Manual": "Manual (the GM unlocks)",
+        "Auto": "Automatic (by practice)"
+      }
+    },
+    "Import": {
+      "Title": "The Great Guide to Crafting and Gathering",
+      "Intro": "Version {version} of The Great Guide is ready to import: recipe books and gathering journals. Items, drop tables and the guides stay in the compendiums.",
+      "Previous": "Version {version} was imported earlier. Documents you already have are kept as they are unless you choose to overwrite them.",
+      "Harvest": "Set up monster harvesting in Gatherer",
+      "HarvestHint": "Adds this module's harvest pages to each creature type. Your own entries are kept.",
+      "Overwrite": "Overwrite documents that already exist",
+      "OverwriteHint": "Replaces imported journals with this version. Your edits to them and gathering progress are lost. Recipe unlocks made in the Recipe Tracker are kept; recipe pages you opened to players by hand are closed again.",
+      "NoTime": "Crafting takes no time",
+      "NoTimeHint": "Every recipe and modification finishes at once. Untick it on a later import to bring the crafting times back.",
+      "NoChecks": "Crafting and gathering need no check",
+      "NoChecksHint": "Recipes, modifications, gathering and harvesting all succeed without a roll. Ingredients are never lost, mishaps never happen, and no roll gives an extra unit or find. Untick it on a later import to bring the checks back.",
+      "Import": "Import",
+      "Later": "Later",
+      "Skip": "Not for this version",
+      "Done": "The Great Guide: {created} documents created, {pages} pages added, {updated} documents overwritten.",
+      "Failed": "The Great Guide import failed: {error}"
+    },
+    "Stacking": {
+      "Replaced": "{actor}: {effect} replaces the earlier {group} effect.",
+      "Group": {
+        "drink": "drink",
+        "food": "food",
+        "charm": "charm"
+      }
+    },
+    "HarvestDraws": {
+      "Title": "Harvest Pulls by Challenge Rating",
+      "Intro": "Sets Gatherer's harvest limit on each creature's sheet from its challenge rating. Tougher creatures can be harvested more times:",
+      "Row": "Challenge {from} to {to}: {draws} pulls",
+      "NoTable": "This module version has no pulls table. Import the content again.",
+      "Scope": "Creatures",
+      "ScopeSelected": "Selected tokens",
+      "ScopeScene": "Every token on the current scene",
+      "ScopeWorld": "Every NPC actor in the world",
+      "Overwrite": "Replace limits already set",
+      "OverwriteHint": "Without this, creatures that already have a harvest limit keep it.",
+      "Apply": "Set pulls",
+      "NoActors": "No creatures to update. Select tokens first, or choose another option.",
+      "Done": "Harvest pulls set on {updated} creatures ({skipped} skipped: not an NPC, no challenge rating, or already set).",
+      "Failed": "Setting harvest pulls failed: {error}"
+    },
+    "Tracker": {
+      "Title": "Recipe Tracker",
+      "Book": "Recipe book",
+      "NoBooks": "No recipe books imported",
+      "Mode": "Unlocking",
+      "Rule": "Next tier: {count} different recipes crafted at the tier below, and level {levels} for tiers 2, 3, 4.",
+      "NoRule": "This module version ships no practice rule, so progress cannot be judged and automatic unlocking is off. Import the content again after an update.",
+      "PerPlayer": "Mastercrafted shows recipes per player, not per character: a player who owns several characters sees every recipe unlocked for any of them.",
+      "Character": "Character",
+      "Level": "Level",
+      "TierN": "Tier {tier}",
+      "Next": "Next tier",
+      "Recipe": "Recipe",
+      "Progress": "Tier {tier}: {crafted}/{need} recipes, level {level}/{needLevel}",
+      "AllOpen": "Every tier unlocked",
+      "AlwaysOpen": "Tier 1 recipes are open to everyone",
+      "UnlockTier": "Unlock tier {tier} of this book",
+      "LockTier": "Lock tier {tier} of this book",
+      "Singles": "Recipes unlocked one by one",
+      "Legendary": "legendary",
+      "NoCharacters": "No player characters in this world.",
+      "AutoUnlocked": "{actor} has learned tier {tier} of {book}.",
+      "UnlockedFor": "Unlocked for",
+      "AddCharacter": "Add a character",
+      "AddSingle": "Pick a recipe to add",
+      "AddSingleButton": "Add",
+      "Crafted": "Different recipes crafted: {names}",
+      "NoneCrafted": "No recipe of this tier crafted yet",
+      "CountHint": "Numbers count the different recipes each character has crafted at that tier. Click a lock to unlock or lock a tier.",
+      "Met": "Ready: the rule is met, unlock the next tier"
+    },
+    "Nodes": {
+      "Title": "Node Placer",
+      "Activity": "Activity",
+      "Place": "Place",
+      "Tier": "Tier",
+      "How": "Draw the node's region on the map: click to add points, double-click to finish. Its settings open once it is drawn.",
+      "PlaceButton": "Place on this scene",
+      "NotImported": "No gathering pages in this world yet. Import the content first.",
+      "NoGatherer": "Gatherer is not active, so nodes cannot be placed.",
+      "NotAPage": "That is not a Gatherer page.",
+      "Failed": "Placing the node failed: {error}",
+      "Places": {
+        "forest": "Forest",
+        "plains": "Plains",
+        "mountain": "Mountain",
+        "swamp": "Swamp",
+        "desert": "Desert",
+        "arctic": "Arctic",
+        "coast": "Coast",
+        "underground": "Underground",
+        "surface-outcrop": "Surface Outcrop",
+        "hill-quarry": "Hill Quarry",
+        "mountain-vein": "Mountain Vein",
+        "deep-cavern": "Deep Cavern",
+        "volcanic": "Volcanic",
+        "river-stream": "River and Stream",
+        "lake-pond": "Lake and Pond",
+        "sea-coast": "Sea Coast",
+        "deep-strange": "Deep or Strange Water"
+      },
+      "Page": "Gathering page",
+      "Check": "{check} check, DC {dc}",
+      "NoTools": "No tools needed"
+    },
+    "Lookup": {
+      "Title": "Crafting Lookup",
+      "Search": "Item or recipe name",
+      "Kind": "Kind",
+      "AnyKind": "Any kind",
+      "AnyTier": "Any tier",
+      "Artifact": "Artifact",
+      "Kinds": {
+        "raw": "Raw material",
+        "intermediate": "Refined material",
+        "finished": "Finished good",
+        "tool": "Tool or kit"
+      },
+      "Activities": {
+        "gathering": "Gathering",
+        "hunting": "Hunting",
+        "mining": "Mining",
+        "fishing": "Fishing",
+        "monster": "Monster harvesting"
+      },
+      "NoResults": "Nothing matches.",
+      "More": "{count} more. Type more letters or filter.",
+      "Pick": "Pick an item on the left to see where it comes from and what it is for. Drag any item onto a character sheet to give it.",
+      "From": "Where it comes from",
+      "Uses": "What it is used for",
+      "Harvest": "Harvest from any {type}",
+      "Trophy": "Boss trophy ({type}). Usually the GM hands it out when a worthy foe falls.",
+      "NoSource": "No table drops it and no recipe makes it: buy it or hand it out.",
+      "Makes": "makes {qty}",
+      "Needs": "Needs",
+      "Or": "or",
+      "Via": "as {slot}",
+      "NoUses": "No recipe takes it.",
+      "ToolRecipes": "Tool for {count} recipes in {group}",
+      "ToolPages": "Tool for {count} pages of {group}",
+      "Modification": "Modification",
+      "OpenItem": "Open the item",
+      "OpenRecipe": "Open the recipe",
+      "OpenPage": "Open the gathering page",
+      "OpenTable": "Open the drop table",
+      "OpenProcess": "Open its page in The Book of Great Works",
+      "Missing": "That document is not in this world any more.",
+      "NotImported": "The recipe books are not imported, so recipes are missing. Import the content first.",
+      "OldImport": "The imported journals are from version {imported} and the module is {version}. Import again to see this version's recipes.",
+      "SearchLabel": "Search",
+      "Count": "{count} items",
+      "CountOne": "1 item"
+    },
+    "Tools": {
+      "Open": "Great Guide Tools",
+      "Title": "Great Guide Tools"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<section class="tab ggcg-tools-side {{tab.cssClass}}" data-group="{{tab.group}}" data-tab="{{tab.id}}">
+  <p class="hint ggcg-lookup-count">{{count}}</p>
+  <ol class="ggcg-lookup-results plain">
+    {{#each results}}
+    <li class="{{#if selected}}active{{/if}}" data-action="lookupSelect" data-uuid="{{uuid}}" data-drag-uuid="{{uuid}}" draggable="true">
+      <img src="{{img}}" alt="">
+      <div>
+        <span class="ggcg-lookup-name">{{name}}</span>
+        <span class="hint">{{meta}}</span>
+      </div>
+    </li>
+    {{else}}
+    <li class="hint">{{localize "GGCG.Lookup.NoResults"}}</li>
+    {{/each}}
+    {{#if more}}<li class="hint">{{more}}</li>{{/if}}
+  </ol>
+</section>

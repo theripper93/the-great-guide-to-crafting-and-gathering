@@ -1,0 +1,77 @@
+<section class="tab ggcg-tools-main ggcg-lookup-detail {{tab.cssClass}}" data-group="{{tab.group}}" data-tab="{{tab.id}}">
+  {{#with detail}}
+  <header class="ggcg-lookup-head">
+    <img src="{{item.img}}" alt="">
+    <div>
+      <h3>{{item.name}}</h3>
+      <span class="hint">{{item.meta}}</span>
+    </div>
+    <button type="button" class="inline-control icon fa-solid fa-up-right-from-square" data-action="lookupOpen" data-open="{{item.uuid}}" data-tooltip="GGCG.Lookup.OpenItem" aria-label="{{localize "GGCG.Lookup.OpenItem"}}"></button>
+  </header>
+
+  <h4 class="divider">{{localize "GGCG.Lookup.From"}}</h4>
+  {{#if note}}<p class="hint">{{note}}</p>{{/if}}
+  {{#if sources.length}}
+  <ul class="ggcg-lookup-rows plain">
+    {{#each sources}}
+    <li>
+      <span class="grow">{{label}}</span>
+      {{#if qty}}<span class="hint">×{{qty}}</span>{{/if}}
+      <span class="ggcg-lookup-chance">{{chance}}</span>
+      <button type="button" class="inline-control icon fa-solid fa-up-right-from-square" data-action="lookupOpen" data-open="{{open}}" data-tooltip="{{tooltip}}" aria-label="{{tooltip}}"></button>
+    </li>
+    {{/each}}
+  </ul>
+  {{/if}}
+  {{#if made.length}}
+  <ul class="ggcg-lookup-rows plain">
+    {{#each made}}
+    <li class="ggcg-lookup-recipe">
+      <div class="grow">
+        <div>
+          <i class="fa-solid fa-scroll" inert></i> <strong>{{name}}</strong>
+          <span class="hint">{{book}} · {{tier}}{{#if qty}} · {{localize "GGCG.Lookup.Makes" qty=qty}}{{/if}}</span>
+        </div>
+        <div class="ggcg-lookup-needs">
+          <span class="hint">{{localize "GGCG.Lookup.Needs"}}:</span>
+          {{#each needs}}{{#each this}}{{#if uuid}}<a data-action="lookupSelect" data-uuid="{{uuid}}">{{text}}</a>{{else}}<span {{#if tooltip}}class="ggcg-lookup-slot" data-tooltip="{{tooltip}}"{{/if}}>{{text}}</span>{{/if}}{{#unless @last}} <span class="hint">{{localize "GGCG.Lookup.Or"}}</span> {{/unless}}{{/each}}{{#unless @last}}, {{/unless}}{{/each}}
+        </div>
+      </div>
+      {{#if process}}<button type="button" class="inline-control icon fa-solid fa-book-atlas" data-action="lookupOpen" data-open="{{process}}" data-tooltip="GGCG.Lookup.OpenProcess" aria-label="{{localize "GGCG.Lookup.OpenProcess"}}"></button>{{/if}}
+      <button type="button" class="inline-control icon fa-solid fa-up-right-from-square" data-action="lookupOpen" data-open="{{uuid}}" data-tooltip="GGCG.Lookup.OpenRecipe" aria-label="{{localize "GGCG.Lookup.OpenRecipe"}}"></button>
+    </li>
+    {{/each}}
+  </ul>
+  {{/if}}
+
+  <h4 class="divider">{{localize "GGCG.Lookup.Uses"}}{{#if useCount}} ({{useCount}}){{/if}}</h4>
+  {{#if toolFor.length}}
+  <ul class="ggcg-lookup-rows plain">
+    {{#each toolFor}}<li><i class="fa-solid fa-toolbox" inert></i> {{this}}</li>{{/each}}
+  </ul>
+  {{/if}}
+  {{#each uses}}
+  <details {{#if open}}open{{/if}}>
+    <summary>{{book}} <span class="hint">({{count}})</span></summary>
+    <ul class="ggcg-lookup-rows plain">
+      {{#each rows}}
+      <li>
+        <span class="ggcg-lookup-tier hint">{{tier}}</span>
+        <span class="grow">
+          {{#if modification}}<i class="fa-solid fa-hammer" data-tooltip="GGCG.Lookup.Modification" aria-label="{{localize "GGCG.Lookup.Modification"}}"></i> {{name}}
+          {{else if product}}<a data-action="lookupSelect" data-uuid="{{product}}">{{name}}</a>
+          {{else}}{{name}}{{/if}}
+          <span class="hint">×{{qty}}{{#if via}} · {{localize "GGCG.Lookup.Via" slot=via}}{{/if}}</span>
+        </span>
+        <button type="button" class="inline-control icon fa-solid fa-up-right-from-square" data-action="lookupOpen" data-open="{{uuid}}" data-tooltip="GGCG.Lookup.OpenRecipe" aria-label="{{localize "GGCG.Lookup.OpenRecipe"}}"></button>
+      </li>
+      {{/each}}
+    </ul>
+  </details>
+  {{else}}
+  {{#unless toolFor.length}}<p class="hint">{{localize "GGCG.Lookup.NoUses"}}</p>{{/unless}}
+  {{/each}}
+  {{else}}
+  <p class="hint ggcg-lookup-empty"><i class="fa-solid fa-magnifying-glass" inert></i> {{localize "GGCG.Lookup.Pick"}}</p>
+  {{/with}}
+</section>
